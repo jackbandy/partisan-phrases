@@ -15,7 +15,7 @@ def main():
     texts_df = get_all_texts(df)
 
     tf_vectorizer = CountVectorizer(max_df=0.8, min_df=50,
-                                ngram_range = (2,2),
+                                ngram_range = (1,2),
                                 binary=False,
                                 stop_words='english')
 
@@ -47,17 +47,25 @@ def main():
     phrases_df['n_dem'] = total_dem_tfs.T
     phrases_df['n_rep'] = total_rep_tfs.T 
 
-    phrases_df['n_senators'] = phrases_df.apply(lambda x: len(texts_df[texts_df.text.str.contains(x.phrase)].person.unique()),axis=1)
-    phrases_df = phrases_df[phrases_df.n_senators > 2]
+    print('Counting senators...')
+    #phrases_df['n_senators'] = phrases_df.apply(lambda x: len(texts_df[texts_df.text.str.contains(x.phrase)].person.unique()),axis=1)
+    #phrases_df = phrases_df[phrases_df.n_senators > 2]
 
 
-    phrases_df.sort_values(by='total_occurrences').to_csv('output/all_phrases.csv',index=False)
-    print("Most Democratic:")
-    print(phrases_df.sort_values(by='bias_score',ascending=True).head(20))
-    phrases_df.sort_values(by='bias_score',ascending=True).head(20).to_csv('output/top_20_democrat.csv',index=False)
+    phrases_df.sort_values(by='total_occurrences',ascending=False).to_csv('output/all_phrases.csv',index=False)
+
+    print("Most Democratic...")
+    top_dem = phrases_df.sort_values(by='bias_score',ascending=True).head(200).copy()
+    top_dem['n_senators'] = top_dem.apply(lambda x: len(texts_df[texts_df.text.str.contains(x.phrase)].person.unique()),axis=1)
+    top_dem = top_dem[top_dem.n_senators > 2]
+    top_dem.head(20).to_csv('output/top_20_democrat.csv',index=False)
+
+
     print("Most Republican:")
-    print(phrases_df.sort_values(by='bias_score',ascending=False).head(20))
-    phrases_df.sort_values(by='bias_score',ascending=False).head(20).to_csv('output/top_20_republican.csv',index=False)
+    top_rep = phrases_df.sort_values(by='bias_score',ascending=False).head(200).copy()
+    top_rep['n_senators'] = top_rep.apply(lambda x: len(texts_df[texts_df.text.str.contains(x.phrase)].person.unique()),axis=1)
+    top_rep = top_rep[top_rep.n_senators > 2]
+    top_rep.head(20).to_csv('output/top_20_republican.csv',index=False)
 
 
 
@@ -89,7 +97,7 @@ def get_all_texts(df):
         print("{} tweets excluded".format(n_tweets))
 
     texts_df = pd.DataFrame(texts_list)
-    texts_df = texts_df.drop_duplicates()
+    texts_df = texts_df.drop_duplicates(subset=['text'])
     texts_df.sample(100).to_csv('output/all_texts_sample.csv',index=False)
 
     return texts_df
