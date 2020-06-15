@@ -1,0 +1,78 @@
+Carper Releases Staff Analysis of State Efforts to Ensure Continued Utility Services for Americans Facing Economic Hardship
+
+
+As members of Congress continue to examine the many ways in which the COVID-19 pandemic is impacting state economies and services, as well as Americans' personal finances, today, U.S. Senator Tom Carper (D-Del.), top Democrat on the Senate Environment and Public Works Committee, released an analysis conducted by the committee's minority staff describing how state authorities are -- or, in some cases, are not -- protecting residents from utility disconnections during this time of extraordinary economic hardship.
+
+"Americans' universal access to clean water is essential to our efforts to overcome this deadly pandemic. Every American needs access to clean water and soap to wash their hands, themselves and their home frequently. But as some Americans struggle with steepening utility bills due to illness or job loss, many risk utility shutoffs. Meanwhile, some utilities and state leaders are "keeping the lights on' during the pandemic despite bills that may have gone unpaid," Senator Carper said. "As Congress considers how we can keep households connected to critical utility service during the COVID-19 crisis, I hope this analysis will help to inform our efforts."
+
+The COVID-19 health emergency has created an economic crisis across the United States. With many businesses closed, more than 26 million people have filed an initial jobless claim within the past 5 weeks, with little prospect for finding new employment while the emergency remains. In the wake of this crisis, states have adopted a variety of approaches to protect residential customers from being disconnected from electricity, gas and water services.
+
+Residential utility services are essential for preserving public health during the ongoing emergency. This analysis tracks state government actions that ensure the continued provision of gas, electric and water service, which are particularly necessary for sustaining residential habitability. For each state, searches were conducted for executive orders and announcements from governors' offices regarding these services, as well as orders and announcement from state utility regulators, typically known as public utility commissions.
+
+Particular emphasis has been placed in this analysis on efforts to maintain residential water service. Safe reliable drinking water and the ability to wash one's hands or other surfaces that could be contaminated by SARS-COV-2 are vital to public health. Even under relatively favorable economic conditions, water service disconnections are common. In 2016, Food and Water Watch conducted a nationwide assessment of service disconnections to residential water customers. The organization found that "among responding utilities, more than half a million households lost water service for nonpayment, affecting an estimated 1.4 million people in 2016."[1] Recent reporting conducted by the Guardian found that many of the communities identified in the 2016 survey with highest rates of disconnections are the very same communities with the highest rates of COVID-19 infections.[2]
+
+This analysis identifies many instances where orders to suspend service disconnections issued by state utility commissions do not apply to municipal utilities, because municipal utilities often fall outside the jurisdiction of state regulators. This is particularly relevant with respect to water service, since an estimated 82 percent of Americans receive their water from municipal water utilities.[3] For each state, information provided by the Environmental Finance Center at the University of North Carolina was used to estimate the proportion of the state's residents that receive water from a municipal utility.[4] In instances where state orders do not apply to municipal utilities, municipal authorities can adopt their own policies to suspend services disconnections, as some have done.[5]
+
+As part of providing assistance to respond to the COVID-19 crisis, Congress is considering providing financial assistance to utility customers struggling with bills due to illness or job loss. Congress is also trying to decide whether, as a condition of receiving federal funding, to confer upon state and local governments and utilities the responsibility of ensuring that households remain connected, or are reconnected, to utility service during the COVID-19 crisis.
+
+The following list categorizes how state authorities are or are not protecting their residents from utility disconnections as of April 27, 2020. As this analysis indicates, many of orders restricting disconnections for nonpayment are set to expire by the end of this week.
+
+States that took Mandatory Actions to Ensure Sustained Utility Service for All Residents
+
+15 states and the District of Columbia have issued orders or implemented enforceable measures to ensure that all or the vast majority of residents are protected from disconnection of gas, electric, and water utilities service:
+
+-California-Colorado[6]-Connecticut[7]  -Delaware -District of Columbia[8]-Indiana-Kansas[9] -Maine-Maryland[10]-Mississippi[11]-Montana-New Hampshire-North Carolina[12] -Ohio-Washington[13]-Wisconsin
+
+States that took Actions that Provide Partial Protection against Disconnection of Residential Utility Services22 states have announced steps that partially restrict or discourage utility disconnections. These measures offer residents some degree of protection from utility disconnections, but do not guarantee uninterrupted gas, electric and water service to all residents.
+
+ 
+
+-Alaska -- Alaska Senate Bill 241 imposes a moratorium on disconnections of residential gas, electric and water services, but the moratorium only applies to state regulated utilities which does not include municipal utilities. In Alaska, approximately 70% of residential water customers receive service from a municipal utility. 
+
+-Arizona - Governor Ducey announced a cooperative agreement with major electric providers to suspend disconnections to residential customers. Authorities have not announced any steps to suspend or restrict service disconnections for residential gas or water customers. 
+
+-Florida -- The Florida Public Service Commission announced that regulated electric utilities have voluntarily suspended disconnections. Authorities have not announced any steps to suspend or restrict service disconnections for residential gas or water customers. 
+
+-Illinois -- The Illinois Commerce Commission issued an order prohibiting gas, electric, and water disconnections, but its jurisdiction only extends to privately owned utilities and does not include municipal utilities.[14] In Illinois, approximately 90% of residential water customers receive service from a municipal utility. 
+
+-Iowa  - The Iowa Department of Commerce Utilities Board ordered a suspension of utility disconnections to residential customers.  This order is binding on all gas, all electric, and privately owned water utilities, but is voluntary for municipal and cooperative water utilities.  In Iowa, approximately 83% of residential water customers receive service from a municipal utility. 
+
+-Kentucky -- The Kentucky Public Service Commission issued an order prohibiting gas, electric and water utility disconnections, but its jurisdiction only extends to privately owned utilities and does not include municipal utilities.[15] In Kentucky, approximately 67% of residential water customers receive service from a municipal utility. 
+
+-Louisiana  - The Louisiana Public Service Commission issued an order prohibiting utility disconnections, but its jurisdiction only extends to privately owned gas, electric and water utilities and does not include municipal utilities.[16]  In Louisiana, approximately 77% of residential water customers receive service from a municipal utility. 
+
+-Massachusetts -- The Massachusetts Department of Public Utilities issued an order prohibiting gas, electric, and water disconnections, but its jurisdiction only extends to privately owned utilities and does not include municipal utilities.[17] In Massachusetts, approximately 97% of residential water customers receive service from a municipal utility. 
+
+-Michigan -- Governor Whitmer issued executive order 2020-28 suspending disconnections of water services to all residents. Authorities have not announced any steps to suspend or restrict service disconnections for residential gas and electric customers. 
+
+-Minnesota -- The Minnesota Public Utilities Commission requested that regulated gas and electric utilities extend protection of the state's Cold Weather Rule, which does not uniformly prohibit the disconnection of gas and electric services to residential customers. Rather, it restricts disconnections and requires gas and electric utilities to provide a payment plan option for customers to make payments within their means before utilities can proceed with a service disconnection.  Authorities have not announced any steps to suspend or restrict service disconnections for residential water customers. 
+
+-Nebraska -- The Nebraska Public Service Commission has issued an order suspending disconnection of natural gas services to residential customers. Authorities have not announced any steps to suspend or restrict service disconnections for residential electric and water customers. 
+
+-Nevada - Governor Sisolak announced, "[Nevada] utilities have committed to maintaining all services regardless of a resident's ability to pay." No information has been found regarding whether this announcement applies to all gas, electric and water or just state regulated utilities, which does not include municipal utilities.  In Nevada, approximately 97% of residential water customers receive service from a municipal utility. 
+
+-New Jersey  - Governor Murphy announced, "[New Jersey Board of Public Utilities] has confirmed that, in cooperation with our utility companies, all utility shut-off orders have been voluntarily and universally suspended for the time-being." The New Jersey PBU's regulatory jurisdiction does not extend to municipal utilities, and New Jersey authorities have not provided information to clarify whether municipal utilities are covered by this announcement.[18] In New Jersey, approximately 63% of residential water customers receive service from a municipal utility. 
+
+-New York - Governor Cuomo announced, "No utility can turn off service...if a person cannot pay their bill a result of responding to this virus situation." No information has been found whether this assurance is guaranteed by regulatory action or voluntary commitments. No information has been found on whether protections extend to all utility services or only apply to state regulated utility services, which does not include municipal utility services.[19] In New York, approximately 94% of residential water customers receive service from a municipal utility. 
+
+-Pennsylvania - The Pennsylvania Public Utility Commission issued an order prohibiting regulated utilities from disconnecting residential customers from Service. Its jurisdiction extends to all gas, privately owned electric and some water utilities.[20], [21] Most municipal water utilities are not covered by the order.  
+
+-Rhode Island  -- The Rhode Island Public Utilities Commission issued an order suspending disconnections for utility customers. Its jurisdiction extends to all gas and electric and some water utilities.[22] Municipal water utilities are not within the Commission's jurisdiction and are not covered by the order.  In Rhode Island, approximately 97% of residential water customers receive service from a municipal utility. 
+
+-South Carolina  - The South Carolina Public Service Commission issued an order suspending disconnections for regulated utility customers. Its jurisdiction extends to all electric and gas utilities, and privately owned water utilities. Municipal water utilities are not within the Commission's jurisdiction and are not covered by the order.[23] In South Carolina, approximately 97% of residential water customers receive service from a municipal utility. 
+
+-Tennessee -- The Tennessee Public Utility Commission issued an emergency order suspending the disconnections of utility services.  Its jurisdiction extends only to privately owned gas, water, and electric utilities, and does not include municipal utilities. In Tennessee, approximately 94% of residential water customers receive service from a municipal utility. 
+
+-Texas  -- The Public Utility Commission of Texas issued an emergency order suspending the disconnection of regulated electric and water services. Municipal water utilities are not within the Commission's jurisdiction and are not covered by the order. In Texas, approximately 97% of residential water customers receive service from a municipal utility. Authorities have not announced steps to suspend or restrict service disconnections for residential gas customers. 
+
+-Vermont  -- The Vermont Public Utilities Commission issued an order suspending disconnection of gas and electric service to residential customers. Authorities have not announced steps to suspend or restrict service disconnections for residential water customers.[24] 
+
+-Virginia -- The Virginia State Corporation Commission issued an order suspending disconnection of gas, electric and water services to privately own utilities.[25] Its jurisdiction does not extend to municipal utilities. In Virginia, approximately 93% of residential water customers receive service from a municipal utility. 
+
+-West Virginia - Public Service Commission of West Virginia announced, "Utility companies reported they had agreed not to disconnect customers, pursuant to the Commission's March 17, 2020 General Order 262."[26] No information has been found as to whether PSCWV's announcement covers all regulated utilities, which would include privately owned gas and electric utilities, and all water utilities. Municipal electric utilities and rural cooperative utilities are not under the Commission's jurisdiction.[27] 
+
+States that Have Not Taken Effective Action to Ensure Sustained Utility Service to Residents
+
+13 states have not announced in a readily available manner how or whether residents will effectively be protected from disconnection of either electric, gas or water services:
+
+-Alabama -- Available public information does not provide assurance of effective protections for gas, electric or water services. [28]-Arkansas-Georgia - Available public information does not provide assurance of effective protections for gas, electric or water services. [29]-Hawaii-Idaho-Missouri-New Mexico-North Dakota-Oklahoma-Oregon - Available public information does not provide assurance of effective protections for gas, electric or water services. [30]-South Dakota-Utah-Wyoming

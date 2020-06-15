@@ -1,0 +1,12 @@
+Bill to Improve Broadband Data Maps Signed Into Law
+
+
+U.S. Sen. Roger Wicker, R-Miss., chairman of the Senate Committee on Commerce, Science, and Transportation, today released the following statement after President Donald Trump signed S.1822, the Broadband Deployment Accuracy and Technological Availability (DATA) Act, into law. The legislation will improve the accuracy of the Federal Communications Commission's (FCC) broadband availability maps by strengthening the process by which broadband data is collected.  
+
+"Americans living in rural communities often lack access to broadband," Wicker said. "To close the digital divide, we need accurate maps to show where there is broadband service and at what speeds it is being offered. This legislation requires the FCC to update its flawed maps to help deploy service to the estimated 20 million Americans without access to broadband. I thank the President for signing this bill into law."
+
+The Broadband Deployment Accuracy and Technological Availability (DATA) Act will:
+
+-Require the FCC to collect granular service availability data from wired, fixed wireless, and satellite broadband providers.-Set strong parameters for service availability data collected from mobile broadband providers to ensure accuracy.-Permit the FCC to consider whether to collect verified coverage data from state, local, and tribal governments, as well as from other entities.-Create a process for consumers; state, local, and tribal governments; and other groups to challenge FCC maps with their own data, and require the FCC to determine how to structure that process without making it overly burdensome on challengers.-Establish a crowdsourcing process that will allow the public to participate in data collection.-Strengthen enforcement against providers that knowingly or recklessly submit materially inaccurate broadband data.-Require the FCC to use the newly-created maps when making new awards of broadband funding.
+
+ The Commerce Committee exercises jurisdiction over the FCC.

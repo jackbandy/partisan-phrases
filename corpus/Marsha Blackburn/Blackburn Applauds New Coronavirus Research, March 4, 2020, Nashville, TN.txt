@@ -1,0 +1,12 @@
+Blackburn Applauds New Coronavirus Research
+
+
+Tonight, Senator Marsha Blackburn (R-Tenn.) applauded new research from scientists at Oak Ridge National Laboratory and the University of Tennessee, Knoxville:
+
+"Researchers at ORNL and UTK have made a significant breakthrough in identifying the isolated protein that would neutralize the coronavirus," Senator Blackburn said. "This critical discovery brings us one key step closer to determining how to best treat the virus that is spreading around the globe."
+
+"Researchers at Oak Ridge National Laboratory performed virtual high-throughput screening to identify drug candidates for targeting a specific protein of the Wuhan coronavirus using Summit, the world's fastest supercomputer," reported researchers at Oak Ridge National Laboratory and the University of Tennessee, Knoxville. "Jeremy Smith and Micholas Smith of the Center for Molecular Biophysics (a partnership between ORNL and UT-Knoxville) identified 77 candidate treatments that are either approved drugs or other non-toxic materials that they hope to test in experimental validation studies. Enabled by screening of a database containing more than 8,000 known drug compounds, the researchers accomplished in days what would have taken months on normal computing platforms, demonstrating the utility of high performance computing resources in urgent situations."
+
+RELATED
+
+Senator Blackburn recently wrote about how the coronavirus outbreak exposes the U.S.'s pharma supply chain vulnerability: "Without intervention, the FDA expects the pharmaceutical industry will continue to rely on Chinese companies to make active pharmaceutical ingredients The status quo has made us vulnerable. The fix, however, is sitting right in front of us."

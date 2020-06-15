@@ -1,0 +1,54 @@
+Letter to the Hon. Chisti Grimm, Principal Deputy Inspector General of the Dept. of Health and Human Services - CORONAVIRUS: Murray Asks Government Watchdog to Investigate Trump Administration's Testing Missteps
+
+
+Dear Principal Deputy Inspector General Grimm:
+
+ 
+
+I write to request you immediately launch an investigation into all parts of the processes undertaken by the Department of Health and Human Services (HHS) to develop, deploy, and analyze diagnostic tests for the 2019 Novel Coronavirus (COVID-19).  As people in my state and across the country struggle to get answers about the limited supply of tests, long delays in analyzing samples, difficulty obtaining testing supplies, and lack of reporting results, we must understand where HHS has erred in this process and implement lessons learned as soon as possible to mitigate the spread of this infectious disease and future diseases moving forward.
+
+ 
+
+As COVID-19 spread across the globe in recent months, the United States Government should have been preparing to respond and ensuring it had all the necessary resources -- from COVID-19 test kits and supplies to personal protective equipment (PPE) -- to do so.  Unfortunately, as COVID-19 reached the United States and we saw community spread, it became abundantly clear the federal government failed to take crucial steps and lost valuable time that resulted in a slower deployment of tests and reduced the nation's ability to contain the spread of the disease.  It is evident the number of confirmed U.S. cases of COVID-19 continues to reflect not the reality of its spread, but instead severely limited testing and reporting.[1]
+
+ 
+
+In February, the Centers for Disease Control and Prevention (CDC) developed its own test that only six state laboratories across the country were able to verify.[2]  By the end of February, CDC was still unable to scale up testing to meet demand.[3]  As some laboratories began producing their own tests, important details like the number of tests available, whether they were being sent to areas in need, and how many had been administered remained unclear. 
+
+ 
+
+We have also learned from press reports that public health officials and researchers attempted to sound the alarm as COVID-19 outbreaks grew in other countries and we saw the first COVID-19 cases in the United States.  University of Washington researchers working on the Seattle Flu Study attempted to mobilize their network of research laboratories to deploy a test for COVID-19, but they ran into barriers with CDC, the Food and Drug Administration (FDA), and state regulators.[4]
+
+ 
+
+On March 10 -- as more than 1,000 people were confirmed to be infected across the United States -- HHS Secretary Azar said, "we don't know exactly how many" patients have been tested for COVID-19 at this point.[5]  He added HHS was still working to get a reporting system in place to track testing, with the hopes of doing so by mid-March.  The same day, CDC Director Robert Redfield admitted that even if the test works, U.S. labs may not have an adequate stock of the supplies necessary to "operationalize" the test.[6]  Dr. Redfield said he did not know how CDC would handle a shortage of these critical testing supplies, which could further delay testing and reporting and therefore delay response efforts. 
+
+ 
+
+On March 12, Secretary Azar designated Admiral Brett Giroir, Assistant Secretary for Health, "to coordinate COVID-19 diagnostic testing efforts among Public Health Service agencies."[7]  At a March 15 press conference, Vice President Pence and Admiral Giroir outlined a "new testing regimen" that involved the use of 2,000 commercial labs to begin performing COVID-19 tests on high-speed machines and, in partnership with FEMA, to deploy drive-through testing centers around the country.[8]  On March 16, when asked how many patients had been tested, Admiral Giroir responded, "There is a number.  I don't have that number."[9]  There continue to be discrepancies between reporting of the number of confirmed cases by CDC and by other sources -- as of March 17, CDC's data show over 4,200 cases, while the New York Times reports over 5,300 cases.[10]  CDC is also slower to report the number of tests administered to patients, compared to other public sources.[11] 
+
+ 
+
+It is clear HHS's grave errors in managing every aspect of the testing process -- from development to deployment to analysis to communication -- have undermined the country's ability to mitigate the spread of COVID-19.  I appreciate your efforts to ensure HHS recognizes and implements lessons learned to assist in its response to this infectious disease as soon as possible.
+
+ 
+
+I therefore ask that you review the following areas:
+
+ 
+
+1. What processes did HHS employ to determine how it would develop, deploy, and review diagnostic tests for COVID-19?  What processes were in place in advance of the COVID-19 outbreak that informed HHS's development of testing capabilities in response to the outbreak? 
+
+2. Please examine the decision-making processes, including the individuals responsible for final decisions, and timelines around each of the following actions:a. CDC's development and manufacturing of the COVID-19 diagnostic test for public health labs;b. Deployment of each type of COVID-19 diagnostic test and necessary supplies to public health labs;c. Development, deployment, and review of testing supplies necessary to detect the virus in testing samples and genomic RNA necessary to validate test performance;d. Development and issuance of criteria to guide clinicians in determining patient eligibility for COVID-19 evaluation and testing;e. Development and issuance of guidance for COVID-19 reporting, test development, and specimen collection;f. Development and issuance of guidance allowing states to authorize labs to develop and perform tests for COVID-19 under authority of their own state law;g. Development and deployment of COVID-19 mobile testing sites across the country;h. Activation of the Emergency Use Authorization (EUA) process for review of COVID-19 tests; andi. Communications with federal, state, and local health officials and the public about testing capacity. 
+
+3. Has HHS identified the reason numerous state labs were unable to verify the CDC-developed tests and the root cause of the failure of those CDC-developed tests? 
+
+4. How did HHS assess its own capacity, as well as the capacity of other federal agencies, state and local health authorities, and the private sector to meet anticipated testing needs?  
+
+5. Did HHS consult with other federal agencies, the White House, industry, stakeholders, public health experts, states and localities, health care providers, labs, or other organizations or individuals in the course of developing, reviewing, and deploying tests?  Which organizations and individuals provided input?  To what extent was their input implemented or rejected? 
+
+6. Was HHS adequately prepared to develop, deploy, and analyze the tests? 
+
+7. Overall, what impact did the actions taken by HHS officials around testing capability have on the U.S. response to COVID-19, including the ability to diagnose and mitigate the spread of the disease? 
+
+Thank you for your attention to this important matter.

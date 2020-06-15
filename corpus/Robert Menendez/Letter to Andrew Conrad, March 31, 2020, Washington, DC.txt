@@ -1,0 +1,38 @@
+Letter to Andrew Conrad, CEO of Verily Life Sciences - Menendez, Colleagues Urge Google Subsidiary Verily to Protect User Data, Expand Access to COVID-19 Screening Websites
+
+
+Dear Mr. Conrad,
+
+We write with follow-up questions regarding your company's launch of a virus screening website for SARS-CoV-2.  Shortly after the Trump Administration's announcement on March 13, 2020 that Google would be developing a website to help Americans access testing clinics Senator Menendez led a group of colleagues in writing to the Administration and to Google to express our concerns on privacy and cybersecurity vulnerabilities.
+
+While we appreciate Verily's response to our March 18, 2020 letter, several questions remain.  As Verily moves forward with the Baseline COVID-19 Pilot Program and test screening websites in California, it is essential that you address these critical privacy concerns.
+
+First and foremost, all the data to be collected in this pilot program or any other related screening websites should remain confidential and must not be used for any commercial purposes in the future, and Verily should clearly state if the collected information is in compliance with the Health Insurance Portability and Accountability Act (HIPAA).  Furthermore, as we raised to Mr. Pichai in our March 18 letter, and Consumer Reports cautioned, individuals interested in accessing SARS-CoV-2 screening websites should not be required to create or sign-in into a Google account (or any other email account) to access this critical health resource. 
+
+To address these concerns, please provide answers to the following questions no later than April 6, 2020.  We appreciate your efforts to protect Americans and we look forward to your response.
+
+1.         Is the Verily screening website in compliance with the HIPAA privacy rule?
+
+2.         Your March 27, 2020 response states that "the Baseline COVID-19 Program requires individuals to link to an existing Google Account or create a new Google Account for authentication purposes and to securely and privately contact individuals during the screening and testing process." 
+
+a.         Going forward, will Verily provide an alternative method of authentication for individuals unwilling or unable to sign up for a Google account?
+
+b.         Will Verily consider making a portion of the COVID-19 test screening website available without authentication if individuals wish to take the screener and find testing clinics anonymously?
+
+3.         Your March 27, 2020 response states that "Verily is working with multiple government agencies" and Google is working with "federal, state and local government agencies to help fight the COVID-19 crisis." Please specify which government agencies Verily and Google is collaborating with.
+
+4.         If and when the website launches outside of California, will Verily continue to voluntarily adhere to the guidelines of the California Consumer Privacy Act in any state without its own, or with less robust, data privacy laws?
+
+5.         Please provide a timeline for the planned roll-out of a multi-state or national website.
+
+6.         Will Verily commit to refrain from using data collected on the website for commercial purposes?  If not, please explain why.
+
+7.         Will Verily commit to refrain from selling the data collected on the website to third parties?  If not, please explain why.
+
+8.         Your March 27, 2020 response states that "we will delete information collected through the Baseline COVID-19 Program, unless an individual separately authorizes further retention and use of their information."  Please describe in detail:
+
+a.         How an individual will be asked to authorize further retention and use of their information.  Please provide a copy of the waiver.
+
+b.         If users of the website agree to allow Verily to retain their information, how long with Verily hold the data.
+
+c.         When Verily plans to request permission to retain such data.

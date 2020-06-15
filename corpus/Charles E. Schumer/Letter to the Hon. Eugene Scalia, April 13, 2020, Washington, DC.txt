@@ -1,0 +1,100 @@
+Letter to the Hon. Eugene Scalia, Secretary of the Department of Labor - Feinstein, Wyden, Schumer, Colleagues Press Trump Administration To Ensure Workers Receive Unemployment Benefits
+
+
+Dear Secretary Scalia: 
+
+Thank you for entering into agreements with states and territories and issuing some of the key guidance needed to implement new federal unemployment compensation programs on April 4 and April 5, 2020 (Unemployment Insurance Program Letter [UIPL] Numbers 15-20 and 16-20). This guidance is essential to start getting more unemployment benefits to workers across the country, including self-employed and other workers who are not covered by the traditional Unemployment Insurance (UI) program.
+
+We understand that the examples of covered workers provided in the guidance are not intended to be exhaustive. However, parts of the guidance appear narrow or ambiguous, which could make states think they need to exclude workers who Congress clearly intended to receive unemployment compensation through the Pandemic Unemployment Assistance (PUA) program. 
+
+We request that the Department of Labor (the Department) issue additional guidance on the issues described below no later than Friday, April 17. Understanding that you are still working diligently to release guidance for several CARES Act programs, if you are unable to issue clarifying guidance by Friday, April 17, we request a written response to this letter providing a timeline for issuing clarifying guidance and detailing how you intend to address these issues.
+
+The Department's guidance for sections 2102(a)(3)(A)(ii)(I)(aa), (bb), and (ff) reference circumstances under which an individual testing positive for COVID-19 is a possible qualification for a person receiving PUA. In the CARES Act, Congress deliberately used language referring to a "diagnosis" rather than "tested positive", knowing testing shortages, delays in test results, and guidance instructing people to stay home rather than travel to medical facilities could make testing-based criteria difficult to meet. Furthermore, if someone suspects they have COVID-19 but can care for themselves at home, the Centers for Disease Control and Prevention (CDC) recommends they recover at home to avoid infecting others.We are pleased that the language in the Department's guidance says that someone may qualify for PUA if they have tested positive or received a diagnosis, but we request that the Department make crystal clear that while a positive test would be sufficient to qualify for PUA under these provisions, a qualifying diagnosis never requires a positive test. Any diagnosis from a health care provider, including one made via phone or telehealth, is also sufficient for a person to qualify for PUA. 
+
+The two examples provided in UIPL 16-20 Attachment I (C)(1)(a) of the guidance for an individual who might qualify for unemployment benefits under section 2102(a)(3)(A)(ii)(I)(aa) of the CARES Act based on their own illness both involve an individual who must quit a job. This provision of the CARES Act also covers any individual who is forced to take unpaid time off work for the reasons described, regardless of whether their employment relationship is formally severed. The guidance should be clarified to ensure that such individuals are covered. Section 2102(a)(3)(A)(ii)(I)(dd) of the CARES Act says an individual may qualify for PUA if "a child or other person in the household for which the individual has primary caregiving responsibility is unable to attend school or another facility that is closed as a direct result of the COVID--19 public health emergency and such school or facility care is required for the individual to work." The guidance in UIPL 16-20 Attachment I (C)(1)(d) provides accurate examples of situations in which a caregiver could qualify for PUA under this provision. However, the guidance later states that "a school is not closed as a direct result of the COVID-19 public health emergency, for purposes of section 2102(a)(3)(A)(ii)(I)(dd), after the date the school year was originally scheduled to end." Many families rely on child care, summer camp, or other facilities (including school facilities) to care for their children in the summer and those facilities may remain closed as a result of COVID-19. The guidance should be clarified to confirm that individuals may qualify under section 2102(a)(3)(A)(ii)(I)(dd) during the summer months, for families that rely on any of those facilities. 
+
+Section 2102(a)(3)(A)(ii)(I)(ee) of the CARES Act says that an individual who is "unable to reach the place of employment because of a quarantine imposed as a direct result of the COVID--19 public health emergency" may qualify for PUA. The example of a quarantine provided in UIPL 16-20 Attachment I (C)(1)(e) of the Department's guidance describes "a state or municipal order restricting travel" preventing an individual from getting to work. We are concerned that using the language of "restricting travel" may be too narrow to capture all of types of quarantine orders that are covered under this provision of the CARES Act. The guidance should clarify that such an order includes any stay-at-home, shelter-in-place, social distancing, or other order that requires individuals to stay home in quarantine to reduce the spread of COVID-19. Similarly, UIPL 16-20 Attachment I (C)(1)(g) references a "state or municipal order restricting travel" with respect to section 2102(a)(3)(A)(ii)(I)(gg) of the CARES Act. This should also be clarified as described above. 
+
+Section 2102(a)(3)(A)(ii)(I)(ff) of the CARES Act says that an individual who is "unable to reach the place of employment because the individual has been advised by a health care provider to self-quarantine due to concerns related to COVID--19" may qualify for PUA. The examples specified in the Department's guidance describe a person who suspects they are infected with COVID-19 and a person who is immune-compromised because of a serious health condition. The reference to a person "whose immune system is compromised by virtue of a serious health condition" in the guidance does not cover the wide range of reasons a health care provider may advise self-quarantine. For example, while the CDC considers older Americans more at risk of serious complications from COVID-19, states may not think they are covered under Department's guidance. Furthermore, workers with certain health conditions (such as a respiratory condition) may not technically have a compromised immune system but would be at increased risk from COVID-19 and may need to self-quarantine. As we learn more about COVID-19, we may discover that there are other populations at risk too. 
+
+The Department needs to clarify that anyone advised by a health care provider to self-quarantine due to increased risk of COVID-19 should be covered by PUA, regardless of the underlying reason for their increased risk. 
+
+We are pleased that the Secretary established additional criteria under section 2102(a)(3)(A)(ii)(I)(kk) of the CARES Act to clarify that self-employed individuals such as independent contractors who may not have one specific place of employment are covered by PUA, in keeping with the intent of the legislation. While we believe that such workers are covered by the text of the law, we appreciate the Department's action to eliminate ambiguity and ensure these workers receive benefits. However, to avoid any confusion about who should qualify under UIPL 16-20 Attachment I (C)(1)(k), the Department must clarify that an independent contractor who is unable to work and forced to suspend work activities because there is reduced demand for their services also qualifies for PUA benefits. Many independent contractors have seen demand for their services dry up as a direct result of COVID-19. In the example of a ride share driver, a driver should be able to claim PUA when they are forced to suspend their work because there are too few customers seeking rides. For an independent contractor, losing many or all of their customers overnight is analogous to an employee being laid off by an employer, or, as the Department's guidance notes, their "place of employment" being closed. Congress created the PUA program with the intent to cover workers like independent contractors and gig workers who may not have traditional employment relationships, but who have suddenly lost their livelihoods during this time of crisis. We believe that that the CARES Act definitively covers such workers, and the Department should clarify its guidance to reflect this 
+
+The Department's guidance says that "States should bear in mind that many of the qualifying circumstances described in section 2102(a)(3)(A)(ii)(I) are likely to be of short term duration." Although we agree that some individuals may qualify for PUA for only a short period, many applicants will rely on PUA for longer periods, especially if this public health crisis persists. Furthermore, the way an individual qualifies for PUA may vary from week to week. For example, someone could first qualify if they get sick with COVID-19, then their child's school may close as they recover, and they would qualify based on the new circumstance The Department's guidance should encourage states to consider this as they create PUA application systems. It would be inefficient for both the claimant and the state workforce agency if individuals have to file a new initial application each time their qualifying circumstance changes. Individuals continue to qualify for benefits as long as they continue to meet at least one of the qualifying circumstances described in section 2102(a)(3)(A)(ii)(I), even if the precise provision under which they qualify changes. 
+
+We have heard conflicting reports of whether the Department's guidance allows for the addition of the $600 federal supplement to PUA benefits in U.S. territories that do not have UI programs. The guidance the Department has issued for Federal Pandemic Unemployment Compensation and PUA is ambiguous on this matter. Section 2102(d) of the CARES Act says that for an individual who lives in these territories, "the assistance authorized under subsection (b) for a week of unemployment shall be calculated in accordance with section 625.6 of title 20, Code of Federal Regulations, or any successor thereto, and shall be increased by the amount of Federal Pandemic Unemployment Compensation under section 2104." This language makes clear that the "amount of Federal Pandemic Unemployment Compensation" ($600) should be included in the PUA benefit amount for anyone qualifying for PUA in any of the territories. We would appreciate if the Department would clarify this matter to facilitate the administration and payment of benefits in these territories. 
+
+In addition to the concerns we have raised above, we know that states will have additional questions as they continue to implement PUA and other CARES Act programs. We urge the Department to respond to questions from states as quickly as possible to avoid causing any delay in the processing of benefits. 
+
+Thank you for your attention to this important matter. 
+
+Sincerely,
+
+Charles Schumer
+
+Ron Wyden
+
+Patrick Leahy
+
+Sherrod Brown
+
+Patty Murray
+
+Chris Van Hollen
+
+Michael F. Bennet
+
+Edward J. Markey
+
+Doug Jones
+
+Sheldon Whitehouse
+
+Angus S. King, Jr.
+
+Robert Menendez
+
+Cory A. Booker
+
+Benjamin L. Cardin
+
+Kirsten Gillibrand
+
+Mazie K. Hirono
+
+Amy Klobuchar
+
+Thomas R. Carper
+
+Richard Blumenthal
+
+Debbie Stabenow
+
+Tina Smith
+
+Tammy Duckworth
+
+Robert P. Casey, Jr.
+
+Elizabeth Warren
+
+Mark R. Warner
+
+Bernard Sanders
+
+Dianne Feinstein
+
+Richard J. Durbin
+
+Jeffrey A. Merkley
+
+Jack Reed
+
+Catherine Cortez Masto
+
+Jacky Rosen
+
+Maria Cantwell
+
+Tom Udall

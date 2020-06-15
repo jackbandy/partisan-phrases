@@ -1,0 +1,40 @@
+After FCC Acknowledges Its Ligado Order Fails to Address Widespread Federal Government Concern, Turner and Inhofe Question Process
+
+
+Federal Communications Commission (FCC) officials admitted Thursday on a House Armed Services Committee conference call that, despite conditions placed on Ligado in the FCC Order to mitigate the concerns of harmful interference to GPS receivers, 13 federal agencies and departments remain opposed the FCC's Ligado decision. In addition, FCC officials indicated no one at the FCC received any classified briefings from these agencies on the harm that could be done if Ligado's application was approved. 
+
+Congressman Mike Turner, Ranking Member of the House Armed Services Subcommittee on Strategic Forces, joined Senator Jim Inhofe (R-Okla.), chairman of the Senate Armed Services Committee and a lead critic of the FCC decision, to comment on the FCC's statements:
+
+"I am disappointed by the FCC's Ligado decision. The FCC is the only federal government entity that thinks this is a good idea," said Congressman Mike Turner. "I was concerned when I asked the FCC officials on the call if they had convinced any other agency this was good policy or if they had made an attempt to receive a classified briefing on the effects of their decision and their answer was no."
+
+"I'm disappointed but not surprised to hear the FCC has made no effort to review necessary, classified materials related to the Ligado application. If they had, I highly doubt they would have proceeded with their order," Senator Inhofe said. "By their own admission, the steps the FCC has taken in its Order have not changed the universal opinion of numerous federal agencies and departments. The FCC needs to listen to the NTIA and reconsider or rescind their Order, as the experts recommend."
+
+In late April, the FCC approved an application for Ligado to use a portion of the L-band spectrum to operate a terrestrial communications network. Numerous federal departments and agencies are concerned that operation of this network will interfere with global positioning systems (GPS) and satellite communications. Ligado received this FCC approval more than eight years after the agency blocked then-Lightsquared's proposed wireless network because the Obama Administration found the network would interfere with GPS.
+
+The 13 Federal agencies that issued objections to the Ligado decision are as follows:
+
+1. Department of the Air Force
+
+2. Department of the Army
+
+3. Department of the Navy
+
+4. Department of Commerce
+
+5. NASA
+
+6. Department of Interior
+
+7. Department of Justice
+
+8. Department of Homeland Security
+
+9. Department of Energy
+
+10. National Science Foundation
+
+11. Department of Transportation
+
+12. U.S. Coast Guard
+
+13. Federal Aviation Administration

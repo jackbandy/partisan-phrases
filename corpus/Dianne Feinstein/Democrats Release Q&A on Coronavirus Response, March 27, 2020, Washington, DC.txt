@@ -1,0 +1,808 @@
+Democrats Release Q&A on Coronavirus Response, Recovery Bill
+
+
+Senator Dianne Feinstein released the following Q&A on the Coronavirus Aid, Relief, and Economic Security Act, the coronavirusresponse and recovery bill passed March 26, 2020 in the Senate. The information was compiled by Democratic Senate committee staff.
+
+For more information on assistance regarding the coronavirus, click here.
+
+Q&A for individuals (pdf)Cash payments to AmericansUnemployment insuranceEmergency leaveChanges to tax filingChild careUtility shutoffsHousingBankingBankruptcyReal IDPrison relatedAmericorpsQ&A for businesses (pdf)Small businessesSmall Business Debt Relief ProgramEconomic Injury Disaster Loans & Emergency Economic Injury GrantsCounseling and trainingAirlinesQ&A for the health care system (pdf)Hospitals and health systemMedicareQ&A for education institutions (pdf)Higher educationK-12 educationQ&A for state, local and tribal (pdf)Aid to states and municipalitiesState-Local Coronavirus Relief FundTerritories and freely associated statesWorkforceTribes, tribal organizations and tribal enterprisesQ&A for veterans (pdf)Veterans AffairsStudent veteransCoronavirus: Q&A related to individualsCASH PAYMENTS TO AMERICANS
+
+Who qualifies to receive a check and how much will an individual receive?
+
+Anyone who filed a tax return this year or last year.  Individuals receive $1,200, married couples receive $2,400, and child dependents (under 17) receive $500. 
+
+What are qualified income levels based off of?
+
+There is no qualified income threshold or requirement to receive the rebate. However, the rebate phases out at a 5 percent rate above adjusted gross incomes of $75,000 for single filers, $112,500 for heads of household, and $150,000 for joint filers.
+
+Can those collecting Social Security or disability receive a check?
+
+Yes, if they filed a tax return this year or last year, or received a form SSA-1099.  Otherwise, they need to file a tax return.
+
+Will SSA administer the funds to my EBT/Debit card that I receive my SSA benefits through? 
+
+Our understanding is that IRS is sending out the rebates (via direct deposit or checks) 
+
+How does an individual claim their check?
+
+They do not need to claim their checks (unless they have not either filed a tax return this year or last year) -- IRS will send out rebates automatically to their direct deposit or to the address provided on the last tax return submitted.
+
+How long will it take for this check to be delivered?
+
+Rebates sent via direct deposit will take a few weeks. Rebates sent via checks may take a few months.
+
+Will I be taxed on this check?
+
+No, rebates are not taxable. 
+
+Will I be eligible if I haven't finished filing my 2018 taxes?
+
+You need to have filed either a 2018 tax return or a 2019 tax return.  If you have not filed either, you will not be eligible.  You can file a 2019 tax return now to claim the rebate.
+
+Will I be eligible if  I have a lien against me, but I am in non-collect status?
+
+Yes.  Rebates will not be subject to garnishment, except if back child support is owed.
+
+I withdrew my retirement in 2018- so my income that year was inflated. Is there any waiver for one time sources of income?
+
+In this case, the taxpayer should file a 2019 tax return. 
+
+UNEMPLOYMENT INSURANCE
+
+How much can I get from Unemployment Insurance?
+
+The exact amount you can receive through Unemployment depends on your state and your previous earnings. Between now and July 31, an additional $600 will be added to every unemployment compensation check, so no one will receive less than $600 per week.
+
+What if I'm not eligible for traditional Unemployment Insurance?
+
+The CARES Act temporarily expands unemployment insurance to cover individuals who are not traditionally covered, including the self-employed, gig-workers, independent contractors, and workers with irregular work history. It also expands the list of allowable criteria for claiming unemployment compensation to include many reasons related to the COVID-19 public health emergency. Contact the unemployment office in the state where you worked to determine your eligibility.
+
+What if I've been out of work because of COVID-19 for several weeks already?
+
+If you exhaust the weeks of unemployment compensation available to you through your state's laws, you will be eligible for an additional 13 weeks of benefits. These benefits will be federally-funded, but you will still receive them through your state.
+
+How long will the expanded benefits be in place? 
+
+Expanded eligibility for unemployment insurance will be in effect until December 31, 2020. A $600 additional benefit will be added to unemployment compensation received for weeks between when the bill is enacted and July 31, 2020.
+
+Is there a waiting period? 
+
+The CARES Act includes incentives for states to waive the waiting week between applying for unemployment compensation and receiving it. Contact the unemployment office in the state where you worked to determine whether there will be a waiting week.
+
+How do I file for unemployment insurance? 
+
+You can apply for unemployment compensation through the unemployment office in the state where you worked. In most states, you can apply online.
+
+EMERGENCY LEAVE
+
+Who is a covered employer?
+
+In general, a private employer with fewer than 500 employees is a "covered employer" for both the paid sick leave and paid family leave requirements. However, the Secretary of Labor has additional authority to exempt employers with fewer than 50 employees from the requirement to provide leave for caring for children due to closures of schools or child care, both in the paid sick leave and paid family leave context. Additionally, employers of Health Care Providers or Emergency Responders have authority to unilaterally exclude their employees from all of the paid sick leave and paid family leave requirements. Finally, while most public employers with 1 or more employees are covered by the paid sick leave requirements and most public employers with fewer than 500 employees are covered by the paid family leave requirements, most federal employers are excluded from the paid family leave requirements--and OMB has the authority to exclude any federal employers from both the paid sick leave and paid family leave requirements.     
+
+Who is a covered employee?
+
+To be a "covered employee," an individual must first be working for a "covered employer" explained above. In general, an individual who is employed by a covered employer is covered by both the paid sick leave and paid family leave; the definition of "employee" is based in the Fair Labor Standards Act (FLSA) and is broad and intended to capture most people. However, paid family leave has an additional requirement that an individual has been employed by the employer for at least 30 days to qualify; if an individual was laid off by their employer after March 1, 2020, had worked for that employer for 30 of the 60 calendar days before being laid-off, and is re-hired by the employer, then that employee qualifies as a covered employee even though upon their rehire they have not been working for 30 days for the employer. Most federal employees are excluded from the paid family leave, and OMB has the authority to exclude any federal employees from both the paid sick leave and paid family leave.
+
+How much paid sick leave are employees eligible to take?
+
+For paid sick leave, employees are eligible to take up to 80 hours (two weeks) of paid time, depending on the employee's regular schedule, at 100% of the employee's regular rate of pay (up to $511 per day) due to quarantine/isolation order, health-care provider guidance to self-quarantine, or seeking diagnosis for symptoms of COVID-19; the pay is limited to 2/3 of the employee's regular rate of pay (up to $200 per day) for caring for someone who is isolated/quarantined and for taking care of a child due to a closure of school or child care.
+
+How much paid family leave are employees eligible to take?
+
+For paid family leave, employees are eligible to take up to 10 additional weeks of paid time at 2/3 of the employee's regular rate of pay (up to $200 per day) solely to take care of a minor child due to a closure of school or child care or the unavailability of a child care provider.
+
+What are the qualifying reasons for leave?
+
+For paid sick leave:
+
+Unable to work or telework due to
+
+-                The employee is covered by a quarantine or isolation order by a federal, state, or local authority;
+
+-                The employee has been advised by a health care provider to self-quarantine due to concerns over COVID-19;
+
+-                The employee is experiencing symptoms of COVID-19 and is seeking diagnosis;
+
+-                The employee is caring for an individual who is covered by a quarantine or isolation order or who has been advised by a health care provider to self-quarantine;
+
+-                The employee is caring for a son or daughter if, due to COVID-19, the school or place of care is closed or if the child care provider is unavailable; or
+
+-                The employee is experiencing a "substantially similar condition" as specified by HHS and DOL.
+
+For paid family leave:
+
+The employee is unable to work or telework due to needing to care for a son or daughter under 18 years of age because, due to COVID-19, the child's school or place of care is closed or the child's child care provider is unavailable
+
+Are there documentation requirements an employee must provide to prove they are caring for an individual or child whose school or place of care is closed?
+
+If the need for paid family leave is foreseeable, an employee must provide the employer with notice as soon as practicable; and an employer may require reasonable notice procedures to receive paid sick leave. However, while DOL may clarify this through guidelines or regulation, we do not read the Act to allow an employer to require any documentation to prove the employee is caring for an individual or child.
+
+When do these provisions go into effect?
+
+According to DOL, they will go into effect on April 1 and will apply to leave taken between April 1 and December 31, 2020.
+
+ 
+
+CHANGES TO TAX FILING
+
+What has changed for income tax filing this year?
+
+The tax filing due date has been extended to July 15.  Tax returns and any income taxes owed will not be due until July 15. 
+
+Are there any changes to tax filing for businesses?
+
+The income tax return due date for calendar year corporations has also been extended to July 15.  Tax returns and any income taxes owed will not be due until July 15. Employers can defer paying the employer portion of certain payroll taxes through the end of 2020, with all 2020 deferred amounts due in two equal installments, one at the end of 2021, the other at the end of 2022. Deferral is not provided to employers that avail themselves of SBA 7(a) loans designated for payroll. 
+
+CHILD CARE
+
+I am a frontline worker in need of child care. Does this bill help me?
+
+Yes. States can use their funding through the Child Care and Development Block Grant (CCDBG) to provide child care assistance to health care sector employees, emergency responders, sanitation workers, and other workers that are deemed essential during the COVID-19 response by public officials.
+
+ 
+
+UTILITY SHUTOFFS
+
+Are there protections to prevent people from being shut off of their power, gas, and water utilities?
+
+Utility service is regulated by the states rather than the federal government. Many states have ordered their utilities not to terminate service to customers during the crisis.
+
+What resources are available to states and utilities to offset costs of power, water and fuel service that must remain online?
+
+For eligible households, $900 million is included for the Low Income Home Energy Assistance Program to help low income households with heating and cooling in homes, weatherization, and energy-related low-cost home repairs or replacements. Under the Small Business Loans provided in the bill, utility costs (electricity, water, gas, trash, and internet services) are eligible costs for which loans can be provided. An additional $600 million is included for Community Services Block Grants to states, tribes and territories, which can be used to cover utility costs.
+
+HOUSING
+
+Is there any relief for upcoming rent, mortgage, and utility payments?
+
+Any homeowner with an FHA, VA, USDA, 184/184A mortgage, or a mortgage backed by Fannie Mae or Freddie Mac, who is experiencing financial hardship is eligible for up to 6 months' forbearance on their mortgage payments, with a possible extension for another 6 months. At the end of the forbearance, borrowers can work within each agency's existing programs to help them get back on track with payments, but they will have to pay missed payments at some point during the loan, so if borrowers can pay they should continue to do so.
+
+Renters who have trouble paying rent also have protections under the bill if they live in a property that has a federal subsidy or federally backed loan.  Owners of these properties cannot file evictions or charge fees for nonpayment of rent for 120 days following enactment of the bill, and cannot issue a renter a notice to leave the property before 150 days after enactment.   After this period renters will be responsible for making payments and getting back on track, so they should continue to make payments if they're financially able to do so.  Renters who receive housing subsidies such as public housing or Section 8 who have had their incomes fall should recertify their incomes with their public housing agency or property owner because it may lower the rent they owe.    
+
+Will homeowners be foreclosed on if they can't make their loan payments?
+
+The bill includes a 60-day foreclosure moratorium starting on March 18, 2020, for all federally-backed mortgage loans. Borrowers with FHA, VA, USDA, or 184/184A loans, or loans backed by Fannie Mae and Freddie Mac, will not see foreclosure actions and cannot be removed from their homes due to foreclosure during that time.
+
+Will multifamily property owners be foreclosed on if they can't make loan payments?
+
+The bill provides owners of multifamily properties with federally backed loans having a financial hardship up to 90 days of forbearance on their loan payments.  Property owners would have to request the forbearance and document their hardship in order to qualify, in 30-day increments. During a forbearance period, the property owner may not evict or initiate the eviction of a tenant for nonpayment of rent and may not charge the tenant any fees or penalties for nonpayment of rent.  This protection applies to loans issued or backed by federal agencies (including FHA and USDA) or Fannie Mae and Freddie Mac. 
+
+Who does the rental eviction moratorium apply to?
+
+This provision applies to all renters who live in properties that receive a federal subsidy, such as public housing, Section 8 rental assistance vouchers or subsidies, USDA rental housing assistance, or Low Income Housing Tax Credits.  It also covers any renters in properties where the owner has a federally backed mortgage loan, which includes loans backed by the FHA, USDA, and Fannie Mae and Freddie Mac.   This includes any size of property, from single family houses to multifamily apartment buildings.
+
+ 
+
+BANKING
+
+I have a loan and I am worried that I won't be able to make my monthly payments. What can I do?
+
+Contact your lender directly. The CARES Act allows banks and credit unions more flexibility to work with borrowers affected by the COVID-19 pandemic.
+
+Does bill provide any relief for consumers who can't pay their bills?
+
+This bill does not. This section of the bill only provides instruction on how lenders or creditors should report consumers who have received a forbearance or some other accommodation to help them make payments.
+
+Individuals having problems paying their bills should contact their lenders directly. The CARES Act allows banks and credit unions more flexibility to work with borrowers affected by the COVID-19 pandemic.
+
+We will continue to work to enact credit reporting relief for borrowers who are struggling to make their payments during this crisis.
+
+Who can use the Fed lending facilities?
+
+The Federal Reserve will design the facilities. According to government officials, we expect there to be potentially over a dozen different facilities. The legislation specifically indicates that there should be a facility for states, municipalities, and tribes, as well as a facility for medium-sized business that are not eligible for the SBA program. It will also be critical for the Fed to consider other needs, such as protecting homeowners and renters.
+
+BANKRUPTCY
+
+My small business is in financial trouble and I'm considering filing for bankruptcy -- how does this bill help? 
+
+This bill allows more small businesses to reorganize under Chapter 11 using procedures that are less expensive and that allow small business owners to retain control of their operations through the bankruptcy reorganization process.  Under this bill, small businesses with up to $7.5 million in debt can take advantage of these streamlined Chapter 11 procedures.  This new relief will be available for one-year.
+
+I have been in Chapter 13 bankruptcy for 3 years.  I recently lost my job and I can't afford my plan payments right now.  I'm worried that I won't be able to complete the Chapter 13 process -- does this bill help me? 
+
+Yes. This bill allows individuals and families currently in Chapter 13 who are experiencing financial hardship due to the COVID-19 pandemic to request a modification of their Chapter 13 plans, including by extending their payments for up to 7 years.  This new relief will be available for one-year.
+
+If I receive a stimulus check from the federal government, will it impact my ability to file for bankruptcy? 
+
+No. Under this bill, stimulus checks from the federal government cannot be used to determine whether you are eligible for filing bankruptcy.  And, if you file for Chapter 13 bankruptcy, you will not have to turn your stimulus check over to your creditors.  This new relief will be available for one-year.
+
+REAL ID
+
+I do not have a Real ID-compliant identification but I am concerned about going to a crowded DMV in the coming months before the October 1, 2020 deadline -- what should I do?
+
+There is no need to visit a DMV just to obtain a REAL ID by October 1, 2020 because the deadline will be extended for one year, until October 1, 2021.
+
+ 
+
+PRISON RELATED
+
+I have an elderly or ill family member in prison.  Is there any opportunity for early release?
+
+Yes.  This bill gives the Director of the Bureau of Prisons expanded authority to release people who are serving the last year of their sentence to home confinement.
+
+I am not being allowed to visit my family member in prison because of the coronavirus.  Is there an alternative to in-person visits? 
+
+This bill instructs the Director of the Bureau of Prisons to do more to set up video visitation for inmates, free of charge.
+
+I have a family member involved in the federal justice system, what is going to happen to their case? 
+
+This bill allows courts to hold some hearings by video, but only if the defendant agrees.
+
+ 
+
+AMERICORPS
+
+I'm an AmeriCorps member and I'm unable to complete my term of service as a result of COVID-19. What happens to my education award?
+
+Many AmeriCorps members will have difficultly completing the required number of volunteer hours due to current limitations on volunteer opportunities. The CARES Act allows the Corporation for National and Community Service (CNCS) to have flexibility to waive the required number of volunteer hours so that members may still receive a full Segal Education Award even if their service was interrupted as a result of COVID-19. Additionally, the CARES Act increases the upper age limit for AmeriCorps members and expands the maximum term of service so that AmeriCorps members whose service was impacted by COVID-19 are able to re-enroll once the emergency is over.
+
+Coronavirus: Q&A related to businessesSMALL BUSINESSES
+
+What support is there for small businesses?
+
+Refundable tax credits are available for private-sector employers that are required to offer coronavirus related paid leave to employees.  IRS will be posting information soon on these credits on its website (www.irs.gov), including information on how to obtain advance payment of these credits.
+
+The employer side of certain payroll taxes are deferred through the end of 2020. Deferred taxes will not become due until end of 2021 and end of 2022, with 50% of the liability being paid at each date. Any business that does not have a loan forgiven under the new SBA Paycheck Protection Program is eligible for the payroll tax deferral.
+
+An employee retention tax credit is available for struggling businesses that are not eligible or choose not to participate in the new SBA Paycheck Protection Program. Any business that has been forced to fully or partially suspend operations, or that has seen a significant drop in revenues is eligible for a 50-percent credit for wages paid to furloughed or reduced-hour employees. For businesses with 100 employees or less, the credit is based on all wages paid, regardless of whether an employee is furloughed. There is an overall limit on wages per employee of $10,000. The credit can be claimed against the business's quarterly payroll tax liability and is fully refundable to the extent of excess. There will also be options to receive advance payments. Small business owners should lookout for information at IRS.gov and talk to their payroll service provider, as applicable.
+
+$350 billion is made available for a new Small Business Administration Paycheck Protection Program (PPP). The program would provide cash-flow assistance through 100 percent federally guaranteed loans to employers who maintain their payroll during this emergency. If employers maintain their payroll, the loans would be forgiven, which would help workers remain employed, as well as help affected small businesses and our economy to snap-back quicker after the crisis. PPP has a host of attractive features, such as forgiveness of up to 8 weeks of payroll based on employee retention and salary levels, no SBA fees and at least six months of deferral with maximum deferrals of up to a year. Small businesses and other eligible entities will be able to apply if they were harmed by COVID-19 between February 15, 2020 and June 30, 2020. This program is would be retroactive to February 15, 2020, in order to help bring workers who may have already been laid off back onto payrolls. Loans are available through June 30, 2020.
+
+$17 billion is available for immediate relief to small businesses with non-disaster SBA loans, in particular 7(a), 504, and microloans. Under it, SBA will cover all loan payments on these SBA loans, including principal, interest, and fees, for six months. This relief will also be available to new borrowers who take out loans within six months of the President signing the bill into law.
+
+The CARES Act creates a new SBA Economic Injury Emergency Grant Program. These grants provide an emergency advance of up to $10,000 to small businesses and private non-profits harmed by COVID-19 within three days of applying for an SBA Economic Injury Disaster Loan (EIDL). To access the advance, you must first apply for an EIDL and then request the advance. The advance does not need to be repaid under any circumstance, and may be used to keep employees on payroll, to pay for sick leave, meet increased production costs due to supply chain disruptions, or pay business obligations, including debts, rent and mortgage payments.
+
+What type of assistance will independent contractors be eligible for?
+
+Refundable tax credits are available for independent contractors who would have qualified for coronavirus related paid leave if they were employees. IRS will be posting information soon on these credits on its website (www.irs.gov), including information on how to claim these credits.
+
+50 percent of certain self-employment taxes are deferred through the end of 2020. Deferred taxes will not become due until end of 2021 and end of 2022, with 50% of the liability being paid at each date.
+
+Independent contractors are also eligible for assistance through the Small Business Administration's new Paycheck Protection Program and Economic Injury Emergency Grant Program.
+
+What assistance is there for nonprofits?
+
+The employer side of certain payroll taxes are deferred through the end of 2020. Deferred taxes will not become due until end of 2021 and end of 2022, with 50% of the liability being paid at each date. Any business that does not have a loan forgiven under the new SBA Paycheck Protection Program is eligible for the payroll tax deferral.
+
+Certain tax-exempt organizations that have been forced to fully or partially suspend operations, or that have seen a significant drop in revenues are eligible for a 50-percent credit for wages paid to furloughed or reduced-hour employees. Organizations that participate in the SBA Paycheck Protection Loan Program are not eligible for the credit. For organizations with 100 employees or less, the credit is based on all wages paid, regardless of whether an employee is furloughed. There is an overall limit on wages per employee of $10,000. The credit can be claimed against the organization's quarterly payroll tax liability and is fully refundable to the extent of excess. There will also be options to receive advance payments.
+
+501(c)(3) nonprofit organizations, along with small businesses, 501(c)(19) veterans organizations, and tribal businesses, are eligible to apply for the Small Business Administration's Paycheck Protection Program. Through this program, a nonprofit organization can apply to an SBA-approved lender for a loan of up to 250% of your average monthly payroll costs to cover eight weeks of payroll as well as help with other expenses like rent, mortgage payments, and utilities. The maximum loan amount is $10 million. This loan can be forgiven based on maintaining employee and salary levels. For any portion of the loan that is not forgiven, the terms include a maximum term of 10 years, a maximum interest rate of 4 percent. Nonprofit organizations will be able to apply if they were harmed by COVID-19 between February 15, 2020 and June 30, 2020. To be eligible, nonprofit organizations must have fewer than 500 employees, or more if SBA's size standards for the non-profit allows, and comply with the SBA's affiliation rules for nonprofits. This program is retroactive to February 15, 2020, in order to help bring workers who may have already been laid off back onto payrolls. Loans are available through June 30, 2020.
+
+A provision in the CARES package would authorize a program to allow any mid-sized nonprofit between 500 and 10,000 employees to get access to quick, low cost, government guaranteed credit through their local lender or financial institution. These organizations need cash now and so this program is set up to get money quickly in the hands of those who need it in order to preserve workforce during the COVID-19 health emergency. 
+
+The Treasury Department and Federal Reserve will have a degree of flexibility in designing the new program, but the expectation is for loan terms to last for no more than five years and to cover up to 100% of payroll over the previous 180 days, or 50% of revenues for the past year, for eligible organizations. Underwriting requirements should be kept simple, based on employer size, creditworthiness as of January 2020, and the ability to produce recent tax returns or audited financial statements.  The legislation prescribes that the loans must carry an interest rate of no greater than 2% and to provide forbearance on principal and interest for at least the first 6 months. Borrowers will also be required to protect workers. Any loan recipient will have to attest that they'll use the money to keep workers employed -- at least to 90% of their payroll -- and keep workers paid at close to full compensation and benefits.  Borrowers will also commit to rehiring their workforce back to preexisting levels upon the end of the COVID-19 health emergency. 
+
+The most efficient way to deliver fast credit to eligible organizations is through existing relationships with local lenders.  Under the program, any qualified organization should be able to receive financing at a local bank, credit union, CDFI, or qualified nonbank lender.  
+
+What types of businesses and entities are eligible for a PPP loan?
+
+Businesses and entities must have been in operation on February 15, 2020.Small business concerns, as well as any business concern, a 501(c)(3) nonprofit organization, a 501(c)(19) veterans organization, or Tribal business concern described in section 31(b)(2)(C) that has fewer than 500 employees, or the applicable size standard in number of employees for the North American Industry Classification System (NAICS) industry as provided by SBA, if higher.Individuals who operate a sole proprietorship or as an independent contractor and eligible self-employed individuals.Any business concern that employs not more than 500 employees per physical location of the business concern and that is assigned a North American Industry Classification System code beginning with 72, for which the affiliation rules are waived.Affiliation rules are also waived for any business concern operating as a franchise that is assigned a franchise identifier code by the Administration, and company that receives funding through a Small Business Investment CompanyWhat are SBA affiliation rules?
+
+Affiliation rules become important when SBA is deciding whether a business's affiliations preclude them from being considered "small." Generally, affiliation exists when one business controls or has the power to control another or when a third party (or parties) controls or has the power to control both businesses. Please see this resource for more on these rules and how they can impact your business's eligibility.
+
+What types of non-profits are eligible for the SBA PPP assistance?
+
+In general, 501(c)(3) and 501(c)(19) non-profits with 500 employees or fewer as most non-profit SBA size standards are based on employee count, not revenue. You can check here.
+
+How is the PPP loan size determined?
+
+Depending on your business's situation, the loan size will be calculated in different ways (see below). The maximum loan size is always $10 million.
+
+If you were in business February 15, 2019 -- June 30, 2019: Your max loan is equal to 250 percent of your average monthly payroll costs during that time period. If your business employs seasonal workers, you can opt to choose March 1, 2019 as your time period start date. If you were not in business between February 15, 2019 -- June 30, 2019: Your max loan is equal to 250 percent of your average monthly payroll costs between January 1, 2020 and February 29, 2020.If you took out an Economic Injury Disaster Loan (EIDL) between February 15, 2020 and June 30, 2020 and you want to refinance that loan into a PPP loan, you would add the outstanding loan amount to the payroll sum.What costs are eligible for payroll under the PPP?
+
+Compensation (salary, wage, commission, or similar compensation, payment of cash tip or equivalent)Payment for vacation, parental, family, medical, or sick leaveAllowance for dismissal or separationPayment required for the provisions of group health care benefits, including insurance premiumsPayment of any retirement benefitPayment of State or local tax assessed on the compensation of employeesWhat costs are not eligible for payroll under the PPP?
+
+Employee/owner compensation over $100,000Taxes imposed or withheld under chapters 21, 22, and 24 of the IRS codeCompensation of employees whose principal place of residence is outside of the U.SQualified sick and family leave for which a credit is allowed under sections 7001 and 7003 of the Families First Coronavirus Response ActWhat are allowable uses of loan proceeds with a PPP loan?
+
+Payroll costs (as noted above)Costs related to the continuation of group health care benefits during periods of paid sick, medical, or family leave, and insurance premiumsEmployee salaries, commissions, or similar compensations (see exclusions above)Payments of interest on any mortgage obligation (which shall not include any prepayment of or payment of principal on a mortgage obligation)Rent (including rent under a lease agreement)UtilitiesInterest on any other debt obligations that were incurred before the covered periodWhat are the loan term, interest rate, and fees for a PPP loan?
+
+For any amounts not forgiven, the maximum term is 10 years, the maximum interest rate is 4 percent, zero loan fees, zero prepayment fee (SBA will establish application fees caps for lenders that charge).
+
+How is the forgiveness amount calculated under PPP?
+
+Forgiveness on a covered loan is equal to the sum of the following payroll costs incurred during the covered 8 week period compared to the previous year or time period, proportionate to maintaining employees and wages (excluding compensation over $100,000): 
+
+Payroll costs plus any payment of interest on any covered mortgage obligation (not including any prepayment or payment of principal on a covered mortgage obligation) plus any payment on any covered rent obligation plus and any covered utility payment.
+
+How do I get forgiveness on my PPP loan?
+
+You must apply through your lender for forgiveness on your loan. In this application, you must include:
+
+Documentation verifying the number of employees on payroll and pay rates, including IRS payroll tax filings and State income, payroll and unemployment insurance filingsDocumentation verifying payments on covered mortgage obligations, lease obligations, and utilities.Certification from a representative of your business or organization that is authorized to certify that the documentation provided is true and that the amount that is being forgiven was used in accordance with the program's guidelines for use.What happens after the forgiveness period for a PPP loan?
+
+Any loan amounts not forgiven is carried forward as an ongoing loan with max terms of 10 years, at 4% max interest. Principal and interest will continue to be deferred, for a total of 6 months to a year after disbursement of the loan. The clock does not start again.
+
+Can I get more than one PPP loan?
+
+No, an entity is limited to one PPP loan. Each loan will be registered under a Taxpayer Identification Number at SBA to prevent multiple loans to the same entity.
+
+What kind of lender can I get a PPP loan from?
+
+All current SBA 7(a) lenders are eligible lenders for PPP. The Department of Treasury will also be in charge of authorizing new lenders, including non-bank lenders, to help meet the needs of small business owners.
+
+How does the PPP loan coordinate with SBA's existing loans?
+
+Borrowers may apply for PPP loans and other SBA financial assistance, including Economic Injury Disaster Loans (EIDLs), 7(a) loans, 504 loans, and microloans, and also receive investment capital from Small Business Investment Corporations (SBICs).
+
+How does the PPP loan work with the temporary Emergency Economic Injury Grants and the Small Business Debt Relief program?
+
+Emergency Economic Injury Grant recipients and those who receive loan payment relief through the Small Business Debt Relief Program may apply for and take out a PPP loan. Refer to those sections for more information. 
+
+ 
+
+SMALL BUSINESS DEBT RELIEF PROGRAM
+
+Which SBA loans are eligible for debt relief under this program?
+
+7(a) loans not made under the Paycheck Protection Program (PPP), 504 loans, and microloans. Disaster loans are not eligible.
+
+How does debt relief under this program work with a PPP loan?
+
+Borrowers may separately apply for and take out a PPP loan, but debt relief under this program will not apply to a PPP loan.
+
+How do I know if I'm eligible for a 7(a), 504, or microloan?
+
+In general, businesses must meet size standards, be based in the U.S., be able to repay, and have a sound business purpose. To check whether your business is considered small, you will need your business's 6-digit North American Industry Classification System (NAICS) code and 3-year average annual revenue. Each program has different requirements, see https://www.sba.gov/funding-programs/loans for more details.
+
+What is a 7(a) loan and how do I apply?
+
+7(a) loans are an affordable loan product of up to $5 million for borrowers who lack credit elsewhere and need access to versatile financing, providing short-term or long-term working capital and to purchase an existing business, refinance current business debt, or purchase furniture, fixtures and supplies. In the program, banks share a portion of the risk of the loan with SBA. There are many different types of 7(a) loans, you can visit this site to find the one that's best for you. You apply for a 7(a) loan with a bank or a mission-based lender. SBA has a free referral service tool called Lender Match to help find a lender near you.
+
+What is a 504 loan and how do I apply?
+
+The 504 Loan Program provides loans of up to $5.5 million to approved small businesses with long-term, fixed-rate financing used to acquire fixed assets for expansion or modernization. It is a good option if you need to purchase real estate, buildings, and machinery. You apply through a Certified Development Company, which is a nonprofit corporation that promotes economic development. SBA has a free referral service tool called Lender Match to help find a lender near you.
+
+What is a microloan and how do I apply?
+
+The Microloan Program provides loans up to $50,000 to help small businesses and certain not-for-profit childcare centers to start up and expand. The average microloan is about $13,000. These loans are delivered through mission-based lenders who are also able to provide business counseling. SBA has a free referral service tool called Lender Match to help find a microlender near you.
+
+I am unfamiliar with SBA loans, can anyone help me apply?
+
+Yes, SBA resource partners are available to help guide you through the loan application process. You can find your nearest Small Business Development Center (SBDC) or Women's Business Center here.
+
+ 
+
+ECONOMIC INJURY DISASTER LOANS & EMERGENCY ECONOMIC INJURY GRANTS
+
+Are businesses and private non-profits in my state eligible for an EIDL related to COVID-19?
+
+Yes, those suffering substantial economic injury in all 50 states, DC, and the territories may apply for an EIDL.
+
+What is an EIDL and what is it used for?
+
+EIDLs are lower interest loans of up to $2 million, with principal and interest deferment available for up to 4 years that are available to pay for expenses that could have been met had the disaster not occurred, including payroll and other operating expenses.
+
+Who is eligible for an EIDL?
+
+Small business concerns (including sole proprietorships, with or without employees)Independent contractorsCooperatives and employee owned businessesPrivate non-profitsTribal small businessesSmall business concerns and small agricultural cooperatives that meet the applicable size standard for SBA are also eligible, as well as most private non-profits of any size. See below for more info on size standards.
+
+My private non-profit is not a 501(c)(3). Is it still eligible for an EIDL and a grant?
+
+Yes, if you are a private non-profit with an effective ruling letter from the IRS, granting tax exemption under sections 501(c), (d), or (e) of the Internal Revenue Code of 1954, or if you can provide satisfactory evidence from the State that the non-revenue producing organization or entity is a non-profit one organized or doing business under State law. However, a recipient that is principally engaged in teaching, instructing, counseling, or indoctrinating religion or religious beliefs, whether in a religious or secular setting, or primarily engaged in political or lobbying activities is not eligible to receive an EIDL. If you are uncertain whether you qualify, please consult with legal counsel to determine whether your organization meets program criteria.
+
+Who is eligible for an Emergency Economic Injury Grant?
+
+Those eligible for an EIDL and who have been in operation since January 31, 2020, when the public health crisis was announced.
+
+How long are Emergency Economic Injury Grants available?
+
+January 31, 2020 -- December 31, 2020. The grants are backdated to January 31, 2020 to allow those who have already applied for EIDLs to be eligible to also receive a grant.
+
+If I get an EIDL and/or an Emergency Economic Injury Grant, can I get a PPP loan?
+
+Whether you've already received an EIDL unrelated to COVID-19 or you receive a COVID-19 related EIDL and/or Emergency Grant between January 31, 2020 and June 30, 2020, you may also apply for a PPP loan. If you ultimately receive a PPP loan or refinance an EIDL into a PPP loan, any advance amount received under the Emergency Economic Injury Grant Program would be subtracted from the amount forgiven in the PPP. However, you cannot use your EIDL for the same purpose as your PPP loan. For example, if you use your EIDL to cover payroll for certain workers in April, you cannot use PPP for payroll for those same workers in April, although you could use it for payroll in March or for different workers in April.
+
+How do I know if my business is a small business?
+
+Please visit https://www.sba.gov/size-standards/ to find out if your business meets SBA's small business size standards. You will need the 6-digit North American Industry Classification Code for your business and your business' 3-year average annual revenue.
+
+How do I apply for an economic injury disaster loan?
+
+To apply for an EIDL online, please visit https://disasterloan.sba.gov/ela/. Your SBA District Office is an important resource when applying for SBA assistance. 
+
+I am unfamiliar with the EIDL process, can anyone help me apply?
+
+Yes, SBA resource partners are available to help guide you through the EIDL application process. You can find the nearest Small Business Development Center (SBDC), Women's Business Center, or SCORE mentorship chapter at https://www.sba.gov/local-assistance/find/.
+
+ 
+
+COUNSELING AND TRAINING
+
+Do I have to pay for counseling and training through SBDCs, WBCs, and MBDCs?
+
+Counseling is free and training is low-cost with these partners. The additional funds that Congress provided will help keep this possible. Mentorship through SCORE is always free.
+
+What is a SBDC?
+
+SBDCs are a national network of nearly 1,000 centers that are located at leading universities, colleges, state economic development agencies and private partners. They provide counseling and training to new and existing businesses. Each state has a lead center that coordinates services specifically for that state, which you can find by clicking the link above. To find out more about SBDCs, visit https://americassbdc.org/about-us/.
+
+What is a WBC; is it only for women?
+
+WBCs are a national network of more than 100 centers that offer one-on-one counseling, training, networking, workshops, technical assistance and mentoring to entrepreneurs on numerous business development topics. In addition to women, WBCs are mandated to serve the needs of underserved entrepreneurs, including low-income entrepreneurs. They often offer flexible hours to meet the needs of their diverse clientele. To find out more about WBCs, visit https://www.awbc.org/.
+
+What is SCORE?
+
+SCORE provides free, confidential business advice through our volunteer network of 10,000+ business experts. You can meet with a mentor online. Find out more here
+
+Who do MBDCs serve?
+
+MBDCs are a good option for minority-owned businesses (including those owned by Black, Hispanic, Asian American/Pacific Islander, and American Indian business owners), especially those seeking to penetrate new markets -- domestic & global -- and grow in size and scale
+
+AIRLINES
+
+Why will airlines receive $29 billion in grants?
+
+The aviation industry accounts for more than 5 percent of America's GDP, contributing $1.6 million in economic activity and supporting nearly 11 million jobs. Aerospace manufacturing employs 2.5 million highly-trained and skilled workers nationwide. Airline traffic has fallen significantly as the American public has made the smart decision to stop traveling to avoid catching and spreading the virus. We need to ensure that those businesses that, through no fault of their own, are impacted by the coronavirus are able to retain their highly skilled workforces and not drive them to find new jobs. The $29 billion in grants will go directly towards employees' wages, salaries and benefits. Additionally, $3 billion in grants will go towards wages, salaries, and benefits of airline contractors, like catering and ground support staff.
+
+What other financial assistance is available to airlines and the aerospace industry?
+
+A total of $29 billion is available in loans and loan guarantees for airlines, including $25 billion for passenger airlines, aircraft repair companies, and ticket agents. $4 billion is available in loans for cargo airlines. An additional $17 billion is available in loans and loan guarantees for businesses critical to national security, including businesses in the crucial aerospace manufacturing supply chain.
+
+What protections are included for workers and taxpayers?
+
+Grants dedicated to sustaining payroll for workers will be immediately available. The bill provides additional protections for workers and taxpayers by including prohibitions on stock buybacks and dividends, and limitations on executive compensation.  Collective bargaining agreements will be protected and businesses will be required to retain employees.  The government will also receive warrants or equity in publicly traded companies to make sure the taxpayers are protected in the event of a loan or loan guarantee default. 
+
+Do the grants and loans account for impacted small and rural communities? 
+
+The Secretary of Transportation will make decisions about scheduled air transportation service deemed necessary and is directed to consider needs of small and remote communities and the need to maintain the health care and pharmaceutical supply chains. These provisions ensure that air carriers that get grants and loans are still subject to the Secretary's requirements to serve communities.
+
+ 
+
+Coronavirus: Q&A related to health care and the health care systemHOSPITALS AND HEALTH SYSTEM What financial assistance is available for hospitals, health systems and health care providers in the bill?
+
+One of the primary ways the bill supports our health system is a $100 billion fund, run through the Public Health and Social Services Emergency Fund (PHSSEF), to cover non-reimbursable expenses attributable to Covid-19. All health care entities that provide health care, diagnoses or testing are eligible for funding. Additional funding mechanisms, such as Medicare payment boosts, support for community health centers and additional appropriated funding, are discussed in more detail below.
+
+What is the process and criteria for hospitals, health systems and health care providers to receive the PHSSEF funding?
+
+The $100 billion PHSSEF fund is designed to be immediately responsive to needs. HHS is instructed to review applications and make payments on a rolling basis, in order to get money into the health system as quickly as possible. This is in contrast to a more traditional competitive grant process, under which HHS would solicit applications by a certain deadline and review all applications together -- a process that would take considerably more time. HHS will instead release the funds to health care entities on a rolling basis as qualified applications are received. As such, HHS is given significant flexibility in determining how the funds are allocated, as opposed to operating under a mandated formula or process for awarding the funds. This is to ensure that the funding is nimble enough to meet all needs and that the fund disperses money fast enough to help struggling entities. The Secretary is expected to release guidance on the application process shortly, and Congress will continue to work with the Administration to ensure that the funding and application process works as intended.
+
+What expenses qualify for funding?
+
+All non-reimbursable expenses attributable to Covid-19 qualify for funding. Examples include building or retrofitting new ICUs, increased staffing or training, personal protective equipment, the building of temporary structures and more. Forgone revenue from cancelled procedures, which has put significant strain on the health care system, is also a qualified expense. It is important to note that this fund can only be used for non-reimbursable expenses. Any expenses reimbursed or obligated to be reimbursed by insurance or other mechanisms are not eligible. The bill instructs the Secretary to establish a reconciliation process under which payments will have to be returned to the fund if other sources provide reimbursement for expenses.
+
+Can health care entities access funds under the PHSSEF if they are also eligible for funding from another government program?
+
+Yes. The language states that the funds may not be used for expenses or losses that have been reimbursed from other sources or that other sources are obligated to reimburse. Even if qualified expenses are eligible for reimbursement from another mechanism, an entity may still apply for funding from the PHSSEF fund while simultaneously applying for funding from other sources. However, should the entity subsequently receive reimbursement for expenses from any other source after receiving funding for the same expenses from the PHSSEF fund, the entity will be required to re-pay the funding it received from the PHSSEF fund. This same principal also applies to the new SBA7(a) loans Paycheck Protection Program forgivable loans, the SBA's Economic Injury Disaster Loan (EIDL) Program, and the new EIDL Emergency Grant Program..
+
+What is the process for hospitals, health systems and health care providers to apply for and receive funding under the 7(a) SBA Paycheck Protection Program?
+
+Small businesses and 501(c)(3) non-profit organizations, including hospitals, health systems, and health care providers, are eligible to apply for the Small Business Administration's Paycheck Protection Program. Through this program, a small business or organization can apply to an SBA-approved lender for a loan of up to 250% of your average monthly payroll costs to cover eight weeks of payroll as well as help with other expenses like rent, mortgage payments, and utilities. This loan can be forgiven based on maintaining employee and salary levels. For any portion of the loan that is not forgiven, the terms include a maximum term of 10 years, a maximum interest rate of 4 percent. Small businesses and organizations will be able to apply if they were harmed by COVID-19 between February 15, 2020 and June 30, 2020. To be eligible, small businesses and 501(c)(3) non-profit organizations must have fewer than 500 employees, or more if SBA's size standards for the non-profit allows. This program is retroactive to February 15, 2020, in order to help bring workers who may have already been laid off back onto payrolls. Loans are available through June 30, 2020.
+
+What support is included for community health centers?
+
+The Coronavirus Aid, Relief, and Economic Security Act provides $1.32 billion in supplemental funding for community health centers (CHCS), which are on the front lines in addressing COVID-19 in underserved communities across the country. This funding is in addition to the $100 million distributed by the Health Resources and Services Administration (HRSA) to CHCs on March 24th. Community Health Centers can also access the PHSEFF fund.
+
+If I have private insurance, will I have to pay for a coronavirus test?
+
+The Families First Coronavirus Act required that all private insurance plans cover coronavirus testing without deductibles, coinsurance, or co-pays. That bill also prohibited plans from using tools like prior authorization to limit access to testing. The CARES Act makes a technical correction to ensure that the policy covers all tests that meet the appropriate standards. Insurers also have to cover fees for visits to the ER, an urgent care center, or a doctor's office associated with getting a test without cost sharing.
+
+If I have private insurance, how does this bill affect the cost of a vaccine when one becomes available?
+
+The Affordable Care Act required that preventive services and vaccines be covered by private insurance without cost-sharing. Normally, these services and vaccines are covered starting on the first day of the plan year beginning after they get a favorable rating or recommendation from the United States Preventive Services Task Force or the Advisory Committee on Immunization Practices. This section requires that coverage without cost sharing begin fifteen days after getting a favorable rating or recommendation.
+
+MEDICARE
+
+How does this bill increase access to telehealth services for seniors and other Medicare beneficiaries?
+
+The CARES Act gives the Secretary of Health and Human Services (HHS) broad authority to allow more health care providers to provide telehealth services to Medicare beneficiaries, including in the beneficiaries' homes to avoid potential exposure to COVID-19, and provide more flexibility in terms of how those telehealth services can be provided.  Once enacted into law, the HHS Secretary must put out guidance explaining how this expanded waiver authority will be used to increase access to telehealth services for seniors and other Medicare beneficiaries.
+
+I've heard from Federally Qualified Health Centers (FQHCs) (including Community Health Centers (CHCs)) and Rural Health Clinics (RHCs) that the Administration won't allow them to use telehealth and get paid.  Does this bill help those providers deliver care via telehealth?
+
+Yes.  The CARES Act requires the HHS Secretary to provide Medicare payment to FQHCs (including CHCs) and RHCs for telehealth services provided to seniors and other Medicare beneficiaries, including in the beneficiaries' homes to avoid potential exposure to COVID-19, during the COVID-19 public health emergency.  Medicare would be required to pay the FQHC or RHC at rates similar to those for telehealth services provided from a doctor's office.  Costs associated with those telehealth services would not affect the prospective payment system for FQHCs or the all-inclusive rates for RHCs.
+
+How does this bill help clinical laboratories when it comes to Medicare?
+
+The CARES Act prevents scheduled Medicare payment cuts for clinical diagnostic laboratory tests furnished to Medicare beneficiaries in 2021.  It also delays by one year--until 2022--the upcoming reporting period during which laboratories are required to report private payor data.
+
+How much will patients have to pay for the COVID-19 vaccine once it becomes available?
+
+The CARES Act ensures that the vaccine itself and its administration is free to beneficiaries with Medicare Part B and those with Medicare Advantage who receive the vaccine from an in-network provider.
+
+Additionally, the Families First Coronavirus Act required that all private insurance plans cover coronavirus testing without deductibles, coinsurance, or co-pays. That bill also prohibited plans from using tools like prior authorization to limit access to testing. The CARES Act makes a technical correction to ensure that the policy covers all tests that meet the appropriate standards. Insurers also have to cover fees for visits to the ER, an urgent care center, or a doctor's office associated with getting a test without cost sharing.
+
+The Affordable Care Act required that preventive services and vaccines be covered by private insurance without cost-sharing. Normally, these services and vaccines are covered starting on the first day of the plan year beginning after they get a favorable rating or recommendation from the United States Preventive Services Task Force or the Advisory Committee on Immunization Practices. This section requires that coverage without cost sharing begin fifteen days after getting a favorable rating or recommendation.
+
+How will seniors access the medications they need while also being told it's better to stay at home? In the past, Medicare drug plans only let beneficiaries receive a 30 day supply of their prescription.
+
+Under the CARES Act, during the COVID-19 Public Health Emergency (PHE) a senior on Medicare can get up to 90 days of a prescription if that is what the doctor prescribed, as long as there are no safety concerns. Medicare drug plans will also allow beneficiaries to fill prescription early for refills up to 90 days, depending on the prescription.
+
+Hospitals are facing cash flow challenges due to canceling elective services. Is there anything in this bill to help hospitals stay afloat, even temporarily? 
+
+The COVID-19 emergency has created significant cash flow concerns for many hospitals. Hospitals need reliable and stable cash flow to help them maintain and support their workforce, buy essential supplies, create additional infrastructure, and keep their doors open to care for patients. During the COVID-19 public health emergency (PHE), the CARES Act creates the opportunity for hospitals to receive accelerated payments.  Specifically, acute care hospitals, critical access hospitals (CAHs), children's hospitals, and prospective payment system-exempt cancer hospitals (PCHs) will be able to request accelerated Medicare payments for inpatient hospital services. This is an expanded set of hospitals compared with the existing accelerated payment program.
+
+Rather than waiting until claims have been processed to issue payment, Medicare will work with qualified and interested hospitals to estimate their upcoming payments and give that money to the hospital in advance. Qualified facilities can request a lump sum or periodic payment reflecting up to six months of Medicare services. Accelerated payments must be repaid to Medicare, however a qualifying hospital would not be required to start paying Medicare back for four months after receiving the first payment. Hospitals would have at least 12 months to complete repayment without paying interest.
+
+Hospitals interested in receiving accelerated payments should contact their Medicare Administrative Contractor (MAC).  To learn which MAC to contact, please look here.
+
+Does the bill give additional flexibility for hospice providers?
+
+Yes. In order for a qualified beneficiary to receive hospice benefits, a hospice physician or nurse practitioner must certify their eligibility.  Typically, a recertification must be done in person.  The CARES Act allows hospice physicians and nurse practitioners to conduct these visits via telehealth for the duration of the PHE.
+
+Many hospitals are concerned that there aren't enough ICU beds to take care of those with COVID-19, and inpatient rehabilitation hospitals (IRF) and long-term care hospitals (LTCH) are trying to help build capacity.  However, current rules and regulations won't allow them to take certain patients.  What does The CARES Act do to help? 
+
+The CARES Act makes changes to both IRFs and LTCHs to provide hospitals with more flexibility when discharging patients in order to maximize bed capacity. It also opens up existing beds at IRFs and LTCHs to increase the availability of post-acute services.
+
+Currently, in order to be admitted to an IRF, Medicare patients must be expected to participate in at least three hours of intensive rehabilitation at least five days per week (also known as the "three-hour rule"). The CARES Act waives this requirement so that IRFs have the ability to accept more patients who may otherwise be sent to other post-acute facilities, such as nursing homes. 
+
+Patients who are admitted to LTCHs usually must meet certain clinical criteria for an LTCH to receive a higher Medicare payment.  If less than half of an LTCH's patients meet these criteria, they are no longer eligible to receive any LTCH payments. The CARES Act waives both of these policies for the duration of the PHE so that LTCHs may accept as many patients as necessary at their LTCH rate, without regard to the clinical criteria.  By waiving these criteria, an LTCH will be able to take more patients from an acute care hospital and still get paid.
+
+With more patients needing to stay at home, and a growing concern over health care workforce shortages due to COVID-19, how does The CARES Act help those who depend on the home health benefit? 
+
+Under current law, only physicians are able to certify the need for home health services. The CARES Act makes a permanent, statutory change to allow physician assistants, nurse practitioners, and clinical nurse specialists to order home health services for beneficiaries, reducing delays and increasing beneficiary access to care in the safety of their home.
+
+The CARES Act also directs the Secretary of Health and Human Services (HHS) to encourage the use of telecommunications systems, including remote patient monitoring, to deliver home health services consistent with the beneficiary care plan during the COVID-19 emergency period. This allows patients to receive certain home health services without a provider entering their home.
+
+Treating patients with COVID-19 is very resource intensive for hospitals. How will Medicare ensure that hospitals are adequately reimbursed for treating COVID-19 patients?
+
+The CARES Act increases Medicare reimbursement to care for a COVID-19 patient by 20 percent (specifically, the Act increases the weighting factor of DRGs for inpatients diagnosed with COVID-19 by 20 percent).  This add-on payment for inpatient hospital services recognizes the increased costs incurred by providers and will be applied for the duration of the COVID-19 emergency.
+
+If a hospital has not treated any cases of COVID-19, are there other ways it can benefit from the Medicare policies in the bill?
+
+Yes. The CARES Act temporarily lifts the Medicare sequester, effectively adding an additional two percent for services provided from May 1 through December 31, 2020. This will boost payments for hospital, physician, nursing home, home health, and other care, giving prompt economic assistance to health care providers that treat Medicare patients.
+
+If a patient has COVID-19 and has to enter the hospital, can their regular personal care attendant, who they depend on at home, still help while the patient is in the hospital?
+
+Under the CARES Act, state Medicaid programs now have the ability, should they choose to pick up the option, to allow direct support professionals to continue to provide care and services for patients they are supporting in the hospital, including seniors and individuals with disabilities.
+
+ 
+
+Coronavirus: Q&A related to educationHIGHER EDUCATION
+
+Is there any aid that the public universities are eligible for?
+
+Yes. Under the Education Stabilization Fund, just over $13.9 billion is available for a Higher Education Emergency Relief Fund for institutions of higher education to directly support students facing urgent needs related to coronavirus and to support colleges and universities as they cope with the immediate effects of coronavirus and school closures. From this amount, just over $12.5 billion will be available to all institutions of higher education based on the proportion of Pell and non-Pell full-time-equivalent students who were not enrolled exclusively in distance education prior to the coronavirus emergency. Public colleges will receive the vast majority of funding under this formula. Over $1 billion in additional funding is also provided to minority-serving institutions and HBCUs, many of which are public colleges and universities. Finally, $348 million is available to the Secretary to provide grants to institutions that have the greatest unmet needs related to the coronavirus.
+
+$3 billion is also available in flexible formula funding to allow Governors to address the needs of their elementary and secondary schools and institutions of higher education. Public colleges can therefore be eligible for additional funding if the Governor determines they have been most significantly impacted by the coronavirus or if the Governor deems such institution essential for carrying out emergency educational services to students, such as child care and early childhood education and social and emotional support.
+
+What forms of relief are students impacted by COVID-19 eligible for?
+
+Students will be eligible for emergency financial aid grants from their institutions to meet unexpected and urgent needs related to the coronavirus, such as expenses related to food, housing, course materials, technology, health care, and child care. Students who are currently participating in the Federal Work Study program can continue to receive work-study payments from their institution if they are unable to work due to workplace closures.
+
+Relief also exists for students who must drop out of school due to COVID-19. Students will have the portion of their student loan taken out for the semester (or equivalent) canceled. Further, students who received a Pell Grant or subsidized student loan will not have those types of financial aid counted toward their lifetime limits.
+
+What relief is provided to federal student loan borrowers?
+
+Borrowers do not need to make payments on student loans held by the federal government (Direct Loans and FFEL Loans held by the U.S. Department of Education) through September 30, 2020. Borrowers with commercially-held FFEL loans and Perkins Loans are not eligible, and private student loan borrowers are also not eligible. No interest will accrue on such loans for the same time period. This provides more than 37 million borrowers with relief from the financial pressure of making monthly payments for approximately six months.
+
+During this period, borrowers will not be subject to involuntary collections (garnishment of wages, tax refunds, and Social Security benefits) and will not have any negative credit reporting for late payments during this time period. Student borrowers will continue to receive credit toward Public Service Loan Forgiveness, Income-Driven Repayment forgiveness, and loan rehabilitation even though they will not be making payments. If borrowers want to continue making payments during this time to pay down principal and previously accrued interest (since no interest is accruing as of March 13) they are free to do so.
+
+When will payments resume for federal student loan borrowers?
+
+Starting August, student loan borrowers will receive notices to help inform them that their regular loan payments and interest accrual will resume after September 30, 2020. These notices will help protect borrowers by providing them with a transition period to stay on track as regular loan payments resume and to offer them the option to enroll in other relief options (such as income-driven repayment, which can lower a borrower's monthly payment).
+
+I'm currently enrolled in a foreign institution abroad and am hearing that I might lose my student loans if I take classes online. Does this bill help me?
+
+Yes. The CARES Act allows the U.S. Secretary of Education to permit a foreign institution to offer any part of its program through distance education if there is a public health emergency or other disaster or emergency declared by the government authorities in the country where the college is located. These distance education programs may be offered for the length of the emergency or disaster and the following payment period, to ensure students can maintain their student loans and finish out their coursework before reverting back to in-person instruction.
+
+I'm currently enrolled in a foreign institution abroad and due to personal circumstances would like to take part of my coursework at another foreign college or a college in the U.S. Can I do so and maintain my student loans?
+
+As long as there is still a public health emergency or other major disaster or emergency related to the coronavirus declared by U.S. government officials, then you may take part of your coursework at a U.S. institution of higher education with which your home institution (the foreign institution) enters and is permitted by the U.S. Secretary of Education, and maintain your student loans. This allows you to maintain your primary enrollment in your degree program with your original foreign institution, but gives you flexibility to take some coursework back in the U.S. if you need to come home. However, the CARES Act only allows this flexibility with U.S. institutions of higher education, and not other foreign institutions that are not already eligible for the federal student loan program.
+
+I am an administrator at a foreign institution and my college had to transition to distance education before the CARES Act was passed. We encouraged our American students with student loans to continue taking their coursework online even though they were not permitted to at the time due to existing requirements in the Higher Education Act. Will our program lose eligibility for U.S. student loans?
+
+The CARES Act recognizes that many institutions had to transition to distance education well before the Act was passed. If the program at the foreign institution was otherwise in compliance with requirements for federal student loan eligibility but transitioned to distance education between March 1, 2020 and the date of this Act's enactment, then that program will be deemed eligible for the federal student loan program. That eligibility will last the length of the public health emergency or other major disaster or emergency related to the coronavirus, as declared by U.S. government officials, and the following payment period. After that point, the program must return to its original in-person instruction delivery mode in order to maintain eligibility for federal student loans. If your college transitions to distance education during the 2019-2020 award year, you must report that change to the U.S. Secretary of Education by June 30, 2020. If your college transitions to distance education on or after July 1, 2020, then you must report that change to the Education Secretary within 30 days.
+
+Does the six-month suspension of payments and waiver of interest apply to borrowers who have federally-guaranteed but commercially-held loans through the FFEL and Perkins Loan Programs?
+
+No. The suspension only applies to all Direct Loans and FFEL loans held by the Department Education (which is about 25% of the FFEL portfolio). Approximately 37 million borrowers (or 87 percent of federal student loan borrowers in repayment) will receive relief under this plan. This is not the plan Senate Democrats would have written on their own, and will be continuing to fight to extend relief to borrowers of commercially-held FFEL loans and Perkins Loans
+
+Does the sixty-day protection from involuntary collections apply to these FFEL and Perkins borrowers? 
+
+No.
+
+Will outstanding interest on student loans capitalize during the six-month suspension of payments and waiver of interest?
+
+During the six-month period until September 30, 2020 when payments are suspended, interest is also not accruing on federally-held loans. Therefore, there is no interest cannot capitalize (be added to the principal) on the loan. It remains unclear how interest that accrued prior to March 13th will be treated as this decision is left up to the Secretary of Education, but Senate Democrats will be strongly encouraging the Secretary not to penalize borrowers. Generally, interest only capitalizes when you leave deferment, forbearance, or income-driven repayment. Borrowers who do not change their loan repayment, or who move from "standard" to "income-driven" plans do not risk any capitalization.
+
+K-12 EDUCATION How will funds under the Education Stabilization Fund flow to school districts?
+
+Funds will be allocated on the same basis as the Title I-A formula under the Elementary and Secondary Education Act (ESEA).
+
+Can funding for schools be used to support online or distance learning for students?
+
+Yes. Funds that school districts receive under the Education Stabilization Fund may be used to purchase broadband connectivity and educational technology for students, including computers, tablets, software, and hotspots. Funds may also be used to purchase assistive technology or adaptive equipment for students with disabilities, and to support professional development for educators and other school staff to support online learning.
+
+How can funds be used to support students and families experiencing homelessness?
+
+School districts may use funds under the Education Stabilization Fund for any activity authorized under subtitle B of title VII of the McKinney-Vento Homeless Assistance Act. Additionally, school districts have broad flexibility to use funds to meet the unique needs of students experiencing homelessness and purchase educational technology or broadband connectivity for such students.
+
+Do students who attend private schools get any relief?
+
+Yes. Under the Education Stabilization Fund, school districts that receive funding have to provide equitable services to low-income children who attend private schools in the same manner as they provide those services under the ESEA.
+
+Can Betsy DeVos waive any provision of the Elementary and Secondary Education Act?
+
+No. The waiver authority provided under Section 3511 largely restates the authority she has under the ESEA. Section 3511 does establish an expedited process for certain waivers and does permit Secretary DeVos to waive the Title I carryover provision and Section 421(b) of the General Education Provisions Act (GEPA) to allow federal grantees to spend their federal education funds over a longer time period. Otherwise, the provisions included in Section 3511 are already waivable under ESEA and do not constitute new, broad authority for Secretary DeVos.
+
+Can Betsy DeVos waive any provision of the Individuals with Disabilities Education Act (IDEA)?
+
+No.  Secretary DeVos will provide a report to Congress in 30 days on her recommendations for waivers under IDEA.  However, it would take an act of Congress to implement any of her recommendations.  No new waiver authority was granted to Secretary DeVos for IDEA under CARES.
+
+Coronavirus: Q&A related to state, local and tribal governments AID TO STATES AND MUNICIPALITIES
+
+How much money do states and municipalities receive?
+
+In total, states and municipalities will receive $150 billion.  Reserved within that amount is $8 billion for Indian Tribes and $3 billion for DC and U.S. Territories.
+
+What can the allocated funding be used for?
+
+Necessary expenditures incurred due to the COVID-19 public health emergency or state and local expenditures not accounted for in the most recent approved budget.  Only applies to expenditures incurred between March 1 and December 30, 2020.
+
+What is the formula for state, county and city assistance?
+
+Funds are allocated proportionally based on state population.  No state that is one of the 50 states will receive less than $1.25 billion. Localities with more than 500,000 people can apply directly to Treasury for their relative share by population (compared to the state's total population) of 45 percent of the total allocated to a state.
+
+How can a state, territory, or local government unit apply?
+
+Treasury will automatically award each state its share within 30 days.  Qualifying localities, however, must apply to Treasury to access their share of state funds.
+
+STATE-LOCAL CORONAVIRUS RELIEF FUND
+
+What can this money be used for?
+
+The Coronavirus Relief Fund makes available $150 billion to States, Indian tribes, territories and units of local government for necessary expenditures incurred due to the public health emergency with respect to COVID-19. Eligible expenditures are those made between March 1, 2020, and December 30, 2020, and must not have been accounted for in the most recently approved budget.  This funding is available directly to states and localities from Treasury and requires no state or local matching requirement. The Treasury Secretary has pledged to Leader Schumer that the funds will be deployed quickly and flexibly. 
+
+How is it distributed to states/localities?
+
+Of the $150 billion total, $3 billion is set aside for the District of Columbia, Puerto Rico and the territories. $8 billion is set aside for Indian tribes. 
+
+Out of the funding available to the 50 states, payments to states are allotted proportionally based on their share of the U.S. population according to the latest annual data from the Bureau of the Census. States are guaranteed a minimum payment of $1.25 billion.  
+
+Out of each state's share of funding, up to 45 percent is set aside for units of local government to apply for directly to the Secretary of the Treasury. Units of local government larger than 500,000 persons can receive this funding, and a locality's share will be equal to its share of the state population multiplied by the 45% set aside for local governments. Any funding remaining once eligible localities have applied is awarded to the State.
+
+Why cannot smaller localities apply for this funding? 
+
+Treasury explained that because localities can apply directly to the Secretary, it would not be feasible administratively to have all local units of government of any size to directly access this funding. Localities of any size can still work with their State governments to access funding.
+
+ 
+
+TERRITORIES AND FREELY ASSOCIATED STATES
+
+Are the territories eligible for aid in this package?
+
+Yes, Puerto Rico, U.S. Virgin Islands, Guam, the Northern Mariana Islands, American Samoa are eligible for the new Pandemic Unemployment Assistance program, which benefits individuals who do not qualify for regular unemployment compensation and are unable to work because of the COVID-19 public health emergency. All territories are also eligible for the individual rebates. In addition, nutrition assistance is available through the existing supplemental nutrition assistance program (SNAP) for the U.S. Virgin Islands and Guam and through additional funding made available to Puerto Rico, the Northern Mariana Islands and America Samoa to ensure individuals and families receive the food they need. 
+
+Are the freely associated states eligible for aid in this package?
+
+Yes, the Republic of Palau, the Federated States of Micronesia and the Republic of the Marshall Islands are eligible for the new Pandemic Unemployment Assistance program, which benefits individuals who do not qualify for regular unemployment compensation and are unable to work because of the COVID-19 public health emergency.
+
+ 
+
+WORKFORCE
+
+I serve on a Workforce Development Board and I am concerned about the ability of our American Job Centers to provide career and employment services remotely. What can be done to assist?
+
+The CARES Act allows for workforce funds to be shifted to areas of need so that local boards are able to address immediate challenges, such as moving services offered by American Job Centers online.
+
+ 
+
+TRIBES, TRIBAL ORGANIZATIONS, AND TRIBAL ENTERPRISES
+
+How can Tribes apply for the Coronavirus Relief fund?  Are there limitations?
+
+Once enacted, the Treasury Secretary will consult with the Interior Secretary and Tribes to develop the specific method for applying for and distributing the $8 billion reserved for Indian Tribes and Tribal enterprises in the Coronavirus Relief Fund.  The CARES Act specifies that the Secretary can only provide funding to cover additional expenditures incurred by Tribes or Tribal enterprises in 2020 compared to expenses incurred in 2019.  Tribes should be able to work with the Secretaries of Treasury and the Interior to help determine how this calculation is made.  
+
+How will the $2+ billion emergency supplemental funding for federal Indian programs be distributed?  Will it be competitive? 
+
+Distribution will be conducted on a case-by-case basis for each federal Department.  Some Departments may opt to utilize existing funding streams, but Congress's intent is that all Departments engage in direct consultation with Tribes on how to distribute these emergency supplemental funds.  Congress will also conduct strong oversight to ensure the distribution process for CARES Act funds will be smoother and more efficient than Tribes and urban Indian health centers reportedly experienced under previous COVID-19 packages.
+
+My Tribal government closed its businesses due to the virus.  What relief is available to recoup employee salaries and other expenses?
+
+Tribal business concerns are eligible for increased government loan guarantees under the Small Business Act Section 7(a) Paycheck Protection Program, which will provide 100% federal loan guarantees up to $10 million to cover costs like employee salaries, paid sick leave/medical leave, mortgages/rents, and health insurance premiums.
+
+Instead of paying traditional unemployment insurance premiums, my Tribe/Tribal business opts to pay a dollar-for-dollar reimbursement to State unemployment programs for any unemployment costs incurred by former Tribal employees.  Will my Tribe/Tribal business be eligible for the CARES Act unemployment insurance reimbursements?
+
+Yes.  Through the Emergency Unemployment Relief for Governmental Entities and Nonprofit Organizations provision, the CARES Act reduces the amount Indian Tribes and their Tribally-owned business entities are required to reimburse states for benefits paid to their workers who claim unemployment insurance by 50 percent through December 31, 2020.  Tribes and Tribal businesses that incur additional unemployment insurance costs in 2020 are also eligible to make a claim for reimbursement through the Tribal Coronavirus Relief Fund. 
+
+Are all Bureau of Indian Education schools, including Tribally operated 638 contract and 297 grant schools, eligible to receive waivers for federal education law requirements that will be difficult/impossible to comply with due to COVID-19 related school closures (e.g., annual testing and reporting requirements)? 
+
+The CARES Act gives the Department of Education the authority to grant BIE schools and Indian Tribes waivers of certain federal education laws under Elementary and Secondary Education Act (ESEA), the Individuals with Disabilities Act (IDEA), and the Higher Education Act (HEA). To ensure all students' rights are protected while schools have the flexibilities they need under the COVID-19 crisis, Congress authorized these waivers to cover a range of topics (e.g., annual testing, reporting, and annual funding use limitations) but prohibited universal exemptions for all federal education laws.  As such, Tribes are encouraged to check Department of Education websites and communications over the coming days for specific lists of federal statutory provisions that are eligible for waivers.  To design the application process for waivers under this authority, the Secretary of Education will create a streamlined waiver applications process for this academic year only. 
+
+The IHS health clinics serving my Tribe are dangerously low on personal protective equipment and other medical supplies.  Does the CARES Act provide any resources to help us make sure our health workers have the supplies they need?
+
+Yes.  The CARES Act will provide Indian Tribes and the IHS with $15 million in emergency supplemental funding through the Public Health and Social Service Emergency Fund to purchase personal protective equipment (PPE) and other medical supplies.  Additionally, the CARES Act provides the IHS with over $1 billion in flexible emergency supplemental funding that can be used for procurement of PPE and other medical supplies, including health IT for public health data surveillance.  IHS will work with Tribes and urban Indian health centers over the coming days to determine how these funds will be distributed.
+
+Many of my Tribal Members enrolled in school are being asked to complete class work online, but Internet access is very limited on my reservation and many families can't afford the computer equipment needed for online distance learning.  Are there resources to help address this learning gap for Native students?
+
+The CARES Act includes $25 million for Distance Learning and Telemedicine (DLT) Program, administered by the Rural Utility Service.  Funding goes toward initial capital assets for equipment (e.g., video conferencing equipment, computers) that operate via telecommunications to rural end-users of telemedicine and distance learning. Broadband facilities (if owned by the applicant) are also eligible. Federally recognized tribes are eligible to apply for DLT grants. Approved purposes can be found at 7 CFR part 1734.31, which can be found here. 
+
+The CARES Act also includes $100 million for the Re-connect program (Broadband Loan and Grant Program), which offers loans and grants to build infrastructure and install equipment that provides modern, reliable, high-speed Internet service in rural America. The ReConnect program offers three products: 100% Loans, 50% Loan-50% Grant combinations, and 100% Grants.  To be eligible, at least 90% of the households to be served by a project receiving a loan or grant under the pilot program must be in a rural area without sufficient access to fixed broadband at a minimum speed of 10 Mbps/1 Mbps. Wireless and satellite is not eligible. Additional information about the Re-connect program can be found here. 
+
+Finally, the CARES Act includes flexible direct support through the Departments of Education and the Interior for BIE-funded schools (i.e., federally-operated, Tribal 638 contract, and Tribal 297 grant) as well as Tribal Colleges and Universities to address needs such as student IT. Specifically, the CARES Act will provide $69 million to BIE at the Department of Interior to address the needs of Tribal K-12 and higher education schools.  Tribes should reach out to the BIE to receive guidance on how these funds will be distributed.  Congress also provided $30.75 billion to establish an Education Stabilization Fund that BIE-funded schools and Tribal Colleges and Universities will qualify for.  Tribes should reach out to the Department of Education for guidance on how and when these funds will be distributed.
+
+Are there any additional health resources for Indian Tribes and urban Indian health clinics outside of the IHS in the CARES Act?
+
+Yes.  In addition to the $1+ billion in emergency supplemental funding for IHS in the CARES Act, Indian Tribes will receive health-specific resources from HRSA, CDC, SAMHSA, and the Public Health and Social Services Emergency Fund.  Specifically, Indian health entities will received: 
+
+$15 million for telehealth/rural health COVID-19 activities emergency supplemental funding at the HRSA; $15 million in emergency supplemental funding at SAMHSA;$15 million in emergency supplemental funding reserved for Indian health entities under the Public Health and Social Services Emergency Fund; and$120 million in emergency supplemental funding reserved for Indian health entities at the CDC.Are urban Indian health centers eligible for any CARES Act resources?
+
+Yes.  Urban Indian health centers are eligible for funding through the $1+ billion in emergency supplemental funding for IHS in the CARES Act; the $15 million for telehealth/rural health COVID-19 activities emergency supplemental funding at the HRSA; the $15 million in emergency supplemental funding at SAMHSA; the $15 million in  in emergency supplemental funding reserved for Indian health entities under the Public Health and Social Services Emergency Fund; and the $120 million in emergency supplemental funding reserved for Indian health entities at the CDC.
+
+My Tribe needs to set up COVID-19 response child care coverage to help the families of health care workers, emergency personnel, and other "front line" workers. Will the CARES Act help with this?
+
+Yes.  The CARES Act provides Tribes with two options to address this concern. First, Tribes can opt to receive reimbursement for any of these expenses through the $8 billion Tribal Coronavirus Relief Fund operated by the Department of Treasury.  Second, Tribes that operate child care centers through the Department of Health and Human Services' Indian Child Care Development Block Grant Program will receive a portion of the emergency supplemental funding appropriated by Congress for this program.
+
+Coronavirus: Q&A related to veteransVETERANS AFFAIRS
+
+What support is included for VA health care facilities and their COVID-19 response?
+
+The CARES Act includes $19.57 billion in funding to ensure the Department of Veterans Affairs (VA) has the equipment, tests, telehealth capabilities and support services necessary to support veterans and the health care workforce at facilities nationwide.
+
+I am a veteran living in a rural area and am being told that my appointments will now be through telehealth, but I can't afford internet services or don't have a good internet connection. How will this bill help me?
+
+Talk to your provider and local VA about getting an iPad or other tablet from VA. This bill allows VA to enter into partnerships with local telecommunications companies to subsidize or completely pay for broadband internet services. Call your local VA facility or send a secure message to your provider on My HealtheVet to ask about this option.
+
+I run a State Veterans Home. Will I be penalized if my residents come down with COVID-19 and are transferred to acute care, putting me under the 90% occupancy rate threshold needed for payment from VA?
+
+No. Under Section 20005 of the CARES Act, State Veterans Homes will continue to receive payment from VA during the COVID-19 pandemic, even if they don't meet the 90% occupancy rate or the 75% veteran occupancy rate requirements for per diem payment.
+
+I run a State Veterans Home and I don't have enough PPE or supplies. What support can VA provide?
+
+In addition to requesting emergency supplies and PPE from your county or state emergency coordinator, Section 20005 of the CARES Act also allows VA to share PPE and supplies with State Veterans Homes to keep residents and staff safe.
+
+I'm a veteran in need of home-based care. Can I still enroll or renew my participation in the Veteran Directed Care program?
+
+Yes. Under Section 20006 of the CARES Act, you can enroll or renew your participation in the Veteran Directed Care program through telephone or telehealth, no in-home visit required.
+
+I run an area agency on aging or other agency that provides services to veterans in the Veteran Directed Care program. Our county is telling us to limit face-to-face services and home visits. Can I still process new participants and renewals?
+
+Yes. Under Section 20006 of the CARES Act, agencies can now enroll or renew veterans in the Veteran Directed Care program through telephone or telehealth, no in-home visit required.
+
+I'm a veteran using the Veteran Directed Care program for home-based care, but I can't get to a printer or post office to send in my renewal paperwork due to COVID-19. Will I be kicked out of the program?
+
+No. Under Section 20006 of the CARES Act, veterans and their caregivers will not be penalized for late paperwork and will not be dis-enrolled or suspended from the program.
+
+I'm a veteran using the Veteran Directed Care program for home-based care, but I am currently living outside of my home state and can't travel home due to COVID-19 restrictions and health concerns. Can my caregiver still be paid for services, even if we are out of state?
+
+Yes. Under Section 20006 of the CARES Act, veterans and their caregivers will not be penalized for being out of state for more than 14 days during the COVID-19 emergency, and should continue to receive payments for care.
+
+I use VA's prosthetics service and need to get my prosthetic adjusted, but am nervous to go into a VA facility because I have underlying conditions that make me more at risk of complications from COVID-19. Where can I go to get my prosthetic adjusted?
+
+This bill gives VA more flexibility to allow veterans who need their prosthetics created or adjusted to do so in their local community. Call your local VA provider or message them on MyHealtheVet and ask about this option.
+
+I'm a VA employee working lots of overtime due to COVID-19. Can I still receive overtime pay for hours worked, even if it puts me above the Federal pay caps?
+
+Yes. Under Section 20008 of the CARES Act, any VA employee involved in COVID-19 response efforts can receive pay for all hours worked, even above the normal pay caps, for work done in support of VA's response to COVID-19.
+
+I'm a home health care worker for the VA, can I receive PPE for providing home care services to veterans?
+
+Yes. Under Section 20009 of the CARES Act, VA must provide PPE to any home health worker employed by or contracted with VA to provide services to veterans.  
+
+I'm a veteran receiving pension and health care benefits from VA. Will the emergency income from the CARES Act (the Recovery Rebate) count towards my income for determining my eligibility for pension, health care, and other needs-based benefits?
+
+No. Under Section 20010 of the CARES Act, the 2020 Recovery Rebate payment cannot be counted as income when determining a veteran's eligibility for any VA needs-based benefits. 
+
+I am a VA HUD-VASH caseworker, how can I make sure I am keeping up with my veterans in the HUD-VASH program?
+
+This bill encourages VA to use more telehealth capabilities for yourself and your veterans. Call each other or use Apple FaceTime, Facebook Messenger Video Chat, Google Hangouts Video, or Skype. Ask your local VA about access to an iPad or other tablet for you or your veterans to use to facilitate virtual meetings.
+
+I am a Grant and Per Diem provider. Will I be able to keep my veterans enrolled after they are absent for 14 days?
+
+Yes. This bill waives VA's requirement to automatically dis-enroll veterans using the GPD program if they are absent more than 14 days.
+
+Will I continue to get paid for veterans who are absent from my program for more than 3 days?
+
+This bill gives VA the authority to pay GPD providers for a veteran even if they are absent from the program for more than 3 days. Contact your local VA about this option.
+
+Will I get paid the same amount as before?
+
+This bill waives the current limit on the amount VA can pay GPD providers during the COVID-19 emergency. Contact your local VA about this option. This bill includes additional funding for VA to increase payments to many service providers, including the GPD program.
+
+I am an SSVF provider. How does this bill allow me to continue to help homeless veterans?
+
+This bill includes additional funding for VA to increase payments to many service providers, including the SSVF program. For more information about how to help veterans during COVID-19, visit https://www.va.gov/homeless/ssvf/.
+
+I run a veteran-owned small business. Can the CARES Act help me?
+
+Yes. If you are a veteran-owned small business, you can receive support through the Small Business Paycheck Protection Program to cover 8-weeks of your payroll, the mortgage interest, rent, and utility costs. There will be up to 100% loan forgiveness options for a veteran-owned small businesses that protects/fully maintains their workers. 
+
+I have a VA-backed mortgage, am I protected against foreclosure during the COVID-19 emergency declaration?
+
+Yes, under CARES Act Section 4022, federally backed mortgages, including those guaranteed or insured by the VA are protected from foreclosure for 60 days beginning on March 18, 2020. If borrowers are facing financial hardship, they can by requesting a forbearance for up to 6 months, with a possible extension for another 6 months, through their mortgage holder. 
+
+ 
+
+STUDENT VETERANS
+
+My school is converting to online education because of COVID-19, will I still receive my housing allowance?
+
+Yes, with the passage of Senate Bill 3503 into law, VA will continue to make housing allowance payments to students using VA education benefits at the on campus rate, if the school converted to online education due to COVID-19.

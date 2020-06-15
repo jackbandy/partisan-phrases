@@ -1,0 +1,6 @@
+Sasse Statement on SBA Data Breach
+
+
+U.S. Senator Ben Sasse issued the following statement regarding a Small Business Administration data breach:
+
+"Americans are fighting to keep their businesses alive and the last thing they should have to worry about is whether or not their federal government is competent enough to protect their personal information. We absolutely know that databases of social security numbers, addresses, and birth dates are ripe targets. Washington has got to get it together. This is a great example of why the Cyberspace Solarium Commission is clear-eyed about cyber expertise lying primarily within the private sector. In addition to calling for beefing up the Cybersecurity and Infrastructure Security Agency, the Commission proposes that the government find new ways to operationalize collaboration with the private sector."

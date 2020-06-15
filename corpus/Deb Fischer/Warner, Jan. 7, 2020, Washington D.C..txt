@@ -1,0 +1,32 @@
+Warner, Fischer Announce Growing Support For Protecting Consumers Against Dark Patterns Online
+
+
+Today, U.S. Sens. Mark R. Warner (D-VA) and Sen. Deb Fischer (R-NE) announced two new bipartisan co-sponsors for their legislation to protect consumers from being tricked into giving away their personal data online. Sens. Amy Klobuchar (D-MN) and John Thune (R-SD), two senior members of the Senate Commerce Committee, have co-sponsored the Warner-Fischer legislation to prohibit large online platforms from using deceptive user interfaces, known as "dark patterns" to trick consumers into handing over their personal data.
+
+ 
+
+"Whether you bought Christmas gifts online, downloaded a new messaging app, or tried to navigate a major browser's byzantine privacy settings, chances are you were a victim of a dark pattern. In fact, if you wanted to score that extra discount at checkout, these design tactics most likely manipulated you into handing over more than just your email address to get that deal," Sen. Warner. "I'm grateful to have the support of Sen. Klobuchar and Sen. Thune on this important bill to make sure Americans have more transparency about, and control over, their interactions online."
+
+ 
+
+"Nearly every time Americans use a new app on our smart phones or browse social media from our laptops, we run into dark patterns. These unethical tricks online platforms use as they battle to capture attention and manipulate users must be stopped. I am pleased to have expanded bipartisan support for this legislation that combats risks to consumer choice and privacy online," said Sen. Fischer.
+
+ 
+
+"Dark patterns are manipulative tactics used to trick consumers into sharing their personal data. These tactics undermine consumers' autonomy and privacy, yet they are becoming pervasive on many online platforms," said Sen. Klobuchar. "This legislation would help prevent the major online platforms from using such manipulative tactics to mislead consumers, and it would prohibit behavioral experiments on users without their informed consent."d 
+
+"We live in an environment where large online operators often deploy manipulative practices or "dark patterns' to obtain consent to collect user data, so I'm glad this bills takes meaningful steps to advance consumer transparency," said Sen. Thune. "I particularly applaud the provisions of this bill that require large online operators to be more transparent about when users are subject to behavioral or psychological research for the purpose of promoting engagement on their platforms. I want to thank Sens. Warner and Fischer for leading this effort, and I'm glad to join them and Sen. Klobuchar in cosponsoring this important legislation."
+
+ 
+
+The bipartisan Deceptive Experiences To Online Users Reduction (DETOUR) Act aims to curb manipulative dark pattern behavior by prohibiting the largest online platforms (those with over 100 million monthly active users) from relying on user interfaces that intentionally impair user autonomy, decision-making, or choice. Specifically, the legislation:
+
+ 
+
+-Enables the creation of a professional standards body, which can register with the Federal Trade Commission (FTC), to focus on best practices surrounding user design for large online operators. This association would act as a self-regulatory body, providing updated guidance to platforms on design practices that impair user autonomy, decision-making, or choice, positioning the FTC to act as a regulatory backstop.-Prohibits segmenting consumers for the purposes of behavioral experiments, unless with a consumer's informed consent. This includes routine disclosures for large online operators, not less than once every 90 days, on any behavioral or psychological experiments to users and the public. Additionally, the bill would require large online operators to create an internal Independent Review Board to provide oversight on these practices to safeguard consumer welfare. -Prohibits user design intended to create compulsive usage among children under the age of 13 years old.-Directs the FTC to create rules within one year of enactment to carry out the requirements related to informed consent, Independent Review Boards, and Professional Standards Bodies. 
+
+Sen. Warner has been raising concerns about the implications of social media companies' reliance on dark patterns for several years. In 2014, Sen. Warner asked the FTC to investigate Facebook's use of dark patterns in an experiment involving nearly 700,000 users designed to study the emotional impact of manipulating information on News Feeds.
+
+ 
+
+Sen. Warner is also recognized as one of Congress' leading voices in an ongoing public debate around social media and user privacy. He has written and introduced a series of bipartisan bills designed to protect consumers and promote competition in social media. The Designing Accounting Safeguards to Help Broaden Oversight And Regulations on Data (DASHBOARD) Act will require data harvesting companies such as social media platforms to tell consumers and financial regulators exactly what data they are collecting from consumers, and how it is being leveraged by the platform for profit.? The Honest Ads Act will help prevent foreign interference in future elections and improve the transparency of online political advertisements. The Augmenting Compatibility and Competition by Enabling Service Switching (ACCESS) Act is a bipartisan bill to encourage market-based competition to dominant social media platforms by requiring the largest companies to make user data portable -- and their services interoperable -- with other platforms, and to allow users to designate a trusted third-party service to manage their privacy and account settings, if they so choose.

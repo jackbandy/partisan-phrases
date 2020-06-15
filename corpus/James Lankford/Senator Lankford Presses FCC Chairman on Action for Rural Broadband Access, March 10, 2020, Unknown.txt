@@ -1,0 +1,40 @@
+Senator Lankford Presses FCC Chairman on Action for Rural Broadband Access, Stopping Use of Contraband Cellphones in Prisons
+
+
+Senator James Lankford (R-OK) today questioned Federal Communications Commission (FCC) officials at a Senate Appropriations Committee Subcommittee on Financial Services and General Government hearing on the budget request for the fiscal year 2021 (FY2021).
+
+Federal law currently does not allow state prisons to jam cellphones. In 2018, Oklahoma state prisons confiscated 7,518 cellphones from inmates. Lankford has been pushing for a change in federal law that will allow states to use jamming technology to prevent the use of contraband cellphones in prisons. He first raised the issue publicly during a floor speech last year and pointed to specific examples of how contraband cellphones within prisons were used to conduct crime outside of the prison. He supported Oklahoma Governor Kevin Stitt's executive order on the use of contraband cellphones, which came after an outbreak of prison riots that left one inmate dead and several injured. In December 2019, Lankford supported a funding bill that required a report on a cost estimate to fund testing of cellphone jamming for state prisons. Lankford applauded the FCC's inclusion of language in the budget proposal that would help prevent the use of contraband cellphones in state prisons.
+
+Excerpts
+
+On when the FCC will have updated maps to update framework for 5G
+
+(00:8 -- 00:46) Senator Lankford: Getting updated maps would take how long?
+
+Chairman Pai: Senator, that's part of the Digital Opportunity Data Collection which was adopted last August. We've been updating the framework to get more granular information with respect to the maps. In addition, we've been updating our overall framework for thinking about 5G as we mentioned.
+
+Lankford: So getting new maps would take how long?
+
+Pai: Well that's one of the things we're working with the staff. I can't give you specific.
+
+Lankford: Is it 6 months? Is it 2 years? Is it 5 years? The mobility fund was a start--  research it, prepare it, fail, cancel it, start all over again. To be able to go from there, how long would it take to get maps?
+
+Pai: I think it's more of an issue of months than of years.
+
+On fining cellphone companies that give false information
+
+(1:27-1:57) Lankford: So the challenge is for rural areas in my state and in everybody else's state is trying to be able to get to the point that we have action here because we waited on the mobility fund and we waited and waited and waited. Part of my challenge is companies that clearly put in false information, clearly said they have more coverage, I don't know that any of them have been fined at this point for giving blatantly false information to you. I think there should be some accountability in that process if they gave blatant false information to you, that there should be some accountability to those providers that gave false maps.
+
+On contraband cellphones
+
+(2:51-3:37) Lankford: We have riots happening in prisons. Coordinated riots that happened in my state with multiple prisons simultaneously having a riot because of contraband cell phones in multiple prisons and the gangs there actually taking it out. Literally people are dying because we've got CTIA and other organizations blocking the work every time we actually take on the work on this issue. We have individuals in prison that are in a prison stalking individuals that they are in a prison for stalking, still stalking them from a contraband cell phone. I can't begin to explain how important this is to be able to take this on. We're approaching a decade of talking about it, I'm trying to figure out how we actually get to a resolution.
+
+On the support of FSGG chairman Senator Kennedy on a legislative fix
+
+(6:10-6:37) Senator John Kennedy (R-LA): So you need a law passed?
+
+Pai: Legislation would have to be passed in order to have a full range of options. 
+
+Kennedy: Do you agree with that Senator Lankford? 
+
+Lankford- Mr. Chairman, there are options that are out there that cell phone companies could take right now. Geolocation banning, all kinds of different options that are there the cellphone companies could do currently to be able to work with state prisons. For a full fix as you mentioned before, to be able to do jamming devices, micro jamming, all of those things. That would have to have a legislative fix, every time we talk about a legislative fix CTIA comes to this hill and bombards the Commerce committee explains what a terrible idea this is and everyone backs off in the confusion.

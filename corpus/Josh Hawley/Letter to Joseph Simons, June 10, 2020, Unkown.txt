@@ -1,0 +1,24 @@
+Letter to Joseph Simons, Federal Trade Commission Chairman, Noah Phillips, Federal Trade Commission Commissioner, Rohit Chopra, Federal Trade Commission Commissioner, Rebecca Slaughter, Federal Trade Commission Commissioner, and Christine Wilson, Federal Trade Commission Commissioner - Senator Hawley Calls for FTC Investigation into Beijing-Backed App Zynn
+
+
+Dear Chairman Simons, Commissioner Phillips, Commissioner Chopra, Commissioner Slaughter, and Commissioner Wilson:
+
+Last month, a curious new video-sharing platform rocketed its way to the top of the app store charts. Known as "Zynn," the app operates almost identically to the enormously popular TikTok app: users upload short videos to the platform, which are then circulated widely between users and may subsequently go viral.
+
+But there's a twist to Zynn's business model: users are not only permitted to use the app for free, but are actually paid to watch video content. The most substantial payments come from referrals: just like a traditional pyramid scheme, users receive exponentially larger payouts once they successfully convince others to install Zynn on their own devices. The more devices on which Zynn is installed, the more money early adopters can make.
+
+On its face, this smacks of a textbook predatory-pricing scheme, one calculated to attain immediate market dominance for Zynn by driving competitors out of the market.[1] Competition in the social media platform space is particularly essential for American consumers, given the extent to which Facebook, Twitter, and other tech behemoths have throttled innovation by exerting near-monopolistic control over the social media landscape. Anticompetitive practices in this market cannot be tolerated.
+
+Worse, this scheme is being orchestrated by a Beijing-based tech giant with substantial ties to the Chinese Communist Party. By design, video-sharing apps like TikTok empower Chinese leadership to pry into the private affairs of Americans by hoovering up enormous amounts of information on individuals' daily lives. And it is in light of these concerns that the U.S. military and the TSA have already banned TikTok from the devices issued to its personnel. Anticompetitive practices are bad enough on their own. They are even worse when perpetuated by a company that may be trying to enter the American market to undermine our national security.
+
+And there are serious reasons to question whether Zynn's ultimate objectives are aligned with the interests of the United States. Zynn is backed by Kuaishou, a Chinese conglomerate that specializes in providing short-form video content to the Chinese market.[2] In China, Kuaishou's video-sharing service has promoted members of the Chinese Communist Party,[3] censored content at the behest of the Party,[4] distributed forced confessions of detained Uighur Muslims,[5] platformed Party officials bragging about the suppression of religious freedom,[6] and suppressed criticism of Party leadership.[7] The spread of TikTok, given its well-documented ties to the Chinese government, was worrisome enough; now there are two apps for Americans to be concerned about.
+
+Finally, depending on the extent of the similarities between the Zynn and TikTok platforms, there is good reason to suspect that Zynn may not be abiding by the requirements of the Children's Online Privacy Protection Act (COPPA)--an error that, in TikTok's case, gave rise to a 2019 consent decree and $5.7 million fine.[8] Americans have a right to know that their data--and their children's data--is being fully protected and not simply sold to the highest bidder.
+
+Section 5(a) of the Federal Trade Commission Act prohibits companies from engaging in unfair methods of competition and unfair or deceptive practices affecting commerce. And section 6(a) of that same Act provides that the FTC may "gather and compile information concerning, and to investigate from time to time the organization, business, conduct, practices, and management of any person, partnership, or corporation engaged in" commerce in the United States. I urge the FTC to immediately open an inquiry into Zynn's business practices, particularly those pertaining to COPPA compliance, and to make the findings of any investigation public. 15 U.S.C. § 46(f).
+
+Thank you for your attention to this matter. I look forward to your response.
+
+Sincerely,
+
+Josh HawleyUnited States Senator

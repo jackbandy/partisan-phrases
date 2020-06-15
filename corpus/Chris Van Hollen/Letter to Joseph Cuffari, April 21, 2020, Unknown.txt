@@ -1,0 +1,94 @@
+Letter to Joseph Cuffari, Inspector General of Department of Homeland Security, and to Christi Grimm, Principal Deputy Inspector General of the Department of Health and Human Services - Gillibrand Demands Investigation Into Inconsistent Distribution Of Medical Supplies To States
+
+
+Dear Inspector General Cuffari and Principal Deputy Inspector General Grimm: 
+
+We write to request a joint investigation into the management and distribution of medical supplies by the Federal Emergency Management Agency (FEMA) and U.S. Department of Health and Human Services (HHS) in response to the 2019 novel coronavirus (COVID-19) pandemic. Medical supplies, including personal protective equipment (PPE) and ventilators, are urgently needed to protect health care workers, patients, and other essential workers during this public health crisis, yet their distribution by the Trump administration has lacked transparency and failed to provide timely supplies to states and people  in need.
+
+The Administration's Distribution of Materials from the Strategic National Stockpile Has Been Slow, Opaque, and Inconsistent 
+
+The Strategic National Stockpile (SNS) was created in 1999 to supplement state and local pharmaceutical and medical supplies in the event of a national public health emergency, such as a pandemic. In 2018, the Trump administration transferred the responsibility of managing the SNS from the Centers for Disease Control and Prevention (CDC) to the HHS Assistant Secretary for Preparedness and Response. During national emergencies, responsibility for its deployment has shifted to FEMA. Stockpile supplies have been deployed during previous public health emergencies, including hurricanes and the H1N1 pandemic. However, the COVID-19 public health emergency is unprecedented and has strained the SNS's capacity and supplies--many of which have not been substantially replenished since 2009 when the H1N1 "triggered the largest deployment of federal supplies in U.S. history of the Strategic National Stockpile." As a result, states and localities have struggled to access SNS supplies, putting frontline workers' and patients' safety at risk. 
+
+The distribution of SNS supplies during the coronavirus crisis has been slow and inconsistent, raising questions as to how decisions are made to distribute items from the stockpile. To date, Massachusetts, which was one of the first states hit by COVID-19, has received only a fraction of its request for PPE and other medical supplies from the SNS, while Florida received the full quantity of supplies within three days of its first request and also received the full quantity of a second order.
+
+HHS originally said that distribution from the stockpile was based on a formula whereby "25 percent of a state's requests were fulfilled based on its population and 25 percent on its number of covid-19 cases." FEMA then updated the distribution protocol, saying that distributions are based on population and need. Most recently, FEMA has said that its allocation process "is now focused on meeting future demand models where patient levels are expected to strain state and local medical conditions in coming weeks" based on data from HHS and CDC. Details regarding distribution decisions have been limited, causing confusion and distress among states who are desperately trying to secure materials.  
+
+States are Concerned Distribution of Medical Supplies May be Improperly Influenced by Political Considerations 
+
+ 
+
+This confusion has been exacerbated by President Trump's public statements suggesting that governors' political support for his administration could influence how much support they receive from the federal government, saying "All I want them to do -- very simple -- I want them to be appreciative." President Trump has called the federal government's relationship with governors a "two-way street", telling Fox News, "They have to treat us well, also. They can't say, "Oh, gee, we should get this, we should get that." He has even directed Vice President Mike Pence, head of the White House Task Force on Coronavirus, "don't call the governor in Washington, you're wasting your time with him. Don't call the woman in Michigan. If they don't treat you right, I don't call." 
+
+A White House aide recently credited electoral concerns and President Trump's close relationship with Governor Ron DeSantis of Florida for the prompt fulfillment of Florida's request for supplies from the SNS, saying "The president knows Florida is so important for his reelection, so when DeSantis says that, it means a lot He pays close attention to what Florida wants." President Trump has also claimed that Florida's procurement of supplies from the stockpile was due to the state being "very aggressive in trying to get things." In reality, Governor DeSantis delayed closing public beaches during spring break and resisted implementing a statewide lockdown until the beginning of April when the states' cases had ballooned to nearly 8,000. Meanwhile, Massachusetts Governor Charlie Baker sent a request to the SNS and issued a state public health emergency in early March. 
+
+President Trump may also be using his influence to deliver medical supplies to certain states as a way to support vulnerable Republican Senators up for re-election in the fall. On April 8, 2020, President Trump announced through a tweet that FEMA "will be immediately sending 100 Ventilators to Colorado at the request of Senator Gardner!" But days before the President tweeted this news, CNN reported that FEMA had acted to cancel Colorado's request for 500 ventilators because the state "is not on their priority list." Similarly, Senator Martha McSally of Arizona announced via Twitter, "I spoke with @realDonaldTrump on Wednesday afternoon to request additional ventilators from the Strategic National Stockpile. Today, POTUS delivers with 100 ventilators headed to AZ. Thank you to President Trump and @VP for hearing our call." 
+
+All the while, the President has told other governors that they should not expect federal help with  procuring supplies, warning them that the federal government is "not a shipping clerk." White House senior advisor and President Trump's son-in-law, Jared Kushner, commented that the SNS is "supposed to be our stockpile; it's not supposed to be state stockpiles that they then use," directly contradicting the express purpose of the SNS. The SNS website was edited the next day to reflect that its duties as written more closely matched Kushner's description, despite no changes to the SNS' operational purpose.
+
+The Administration's Distribution of Medical Supplies Through the Private Sector Demands Scrutiny and Transparency 
+
+The SNS is now nearly depleted with 90% of the SNS's inventory of PPE having already been distributed, and no additional supplies being distributed from the SNS to states. However, as the administration continues to procure equipment, questions regarding distribution and concerns about speed of deployment remain. 
+
+The administration has implemented a public-private partnership for distributing medical supplies, called "Project Airbridge." Through this program, FEMA provides shipment of medical supplies by air freight, expediting shipments procured by private medical suppliers that would otherwise be made by ocean freight. Upon landing in the United States, distributors are required to direct half of the supplies to "hotspots" determined by HHS and FEMA, and the remaining half into the distributors' "normal supply chain." 
+
+The novelty and complexity of this arrangement demands heightened scrutiny and transparency. However, the administration's implementation of Project Airbridge has been completely opaque. It has not been transparent about how it identifies COVID-19 hotspots, except to say that "these areas are determined by HHS and FEMA based on CDC data." Furthermore, such a dependence on the private sector demands that the administration exert strong oversight on private suppliers to, for example, ensure that they do not engage in price gouging, especially for the 50 percent of supplies that will be fed into distributors' "normal supply chain."
+
+Our concern about how FEMA directs the distribution of medical supplies is heightened by the fact that the administration has been confiscating or "commandeering" supplies ordered by states and local medical systems, for redistribution by FEMA--in contrast with President Trump's earlier direction that states find equipment for themselves. For example,a health care system operating hospitals in Oregon, Washington, and Alaska reported that testing kits were seized by federal authorities; the lack of testing kits increased the system's use of PPE since COVID-19 patients could not be identified as quickly. The administration has not described how it determines which supply orders to seize, has provided no detail about where those supplies go once seized, and does not properly notify states about the status of their orders once commandeered. We are concerned by the possibility that the administration is seizing medical supplies and entrusting them to private distributors with minimal oversight and transparency. FEMA has denied this reports, raising questions about whether these actions are unauthorized or being carried out by another agency entirely: on April 9, 2020, FEMA issued a statement saying that "[r]eports of FEMA commandeering or re-routing such supplies are false," and that "PPE being distributed internally within the United States is not being seized or re-routed by FEMA." This obfuscation underscores the need for clarity as to how decisions regarding the seizure and redistribution of supplies are being made, and whether or not they are tainted with political interference. 
+
+The involvement of Jared Kushner in Project Airbridge and management of supply chain complicates matters further. Mr. Kushner appears to believe that requests from the states are inflated, saying "In some cases, people are requesting 10 times what they actually need." News reports allege that Mr. Kushner may be "circumventing protocols" as he handles states' requests. Allegedly, Mr. Kushner has served as a "liaison to different donors, to different corporate allies of this administration," and the White House may be "directing FEMA and HHS officials to prioritize specific requests from people who are able to get Kushner on the phone."  
+
+According to news reports, President Trump is able to exercise influence over the supply chain through his close relationship with Mr. Kushner. The Washington Post has reported that "Decisions are made by FEMA, but recommendations sometimes come from Trump, Vice President Pence, Kusnher and others based on their interactions with states." Politico has reported that states are "sending messages to Jared  even asking mutual friends to call Trump or sending him signals on TV and Twitter." Sometimes, these workarounds are successful. Reportedly, New York received 4,000 Tyvek suits after President Trump called Mr. Kushner, "after he heard from a friend in New York that the city's public hospital system was low on supplies." In a dangerous and rapidly-evolving crisis where a clear chain of command is critical, his involvement has reportedly created confusion about whether companies should work through Kushner or other avenues in the administration. 
+
+Questions  
+
+The slow distribution of supplies and lack of transparency suggest a process plagued by confusion, inconsistency, and potential political interference. To provide clarity to states and improve federal government distribution procedures, we urge you to immediately investigate the distribution of medical supplies from the SNS and Project Airbridge as well as any other inquiries your offices find appropriate, including the following questions regarding distribution from the SNS: 
+
+1. What criteria are used to determine the quantity of medical supplies that states receive
+
+ from the SNS? 
+
+a. How are these criteria established, and are they applied consistently? 
+
+b. Are the criteria based solely on public health needs? If not, what other criteria are considered and how heavily are they weighted against public health needs? 
+
+c. Who are key decisionmakers at HHS and FEMA? 
+
+2. In cases where SNS supplies were insufficient to fulfill all state orders, how was this  information communicated to states and federal partners? How were state orders prioritized? 
+
+3. For each state order, what percentage of requested materials from the SNS were shipped within one week, two weeks, three weeks, and one month of their receipt? 
+
+4. What influence, if any, do President Trump, Vice President Pence, Jared Kushner, or other political appointees exert over decisions about how supplies are distributed to the states from the SNS? 
+
+I also request that your investigation look into the following questions regarding FEMA's distribution of other medical supplies, including from Project Airbridge: 
+
+5. What criteria are used to determine what quantity of medical supplies states receive from this program? 
+
+a. How are these criteria established, and are they applied consistently? 
+
+b. Are the criteria based solely on public health needs? If not, what other criteria are considered and how heavily are they weighted against public health needs? 
+
+c. Who are key decisionmakers for Project Airbridge? 
+
+6. How does the administration determine which areas are "hotspots," for the purposes of supply distribution? 
+
+7. For the half of supplies that are not directed to hotspots but are "fed intodistributors' normal supply chain and onto their customers in other areas," how does the federal government monitor and influence the establishment of prices by distributors? Are prices higher than before the COVID-19 pandemic? If so, what accounts for these price increases? How does the administration ensure that these distributors are not marking up prices excessively? 
+
+8. What agency is responsible for seizing medical supply orders made by states and other entities? 
+
+a. By what legal authority are these seizures made? 
+
+b. What entities are responsible for re-distributing these seized supplies? 
+
+c. How are decisions made regarding which orders are seized? 
+
+9. What influence, if any, do President Trump, Vice President Pence, Jared Kushner, or other political appointees exert over decisions about how supplies are distributed to the states through Project Airbridge? 
+
+10. What non-governmental entities have been involved in the Supply Chain Stabilization Task Force and Project Airbridge, as contractors, subcontractors or on an advisory or voluntarily basis? 
+
+a. As these outside entities have been engaged, have agencies taken the necessary steps to  ensure that relevant statues and regulations have been followed including those related to acquisition, ethics and record keeping? 
+
+b. What air carriers have been involved in the air bridge operations? How were these companies engaged, i.e. via existing contracts or subcontracts? To the extent new contracts were issued, were they opened for competitive bidding? 
+
+11. How much material was transported by Project Airbridge? Please compile a list of the flights that includes the date of the flight, the carrier, the origin and destination, a unit count of each product, and the cost of the flight. 
+
+Thank you for your consideration of this urgent matter.

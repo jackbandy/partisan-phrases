@@ -1,0 +1,22 @@
+Letter to Marlene H. Dortch, Sec. of the Federal Communications Commission - Warner Encourages FCC to Reform Service Rules to Bring Broadband to Rural Areas
+
+
+Dear Chairman Pai and Commissioners Rosenworcel, O'Rielly, Carr and Starks: 
+
+Eliminating the digital divide is the 21st century extension of the Federal Communications Commission's original universal service mandate. The importance of this effort -- and the extent of remaining work to be done -- has only been magnified in the wake of the COVID-19 pandemic. A key component of this mission in recent years has been the embrace of non-traditional broadband access technologies to close the gap in rural areas. To that end, I commend the Commission for the adoption of a Notice of Proposed Rulemaking (NPRM) to clear regulatory barriers to greater deployment of TV white space (TVWS) technology.
+
+According to the latest figures from the FCC, there are at least 770,000 Virginians who lack access to broadband.  In addition, as many as 3.3 million Virginians do not use the Internet at broadband speeds according to an analysis of usage data.  This digital divide impacts nearly every aspect of life for Virginians living without access to broadband, as broadband has become a precondition to meaningful participation in the digital economy. This contrast has become worryingly more stark in the last month, with an unprecedented number of Americans now heavily reliant on broadband access for telework, telehealth, and online education.
+
+Even in normal times, this lack of broadband access prevents students from achieving their full potential, denies seniors and veterans access to telemedicine solutions that can improve care and reduce costs, prevents farmers from accessing innovative precision agriculture tools, and limits the economic potential of too many rural communities. Under the current circumstances, this lack of broadband access threatens to greatly -- and potentially lastingly -- exacerbate disparities in health, education, and economic equity. 
+
+In order to swiftly eliminate the digital divide, we must support sound policy that maximizes the use of innovative technologies and promotes efficient spectrum use in rural areas. As providers deploy hybrid networks and leverage all relevant technologies to serve rural areas, it is important to update our policies to leverage the capabilities of rural solutions like TVWS technology. The Commission's NPRM will permit higher transmit power and higher antennas for fixed white space devices throughout rural areas. It also permits higher power mobile operations within geofenced areas and rule revisions to allow for the development of new Internet of Things-based services. In short, updated rules will support greater utilization of TVWS technology and help to bring affordable, reliable broadband to millions of Americans stuck behind the digital divide. Progress on this front has never been more important.
+
+The application of TVWS broadband access technologies to close the rural broadband gap is not remote or speculative; in the Commonwealth of Virginia, TVWS has already proven to be an effective and important tool for hybrid network deployments. Claudville, Virginia was home to a TVWS pilot program that connected small businesses, homes, schools and even the local post office to broadband Internet. The Southern Virginia Homework Network, an initiative established through a partnership of Microsoft, Mid-Atlantic Broadband Communities Corporation (MBC) and the SOVA Innovation Center, used Adaptrum's TVWS solution to bring free broadband Internet access to students in parts of Charlotte and Halifax counties. These deployments leveraged the fiber infrastructure crisscrossing Southside and Southwest Virginia -- investments I oversaw as Governor nearly two decades ago.   
+
+By clearing regulatory barriers, the Commission can enhance the pace, scale, and cost-effectiveness of broadband deployments in unserved and underserved rural communities, including through the use of TVWS technology. An innovative, "all-the-above' approach to eliminating broadband gaps has never been more vital.
+
+I commend the Commission for the adoption of the NPRM and respectfully encourage the Commission to move swiftly to adopt final rules in coming months before the end of the year.  
+
+Thank you for your consideration and the Commission's efforts to eliminate the digital divide.
+
+Sincerely,

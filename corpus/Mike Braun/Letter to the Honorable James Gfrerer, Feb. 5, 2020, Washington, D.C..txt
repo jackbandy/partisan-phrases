@@ -1,0 +1,14 @@
+Letter to the Honorable James Gfrerer, Assistant Secretary for Information and Technology and Chief Information Officer at the United States Department of Veterans Affairs, and the Honorable Dr. Richard Stone, Executive in Charge of the Veterans Health Administration at the United States Department of Veterans Affairs -  Rep. Banks, Sen. Braun Urge Strategic Decisions on VA's Patient Portal
+
+
+Dear Dr. Stone and Assistant Secretary Gfrerer:
+
+My HealtheVet, the Veterans Health Administration patient portal, has long been a success story in VA innovation. My HealtheVet led the marketplace as part of the Blue Button initiative, and the department's more recent efforts to imbed its capabilities in www.va.gov have strengthened its relevance and intuitiveness. Perhaps most importantly, VA has begun integrating online self-service tools for VHA, such as My HealtheVet, with online self-service tools for the Veterans Benefits Administration. Breaking down technology silos is a crucial step toward breaking down operational silos.
+
+We believe www.va.gov should remain the entry point for veterans to obtain VA services. The design of such an entry point has perhaps the greatest impact on veterans' experience, and VA must always be responsible and accountable for it.
+
+Although VA has already purchased the Cerner HealtheLife patient portal along with the full suite of Cerner Millennium modules and capabilities, our understanding is long term decisions as to whether or how to integrate HealtheLife with www.va.gov have not yet been made. Recognizing that the initial "go-live" of the partial Cerner electronic health record capability set in Spokane, Washington is not intended to resolve this question, we request an update as to your thinking on the matter. The decision as to which patient portal to select must consider not only whether My HealtheVet or HealtheLife offers superior capabilities, but how well it is able to integrate with www.va.gov. Thank you for your attention to this important issue and your continued work to improve the veteran experience.
+
+ 
+
+Sincerely,

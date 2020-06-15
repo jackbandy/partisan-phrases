@@ -1,0 +1,30 @@
+Reps. Ken Buck and Lou Correa Introduce Bipartisan Bill to Ban TikTok on Government Devices
+
+
+Today, Reps. Ken Buck (R-Colo.) and Lou Correa (D-Calif.) introduced bipartisan legislation to ban the Chinese-controlled TikTok app on all United States government devices. The Departments of Defense, State, and Homeland Security have already restricted TikTok because of the cyber and surveillance threats the app presents. 
+
+The No TikTok on Government Devices Act (H.R. 6896) serves as companion legislation to Sen. Josh Hawley's (R-Mo.) Senate bill introduced in March 2020.
+
+Rep. Ken Buck (R-Colo.)
+
+"TikTok is a Chinese owned company and is required by law to share whatever information the Chinese Communist Party wants whenever it wants. Because of this, several federal agencies have already taken steps to restrict the spyware app on government devices. Our bill takes it a step further, banning TikTok on all government-owned devices in the interest of national security. TikTok is a cybersecurity threat to our country. We cannot allow China's parasitic spyware app to collect data from United States government officials," Rep. Ken Buck said.
+
+Rep. Lou Correa (D-Calif.)
+
+"TikTok's questionable link to the Chinese government puts our individual privacy and our national security at risk. With the growing sophistication of cyber attacks, we must be proactive to protect our government networks from intrusion. Banning the use of TikTok on government devices is critical to ensure our networks remain secure," Rep. Correa said.
+
+Sen. Josh Hawley (R-Mo.)
+
+"TikTok is owned by a Chinese company that includes Chinese Communist Party members on its board, and it is required by law to share user data with Beijing. The company even admitted it collects user data while their app is running in the background -- including the messages people send, pictures they share, their keystrokes and location data, you name it. As many of our federal agencies have already recognized, TikTok is a major security risk to the United States, and it has no place on government devices," Sen. Hawley said.
+
+Ranking Member Michael McCaul (R-Texas)"Technology and data are key to the CCP's growing malign efforts. Americans must recognize the inherent risks of using CCP platforms, like TikTok, that jeopardize security and privacy. This legislation will prevent TikTok from being downloaded on government devices. I applaud Congressman Buck for his leadership on this legislation," Rep. McCaul, Ranking Member of the House Foreign Affairs Committee, said.
+
+Background
+
+TikTok has been upfront about the high volume of data it collects from users and shares with the Chinese government. Lawfare summarized the dangers of TikTok's privacy policy for U.S. residents:
+
+"We automatically collect certain information from you when you use the Platform, including internet or other network activity information such as your IP address, geolocation-related data (as described below), unique device identifiers, browsing and search history (including content you have viewed in the Platform), and Cookies (as defined below)."
+
+It notes further that "[w]e also collect information you share with us from third-party social network providers, and technical and behavioral information about your use of the Platform," such as, potentially, contact lists on other social media services. This type of data collection can especially implicate national security⁠--geolocations or internet search histories of federal employees can reveal quite sensitive information⁠, such as the location of secret government facilities, details about events relevant to the government about which those employees are seeking publicly available information, and personal activities that could potentially be used to build files for blackmail."
+
+As Samm Sacks recently wrote, "Nothing is black and white, particularly when it comes to government access to data. Ultimately the Chinese government can compel companies to turn over their data, but this does not always happen." In some cases, companies can and do push back against government requests, as they "have their own commercial interests to protect." There are real risks of government access to data, and this does happen, but it's not as clear-cut in practice as many might assume.

@@ -1,0 +1,26 @@
+Klobuchar-Backed Legislation to Improve Broadband Data Maps Passes Senate
+
+
+This week, U.S. Senator Amy Klobuchar (D-MN), co-chair of the Senate Broadband Caucus, announced that the Senate passed her bipartisan legislation with Senators Roger Wicker (R-MS), Gary Peters (D-MI), John Thune (R-SD) to improve the accuracy of the Federal Communications Commission's (FCC's) broadband availability maps. The Broadband Deployment Accuracy and Technological Availability (DATA) Act would improve the accuracy of the FCC's broadband availability maps by improving the process by which broadband data is collected. The bill now heads to the President's desk to be signed into law.
+
+"Broadband is key to keeping rural America competitive in the 21st century and beyond," Klobuchar said. "Now that the Broadband DATA Act has passed the House and Senate and is headed to the President's desk, we are one step closer to closing the digital divide.  This bill will improve the broadband data collection process to create more accurate maps so that we can bring high-speed internet to every family, regardless of their zip code."
+
+Specifically, the Broadband Deployment Accuracy and Technological Availability (DATA) Act:
+
+Requires the FCC to collect granular service availability data from wired, fixed wireless, and satellite broadband providers.Requires strong parameters for service availability data collected from mobile broadband providers to ensure accuracy.Asks the FCC to consider whether to collect verified coverage data from state, local, and tribal governments, as well as from other entities.Creates a process for consumers, state, local, and Tribal governments, and other groups to challenge FCC maps with their own data, and requires the FCC to determine how to structure the process without making it overly burdensome on challengers.The bill is endorsed by NTCA-The Rural Broadband Association, USTelecom, NCTA-The Internet Cable Association, Competitive Carriers Association, and CTIA. For the full bill text, click here.
+
+As a member of the Senate Commerce Committee and co-chair of the bipartisan Senate Broadband Caucus, Klobuchar has long championed closing the digital divide and expanding access to the internet. She believes that connecting rural areas will provide rural businesses and families increased access to education, healthcare, and business opportunities.
+
+In June 2019, Klobuchar and Senator Shelley Moore Capito's (R-WV) legislation to improve broadband connectivity passed the Senate. The Measuring the Economic Impact of Broadband Act would require the Bureau of Economic Analysis, in consultation with the Assistant Secretary of Commerce for Communications and Technology, to conduct a study of the effects of the digital economy and the adoption of broadband deployment on the U.S. economy.
+
+In May 2019, Klobuchar and Wicker's legislation to ensure federal funds for broadband deployment are targeting unserved and underserved areas passed the Senate Commerce Committee. The Broadband Interagency Coordination Act would direct the FCC, the National Telecommunications and Information Administration (NTIA), and the U.S. Department of Agriculture (USDA) to coordinate and share information on their broadband deployment efforts.
+
+In March 2019, Klobuchar, Capito, and Senators Joe Manchin (D-WV) and John Hoeven (R-ND) introduced bipartisan legislation to improve the FCC's broadband coverage maps. The Improving Broadband Mapping Act directs the FCC to initiate a rulemaking to consider using consumer-reported data and state and local data from government entities to improve broadband mapping accuracy while also considering ways that both fixed and mobile coverage data can be challenged.
+
+Klobuchar and Wicker also led the Precision Agriculture Connectivity Act, which was signed into law as part of the 2018 Farm Bill. The bipartisan legislation directs the FCC to establish a task force to identify gaps in broadband coverage and encourage broadband deployment on farms and ranchland.
+
+In March 2018, Klobuchar and Senator Deb Fischer's (R-NE) legislation to boost wireless broadband coverage across rural America was signed into law. The Rural Spectrum Accessibility Act incentivizes wireless carriers to lease unused spectrum to rural or smaller carriers to expand wireless coverage to more rural communities.
+
+Klobuchar also sponsored legislation to make broadband deployment easier by requiring coordination between state departments of transportation and broadband providers during construction projects so that they only have to "dig once." A provision based on her bill was included in the government funding bill that was signed into law in March 2018. "Dig once" policies help streamline deployment and reduce the costs of building new broadband infrastructure while also helping expand wireless coverage in our rural areas--a necessity for families and businesses.
+
+And in March 2016, Klobuchar and Thune led an effort calling on the FCC to modernize rules intended to ensure that rural Americans have access to affordable broadband services. With the support of 59 senators, they successfully pressured the FCC to update these rules.

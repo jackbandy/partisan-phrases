@@ -1,0 +1,34 @@
+Letter to the Hon. Robert Kadlec, Assistant Secretary of Preparedness and Response for the Dept. of Health and Human Services, and the Hon. Robert Redfield, Dir. of the Centers for Disease Control and Prevention - Murray Demands Answers Regarding Non-Competitive, Multimillion Dollar Contract for Duplicative Health Data System
+
+
+Dear Director Redfield and Assistant Secretary Kadlec:
+
+ 
+
+I write to understand actions undertaken by the Centers for Disease Control and Prevention (CDC) and the Office of the Assistant Secretary for Preparedness and Response (ASPR) to collect hospital and health care provider data during the COVID-19 public health emergency. Clear, accurate, comprehensive data is desperately needed in our fight against COVID-19. Given the importance of collecting this data as quickly as possible, I have several questions about the Trump Administration's decision to award a multimillion dollar contract on a non-competitive basis to create a seemingly duplicative data collection system.
+
+ 
+
+For fifteen years, the CDC's National Healthcare Safety Network (NHSN) has served as the nation's most widely used system for tracking health care associated infections. In its everyday, pre-COVID capacity, it is used in over 25,000 health care facilities across the United States for mandatory reporting of infection-related data and for voluntary use for quality improvement.  In times of emergency response, NHSN has the capacity to develop new modules quickly that allow hospitals and other providers to report relevant data without requiring the time and expense to stand up an entirely new reporting system.
+
+ 
+
+In response to COVID-19, NHSN established a new reporting module for hospitals, which launched on March 27, 2020, enabling hospitals to report on cases, health care personnel shortages, and supply shortages. Subsequently, on March 29, Vice President Pence wrote to all hospitals in the country instructing them to report to NHSN's COVID-19 Patient Impact and Hospital Capacity module. Furthermore, on April 19, the Centers for Medicare and Medicaid announced it would require nursing homes to report suspected or confirmed COVID-19 cases directly to CDC, through NHSN. Within weeks, over 60 percent of the nation's hospitals were reporting daily through the NHSN COVID-19 module.
+
+ 
+
+Despite this clear direction to employ a well-established reporting mechanism, in early April, ASPR issued a six-month contract for $10 million on a non-competitive basis to TeleTracking to create an alternate hospital reporting pathway to the Department of Health and Human Services (the Department).  The new system seems to create a second mechanism through which hospitals could report the same information already collected through NHSN.
+
+ 
+
+The nation is facing an unprecedented public health crisis. Amid a pandemic that calls for robust data on both COVID-19 and the U.S. response to it, critical data remain out of reach to communities working to mitigate the pandemic and planning their response. For example, four months after COVID-19 arrived on U.S. shores, there still is no clear reporting on how many tests and supplies are available, what production and manufacturing gaps remain, and what specific steps are being taken to address shortfalls. There also are major gaps in data on the impact of COVID-19 on communities of color, although available information suggests they have been hardest hit by the pandemic.  Yet, while these and other critical data remain out of reach of communities, scientists, and policymakers, it appears the establishment of the TeleTracking system -- at significant cost -- duplicates the collection of data that was already being reported.
+
+ 
+
+To better understand the role of these two seemingly duplicative systems, I request your response to the following questions:
+
+1. How is the Administration using NHSN to monitor and track cases of COVID-19? For which federal programs or activities does NHSN data play a role in determining resource allotments for states, cities, and other jurisdictions?2. How is the Administration using TeleTracking to monitor and track cases of COVID-19? For which Departmental and federal programs does TeleTracking data play a role in determining resource allotments for states, cities, and other jurisdictions?3. Please detail any differences between these two systems on the basis of technological capability or data collected.a. Please explain why a second reporting system is necessary to effectively manage the response to COVID-19.b. Is NHSN unable to determine any resource allotments or response activities for which TeleTracking is being used?c. If NHSN is unable to determine any resource allotments or response activities for which TeleTracking is being used, what would be required to update NHSN in order to allow it to perform this function? d. Please provide any analyses of NHSN's capabilities ASPR conducted in advance of entering into the contract with TeleTracking.4. Is the data being reported into both systems aggregated at the Departmental level?a. If yes, please detail how that data is being shared back with ASPR, CDC, or other agencies or entities within the Departments to inform critical resource allocation decisions in the COVID-19 response.b. If no, how are you working to ensure the Department is using a complete data set across all hospitals to inform decisions, instead of two incomplete data sets resulting from a portion reporting to one system and another portion reporting to the other? 
+
+5. What instructions have been given to hospitals about which COVID-19 case data to report to these two different systems? 6. For those hospitals that report only to TeleTracking, how are they reporting data to HHSA around antimicrobial resistance, sepsis, and other critical infections that occur in inpatient settings and are typically reported through NHSN?7. Why was the TeleTracking contract awarded on a non-competitive basis? 
+
+Thank you for your attention to this urgent matter. Please contact Andi Fristedt (Andi_Fristedt@help.senate.gov) on my staff with any questions. I respectfully request a response no later than June 17, 2020.

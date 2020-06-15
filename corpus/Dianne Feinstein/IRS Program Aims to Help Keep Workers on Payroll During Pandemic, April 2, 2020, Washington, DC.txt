@@ -1,0 +1,58 @@
+IRS Program Aims to Help Keep Workers on Payroll During Pandemic
+
+
+Senator Dianne Feinstein (D-Calif.) today provided additional information on the Employee Retention Credit, a component of the recently enacted coronavirus economic assistance bill (CARES Act) designed to help businesses keep employees on payroll during the coronavirus crisis.
+
+The Employee Retention Credit, an IRS program, incentivizes businesses that have lost half or more of their revenues or have been ordered to fully or partially suspend business to not lay off or furlough workers. The IRS will provide a tax credit for each employee through the end of the year. The tax credit would apply to 50 percent of wages up to $10,000, for a maximum credit of $5,000 per employee.
+
+"Helping businesses keep workers on payroll serves a number of purposes," Senator Feinstein said. "It helps businesses that are seeing drastic declines in revenue, it helps workers who may otherwise lose their jobs and paychecks, and it will ultimately help the economy by providing some stability to get things ramped back up once this crisis ends. I'm glad we were able to secure this important provision in the bill we passed last week."
+
+This program is limited to businesses that have suffered at least a 50 percent loss of revenue or have been forced to curtail or suspend operations because of the coronavirus. While businesses of any size can qualify, for larger businesses (100+ employees) the program only compensates for workers not actively providing services during the covered period. For smaller businesses (fewer than 100 employees), all employees are covered regardless of activity.
+
+Frequently Asked Questions (from the IRS):
+
+What is the Employee Retention Credit?
+
+The Employee Retention Credit is a fully refundable tax credit for employers equal to 50 percent of qualified wages (including allocable qualified health plan expenses) that Eligible Employers pay their employees. This Employee Retention Credit applies to qualified wages paid after March 12, 2020, and before January 1, 2021. The maximum amount of qualified wages taken into account with respect to each employee for all calendar quarters is $10,000, so that the maximum credit for an Eligible Employer for qualified wages paid to any employee is $5,000.
+
+How is the credit calculated?
+
+The amount of the credit is 50% of qualifying wages paid up to $10,000 in total. Wages paid after March 12, 2020, and before Jan. 1, 2021, are eligible for the credit. Wages taken into account are not limited to cash payments, but also include a portion of the cost of employer provided health care.
+
+Does my business qualify to receive the Employee Retention Credit?
+
+The credit is available to all employers regardless of size, including tax-exempt organizations. There are only two exceptions: State and local governments and their instrumentalities and small businesses who take small business loans.
+
+Qualifying employers must fall into one of two categories:
+
+The employer's business is fully or partially suspended by government order due to COVID-19 during the calendar quarter.The employer's gross receipts are below 50% of the comparable quarter in 2019. Once the employer's gross receipts go above 80% of a comparable quarter in 2019, they no longer qualify after the end of that quarter.These measures are calculated each calendar quarter.
+
+Who is an Eligible Employer?
+
+Eligible Employers for the purposes of the Employee Retention Credit are those that carry on a trade or business during calendar year 2020, including a tax-exempt organization, that either:
+
+Fully or partially suspends operation during any calendar quarter in 2020 due to orders from an appropriate governmental authority limiting commerce, travel, or group meetings (for commercial, social, religious, or other purposes) due to COVID-19; orExperiences a significant decline in gross receipts during the calendar quarter.Note: Governmental employers are not Eligible Employers for the Employee Retention Credit. Also, Self-employed individuals are not eligible for this credit for their self-employment services or earnings.
+
+What is a "significant decline in gross receipts"?
+
+A significant decline in gross receipts begins with the first quarter in which an employer's gross receipts for a calendar quarter in 2020 are less than 50 percent of its gross receipts for the same calendar quarter in 2019. The significant decline in gross receipts ends with the first calendar quarter that follows the first calendar quarter for which the employer's 2020 gross receipts for the quarter are greater than 80 percent of its gross receipts for the same calendar quarter during 2019.
+
+How is the maximum amount of the Employee Retention Credit available to Eligible Employers determined?
+
+The credit equals 50 percent of the qualified wages (including qualified health plan expenses) that an Eligible Employer pays in a calendar quarter. The maximum amount of qualified wages taken into account with respect to each employee for all calendar quarters is $10,000, so that the maximum credit for qualified wages paid to any employee is $5,000.
+
+How do I know which wages qualify?
+
+Qualifying wages are based on the average number of a business's employees in 2019.
+
+Employers with less than 100 employees: If the employer had 100 or fewer employees on average in 2019, the credit is based on wages paid to all employees, regardless if they worked or not. If the employees worked full time and were paid for full time work, the employer still receives the credit.Employers with more than 100 employees: If the employer had more than 100 employees on average in 2019, then the credit is allowed only for wages paid to employees who did not work during the calendar quarter.I am an eligible employer. How do I receive my credit?
+
+Employers can be immediately reimbursed for the credit by reducing their required deposits of payroll taxes that have been withheld from employees' wages by the amount of the credit.
+
+Eligible employers will report their total qualified wages and the related health insurance costs for each quarter on their quarterly employment tax returns or Form 941 beginning with the second quarter. If the employer's employment tax deposits are not sufficient to cover the credit, the employer may receive an advance payment from the IRS by submitting Form 7200, Advance Payment of Employer Credits Due to COVID-19.
+
+Eligible employers can also request an advance of the Employee Retention Credit by submitting Form 7200.
+
+Additional detailed information from the IRS, along with examples, is available here:
+
+https://www.irs.gov/newsroom/faqs-employee-retention-credit-under-the-cares-acthttps://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19

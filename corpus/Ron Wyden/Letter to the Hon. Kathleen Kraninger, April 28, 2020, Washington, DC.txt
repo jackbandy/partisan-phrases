@@ -1,0 +1,38 @@
+Letter to the Hon. Kathleen Kraninger, Dir. of the Consumer Financial Protection Bureau - Wyden Urges Consumer Financial Protection Bureau to Reinstate Anti-Discrimination Safeguards in Mortgages
+
+
+Dear Director Kraninger,
+
+ 
+
+We write to you regarding the Consumer Financial Protection Bureau's (CFPB) recent decisions, under your leadership, to suspend the reporting of information under the Home Mortgage Disclosure Act (HMDA) during the COVID-19 pandemic. Your decision to reduce the frequency of this critical reporting could allow discrimination in mortgage lending to go unchecked at a time when consumers are particularly vulnerable. In addition, your decision to eliminate HMDA reporting for more than one thousand lenders removes a critical consumer protection. We urge you to reverse these decisions and strengthen, not weaken, oversight to ensure fair lending.
+
+ 
+
+The Home Mortgage Disclosure Act (HMDA) was enacted in order to address redlining and mortgage discrimination by lenders. The law requires financial institutions to maintain, report, and disclose information about mortgage lending so that the public and regulators can assess whether financial institutions are serving all borrowers on equal terms. In the run up to the 2008 financial crisis, African-American and Hispanic borrowers were twice as likely to be offered risky and high-cost, subprime loans, despite the fact that many of those same borrowers qualified for prime loans. Moreover, the Federal Reserve Bank of St. Louis found substantially higher rates of serious delinquency and foreclosure among African-American, Hispanic, and Asian homeowners than white homeowners during the crisis, in part due to the fact that borrowers of color received more costly, less sustainable loans. 
+
+ 
+
+In response, the Dodd-Frank Wall Street Reform and Consumer Protection Act created the Consumer Financial Protection Bureau to protect consumers from harm, including lending discrimination. The Act mandated that the CFPB Director create an Office of Fair Lending and charged that office with oversight and enforcement of fair lending laws. It also expanded the scope of HMDA data collected to include loan terms common in predatory loans made before the crisis. This data is critical so that regulators, law enforcement, academics, and the public can analyze lending patterns and ensure lenders are not offering inferior loans based solely on the demographic identity of the borrower.
+
+ 
+
+Fifty-two years after passage of the Fair Housing Act, discrimination in lending still exists. Single women pay more for mortgages than single men, even though their default rates are lower. Communities of color still face discriminatory lending practices based on race alone.  Homeownership rates for minorities remain lower than those for non-Hispanic whites -- between 2016 and 2019, non-Hispanic whites consistently had the highest homeownership rate, while black families had the lowest rates of homeownership and homeownership among black families is now near historic low levels. Communities that suffer from discrimination may face a general lack of mortgage loans, called "redlining," or be offered mortgage products that feature predatory and abusive loan terms, called "reverse redlining." 
+
+ 
+
+Many people of color still see the legacy of government-sanctioned redlining in their communities. Neighborhoods that were segregated through de jure discriminatory practices still experience higher cancer rates, higher asthma rates, restricted access to healthcare, restricted access to nutrition, and poor educational outcomes. Some of these factors, such as asthma and restricted access to health care, are risk factors for developing COVID-19. Additionally, these same factors cause minorities and the elderly to be severely impacted by the coronavirus. HMDA data continues to play a key role in uncovering and addressing modern lending discrimination and ensuring equal opportunity for those borrowers and communities that are too often left behind. Indeed, the Consumer Bureau's latest fair lending report, published in June 2019, reported settlements for redlining and mortgage discrimination and a number of pending investigations.
+
+ 
+
+The Consumer Bureau should not use the current public health and economic crises as an opportunity to roll back critical protections for borrowers who may be at risk of discriminatory lending. We oppose exempting additional lenders from HMDA reporting and believe the Consumer Financial Protection Bureau should use its enforcement, supervisory, and other authorities to ensure that lenders serve all borrowers on equal terms. Failure to do so will only make black, Hispanic, rural, and other vulnerable communities more susceptible to any future public health or financial crises. To that end, we request responses to the following questions:
+
+1.    What changes has the Consumer Bureau made to HMDA reporting that go beyond those required by the Economic Growth, Regulatory Relief, and Consumer Protection Act, (P.L. 115-174)? Please explain under which authorities the Consumer Bureau is allowed to permanently halt collection of HMDA data beyond what is authorized in P.L. 115-174.
+
+2.    Under what authority is the Consumer Bureau authorized to halt quarterly reporting of HMDA data from financial institutions?
+
+3.    Will the Consumer Bureau consider utilizing virtual exams or the use of other technology in lieu of in-person examinations during the pandemic? If so, please explain how it will do so.
+
+ 
+
+We urge you to reinstate the Consumer Bureau's quarterly collection of HMDA data from financial institutions and to increase, not decrease, its oversight of fair lending compliance. We oppose the final Regulation C rule published April 16, 2020 and urge you to rescind it. We look forward to your response by no later than May 15, 2020.

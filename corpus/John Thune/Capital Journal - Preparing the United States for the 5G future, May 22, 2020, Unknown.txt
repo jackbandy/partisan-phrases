@@ -1,0 +1,22 @@
+Capital Journal - Preparing the United States for the 5G future
+
+
+By Sen. John Thune
+
+The internet has been a part of our daily lives for quite a while now: Netflix. Twitter. Amazon. But the internet has taken on new importance during the coronavirus pandemic. It's become the main source of connection with friends and family. It's enabled many people to work from home to help reduce the spread of the virus. It's the main reason schools and colleges have been able to continue teaching students. And it's drastically expanded nascent services like telehealth, which has allowed doctors and other medical professionals to provide patient care remotely.
+
+With all of this new internet traffic, of course, has come a much greater load on networks. And not all countries' networks have held up to the strain. In Europe, networks have had to slow streaming and ask providers like Netflix to diminish the quality of their videos. But here in the United States, our networks have faced very few problems. And there's a reason for that. Europe and the United States have very different regulatory regimes for the internet.
+
+In Europe, the internet has been regulated using outdated communications rules designed for telephone monopolies. The regulatory situation in the United States, on the other hand, has been much different. With a few exceptions, like the brief imposition of so-called net neutrality regulations in 2015, our country has taken a light-touch approach to internet regulation. This has encouraged companies to invest in the latest communications infrastructure and new technologies to make more efficient use of spectrum. And thanks to that investment, when coronavirus hit and internet usage soared, American networks were ready.
+
+Despite the additional burden on networks during the pandemic, Americans have been able to enjoy the same high speeds and streaming quality that they typically enjoy.
+
+Right now, most Americans are using 4G networks. But the next generation of internet -- 5G -- is here, and 5G networks are starting to be deployed, including in South Dakota. But if we want the United States to handle 5G the way we've handled 4G -- if we want our 5G networks to be as successful as our 4G networks -- we still have some work to do.
+
+One thing that is absolutely essential is maintaining the light-touch regulatory approach that has produced so much U.S. investment and innovation. While 4G relies on traditional cell phone towers, 5G technology will also require small antennas called "small cells" that can often be attached to existing infrastructure like utility poles or buildings. Last year, I introduced legislation -- the STREAMLINE Act -- to make it easier for companies to deploy these small cells so we can get the infrastructure in place for 5G technology.
+
+Second, the United States still has more work to do to free up the spectrum -- what we commonly call the airwaves -- that is necessary for 5G. In 2018, Congress passed my MOBILE NOW Act, which helped lay the groundwork for freeing up more mid-band spectrum. And this past November, Sen. Roger Wicker (R-Miss.) and I introduced the 5G Spectrum Act to require the Federal Communications Commission to free up a critical portion of mid-band spectrum, commonly referred to as the C-band, for 5G use.
+
+Finally, we need to ensure that we have the workforce in place to handle the demands of installing and maintaining 5G technology. That's why earlier this year I introduced the Telecommunications Skilled Workforce Act. My bill would help increase the number of workers enrolled in 5G training programs and identify ways to grow the telecommunications workforce to meet the demands of 5G.
+
+The coronavirus has shown us the results of robust investment in 4G infrastructure and spectrum -- strong networks that can handle even a steep surge in internet traffic. We need to make sure that we're putting in the necessary work and investment to ensure that our 5G networks are just as strong. The 5G future is here. Let's make sure that the United States is ready.

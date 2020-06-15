@@ -1,0 +1,14 @@
+Letter to the Hon. Ajit Pai, Chairman of the Federal Communications Commission - Manchin to FCC Chairman: We Both Know the FCC's Maps Are Wrong
+
+
+Dear Chairman Pai:
+
+As you prepare for a vote on Public Notice (AU Docket No. 20-34), I urge you to revise the aggressive timeline outlined for the Rural Digital Opportunity Fund (RDOF) and postpone the initial auction until after the eligibility maps can be challenged and verified. If we learned no other lessons from the Mobility Fund II (MF-II) experience, we should have at least learned the importance of getting the maps right before we award billions of dollars. Unfortunately, instead of learning from the failures of the past, your proposal seems intent on repeating them.
+
+As outlined in your proposed timeline, the Federal Communications Commission (FCC) will initiate the auction to allocate $16 billion in subsidies on October 22, 2020 without any opportunity for anyone to challenge a provider's claim that an area is served. Worse yet, the "challenge process" that is included in the RDOF order is a one way street that gives broadband service providers the chance to redraw the eligibility maps behind closed doors. Entire communities could be wiped off the map and deemed ineligible for funding, with no chance to defend themselves, no chance to provide their own coverage data. How is that fair?
+
+We both know that the FCC's maps are wrong. Not only did I test them personally, I have shared with you hundreds of speed tests I have received from my constituents across West Virginia that show service levels far below the established federal standard of service (25/3 Mbps). Unfortunately, it does not appear that any of that data has been used to update the FCC maps. For example, the FCC's 2019 Broadband Deployment Report claims that 100% of the population in seven West Virginia counties have access to high speed fixed broadband service (25/3 Mbps): Barbour, Gilmer, Harrison, Lewis, Marion, Randolph, and Upshur. Yet, I have sent you fixed broadband speed tests from constituents in every one of those counties that show speeds well below the established federal standard of service (25/3 Mbps).
+
+You have described RDOF as the "single biggest step yet to close the digital divide". That is exactly what makes it so critical that we get this right. I urge you to go back to the drawing board and create a process and a timeline that will allow us to verify the accuracy of the maps before we lock in $16 billion in subsidies over the next ten years. It is not too late.
+
+We can deliver on the promise of Universal Service. We can give every American an opportunity to succeed in the 21st Century global marketplace. We just need to give them a seat at the table and opportunity to have their voice heard.

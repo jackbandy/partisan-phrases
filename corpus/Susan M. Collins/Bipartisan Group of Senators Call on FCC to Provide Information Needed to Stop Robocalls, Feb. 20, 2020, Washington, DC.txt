@@ -1,0 +1,20 @@
+Bipartisan Group of Senators Call on FCC to Provide Information Needed to Stop Robocalls
+
+
+U.S. Senators Susan Collins (R-ME), Kyrsten Sinema (D-AZ), and Martha McSally (R-AZ) wrote to Federal Communications Commission (FCC) Chairman Ajit Pai today, urging him to continue his efforts to crack down on illegal robocalls and spoofing.  The letter requests that Chairman Pai describe what additional statutory authority the FCC requires to shut down U.S.-based Voice over Internet Protocol ("VoIP") providers that knowingly serve as gateways for illegal robocall traffic originating overseas.
+
+ 
+
+"As the Commission is aware, criminal networks operating offshore are flooding our nation's telephones with billions of illegal robocalls, in search of victims for their incessant scams," the Senators wrote.  "According to the latest estimates we have seen, scammers now generate four billion unwanted, illegal robocalls targeting Americans every month.  These calls would never reach American consumers without the assistance of so-called "gateway carriers' located in the United States that facilitate the delivery of international traffic onto the U.S. telecommunications system."
+
+ 
+
+In their letter, Senators Collins, Sinema, and McSally explained that gateway carriers should be able to identify indicators of scam calls, such as their short duration, the number of calls placed per minute, the number of unique caller-IDs used, and suspicious patterns in call destinations.
+
+ 
+
+"It may be possible that these and other common markers of illegal robocall traffic could serve as part of a "know your customer' obligation that gateway carriers should be required to follow before placing foreign commercial call traffic on the U.S. telecommunications system," they continued. 
+
+ The Senators posed a series of questions to Chairman Pai asking whether the FCC can impose "know your customer" obligations and to seek his input on whether the FCC needs additional powers to shut down U.S. VoIP providers that are enabling foreign robocallers.  The letter also asked whether "know your customer" obligations could be imposed through contracts between telecommunications carriers.
+
+"Only available in PDF format; please see source to view document."

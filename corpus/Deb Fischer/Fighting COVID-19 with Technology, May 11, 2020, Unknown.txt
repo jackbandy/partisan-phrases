@@ -1,0 +1,24 @@
+Fighting COVID-19 with Technology
+
+
+During this COVID-19 emergency, the way in which Americans have responded has been remarkable. I have seen so many stories of individuals, communities, and businesses reacting to this pandemic in new and creative ways, both in Nebraska and around the country. 
+
+As we have had to distance ourselves physically to flatten the curve, digital technologies have been the lifelines that keep us connected. Much of this connectivity has been enabled by Internet of Things technology, which connects everyday devices and sensors to the internet.
+
+These internet-connected devices can collect and communicate data to allow for real-time data analytics that boost productivity and quality of life across many different daily activities. Just a few examples of IoT are smart thermostats that help us manage home energy consumption, the tablets students use for their classwork, radar-enabled crash avoidance notifications in your car, and soil sensors that manage crop irrigation.
+
+IoT technology has already seen widespread adoption, but it has the potential to connect our world even further in the future, with some reports estimating that 125 billion devices will be connected to the internet by 2030. IoT also has the potential to generate trillions of dollars in new economic activity around the world.
+
+As a member of the Senate Commerce Committee, I have led a bipartisan effort to pass the Developing Innovation and Growing the Internet of Things (DIGIT) Act, along with Senators Cory Gardner, Brian Schatz, and Cory Booker. Our bill would bring private sector experts together with federal agencies to create a collaborative and enduring IoT policy.
+
+Sound technology policies are essential to ensuring that all Americans can benefit from these innovations. By combining the expertise of governmental, academic, and industry stakeholders, the DIGIT Act will support a future in which we can all stay connected. 
+
+IoT was already improving our lives in countless ways before this pandemic began, but it has played an even larger role in the past few months. For example, IoT technology has enabled health care providers to offer telehealth services, allowed educators to teach their students remotely, and helped business owners stay connected with their employees.
+
+We have also seen businesses use IoT technology to fight this virus more directly. Many tech companies are partnering with health care officials to use IoT data to track the spread of COVID-19 and identify new hotspots. This has great potential to help us win the fight against COVID, but we need to ensure that our personal data is safe from misuse.
+
+This concern about data privacy is why I joined several of my colleagues on the Senate Commerce Committee in introducing the COVID-19 Consumer Data Protection Act, a bill that would provide Nebraskans and all Americans with more information about how their private information is used. This bill would require companies to obtain consent from users before collecting data and to disclose how your data, like your current location, will be used. It also allows individuals to opt out of this collection process.
+
+I am advocating for these policies because real-time access to the latest information and technologies is valuable, especially during a time of uncertainty like we are facing right now. COVID-19 won't last forever, but these forward-looking policies will help us get through it and prepare us for the future.
+
+Thank you for participating in the democratic process. I look forward to visiting with you again next week.

@@ -1,0 +1,10 @@
+Sullivan Praises Passage of Secure and Trusted Communications Networks Act
+
+
+U.S. Senator Dan Sullivan (R-Alaska), a member of the Senate Committee on Commerce, Science, & Transportation, today praised the Senate's recent passage of the Secure and Trusted Communications Networks Act of 2019 during a committee hearing on 5G supply chain security. Senator Sullivan is an original co-sponsor of the Senate version of the bipartisan legislation, which is intended to protect American communications networks from threats presented by foreign suppliers, such as Huawei and ZTE. 
+
+"The security risks posed by foreign adversaries that supply 5G technology to our public and private networks and systems equipment cannot be overstated," said Senator Sullivan. "Passage of this legislation will provide the resources and guidance necessary for telecommunications carriers throughout the country -- including Alaska -- to identify problematic equipment, and extract and replace it to ensure that our advanced wireless technology remains safe and secure from foreign adversaries."
+
+The Secure and Trusted Communications Networks Act of 2019 will:
+
+Prohibit the Federal Communications Commission (FCC) from subsidizing the acquisition or maintenance of telecommunications equipment or services from untrusted suppliers. Create a program to reimburse telecommunications providers with fewer than two million customers. These providers will remove equipment that poses a national security risk from their networks to replace it with equipment from trusted suppliers.Establish an information sharing program for telecommunications providers, particularly small and rural operators, to obtain information regarding potential security risks and vulnerabilities to their networks.

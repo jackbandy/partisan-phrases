@@ -1,0 +1,14 @@
+Senator Markey Questions Clearview AI on Coronavirus Tracking and Flawed Tests of Facial Recognition Product
+
+
+Senator Edward J. Markey (D-Mass.), a member of the Commerce, Science, and Transportation Committee, today renewed his call for Clearview AI to submit its technology to rigorous testing in light of reports that the company is marketing its facial recognition software to government entities for tracking coronavirus patients. Senator Markey initially wrote to Clearview in January 2020 with concerns about how the company's product might violate Americans' privacy, and then followed up in March 2020  and about the company's foreign sales to authoritarian governments and processing of children's data.
+
+Clearview's response to Senator Markey's previous queries and subsequent reporting reveal that the company's accuracy testing was conducted by individuals who apparently did not have expertise in facial recognition. The testing did not consider basic questions like how the technology functions when users search for an individual whose photo is not in Clearview's database, or provide information about error rates for false matches and people of color.
+
+ 
+
+"Technology has an important role to play in mitigating the COVID-19 pandemic, but this health crisis cannot justify using unreliable surveillance tools that could undermine our privacy rights," writes Senator Markey in his letter to Clearview CEO Hoan Ton-That. "The steps Clearview has taken to test the accuracy of your product fail to convincingly demonstrate that your technology is free of bias and technological flaws"
+
+In his letter, Senator Markey requests responses to questions that include:
+
+Which government entities, including state government entities, does Clearview engage or have agreements with on the use of Clearview's technology for contact tracing or other responses to the ongoing coronavirus pandemic?What evidence-based rationale does Clearview have for the use of its facial recognition technology in contact tracing and the specific objectives that this use would achieve?What additional information is available about the Independent Review Panel that you claimed evaluated Clearview AI and provide the panelists' qualifications and expertise in facial recognition technology?Will Clearview submit its product for an independent assessment of accuracy and bias by facial recognition experts, including testing for error rates for true negatives, false matches, and people of color, and publish the results of this assessment publicly? If not, why not?

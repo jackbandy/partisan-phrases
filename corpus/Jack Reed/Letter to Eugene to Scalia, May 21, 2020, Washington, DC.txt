@@ -1,0 +1,64 @@
+Letter to Eugene to Scalia, Secretary of Labor - Hirono, Brown, Colleagues Demand DOL Assist State Unemployment Insurance Agencies
+
+
+Dear Secretary Scalia:  
+
+We write to express our serious concern with the significant delays in the processing of Unemployment Insurance (UI) claims that are preventing workers from receiving their benefits in a timely manner. While some states are now distributing benefits under three major UI programs authorized by the CARES Act -- Federal Pandemic Unemployment Compensation (FPUC), Pandemic Unemployment Assistance (PUA), and Pandemic Emergency Unemployment Compensation (PEUC) -- it took most states several weeks to get these programs up and running, and some states are still weeks away from beginning to distribute PUA and PEUC benefits. States' outdated technology is one of the most commonly cited reasons for the delays; after years of neglect, the technology is difficult to update to meet new requirements. We urge you to complete a comprehensive assessment of state UI systems and to make policy recommendations to Congress to address state systems' shortfalls. We also urge you to use all of your authority and resources to provide states with the assistance they need to expedite the disbursement of benefits.   
+
+We recognize the unprecedented number of claims and the unique nature of the current economic crisis, but it is unacceptable that UI systems across the country have been so ineffective at providing workers with this critical safety net in a timely manner. Even in the states that have started paying out CARES Act benefits, claimants must overcome challenges of poorly functioning websites, long waits on help hotlines, and, in the worst cases, inaccurate denials of benefits. These delays are devastating for thousands of workers across the country who have lost income as a result of the COVID-19 pandemic and have gone weeks, sometimes months,
+
+The Department of Labor (DOL) Inspector General (IG) highlighted many of these issues in a report released April 21, 2020, and we urge you to use the IG's findings on state UI systems as a basis for a comprehensive assessment of UI programs in all 50 states. Specifically, the IG report identified states' lagging efforts to modernize unemployment systems which "has resulted in processing delays and inaccurate unemployment compensation payments." The 2009 Recovery Act provided funding to help states modernize the software and technology essential for states to efficiently process claims, but many states did not take advantage of that funding. As a result, the IG stated that the "state of legacy systems," in addition to other factors, "will continue to impede the management and oversight of UI benefits."
+
+A nationwide overhaul of UI systems' technology capabilities is necessary to prevent this unfair delay in benefits from persisting during this economic downturn and occurring in the future. To help Congress devise the most effective policies to respond to these inadequacies, we urge DOL to undertake a comprehensive but quick assessment of existing UI systems. Information from this survey will ensure the Administration allocates resources, technical assistance, and oversight effectively. It will also inform Congress' efforts to devise policy solutions to respond to these deficiencies. We ask you to complete this survey within 60 days and to include answers to the following questions:
+
+1) Information on State UI Systems (to be answered for each state)  
+
+a. When was the last time the state's UI system, including the software, was fully updated? 
+
+b. Is the state's technology equipped to handle a high volume of claims? 
+
+c. Is the state's UI online claims process accessible 24 hours a day, 7 days a week?  If not, why not?
+
+d. Is it possible to file a claim on a mobile device, tablet, or desktop computer?
+
+e. Are users able to reset passwords online? If a user requests a password reset via phone, can staff reset it, or will a new password be mailed via USPS to the claimant?
+
+f. Is the state's online claims system accessible for users with limited English proficiency and individuals with disabilities?
+
+g. Does the state's UI system allow employers to provide the state information for its laid off employees to speed up the claims process? If not, has the state asked for DOL guidance on ways to allow employers to submit laid off employees' UI claims information?
+
+h. What are the state's highest priorities for upgrading system capabilities?  
+
+2) State UI Systems and CARES Act Implementation (to be answered for each state)
+
+a. Was the state able to modify its existing system to accept PUA claims?  
+
+b. Did the state hire outside consultants to update the UI system to administer CARES Act programs? If so, what was the name of the consultant?  Was that consultant used by other states? 
+
+c. In updating the state UI system to administer CARES Act programs, did the state make other upgrades to the system that will be beneficial in the long term?
+
+d. If upgrades were made to the state's UI system, did the state test the updated system with potential users before making it available to claimants?
+
+e. Does the state require paper UI or PUA claims for any group?  
+
+f. Is the state's system properly guiding individuals who do not qualify for regular UI to apply for PUA to prevent erroneous denials?
+
+3) General Trends  
+
+a. On average, how long did it take states to begin disbursing FPUC, PUA, and PEUC benefits after the passage of the CARES Act?
+
+b. What is the primary reason cited by states for delays in disbursing CARES Act benefits?
+
+c. What is the average length of time it takes states to process a regular UI claim and pay the benefit?  What is the average length of time it takes for states to process a PUA claim and pay the benefit?
+
+d. Were CARES Act programs implemented more quickly in states with the most modern UI systems and most accessible UI claims processes? Are there any common features of states systems that facilitated quick implementation of CARES Act programs?
+
+e. Which states have sought technical assistance from DOL in making necessary changes to its UI system? What assistance did DOL provide?
+
+f. Has DOL facilitated the sharing of best practices and information across states? How can DOL facilitate such interstate cooperation going forward?  
+
+In addition to conducting the above survey and submitting the results to Congress, we urge you to provide policy recommendations to Congress to address insufficient technology capabilities to reduce disbursement delays in benefits. We ask you to identify the estimated funding levels necessary to fully upgrade technology systems in all states and to suggest policies to ensure that funding is most effectively used, such as creating incentives for states to share technology or software. Finally, we ask you to identify the ways in which DOL is currently monitoring, conducting oversight, and providing technical assistance to help states efficiently process claims and disburse benefits.
+
+The economic downturn caused by the COVID-19 pandemic has exposed pervasive inadequacies in state unemployment programs, which are hampered by outdated technology. To properly respond to these deficiencies, DOL should conduct a comprehensive assessment of states' capacities and identify the policy solutions necessary to mitigate the current delays and prevent them in the future. DOL should also use all of its existing authority to help states expedite the processing of UI claims. We must do everything we can to ensure laid off workers are able to apply for and receive their unemployment compensation in a timely manner. 
+
+We look forward to continuing to work with you to ensure unemployment programs efficiently and effectively serve American workers.

@@ -1,0 +1,20 @@
+Letter to the Hon. Joseph Simmons, Chairman of the Federal Trade Commission - Brown Blasts Zoom Video Communications For Inaccurately Advertising Their End-To-End Encryption Capabilities; Calls For The Federal Trade Commission (FTC) To Investigate
+
+
+Dear Chairman Simons:
+
+I write to request that the Federal Trade Commission (FTC) open an investigation into Zoom Video Communications, Inc. (Zoom). Based on media reporting and the company's materials, I believe that the company is engaging in deceptive practices by inaccurately advertising end-to-end encryption of its virtual meetings and putting consumers' information and privacy at risk.
+
+The technology industry has widely defined end-to-end (E2E) encrypted communication systems as ones where only the users doing the communicating can read or hear the messages[10]. For example, when a message is sent over an E2E encrypted service, it stays encrypted until it reaches its destination--phone providers cannot read the message.
+
+In contrast, a communication system that uses in-transit encryption allows service providers to access the message.[11] These types of communication systems provide encryption between the user and the service provider, but an unencrypted copy of the message is stored on the service provider's devices.
+
+Both Zoom's website[12] and published security white paper[13] tout end-to-end encryption capabilities for its meetings. On March 31, there were reports that a spokesperson for Zoom admitted: "Currently, it is not possible to enable E2E encryption for Zoom video meetings."[14] The technical details provided by Zoom reveals that their video meetings use technologies that the industry would define as in-transit encryption, not the more private E2E encryption.[15] Zoom's April 1 blog post states that in some cases they "encrypt all video, audio, screen sharing, and chat content at the sending client, and do not decrypt it at any point before it reaches the receiving clients."[16] However, this blog post actually continues Zoom's consumer deception by not clarifying whether it is technologically feasible for them (or a bad actor) to decrypt the meeting on the Zoom servers. True E2E encryption technology does not allow for any extraneous party to retain the ability to decrypt the message.
+
+Zoom's representations appear to meet the elements for deception under the FTC Act: Zoom actively represents that it provides end-to-end encryption. That representation is likely to mislead consumers, and such representations about security of the services provided are material to consumers.[17]
+
+Due to the spread of the COVID-19 virus, social distancing and shelter-in-place requirements have forced Americans to move much of their day-to-day interactions online. Schools are educating remotely, consumers are increasingly relying on telehealth appointments, and video conferencing has replaced social gatherings with loved ones. Zoom's daily users have jumped from 10 million to 200 million in the past three months[18] and federal government leaders of the COVID-19 virus response have spent $1.3 million on Zoom licenses.[19] It is unthinkable that Zoom has betrayed consumers' trust by leading them to believe their conversations are private when, in fact, Zoom "has the technical ability to spy on private video meetings."[20]
+
+The FTC has brought enforcement actions against other technology companies that misrepresent the security or privacy they are providing to their users.[21] Given the increased use of Zoom during this crisis, I ask that the FTC immediately open an investigation into what appears to be Zoom's deceptive representations about the security and privacy it provides to its users.
+
+Thank you for your attention to this matter.

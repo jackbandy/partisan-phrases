@@ -1,0 +1,172 @@
+Statements on Introduced Bills and Joint Resolutions
+
+
+   3924  
+
+       Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.  
+
+       This Act may be cited as the ``Computer and Internet Access       Equity Act''.       SEC. 2. INCREASED LIFELINE SUPPORT.  
+
+       (a) Definitions.--In this section: 
+
+       (1) Commission.--The term ``Commission'' means the Federal       Communications Commission. 
+
+       (2) Terms defined in regulations.--The terms defined in       section 54.400 of title 47, Code of Federal Regulations (or       any successor regulation), have the meanings given those       terms in that section. 
+
+       (b) Regulations.--Not later than 14 days after the date of       enactment of this Act, the Commission shall promulgate       regulations to modify the requirements for the Lifeline       program set forth in subpart E of part 54 of title 47, Code       of Federal Regulations (as in effect on the date of enactment       of this Act) to provide for the following: 
+
+       (1) The amount of Lifeline support that a provider of       Lifeline service may receive for providing such service to       each qualifying low-income consumer shall be increased by the       lesser of-- 
+
+       (A) $83.33 per month; or 
+
+       (B) the amount needed to make the amount of Lifeline       support received by the provider equal to the cost of       providing such service, except that such cost may not exceed       the cost to the provider of providing an equivalent level of       voice telephony service or broadband internet access service       (as applicable) to a consumer who does not receive Lifeline       service. 
+
+       (2) The percentage of the Federal Poverty Guidelines (as       specified in section 54.409(a) of title 47, Code of Federal       Regulations) at or below which a consumer's household income       must be in order for the consumer to constitute a qualifying       low-income consumer on the basis of income shall be increased       to 435 percent. 
+
+       (3) A provider of broadband internet access service shall       not be required to be designated as an eligible       telecommunications carrier under section 214(e) of the       Communications Act of 1934 (47 U.S.C. 214(e)) in order to       receive Lifeline support for providing such service to a       qualifying low-income consumer. 
+
+       (c) Duration.--The modifications made by the regulations       promulgated under subsection (b) shall cease to have any       force or effect on the date that is 12 years after the date       on which the regulations are promulgated. 
+
+       (d) Consumer Protections.-- 
+
+       (1) In general.--A provider of broadband internet access       service that receives Lifeline support for providing such       service to a qualified low-income consumer-- 
+
+       (A) shall provide such service to the consumer at a minimum       speed of 25 megabits per second for downloads and 3 megabits       per second for uploads, which minimum speed shall be       reevaluated and, if appropriate, increased by the Commission       not less frequently than once every 3 years; 
+
+       (B) shall provide a level of customer service to the       consumer that is comparable to the customer service that the       provider provides to consumers of broadband internet access       service who do not receive Lifeline service; 
+
+       (C) shall offer such service to each qualified low-income       consumer in the designated service area of the provider; and 
+
+       (D)(i) shall advertise the availability of such service and       the charges therefor using media of general distribution       throughout the designated service area of the provider to       increase awareness among consumers (including non-English       speaking consumers) that they may be eligible for such       service; and 
+
+       (ii) may partner with State agencies responsible for the       provision of social assistance and service programs in       conducting advertising under clause (i). 
+
+       (2) Designated service area.--A State commission or the       Commission, as applicable, shall establish a designated       service area for a provider of broadband internet access       service described in paragraph (1) for purposes of that       paragraph in the same manner as the State commission or       Commission establishes a designated service area for a common       carrier under paragraph (5) or (6), as applicable, of section       214(e) of the Communications Act of 1934 (47 U.S.C. 214(e)).       SEC. 3. INTERNET EDUCATION AND TRAINING GRANT PROGRAM.  
+
+       (a) Definitions.--In this section: 
+
+       (1) Commission.--The term ``Commission'' means the Federal       Communications Commission. 
+
+       (2) Community-based organization.--The term ``community-      based organization'' has the meaning given the term in       section 3 of the Workforce Innovation and Opportunity Act (29       U.S.C. 3102). 
+
+       (3) Digital literacy.--The term ``digital literacy'' means       the skills associated with using technology. 
+
+       (4) Eligible entity.--The term ``eligible entity'' means-- 
+
+       (A) a nonprofit organization; 
+
+       (B) a not-for-profit social welfare organization; or 
+
+       (C) a community-based organization. 
+
+       (5) Federal poverty guidelines.--The term ``Federal Poverty       Guidelines'' means the Federal Poverty Guidelines used for       purposes of section 54.409(a)(1) of title 47, Code of Federal       Regulations (or any successor regulation). 
+
+       (6) Household.--The term ``household'' has the meaning       given the term in section 54.400 of title 47, Code of Federal       Regulations (or any successor regulation). 
+
+       (7) Income.--The term ``income'' has the meaning given the       term in section 54.400 of title 47, Code of Federal       Regulations (or any successor regulation). 
+
+       (8) Nonprofit organization.--The term ``nonprofit       organization'' means an organization described in section       501(c)(3) of the Internal Revenue Code of 1986 and exempt       from tax under section 501(a) of such Code. 
+
+       (9) Not-for-profit social welfare organization.--The term       ``not-for-profit social welfare organization'' means an       organization described in section 501(c)(4) of the Internal       Revenue Code of 1986 and exempt from tax under section 501(a)       of such Code.  
+
+       (b) Grants Authorized.--Not later than 100 days after the       date of enactment of this Act, the Commission shall establish       a program to make grants on a competitive basis to eligible       entities to develop and carry out an internet safety       education or training program. 
+
+       (c) Applications.--An eligible entity that wishes to       receive a grant under this section shall submit to the       Commission an application at such time, in such manner, and       containing such information as the Commission may require. 
+
+       (d) Use of Funds.--An eligible entity that receives a grant       under this section shall use grant funds to-- 
+
+       (1) develop a program to provide internet education and       training, which may address cyberbullying, online privacy,       cybersecurity, and digital literacy, to individuals living in       households with an income at or below 435 percent of the       Federal Poverty Guidelines for households of the applicable       size; and 
+
+       (2) provide such education or training to such individuals       through such program. 
+
+       (e) Reports.-- 
+
+       (1) Reports to commission.--Not later than 3 years after       the date on which an entity receives a grant under this       section, the entity shall publish and submit to the       Commission a report that-- 
+
+       (A) describes the use of the grant by the entity, including       the number of individuals served by the entity using grant       funds; 
+
+       (B) describes the progress of the entity toward fulfilling       the objectives for which the grant was awarded; and 
+
+       (C) includes any additional information required by the       Commission. 
+
+       (2) Report to congress.--Not later than 5 years after the       date of enactment of this Act, the Commission shall publish       and submit to Congress a report that-- 
+
+       (A) summarizes the data from the reports that the       Commission has received under paragraph (1); and 
+
+       (B) assesses the effectiveness and cost-effectiveness of       the grant program established under this section. 
+
+       (f) Authorization of Appropriations.--There are authorized       to be appropriated such sums as may be necessary to carry out       this section.       SEC. 4. CREDIT FOR COMPUTER COSTS.  
+
+       (a) In General.--Subpart C of part IV of subchapter A of       chapter 1 of the Internal Revenue Code of 1986 is amended by       inserting after section 36B the following new section:       ``SEC. 36C. CREDIT FOR COMPUTER COSTS.  
+
+       ``(a) In General.--In the case of an eligible individual,       there shall be allowed as a credit against the tax imposed by       this subtitle for the taxable year an amount equal the lesser       of-- 
+
+       ``(1) the amount of qualified computer costs paid or       incurred by the taxpayer during such taxable year, 
+
+       ``(2) $2,000, or 
+
+       ``(3) an amount equal to $10,000 ($20,000 in the case of a       joint return) minus the sum of any credits allowed to the       taxpayer under this section for any preceding taxable year. 
+
+       ``(b) Qualified Computer Costs.--For purposes of this       section, the term `qualified computer costs' means amounts       paid or incurred for computers, printers, and other       education-related technology. 
+
+       ``(c) Limitation Based on Adjusted Gross Income.--The       amount of the credit allowed by subsection (a) (determined       without regard to this subsection) shall be reduced by 5       percent of so much of the taxpayer's adjusted gross income as       exceeds-- 
+
+       ``(1) $150,000 in the case of a joint return, 
+
+       ``(2) $112,500 in the case of a head of household, and 
+
+       ``(3) $75,000 in the case of a taxpayer not described in       paragraph (1) or (2). 
+
+       ``(d) Eligible Individual.--The term `eligible individual'       means any individual other than-- 
+
+       ``(1) any nonresident alien individual, 
+
+       ``(2) any individual with respect to whom a deduction under       section 151 is allowable to another taxpayer for a taxable       year beginning in the calendar year in which the individual's       taxable year begins, and 
+
+       ``(3) an estate or trust. 
+
+       ``(e) Application of Section.--This section shall only       apply to qualified computer costs incurred by the taxpayer       after December 31, 2019, and before January 1, 2032.''. 
+
+       (b) Advance Payment of Credit.-- 
+
+       (1) In general.--Chapter 77 of the Internal Revenue Code of       1986 is amended by inserting after section 7527 the following       new section:       ``SEC. 7527A. ADVANCE PAYMENT OF CREDIT FOR COMPUTER COSTS.  
+
+       ``(a) In General.--As soon as practicable after the date of       the enactment of this section, the Secretary shall establish       a program for making advance payments of the credit allowed       under section 36C (determined without regard to subsection       (e) of such section), on such basis as the Secretary       determines to be administratively feasible, to taxpayers       determined to be eligible for advance payment of such credit. 
+
+       ``(b) Limitation.-- 
+
+       ``(1) In general.--The Secretary may make payments under       subsection (a) only to the extent that the total amount of       such payments made to any taxpayer during the taxable year       does not exceed the amount of the credit determined under       subsection (a) of section 36C, as determined based on       application of subsection (c) of such section using the       adjusted gross income of the taxpayer for the most recent       taxable year for which a return has been filed during any of       the preceding 3 taxable years. 
+
+       ``(2) Non-filers.--In the case of any taxpayer who has not       filed a return during the period described in paragraph (1),       such paragraph shall be applied without regard to subsection       (c) of section 36C.''. 
+
+       (2) Reconciliation of credit and advance credit.--Section       36C of such Code, as added by subsection (a), is amended-- 
+
+       (A) by redesignating subsection (e) as subsection (f), and 
+
+       (B) by inserting after subsection (d) the following new       subsection: 
+
+       ``(e) Reconciliation of Credit and Advance Credit.-- 
+
+       ``(1) In general.--The amount of the credit allowed under       this section for any taxable year shall be reduced (but not       below zero) by the aggregate amount of any advance payments       of such credit under section 7527A for such taxable year. 
+
+       ``(2) Excess advance payments.-- 
+
+       ``(A) In general.--If the aggregate amount of advance       payments under section 7527A for the taxable year exceeds the       amount of the credit allowed under this section for such       taxable year (determined without regard to paragraph (1)),       the tax imposed by this chapter for such taxable year shall       be increased by the amount of such excess. 
+
+       ``(B) Return requirement.--If the tax imposed by this       chapter for the taxable year is increased under this       paragraph, the taxpayer shall, notwithstanding section 6012,       be required to file a return with respect to the taxes       imposed under this subtitle.''. 
+
+       (c) Conforming Amendments.-- 
+
+       (1) Section 6211(b)(4)(A) of the Internal Revenue Code of       1986 is amended by inserting ``36C,'' after ``36B,''. 
+
+       (2) Paragraph (2) of section 1324(b) of title 31, United       States Code, is amended by inserting ``36C,'' after ``36B,''. 
+
+       (3) The table of sections for subpart C of part IV of       subchapter A of chapter 1 of the Internal Revenue Code of       1986 is amended by inserting after the item relating to       section 36B the following new item:  ``Sec. 36C. Credit for Computer Costs.''. 
+
+       (4) The table of sections for chapter 77 of such Code is       amended by inserting after the item relating to section 7527       the following new item:  ``Sec. 7527A. Advance payment of credit for computer costs.''. 
+
+       (d) Public Awareness Campaign.--The Secretary of the       Treasury (or the Secretary's delegate) shall conduct a public       awareness campaign, in coordination with the Commissioner of       Social Security, the Secretary of Veterans Affairs, and the       heads of other relevant Federal and State agencies, to       provide information to the public (including non-English       speaking populations) regarding the availability of the       credit allowed under section 36C of the Internal Revenue Code       of 1986 and advance payment of such credit pursuant to       section 7527A of such Code (as added by this section). 
+
+       (e) Effective Date.--The amendments made by this section       shall apply to costs incurred in taxable years beginning       after December 31, 2019.    
+
+BREAK IN TRANSCRIPT

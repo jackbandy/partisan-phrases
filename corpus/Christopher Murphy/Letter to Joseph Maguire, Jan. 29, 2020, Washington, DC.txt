@@ -1,0 +1,16 @@
+Letter to Joseph Maguire, Acting Director of National Intelligence, and Chris Wray, Director of the FBI - Murphy Calls on FBI, DNI to Investigate Reports that Saudi Arabia hacked Washington Post Owner Jeff Bezo's Phone Before Khashoggi's Death
+
+
+Dear Director Maguire and Director Wray,
+
+I write today to urge you to investigate the allegations that a high-level Saudi government official illegally compromised and stole personal data from phone of Amazon Chairman and CEO Jeff Bezos and possibly other U.S. citizens as part of a campaign to intimidate his opponents. I further request that you brief Congress on the current status of any investigation into this allegation and all preliminary and final conclusions.
+
+As you are aware, a United Nations report released on January 22, 2020 determined with "medium to high confidence" that Saudi Arabia's Crown Prince Mohammed bin Salman delivered spyware to the mobile phone of Mr. Bezos via a WhatsApp message. A forensic analysis found that within hours of receipt of the file from the Crown Prince's account, a massive and unprecedented exfiltration of personal data from Mr. Bezos's phone began. The report further states that other critics of Saudi Arabia had their mobile devices compromised with malicious code. Intelligence officials in Norway warned one of the targeted critics that he was in physical danger. 
+
+The operation against Mr. Bezos raises serious concern that other American citizens may have been deliberately targeted by the Kingdom of Saudi Arabia. Cyber crimes committed by officials of the Saudi government could have serious ramifications on the U.S-Saudi relationship. Already, the murder of Jamal Khashoggi, a U.S. resident and critic of Saudi Arabia, has shaken the underpinnings of our relationship. This new allegation indicates that Khashoggi's murder may be a part of a broader campaign to intimidate and silence opponents of the Kingdom of Saudi Arabia. It is critical that the Congress and the American people understand the extent of this campaign and any ongoing vulnerabilities to U.S. national security.
+
+I urge you to open a full and complete investigation into this allegation and request a briefing on your findings, to include the answers to the following questions:
+
+Do you concur with the findings of the UN Special Rapporteur that Mr. Bezos's phone was targeted with malware and had personal data illegally exfiltrated?If so, what software was used and how was the malware transmitted? Who received the information that was exfiltrated from Mr. Bezos' device?Who developed the software that enabled the intrusion? Were any U.S. government officials or any U.S. citizens involved the sale, or deployment of this software by Saudi Arabia?Do you have any evidence to suggest that the Kingdom of Saudi Arabia attempted to use this personal data to extort or blackmail Mr. Bezos in order to silence critical reporting in the Washington Post?Are you aware of individuals, other than those named in the January 22 UN Special Rapporteurs' report, who were targeted with malware by officials of the Kingdom of Saudi Arabia?Thank you for your attention to this matter and I look forward to your timely response.
+
+Sincerely,

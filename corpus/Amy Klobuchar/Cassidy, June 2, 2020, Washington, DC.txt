@@ -1,0 +1,58 @@
+Cassidy, Cantwell, Klobuchar Introduce Bipartisan Legislation to Protect Consumer Privacy, Promote Public Health for COVID-19 Exposure Notification Apps
+
+
+As public health officials around the country continue to explore exposure notification technologies as a way to combat the spread of COVID-19, U.S. Senators Bill Cassidy, M.D. (R-LA), Maria Cantwell (D-WA), introduced bipartisan legislation Monday to protect consumer privacy and promote public health in the development of these tools. U.S. Senator Amy Klobuchar (D-MN) will also cosponsor the legislation.
+
+The legislation makes participation in commercial online exposure notification systems voluntary and gives consumers strong controls over their personal data, limits the types of data that can be collected and how it can be used, and contains strong enforcement provisions. The bill will give Americans confidence that the apps they are using are from legitimate sources, will protect their privacy, and that public health officials will be the ones determining what tools are necessary to give the public the information they need to make smart decisions regarding their health. 
+
+"This bill defends privacy when someone voluntarily joins with others to stop the spread of Covid-19," said Dr. Cassidy.
+
+"Public health needs to be in charge of any notification system so we protect people's privacy and help them know when there is a warning that they might have been exposed to COVID-19," Cantwell said.
+
+"As we continue to confront the coronavirus pandemic, Americans should not have to worry about the privacy and security of their personal health data," said Klobuchar. "While contact tracing can play a critical role in helping prevent the spread of the coronavirus, this crucial innovation cannot come at the expense of consumers' privacy." 
+
+Specifically, the Exposure Notification Privacy Act will:
+
+·       Require that public health officials be involved with the deployment of any exposure notification systems. In order to give consumers the confidence they need that the apps they are using are legitimate and not created by unqualified actors, public health officials would be involved in the deployment of any commercial apps used by consumers.
+
+·       Allow only medically-authorized diagnoses be submitted to exposure notification systems. In order to guard against false reports, exposure notification systems would only accept authorized medical diagnoses.
+
+·       Require that participation be voluntary and based on consumer consent. In order to protect consumer choice, participation in exposure notification systems would be voluntary and require affirmative, express user consent.
+
+·       Limit the collection and use of data to that which is necessary for the purpose of the system and prohibit any commercial use of data. In order to protect user rights and privacy, apps would be prohibited from collecting or using any data not absolutely necessary and would be strictly prohibited from using data for any commercial use.
+
+·       Allow participants to delete their data from an exposure notification system at any time. In order to protect consumer privacy and safeguard consumer rights, users would be able to delete their data from the systems at any time.
+
+·       Prohibit discrimination against an individual based on information provided to an exposure notification system. In order to safeguard users and promote participation, the legislation prohibits discrimination against any individual in places of public accommodation based on the information they provide to an exposure notification system, or based on their choice not to participate.
+
+·       Create strong data security safeguards. In order to protect user data, the legislation creates comprehensive data security requirements and obligations to immediately notify individuals in the event of a security incident.
+
+·       Creates strict enforcement measures. In order to ensure consumer rights are protected, federal and state authorities would be empowered to prosecute violations and pursue strong penalties, and state laws and rights will be preserved.
+
+The full text of the Exposure Notification Privacy Act can be found HERE.
+
+The section-by-section of the bill can be found HERE.
+
+The one-pager of the bill can be found HERE.
+
+Here's what health, privacy, and tech experts and advocacy groups are saying about the Exposure Notification Privacy Act: 
+
+Council of State and Territorial Epidemiologists: "Access to data is essential in aiding public health professionals to locate and contact possible COVID-19 infected individuals and CSTE is encouraged to see Congress taking action to protect individuals data and privacy while also ensuring that public health continues to be able to use new and existing technology to assist with contact tracing so that we can more quickly locate possible infections."
+
+National Coalition of STD Directors Associate Director of Government Affairs Taryn Couture: "Innovations in exposure notification software and apps provide exciting new tools in our nation's COVID-19 response. However, to succeed, these strategies need to protect the privacies and freedoms of all Americans, something health departments have known for decades. By ensuring private developers partner with health departments, the Exposure Notification Privacy Act takes an important step in protecting both the health and privacy of our citizens." 
+
+Public Knowledge Policy Counsel Sara Collins: "We need to regulate apps that provide COVID-19 exposure notification to protect a user's privacy, prevent data misuse, and preserve our civil rights -- and this bill offers a roadmap for doing all three. The bill marks a valuable first step in the long road ahead to protecting Americans' data."  
+
+New America's Open Technology Institute Senior Policy Counsel K.J. Bagchi:  "OTI welcomes this legislation that seeks to establish guardrails for digital exposure notification systems which could collect vast quantities of personal data. The bill comes at an important time when these services are being discussed as a means of addressing the COVID-19 global pandemic. The bill also ensures that voluntary participation is the basis for any data collection system and provides users the opportunity to withdraw their participation later. We are also pleased to see clear data retention limits that will serve as an important component to ensure that threats of secondary uses or data breach are minimized."  
+
+Electronic Privacy Information Center (EPIC) Interim Associate Director and Policy Director Caitriona Fitzgerald: "The Exposure Notification Privacy Act is an important step towards protecting privacy during public health emergencies. The bill requires that participation in digital contact tracing apps is voluntary, makes clear that data collected to prevent the spread of COVID-19 can only be used for that purpose, and requires companies to delete user data on a regular basis. EPIC will continue working with Congress to ensure that any privacy bill holds companies accountable through strong enforcement mechanisms."
+
+Future of Privacy Forum CEO Jules Polenetsky: "Exposure notification services can support the work of public health agencies and can help employers keep workplaces safe, but only if they are designed and implemented with privacy in mind and in the public interest. The Cantwell-Cassidy bill guarantees that data collected by mobile apps is protected by strong legal safeguards, in addition to technical measures companies put in place."  
+
+The Center for American Progress Vice President Adam Conner: "Technology may support efforts to combat the COVID-19 crisis but will require earning the public's confidence to succeed. The Exposure Notification Privacy Act would be an important step towards increasing public trust in these efforts by creating needed protections against misuse and discrimination for digital exposure notification programs. These efforts will only succeed in conjunction with a national strategy for testing and an increase in resources to state and local public health agencies. As the public health crisis enters new phases, we will likely need more resources for those efforts and may need further protections for new technology proposed."
+
+National Urban League Senior Vice President of Policy & Advocacy Clint Odom: "The novel coronavirus pandemic presents one of the greatest national and personal security challenges in recent history. The times demand a contact tracing effort of historic human and technological proportions. The Exposure Notification Privacy Act can help us flatten the curve and perhaps get ahead of it. Contact tracing technology can only gain widespread adoption with the features of consumer choice, data protection, and limited duration. This bipartisan legislation is consistent with the finest traditions of advancing health outcomes and protecting patient privacy." 
+
+R. David Edelman, MIT Internet Policy Research Initiative and Computer Science & AI Laboratory: "While we don't yet know which digital tools might help turn the tide on the pandemic, we do know that none of them will work without earning and keeping the public's trust.  Ensuring privacy, security, and nondiscrimination -- backed by real enforcement -- are the keys to ensuring such tools help rather than hurt, and unite rather than divide, at this crucial moment.  This timely bill aims to do just that."
+
+Privacy and Civil Liberties Oversight Board Member Travis LeBlanc: "COVID-19 has shown that a pandemic can threaten both public health and national security.  As we are all seeing, this pandemic continues to generate new surveillance responses that are unprecedented in intensity and scope: from contact tracing to quarantine monitoring systems, temperature checkpoints, enhanced questioning, increased sharing of health information, and social distancing requirements. The Privacy and Civil Liberties Oversight Board is the only federal agency capable of looking across every department of government, without any limitations on access to information, to review the impact of federal and state government programs on our privacy and civil liberties.  I look forward to working with my colleagues at the Board to examine these issues promptly upon enactment of the Exposure Notification Privacy Act."

@@ -1,0 +1,962 @@
+Statements on Introduced Bills and Joint Resolutions
+
+
+   3832  
+
+       Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.  
+
+       This Act may be cited as the ``Endless Frontier Act''.       SEC. 2. FINDINGS.  
+
+       Congress finds the following: 
+
+       (1) For over 70 years, the United States has been the       unequivocal global leader in scientific and technological       innovation, and as a result the people of the United States       have benefitted through good-paying jobs, economic       prosperity, and a higher quality of life. Today, however,       this leadership position is being eroded and challenged by       foreign competitors, some of whom are stealing intellectual       property and trade secrets of the United States and       aggressively investing in fundamental research and       commercialization to dominate the key technology fields of       the future. While the United States once led the world in the       share of our economy invested in research, our Nation now       ranks 9th globally in total research and development and 12th       in publicly financed research and development. 
+
+       (2) Without a significant increase in investment in       research, education, technology transfer, and the core       strengths of the United States innovation ecosystem, it is       only a matter of time before the global competitors of the       United States overtake the United States in terms of       technological primacy. The country that wins the race in key       technologies--such as artificial intelligence, quantum       computing, advanced communications, and advanced       manufacturing--will be the superpower of the future. 
+
+       (3) The Federal Government must catalyze United States       innovation by boosting fundamental research investments       focused on discovering, creating, commercializing, and       producing new technologies to ensure the leadership of the       United States in the industries of the future. 
+
+       (4) The distribution of innovation jobs and investment in       the United States has become largely concentrated in just a       few locations, while much of the Nation has been left out of       growth in the innovation sector. More than 90 percent of the       Nation's innovation sector employment growth in the last 15       years was generated in just 5 major cities. The Federal       Government must address this imbalance in opportunity by       partnering with the private sector to build new technology       hubs across the country, spreading innovation sector jobs       more broadly, and tapping the talent and potential of the       entire Nation to ensure the United States leads the       industries of the future. 
+
+       (5) Since its inception, the National Science Foundation       has carried out vital work supporting basic research and       people to create knowledge that is a primary driver of the       economy of the United States and enhances the Nation's       security.       SEC. 3. NATIONAL SCIENCE AND TECHNOLOGY FOUNDATION.  
+
+       (a) Redesignation of National Science Foundation as       National Science and Technology Foundation.-- 
+
+       (1) In general.--Section 2 of the Act of May 10, 1950 (64       Stat. 149, chapter 171; 42 U.S.C. 1861) is amended-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``science''; and 
+
+       (B) by striking ``the National Science Foundation'' and       inserting ``the National Science and Technology Foundation''. 
+
+       (2) References.--Any reference in any law, rule,       regulation, certificate, directive, instruction, or other       official paper in force on the date of enactment of this Act       to the National Science Foundation shall be considered to       refer and apply to the National Science and Technology       Foundation. 
+
+       (b) Establishment of Deputy Director for Technology.--      Section 6 of the Act of May 10, 1950 (64 Stat. 149, chapter       171; 42 U.S.C. 1864a) is amended-- 
+
+       (1) in the section heading, by striking ``deputy director''       and inserting ``deputy directors''; 
+
+       (2) in the first sentence-- 
+
+       (A) by striking ``a Deputy Director'' and inserting ``2       Deputy Directors''; and 
+
+       (B) by inserting ``and in accordance with the expedited       procedures established under S. Res. 116 (112th Congress)''       after ``the Senate''; 
+
+       (3) in the third sentence, by striking ``The Deputy       Director shall receive'' and inserting ``Each Deputy Director       shall receive''; 
+
+       (4) by inserting after the third sentence the following:       ``The Deputy Director for Technology shall oversee, and       perform duties relating to, the Directorate for Technology of       the Foundation, as established under section 8A, and the       Deputy Director for Science shall oversee, and perform duties       relating to, the other activities and directorates supported       by the Foundation.''; and 
+
+       (5) in the last sentence, by striking ``The Deputy Director       shall act'' and inserting ``The Deputy Director for Science       shall act''. 
+
+       (c) Establishment of Directorate for Technology.--The Act       of May 10, 1950 (64 Stat. 149, chapter 171; 42 U.S.C. 1861 et       seq.) is amended-- 
+
+       (1) in section 8 (42 U.S.C. 1866), by inserting at the end       the following: ``Such divisions shall include the Directorate       for Technology established under section 8A.''; and 
+
+       (2) by inserting after section 8 the following:       ``SEC. 8A. DIRECTORATE FOR TECHNOLOGY.  
+
+       ``(a) Definitions.--In this section:  
+
+       ``(1) Deputy director.--The term `Deputy Director' means       the Deputy Director for Technology. 
+
+       ``(2) Designated country.--The term `designated country'       means a country that has been approved and designated in       writing by the President for purposes of this section, after       providing-- 
+
+       ``(A) not less than 30 days of advance notification and       explanation to the relevant congressional committees before       the designation; and 
+
+       ``(B) in-person briefings to such committees, if requested       during the 30-day advance notification period described in       subparagraph (A). 
+
+       ``(3) Directorate.--The term `Directorate' means the       Directorate for Technology established under subsection (b). 
+
+       ``(4) Institution of higher education.--The term       `institution of higher education' has the meaning given the       term in section 101(a) of the Higher Education Act of 1965       (20 U.S.C. 1001(a)). 
+
+       ``(5) Key technology focus areas.--The term `key technology       focus areas' means the areas included on the most recent list       under subsection (c)(2). 
+
+       ``(6) Relevant congressional committees.--The term       `relevant congressional committees' means-- 
+
+       ``(A) the Committee on Armed Services, the Committee on       Commerce, Science, and Transportation, the Committee on       Appropriations, the Committee on Foreign Relations, and the       Select Committee on Intelligence of the Senate; and 
+
+       ``(B) the Committee on Armed Services, the Committee on       Science, Space, and Technology, the Committee on       Appropriations, the Committee on Foreign Affairs, and the       Permanent Select Committee on Intelligence of the House of       Representatives. 
+
+       ``(b) Establishment.-- 
+
+       ``(1) In general.--Not later than 90 days after the date of       enactment of the Endless Frontier Act, the Director shall       establish in the Foundation a Directorate for Technology. The       Directorate shall carry out the duties and responsibilities       described in this section, in order to further the following       goals: 
+
+       ``(A) Strengthening the leadership of the United States in       critical technologies through fundamental research in the key       technology focus areas. 
+
+       ``(B) Enhancing the competitiveness of the United States in       the key technology focus areas by improving education in the       key technology focus areas and attracting more students to       such areas. 
+
+       ``(C) Consistent with the operations of the Foundation,       fostering the economic and societal impact of federally       funded research and development through an accelerated       translation of fundamental advances in the key technology       focus areas into processes and products that can help achieve       national goals related to economic competitiveness, domestic       manufacturing, national security, shared prosperity, energy       and the environment, health, education and workforce       development, and transportation. 
+
+       ``(2) Deputy director.--The Directorate shall be headed by       the Deputy Director. 
+
+       ``(3) Organization and administrative matters.-- 
+
+       ``(A) Hiring authority.-- 
+
+       ``(i) Experts in science and engineering.--The Director       shall have the authority to carry out a program of personnel       management authority for the Directorate in the same manner,       and subject to the same requirements, as the program of       personnel management authority authorized for the Director of       the Defense Advanced Research Projects Agency under section       1599h of title 10, United States Code, for the Defense       Advanced Research Projects Agency. 
+
+       ``(ii) Highly qualified experts in needed occupations.--In       addition to the authority provided under clause (i), the       Director shall have the authority to carry out a program of       personnel management authority for the Directorate in the       same manner, and subject to the same requirements, as the       program to attract highly qualified experts carried out by       the Secretary of Defense under section 9903 of title 5,       United States Code. 
+
+       ``(iii) Additional hiring authority.--To the extent needed       to carry out the duties in paragraph (1), the Director shall       utilize hiring authorities under section 3372 of title 5,       United States Code, to staff the Directorate with employees       from other Federal agencies, State and local governments,       Indian tribes and tribal organizations, institutions of       higher education, and other organizations, as described in       that section, in the same manner and subject to the same       conditions, that apply to such individuals utilized to       accomplish other missions of the Foundation. 
+
+       ``(B) Program managers.--The employees of the Directorate       may include program managers for the key technology focus       areas, who shall perform a role similar to programs managers       employed by the Defense Advanced Research Projects Agency for       the oversight and selection of programs supported by the       Directorate. 
+
+       ``(C) Selection of recipients.--Recipients of support under       the programs and activities of the Directorate shall be       selected by program managers or other employees of the       Directorate. The Directorate may use a peer review process to       inform the decisions of program managers or other employees. 
+
+       ``(D) Assistant directors.--The Director may appoint 1 or       more Assistant Directors for the Directorate as the Director       determines necessary, in the same manner as other Assistant       Directors of the Foundation are appointed. 
+
+       ``(4) Report.--Not later than 120 days after the date of       enactment of the Endless Frontier Act, the Director shall       prepare and submit a report to the relevant congressional       committees regarding the establishment of the Directorate. 
+
+       ``(c) Duties and Functions of the Directorate.-- 
+
+       ``(1) Development of technology focus of the directorate.--      The Director, acting through the Deputy Director, shall-- 
+
+       ``(A) advance innovation in the key technology focus areas       through fundamental research and other activities described       in this section; and 
+
+       ``(B) develop and implement strategies to ensure that the       activities of the Directorate are directed toward the key       technology focus areas in order to accomplish the goals       described in subparagraphs (A) through (C) of subsection       (b)(1) consistent with the most recent report conducted under       section 5(b) of the Endless Frontier Act. 
+
+       ``(2) Key technology focus areas.-- 
+
+       ``(A) Initial list.--The initial key technology focus areas       are-- 
+
+       ``(i) artificial intelligence and machine learning; 
+
+       ``(ii) high performance computing, semiconductors, and       advanced computer hardware; 
+
+       ``(iii) quantum computing and information systems; 
+
+       ``(iv) robotics, automation, and advanced manufacturing; 
+
+       ``(v) natural or anthropogenic disaster prevention; 
+
+       ``(vi) advanced communications technology; 
+
+       ``(vii) biotechnology, genomics, and synthetic biology; 
+
+       ``(viii) cybersecurity, data storage, and data management       technologies; 
+
+       ``(ix) advanced energy; and 
+
+       ``(x) materials science, engineering, and exploration       relevant to the other key technology focus areas described in       this subparagraph. 
+
+       ``(B) Review of key technology focus areas and subsequent       lists.-- 
+
+       ``(i) Adding or deleting key technology focus areas.--      Beginning on the date that is 4 years after the date of       enactment of the Endless Frontier Act, and every 4 years       thereafter, the Director, acting through the Deputy       Director--  
+
+       ``(I) shall, in consultation with the Board of Advisors,       review the list of key technology focus areas; and 
+
+       ``(II) as part of that review, may add or delete key       technology focus areas if the competitive threats to the       United States have shifted (whether because the United States       or other nations have advanced or fallen behind in a       technological area), subject to clause (ii).  
+
+       ``(ii) Limit on key technology focus areas.--Not more than       10 key technology focus areas shall be included on the list       of key technology focus areas at any time. 
+
+       ``(iii) Updating focus areas and distribution.--Upon the       completion of each review under this subparagraph, the       Director shall make the list of key technology focus areas       readily available and publish the list in the Federal       Register, even if no changes have been made to the prior       list. 
+
+       ``(3) Activities.-- 
+
+       ``(A) In general.--In carrying out the duties and functions       of the Directorate, the Director, acting through the Deputy       Director, may-- 
+
+       ``(i) award grants, cooperative agreements, and contracts       to--  
+
+       ``(I) individual institutions of higher education for work       at centers or by individual researchers; 
+
+       ``(II) not-for-profit entities; and 
+
+       ``(III) consortia that--  
+
+       ``(aa) shall include and be led by an institution of higher       education, and may include 1 or more additional institutions       of higher education; 
+
+       ``(bb) may include 1 or more entities described in       subclause (I) or (II) and, if determined appropriate by the       Director, for-profit entities, including small businesses;       and 
+
+       ``(cc) may include 1 or more entities described in       subclause (I) or (II) from treaty allies and security       partners of the United States; 
+
+       ``(ii) provide funds to other divisions of the Foundation,       including--  
+
+       ``(I) to the other directorates of the Foundation to pursue       basic questions about natural and physical phenomena that       could enable advances in the key technology focus areas; 
+
+       ``(II) to the Directorate for Social, Behavioral, and       Economic Sciences to study questions that could affect the       design, operation, deployment, or the social and ethical       consequences of technologies in the key technology focus       areas; and 
+
+       ``(III) to the Directorate for Education and Human       Resources to further the creation of a domestic workforce       capable of advancing the key technology focus areas;  
+
+       ``(iii) provide funds to other Federal research agencies,       including the National Institute of Standards and Technology,       for intramural or extramural work in the key technology focus       areas; 
+
+       ``(iv) make awards under the SBIR and STTR programs (as       defined in section 9(e) of the Small Business Act (15 U.S.C.       638(e)) in the same manner as awards under such programs are       made by the Director of the Foundation;  
+
+       ``(v) administer prize challenges under section 24 of the       Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C.       3719) in the key technology focus areas, in order to expand       public-private partnerships beyond direct research funding;       and 
+
+       ``(vi) enter into and perform such contracts, including       cooperative research and development arrangements and grants       and cooperative agreements or other transactions, as may be       necessary in the conduct of the work of the Directorate and       on such terms as the Deputy Director considers appropriate,       in furtherance of the purposes of this Act. 
+
+       ``(B) Reports.--Not later than 180 days after the date of       enactment of the Endless Frontier Act, the Director shall       prepare and submit to the relevant congressional committees a       spending plan for the next 5 years for each of the activities       described in subparagraph (A), including-- 
+
+       ``(i) a plan to seek out additional investments from--  
+
+       ``(I) certain designated countries; and 
+
+       ``(II) if appropriate, private sector entities; and  
+
+       ``(ii) the planned activities of the Directorate to secure       federally funded science and technology pursuant to section       1746 of the National Defense Authorization Act for Fiscal       Year 2020 (Public Law 116-92). 
+
+       ``(C) Annual briefing.--Each year, the Director shall       formally request a briefing from the Director of the Federal       Bureau of Investigation and the Director of the National       Counterintelligence and Security Center regarding their       efforts to preserve the United States' advantages generated       by the activity of the Directorate. 
+
+       ``(4) Interagency cooperation.--In carrying out this       section, the Director and other Federal research agencies       shall work cooperatively with each other to further the goals       of this section in the key technology focus areas. Each year,       the Director shall prepare and submit a report to Congress,       and shall simultaneously submit the report to the Director of       the Office of Science and Technology Policy, describing the       interagency cooperation that occurred during the preceding       year pursuant to this paragraph, including a list of-- 
+
+       ``(A) any funds provided under paragraph (3)(A)(ii) to       other divisions of the Foundation; and 
+
+       ``(B) any funds provided under paragraph (3)(A)(iii) to       other Federal research agencies. 
+
+       ``(5) Providing scholarships, fellowships, and other       student support.-- 
+
+       ``(A) In general.--The Director, acting through the       Directorate, shall fund undergraduate scholarships, graduate       fellowships and traineeships, and postdoctoral student awards       in the key technology focus areas. 
+
+       ``(B) Implementation.--The Director may carry out       subparagraph (A) by providing funds-- 
+
+       ``(i) to the Directorate for Education and Human Resources       of the Foundation for--  
+
+       ``(I) awards directly to students; and 
+
+       ``(II) grants or cooperative agreements to institutions of       higher education, including those institutions involved in       operating university technology centers established under       paragraph (6); and  
+
+       ``(ii) to programs in Federal research agencies that have       experience awarding such scholarships, fellowships,       traineeships, or postdoctoral awards. 
+
+       ``(C) Supplement, not supplant.--The Director shall ensure       that funds made available under this paragraph shall be used       to create additional support for postsecondary students and       shall not displace funding for any other available support. 
+
+       ``(6) University technology centers.-- 
+
+       ``(A) In general.--From amounts made available to the       Directorate, the Director shall, through a competitive       application and selection process, award grants to or enter       into cooperative agreements with institutions of higher       education or consortia described in paragraph (3)(A)(i)(III)       to establish university technology centers. 
+
+       ``(B) Uses of funds.-- 
+
+       ``(i) In general.--A center established under a grant or       cooperative agreement under subparagraph (A)--  
+
+       ``(I) shall use support provided under such subparagraph--  
+
+       ``(aa) to carry out fundamental research to advance       innovation in the key technology focus areas; and 
+
+       ``(bb) to further the development of innovations in the key       technology focus areas, including-- 
+
+       ``(AA) innovations derived from research carried out under       item (aa), through such activities as proof-of-concept       development and prototyping, in order to reduce the cost,       time, and risk of commercializing new technologies; and 
+
+       ``(BB) through the use of public-private partnerships; and  
+
+       ``(II) may use support provided under such subparagraph--  
+
+       ``(aa) for the costs of equipment, including mid-tier       infrastructure, and the purchase of cyberinfrastructure       resources, including computer time; or 
+
+       ``(bb) for other activities or costs necessary to       accomplish the purposes of this section. 
+
+       ``(ii) Support of regional technology hubs.--Each center       established under subparagraph (A) may support and       participate in, as appropriate, the activities of any       regional technology hub designated under section 27(d) of the       Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C.       3722(d)). 
+
+       ``(C) Requirements.--The Director shall ensure that any       institution of higher education or consortium receiving a       grant or cooperative agreement under subparagraph (A) has       demonstrated an ability to advance the goals described in       subsection (b)(1). 
+
+       ``(7) Moving technology from laboratory to market.-- 
+
+       ``(A) Program authorized.--The Director shall establish a       program in the Directorate to award grants, on a competitive       basis, to institutions of higher education or consortia       described in paragraph (3)(A)(i)(III)-- 
+
+       ``(i) to build capacity at an institution of higher       education and in its surrounding region to increase the       likelihood that new technologies in the key technology focus       areas will succeed in the commercial market; and 
+
+       ``(ii) with the goal of promoting experiments with a range       of models that institutions of higher education could use       to--  
+
+       ``(I) enable new technologies to mature to the point where       the technologies are more likely to succeed in the commercial       market; and 
+
+       ``(II) reduce the risks to commercial success for new       technologies earlier in their development.       A grant awarded under this subparagraph for a purpose       described in clause (i) or (ii) may also enable the       institution of higher education or consortium to provide       training and support to scientists and engineers who are       interested in research and commercialization, if the use is       included in the proposal submitted under subparagraph (B). 
+
+       ``(B) Proposals.--An institution of higher education or       consortium desiring a grant under this paragraph shall submit       a proposal to the Director at such time, in such manner, and       containing such information as the Director may require. The       proposal shall include a description of-- 
+
+       ``(i) the steps the applicant will take to reduce the risks       for commercialization for new technologies; 
+
+       ``(ii) why such steps are likely to be effective; and 
+
+       ``(iii) how such steps differ from previous efforts to       reduce the risks for commercialization for new technologies. 
+
+       ``(C) Use of funds.--A recipient of a grant under this       paragraph shall use grant funds to reduce the risks for       commercialization for new technologies developed on campus,       which may include-- 
+
+       ``(i) creating and funding competitions to allow       entrepreneurial ideas from institutions of higher education       to illustrate their commercialization potential; 
+
+       ``(ii) facilitating mentorships between local and national       business leaders and potential entrepreneurs to encourage       successful commercialization; 
+
+       ``(iii) creating and funding for-profit or not-for-profit       entities that could enable researchers at institutions of       higher education to further develop new technology prior to       seeking commercial financing, through patient funding,       advice, staff support, or other means; 
+
+       ``(iv) providing off-campus facilities for start-up       companies where technology maturation could occur; and 
+
+       ``(v) revising institution policies to accomplish the goals       of this paragraph. 
+
+       ``(8) Test beds.-- 
+
+       ``(A) Program authorized.--The Director, acting through the       Deputy Director, shall establish a program in the Directorate       to award grants, on a competitive basis, to institutions of       higher education or consortia described in paragraph       (3)(A)(i)(III) to establish test beds and fabrication       facilities to advance the operation, integration and, as       appropriate, manufacturing of new, innovative technologies in       the key technology focus areas, which may include hardware or       software. The goal of such test beds and facilities shall be       to accelerate the movement of innovative technologies into       the commercial market through existing and new companies. 
+
+       ``(B) Proposals.--A proposal submitted under this paragraph       shall, at a minimum, describe-- 
+
+       ``(i)(I) the 1 or more technologies that will be the focus       of the test bed or fabrication facility; 
+
+       ``(II) the goals of the work to be done at the test bed or       facility; and 
+
+       ``(III) the expected schedule for completing that work; 
+
+       ``(ii) how the applicant will assemble a workforce with the       skills needed to operate the test bed or facility; 
+
+       ``(iii) how the applicant will ensure that work in the test       bed or facility will contribute to the commercial viability       of any technologies, which may include collaboration and       funding from industry partners; 
+
+       ``(iv) how the applicant will encourage the participation       of entrepreneurs and the development of new businesses; and 
+
+       ``(v) how the test bed or facility will operate after       Federal funding has ended. 
+
+       ``(C) Awards.--Grants made under this paragraph-- 
+
+       ``(i) shall be for 5 years, with the possibility of one 3-      year extension; and 
+
+       ``(ii) may be used for the purchase of equipment, the       support of graduate students and postdoctoral researchers,       and the salaries of staff. 
+
+       ``(D) Requirements.--As a condition of receiving a grant       under this paragraph, an institution of higher education or       consortium shall publish and share with the public the       results of the work conducted under this paragraph.  
+
+       ``(9) Inapplicability.--Section 5(e)(1) shall not apply to       grants, contracts, or other arrangements made under this       section. 
+
+       ``(d) Board of Advisors.-- 
+
+       ``(1) In general.--There is established in the Foundation a       Board of Advisors for the Directorate (referred to in this       section as the `Board of Advisors'), which shall provide       advice to the Deputy Director pursuant to this subsection.       The Board of Advisors shall not have any decision-making       authority. 
+
+       ``(2) Membership.-- 
+
+       ``(A) Composition.--The Board of Advisors shall be       comprised of 12 members representing scientific leaders and       experts from industry and academia, of whom-- 
+
+       ``(i) 2 shall be appointed by the majority leader of the       Senate; 
+
+       ``(ii) 2 shall be appointed by the minority leader of the       Senate; 
+
+       ``(iii) 2 shall be appointed by the Speaker of the House of       Representatives; 
+
+       ``(iv) 2 shall be appointed by the minority leader of the       House of Representatives; and 
+
+       ``(v) 4 shall be appointed by the Director. 
+
+       ``(B) Opportunity for input.--Before appointing any member       under subparagraph (A), the appointing authority shall       provide an opportunity for the National Academies of       Sciences, Engineering, and Medicine and other entities to       provide advice regarding potential appointees. 
+
+       ``(C) Qualifications.-- 
+
+       ``(i) In general.--Each member appointed under subparagraph       (A) shall--  
+
+       ``(I) have extensive experience in a field related to the       work of the Directorate or other expertise relevant to       developing technology roadmaps; and 
+
+       ``(II) have, or be able to obtain within a reasonable       period of time, a security clearance appropriate for the work       of the Board of Advisors.  
+
+       ``(ii) Expedited security clearances.--The process of       obtaining a security clearance under clause (i)(II) may be       expedited by the head of the appropriate Federal agency to       enable the Board to receive classified briefings on the       current and future technological capacity of other nations,       and on the military implications of civilian technologies. 
+
+       ``(D) Date.--The appointments of the members of the Board       of Advisors shall be made not later than 90 days after the       date of enactment of the Endless Frontier Act. 
+
+       ``(3) Period of appointment; vacancies.-- 
+
+       ``(A) In general.--A member of the Board of Advisors shall       be appointed for a 3-year term, except that the Deputy       Director shall adjust the terms for the first members of the       Board of Advisors so that, within each appointment category       described in clauses (i) through (v) of paragraph (2)(A), the       terms expire on a staggered basis. 
+
+       ``(B) Term limits.--A member of the Board of Advisors shall       not serve for more than 2 full consecutive terms. 
+
+       ``(C) Vacancies.--Any vacancy in the Board of Advisors-- 
+
+       ``(i) shall not affect the powers of the Board of Advisors;       and 
+
+       ``(ii) shall be filled in the same manner as the original       appointment. 
+
+       ``(4) Chairperson.--The members of the Board of Advisors       shall elect 1 member to serve as the chairperson of the Board       of Advisors. 
+
+       ``(5) Meetings.-- 
+
+       ``(A) Initial meeting.--Not later than 180 days after the       date of enactment of the Endless Frontier Act, the Board of       Advisors shall hold the first meeting of the Board of       Advisors. 
+
+       ``(B) Additional meetings.--After the first meeting of the       Board of Advisors, the Board of Advisors shall meet upon the       call of the chairperson or of the Director, and at least once       every 180 days for the duration of the Board of Advisors. 
+
+       ``(C) Meeting with the national science board.--The Board       of Advisors shall hold a joint meeting with the National       Science Board on at least an annual basis, on a date mutually       selected by the chairperson of the Board of Advisors and the       Chairman of the National Science Board. 
+
+       ``(D) Quorum.--A majority of the members of the Board of       Advisors shall constitute a quorum, but a lesser number of       members may hold hearings. 
+
+       ``(6) Duties of board of advisors.-- 
+
+       ``(A) In general.--The Board of Advisors shall provide       advice-- 
+
+       ``(i) to the Deputy Director on programs that could best be       carried out to accomplish the purposes of this section; 
+
+       ``(ii) to the Deputy Director to inform the reviews of key       technology focus areas required under subsection (c)(2)(B);       and 
+
+       ``(iii) on other issues relating to the purposes and       responsibilities of the Directorate, as requested by the       Deputy Director. 
+
+       ``(B) No role in awarding grants, contracts, or cooperative       agreements.--The Board of Advisors shall not provide advice       on or otherwise help determine what entities shall receive       grants, contracts, or cooperative agreements under this Act. 
+
+       ``(7) Powers of board of advisors.-- 
+
+       ``(A) Hearings.--The Board of Advisors may hold public or       private hearings, sit and act at such times and places, take       such testimony and receive such evidence (including       classified testimony and evidence), and administer such oaths       as may be necessary to carry out the functions of the Board       of Advisors under paragraph (6). 
+
+       ``(B) Information from federal agencies.-- 
+
+       ``(i) In general.--Each Federal department or agency shall,       in accordance with applicable procedures for the handling of       classified information, provide reasonable access to       documents, statistical data, and other such information that       the Deputy Director, in consultation with the chairperson of       the Board of Advisors, determines necessary to carry out its       functions under paragraph (6). 
+
+       ``(ii) Obtaining classified information.--If the Board of       Advisors, acting through the chairperson, seeks classified       information from a Federal department or agency, the Deputy       Director shall submit a written request to the head of the       Federal department or agency for access to classified       documents and statistical data, and other classified       information described in clause (i), that is under the       control of such agency. 
+
+       ``(C) Financial disclosure reports.--Each member of the       Board of Advisors shall be required to file a financial       disclosure report under title I of the Ethics in Government       Act of 1978, except that such reports shall be held       confidential and exempt from any law otherwise requiring       their public disclosure. 
+
+       ``(8) Board of advisors personnel and operational       matters.-- 
+
+       ``(A) Compensation of members.-- 
+
+       ``(i) In general.--A member of the Board of Advisors shall       be compensated at a rate equal to the daily equivalent of the       annual rate of basic pay prescribed for level IV of the       Executive Schedule under section 5315 of title 5, United       States Code, for each day (including travel time) during       which the member is engaged in the performance of the duties       of the Board of Advisors. 
+
+       ``(ii) No federal employee members.--No member of the Board       of Advisors may be an officer or employee of the United       States during the member's term on the Board of Advisors. 
+
+       ``(B) Travel expenses.--A member of the Board of Advisors       shall be allowed travel expenses, including per diem in lieu       of subsistence, at rates authorized for employees of agencies       under subchapter I of chapter 57 of title 5, United States       Code, while away from their home or regular places of       business in the performance of services for the Board of       Advisors. 
+
+       ``(C) Staff.--The Deputy Director, in consultation with the       chairperson of the Board of Advisors, shall assign an       employee of the Foundation to serve as an executive director       for the Board of Advisors. 
+
+       ``(D) Government employees.-- 
+
+       ``(i) In general.--Any Federal Government employee may be       detailed to the Board of Advisors without reimbursement, and       such detail shall be without interruption or loss of civil       service status or privilege. 
+
+       ``(ii) Employees of the legislative branch.--The Deputy       Director shall establish procedures and policies to enable an       employee of an office, agency, or other entity in the       legislative branch of the Government to support the       activities of the Board of Advisors. 
+
+       ``(E) Procurement of temporary and intermittent services.--      The chairperson of the Board of Advisors, with approval from       the Deputy Director, may procure temporary and intermittent       services under section 3109(b) of title 5, United States       Code, at rates for individuals which do not exceed the daily       equivalent of the annual rate of basic pay prescribed for       level V of the Executive Schedule under section 5316 of that       title. 
+
+       ``(F) Assistance from federal agencies.--A Federal       department or agency may provide to the Board of Advisors       such services, funds, facilities, staff, and other support       services as the department or agency may determine advisable       and as may be authorized by law. 
+
+       ``(9) Permanent board.--Section 14 of the Federal Advisory       Committee Act (5 U.S.C. App.) shall not apply to the Board of       Advisors. 
+
+       ``(e) Areas of Funding Support.--Subject to the       availability of funds under subsection (f), the Director       shall, for each fiscal year, use-- 
+
+       ``(1) not less than 35 percent of funds provided to the       Directorate for such year to carry out subsection (c)(6); 
+
+       ``(2) not less than 15 percent of such funds to carry out       subsection (c)(5) with the goal of awarding, across the key       technology focus areas-- 
+
+       ``(A) not fewer than 1,000 post-doctorate fellowships; 
+
+       ``(B) not fewer than 2,000 graduate fellowships and       traineeships; 
+
+       ``(C) not fewer than 1,000 undergraduate scholarships; and 
+
+       ``(D) if funds remain after carrying out subparagraphs (A)       through (C), grants to institutions of higher education to       enable the institutions to fund the development and       establishment of new or specialized courses of education for       graduate, undergraduate, or technical college students; 
+
+       ``(3) not less than 5 percent of such funds to carry out       subsection (c)(7); 
+
+       ``(4) not less than 10 percent of such funds to carry out       subsection (c)(8) by establishing and equipping test beds and       fabrication facilities; and 
+
+       ``(5) not less than 15 percent of such funds to carry out       research and related activities pursuant to subclauses (I)       and (II) of subsection (c)(3)(A)(ii). 
+
+       ``(f) Authorization of Appropriations.-- 
+
+       ``(1) In general.--There are authorized to be appropriated       for the Directorate, in addition to any other funds made       available to the Directorate, a total of $100,000,000,000 for       fiscal years 2021 through 2025, of which-- 
+
+       ``(A) $2,000,000,000 is authorized for fiscal year 2021; 
+
+       ``(B) $8,000,000,000 is authorized for fiscal year 2022;  
+
+       ``(C) $20,000,000,000 is authorized for fiscal year 2023; 
+
+       ``(D) $35,000,000,000 is authorized for fiscal year 2024;       and 
+
+       ``(E) $35,000,000,000 is authorized for fiscal year 2025. 
+
+       ``(2) Appropriations limitations.-- 
+
+       ``(A) Hold harmless.--No funds shall be appropriated to the       Directorate or to carry out this section for any fiscal year       in which the total amount appropriated to the Foundation (not       including amounts appropriated for the Directorate) is less       than the total amount appropriated to the Foundation (not       including such amounts), adjusted by the rate of inflation,       for the previous fiscal year. 
+
+       ``(B) No transfer of funds.--The Director shall not       transfer any funds appropriated to any other directorate or       office of the Foundation to the Directorate.''. 
+
+       (d) Annual Report on Unfunded Priorities.-- 
+
+       (1) Annual report.--Not later than 10 days after the date       on which the budget of the President for a fiscal year is       submitted to Congress pursuant to section 1105 of title 31,       United States Code, the Director shall submit to the       President and to Congress a report on the unfunded priorities       of the National Science and Technology Foundation. 
+
+       (2) Elements.--Each report submitted under paragraph (1)       shall provide-- 
+
+       (A) for each directorate of the National Science Foundation       for the most recent, fully completed fiscal year-- 
+
+       (i) the proposal success rate; 
+
+       (ii) the percentage of proposals that were not funded and       that met the criteria for funding; and 
+
+       (iii) the most promising research areas covered by       proposals described in clause (ii); and 
+
+       (B) a list, in order of priority, of the next activities       that should be undertaken in the Major Research Equipment and       Facilities Construction account.       SEC. 4. REGIONAL TECHNOLOGY HUB PROGRAM.  
+
+       (a) Definitions.-- 
+
+       (1) Key technology focus areas.--Subsection (a) of section       27 of the Stevenson-Wydler Technology Innovation Act of 1980       (15 U.S.C. 3722) is amended-- 
+
+       (A) by redesignating paragraphs (2) through (4) as       paragraphs (3) through (5), respectively; and 
+
+       (B) by inserting after paragraph (1) the following: 
+
+       ``(2) Key technology focus areas.--The term `key technology       focus areas' means the areas included on the most recent list       under section 8A(c)(2) of the Act of May 10, 1950 (64 Stat.       149, chapter 171; 42 U.S.C. 1861 et seq.).''. 
+
+       (2) Venture development organizations.--Paragraph (5) of       such subsection, as redesignated by paragraph (1) of this       subsection, is amended by striking ``purposes of'' and all       that follows through the period at the end and inserting the       following: ``purposes of-- 
+
+       ``(A) accelerating the commercialization of research; 
+
+       ``(B) strengthening the competitive position of industry       through the development, commercial adoption, or deployment       of technology; and 
+
+       ``(C) providing financial grants, loans, or direct       financial investment to commercialize technology.''. 
+
+       (b) Designation of and Support for Regional Technology Hubs       as Part of Regional Innovation Program of Department of       Commerce.-- 
+
+       (1) In general.--Such section is amended-- 
+
+       (A) by redesignating subsections (d) through (h) as       subsections (e) through (i), respectively; and 
+
+       (B) by inserting after subsection (c) the following: 
+
+       ``(d) Designation of and Grants in Support of Regional       Technology Hubs.-- 
+
+       ``(1) Program required.-- 
+
+       ``(A) In general.--As part of the program established under       subsection (b), the Secretary shall carry out a program-- 
+
+       ``(i) to designate eligible consortia as regional       technology hubs that create the conditions, within a region,       to facilitate activities that--  
+
+       ``(I) enable United States leadership in a key technology       focus area, complementing the Federal research and       development investments under section 8A of the Act of May       10, 1950 (64 Stat. 149, chapter 171; 42 U.S.C. 1861 et seq.);       and 
+
+       ``(II) support regional economic development that diffuses       innovation capacity around the United States, enabling better       broad-based growth and competitiveness in key technology       focus areas; and  
+
+       ``(ii) to support regional technology hubs designated under       clause (i). 
+
+       ``(B) Eligible consortia.--For purposes of this section, an       eligible consortium is a consortium that-- 
+
+       ``(i) includes--  
+
+       ``(I) an institution of higher education; 
+
+       ``(II) a local or Tribal government or other political       subdivision of a State; 
+
+       ``(III) a government of a State or the economic development       representative of a State; and 
+
+       ``(IV) an economic development organization or similar       entity that is focused primarily on improving science,       technology, innovation, or entrepreneurship; and  
+
+       ``(ii) may include 1 or more--  
+
+       ``(I) nonprofit entities with relevant expertise; 
+
+       ``(II) venture development organizations; 
+
+       ``(III) financial institutions; 
+
+       ``(IV) educational institutions, including career and       technical education schools; 
+
+       ``(V) workforce training organizations; 
+
+       ``(VI) industry associations; 
+
+       ``(VII) firms in the key technology focus areas; 
+
+       ``(VIII) Federal laboratories; 
+
+       ``(IX) Centers (as defined in section 25(a) of the National       Institute of Standards and Technology Act (15 U.S.C.       278k(a)); 
+
+       ``(X) Manufacturing USA institutes (as described in section       34(d) of the National Institute of Standards and Technology       Act (15 U.S.C. 278s(d))); and 
+
+       ``(XI) institutions receiving an award under paragraph (6)       or (7) of section 8A(c) of the Act of May 10, 1950 (64 Stat.       149, chapter 171; 42 U.S.C. 1861 et seq.).  
+
+       ``(C) Administration.--The Secretary shall carry out this       subsection through the Assistant Secretary of Commerce for       Economic Development and the Under Secretary of Commerce for       Standards and Technology, jointly. 
+
+       ``(2) Designation of regional technology hubs.-- 
+
+       ``(A) In general.--The Secretary shall use a competitive       process for the designation of regional technology hubs under       paragraph (1)(A)(i). 
+
+       ``(B) Number of regional technology hubs.--During the 5-      year period beginning on the date of the enactment of the       Endless Frontier Act, the Secretary shall designate not fewer       than 10 and not more than 15 eligible consortia as regional       technology hubs under paragraph (1)(A)(i). 
+
+       ``(C) Geographic distribution.--In conducting the       competitive process under subparagraph (A), the Secretary       shall ensure geographic distribution in the designation of       regional technology hubs-- 
+
+       ``(i) aiming to designate regional technology hubs in as       many regions of the United States as possible; and 
+
+       ``(ii) focusing on localities that have clear potential and       relevant assets for developing a key technology focus area       but have not yet become leading technology centers. 
+
+       ``(3) Grants.-- 
+
+       ``(A) In general.--The Secretary shall carry out clause       (ii) of paragraph (1)(A) through the award of grants to       eligible consortia designated under clause (i) of such       paragraph. 
+
+       ``(B) Term.--Each grant awarded under subparagraph (A)       shall be for a period of 5 years, but may be renewed once for       an additional period of 5 years. 
+
+       ``(C) Matching required.--The total Federal financial       assistance awarded in a given year to an eligible consortium       in support of the eligible consortium's operation as a       regional technology hub under this subsection shall not       exceed amounts as follows: 
+
+       ``(i) In fiscal year 2021, 90 percent of the total funding       of the regional technology hub in that fiscal year. 
+
+       ``(ii) In fiscal year 2022, 85 percent of the total funding       of the regional technology hub in that fiscal year. 
+
+       ``(iii) In fiscal year 2023, 80 percent of the total       funding of the regional technology hub in that fiscal year. 
+
+       ``(iv) In fiscal year 2024 and in each fiscal year       thereafter, 75 percent of the total funding of the regional       technology hub in that fiscal year. 
+
+       ``(D) Use of grant funds.--The recipient of a grant awarded       under subparagraph (A) shall use the grant for multiple       activities determined appropriate by the Secretary,       including-- 
+
+       ``(i) the permissible activities set forth under subsection       (c)(2); and 
+
+       ``(ii) activities in support of key technology focus       areas--  
+
+       ``(I) to develop the region's skilled workforce through the       training and retraining of workers and alignment of career       technical training and educational programs in the region's       elementary and secondary schools and institutions of higher       education; 
+
+       ``(II) to develop regional strategies for infrastructure       improvements and site development in support of the regional       technology hub's plans and programs; 
+
+       ``(III) to support business activity that develops the       domestic supply chain and encourages the creation of new       business entities; 
+
+       ``(IV) to attract new private, public, and philanthropic       investment in the region for developing innovation capacity,       including establishing regional venture and loan funds for       financing technology commercialization, new business       formation, and business expansions; 
+
+       ``(V) to further the development of innovations in the key       technology focus areas, including innovations derived from       research conducted at institutions of higher education or       other research entities, including research conducted by 1 or       more university technology centers established under section       8A(c)(6) of the Act of May 10, 1950 (64 Stat. 149, chapter       171; 42 U.S.C. 1861 et seq.), through activities that may       include--  
+
+       ``(aa) proof-of-concept development and prototyping; 
+
+       ``(bb) public-private partnerships in order to reduce the       cost, time, and risk of commercializing new technologies; 
+
+       ``(cc) creating and funding competitions to allow       entrepreneurial ideas from institutions of higher education       to illustrate their commercialization potential; 
+
+       ``(dd) facilitating mentorships between local and national       business leaders and potential entrepreneurs to encourage       successful commercialization;  
+
+       ``(ee) creating and funding for-profit or not-for-profit       entities that could enable researchers at institutions of       higher education and other research entities to further       develop new technology prior to seeking commercial financing,       through patient funding, advice, staff support, or other       means; and 
+
+       ``(ff) providing facilities for start-up companies where       technology maturation could occur; and  
+
+       ``(VI) to carry out such other activities as the Secretary       considers appropriate to improve United States       competitiveness and regional economic development to support       a key technology focus area and that would further the       purposes of the Endless Frontiers Act.  
+
+       ``(4) Applications.-- 
+
+       ``(A) In general.--An eligible consortium seeking       designation as a regional technology hub under clause (i) of       paragraph (1)(A) and support under clause (ii) of such       paragraph shall submit to the Secretary an application       therefor at such time, in such manner, and containing such       information as the Secretary may specify. 
+
+       ``(B) Consultation with national science foundation       university technology centers.--In preparing an application       for submittal under subparagraph (A), an applicant shall, to       the extent practicable, consult with one or more university       technology centers established under section 8A(c)(6) of the       Act of May 10, 1950 (64 Stat. 149, chapter 171; 42 U.S.C.       1861 et seq.) that are either geographically relevant or are       conducting research on relevant key technology focus areas. 
+
+       ``(5) Considerations for designation and grant awards.--In       selecting an eligible consortium that submitted an       application under paragraph (4)(A) for designation and       support under paragraph (1)(A), the Secretary shall consider,       at a minimum, the following: 
+
+       ``(A) The potential of the eligible consortium to advance       the development of new technologies in a key technology focus       area. 
+
+       ``(B) The likelihood of positive regional economic effect,       including increasing the number of high wage jobs, and       creating new economic opportunities for economically       disadvantaged populations. 
+
+       ``(C) How the eligible consortium plans to integrate with       and leverage the resources of one or more university       technology centers established under section 8A(c)(6) of the       Act of May 10, 1950 (64 Stat. 149, chapter 171; 42 U.S.C.       1861 et seq.) in a related key technology focus area. 
+
+       ``(D) How the eligible consortium will engage with the       private sector, including small- and medium-sized enterprises       to commercialize new technologies and develop new supply       chains in the United States in a key technology focus area. 
+
+       ``(E) How the eligible consortium will carry out workforce       development and skills acquisition programming, including       through the use of apprenticeships, mentorships, and other       related activities authorized by the Secretary, to support       the development of a key technology focus area. 
+
+       ``(F) How the eligible consortium will improve science,       technology, engineering, and mathematics education programs       in the identified region in elementary and secondary school       and higher education institutions located in the identified       region to support the development of a key technology focus       area. 
+
+       ``(G) How the eligible consortium plans to develop       partnerships with venture development organizations and       sources of private investment in support of private sector       activity, including launching new or expanding existing       companies, in a key technology focus area. 
+
+       ``(H) How the eligible consortium plans to organize the       activities of regional partners in the public, private, and       philanthropic sectors in support of the proposed regional       technology hub, including the development of necessary       infrastructure improvements and site preparation. 
+
+       ``(I) How the eligible consortium plans to address economic       inclusion, including ensuring that skill development,       entrepreneurial assistance, and other activities focus on       economically disadvantaged populations. 
+
+       ``(6) Coordination with national institute of standards and       technology programs.-- 
+
+       ``(A) Definitions.--In this paragraph: 
+
+       ``(i) Manufacturing extension center.--The term       `manufacturing extension center' has the meaning given the       term `Center' in section 25(a) of the National Institute of       Standards and Technology Act (15 U.S.C. 278k(a). 
+
+       ``(ii) Manufacturing usa institute.--The term       `Manufacturing USA institute' means a Manufacturing USA       institute described in section 34(d) of the National       Institute of Standards and Technology Act (15 U.S.C.       278s(d)). 
+
+       ``(B) Coordination required.--The Secretary shall       coordinate the activities of regional technology hubs       designated under this subsection, the Hollings Manufacturing       Extension Partnership, and the Manufacturing USA Program with       each other to the degree that doing so does not diminish the       effectiveness of the ongoing activities of a manufacturing       extension center or a Manufacturing USA institute. 
+
+       ``(C) Condition of support.--In order to coordinate       activities under subparagraph (B), the Secretary may       condition the award of a grant or support under this       subsection or section 25 or 34 of the National Institute of       Standards and Technology Act (15 U.S.C. 278k and 278s) upon       submittal to the coordination efforts of the Secretary under       subparagraph (B) of this paragraph. 
+
+       ``(D) Elements.--Coordination by the Secretary under       subparagraph (B) may include the following: 
+
+       ``(i) The alignment of activities of the Hollings       Manufacturing Extension Partnership with the activities of       regional technology hubs designated under this subsection, if       applicable. 
+
+       ``(ii) The alignment of activities of the Manufacturing USA       Program and the Manufacturing USA institutes with the       activities of regional technology hubs designated under this       subsection, if applicable. 
+
+       ``(7) Interagency collaboration.--In assisting regional       technology hubs designated under paragraph (1)(A)(i), the       Secretary-- 
+
+       ``(A) shall collaborate with Federal departments and       agencies whose missions contribute to the goals of the       regional technology hub; 
+
+       ``(B) may accept funds from other Federal agencies to       support grants and activities under this subsection; and 
+
+       ``(C) may establish interagency agreements with other       Federal departments or agencies to provide preferential       consideration for financial or technical assistance to a       regional technology hub designated under this subsection if       all applicable requirements for the financial or technical       assistance are met. 
+
+       ``(8) Performance measurement, transparency, and       accountability.-- 
+
+       ``(A) Metrics, standards, and assessment.--For each grant       awarded under paragraph (3) for a regional technology hub,       the Secretary shall-- 
+
+       ``(i) develop metrics to assess the effectiveness of the       activities funded in making progress toward the purposes set       forth under paragraph (1)(A); 
+
+       ``(ii) establish standards for the performance of the       regional technology hub that are based on the metrics       developed under clause (i); and 
+
+       ``(iii) 2 years after the initial award under paragraph (3)       and each year thereafter until Federal financial assistance       under this subsection for the regional technology hub is       discontinued, conduct an assessment of the regional       technology hub to confirm whether the performance of the       regional technology hub is meeting the standards for       performance established under clause (ii). 
+
+       ``(B) Annual report.--Not less frequently than once each       year, the Secretary shall submit to the Committee on       Commerce, Science, and Transportation of the Senate, the       Committee on Appropriations of the Senate, the Committee on       Science, Space, and Technology of the House of       Representatives, and the Committee on Appropriations of the       House of Representatives an annual report on the results of       the assessments conducted by the Secretary under subparagraph       (A)(iii) during the period covered by the report.''. 
+
+       (2) Initial designations and awards.-- 
+
+       (A) Competition required.--Not later than 180 days after       the date of the enactment of this Act, the Secretary of       Commerce shall commence a competition under paragraph (2)(A)       of section 27(d) of the Stevenson-Wydler Technology       Innovation Act of 1980, as added by paragraph (1). 
+
+       (B) Designation and award.--Not later than 1 year after the       date of the enactment of this Act, if the Secretary has       received at least 1 application under paragraph (4) of such       section from an eligible consortium whom the Secretary       considers suitable for designation under paragraph (1)(A)(i)       of such section, the Secretary shall-- 
+
+       (i) designate at least 1 regional technology hub under       paragraph (1)(A)(i) of such section; and 
+
+       (ii) award a grant under paragraph (3)(A) of such section       to each regional technology hub designated under clause (i)       of this subparagraph. 
+
+       (c) Authorization of Appropriations.--Subsection (i) of       such section, as redesignated by subsection (c)(1)(A) of this       section, is amended-- 
+
+       (1) by striking ``From amounts'' and inserting the       following: 
+
+       ``(1) In general.--From amounts''; 
+
+       (2) in paragraph (1), as redesignated by paragraph (1) of       this subsection, by striking ``this section'' and inserting       ``the provisions of this section other than subsection (d)'';       and 
+
+       (3) by adding at the end the following: 
+
+       ``(2) Regional technology hubs.--There is authorized to be       appropriated to the Secretary to carry out subsection (d)       $10,000,000,000 for the period of fiscal year 2021 through       2025.''.       SEC. 5. STRATEGY AND REPORT ON ECONOMIC SECURITY, SCIENCE,                     RESEARCH, AND INNOVATION TO SUPPORT THE                     NATIONAL SECURITY STRATEGY.  
+
+       (a) Definitions.--In this section: 
+
+       (1) Appropriate committees of congress.--The term       ``appropriate committees of Congress'' means-- 
+
+       (A) the Committee on Appropriations, the Committee on Armed       Services, the Committee on Banking, Housing, and Urban       Affairs, the Committee on Commerce, Science, and       Transportation, the Committee on Energy and Natural       Resources, the Committee on Finance, the Committee on Foreign       Relations, and the Select Committee on Intelligence of the       Senate; and 
+
+       (B) the Committee on Appropriations, the Committee on Armed       Services, the Committee on Energy and Commerce, the Committee       on Financial Services, the Committee on Foreign Affairs, the       Committee on Ways       and Means, and the Permanent Select Committee on Intelligence       of the House of Representatives. 
+
+       (2) Key technology focus area.--The term ``key technology       focus area'' means an area included on the most recent list       under section 8A(c)(2) of the Act of May 10, 1950 (64 Stat.       149, chapter 171; 42 U.S.C. 1861 et seq.). 
+
+       (3) National security strategy.--The term ``national       security strategy'' means the national security strategy       required by section 108 of the National Security Act of 1947       (50 U.S.C. 3043). 
+
+       (b) Strategy and Report.-- 
+
+       (1) In general.--In 2021 and in each year thereafter before       the applicable date set forth under paragraph (2), the       Director of the Office of Science and Technology Policy, in       coordination with the Director of the National Economic       Council, the Director of the National Science Foundation, the       Secretary of Commerce, the National Security Council, and the       heads of other relevant Federal agencies, shall-- 
+
+       (A) review such strategy, programs, and resources as the       Director of the Office of Science and Technology Policy       determines pertain to United States national competitiveness       in science, research, and innovation to support the national       security strategy; 
+
+       (B) develop a strategy for the Federal Government to       improve the national competitiveness of the United States in       science, research, and innovation to support the national       security strategy; and 
+
+       (C) submit to the appropriate committees of Congress-- 
+
+       (i) a report on the findings of the Director with respect       to the review conducted under paragraph (1); and 
+
+       (ii) the strategy developed or revised under paragraph (2). 
+
+       (2) Applicable dates.--In each year, the applicable date       set forth under this paragraph is as follows: 
+
+       (A) In 2021, December 31, 2021. 
+
+       (B) In 2022 and every year thereafter-- 
+
+       (i) in any year in which a new President is inaugurated,       October 1 of that year; and 
+
+       (ii) in any other year, the date that is 90 days after the       date of the transmission to Congress in that year of the       national security strategy. 
+
+       (c) Elements.-- 
+
+       (1) Report.--Each report submitted under subsection       (b)(1)(C)(i) shall include the following: 
+
+       (A) An assessment of public and private investment in       civilian and military science and technology and its       implications for the geostrategic position and national       security of the United States. 
+
+       (B) A description of the prioritized economic security       interests and objectives of the United States relating to       science, research, and innovation and an assessment of how       investment in civilian and military science and technology       can advance those objectives. 
+
+       (C) An assessment of how regional efforts are contributing       and could contribute to the innovation capacity of the United       States, including-- 
+
+       (i) programs run by State and local governments; and 
+
+       (ii) regional factors that are contributing or could       contribute positively to innovation. 
+
+       (D) An assessment of barriers to competitiveness in key       technology focus areas and barriers to the development and       evolution of start-ups, small and mid-sized business       entities, and industries in key technology focus areas. 
+
+       (E) An assessment of the effectiveness of the Federal       Government, federally funded research and development       centers, and national labs in supporting and promoting       technology commercialization and technology transfer,       including an assessment of the adequacy of Federal research       and development funding in promoting competitiveness and the       development of new technologies. 
+
+       (F) An assessment of manufacturing capacity, logistics, and       supply chain dynamics of major export sectors, including       access to a skilled workforce, physical infrastructure, and       broadband network infrastructure. 
+
+       (2) Strategy.--Each strategy submitted under subsection       (b)(1)(C)(ii) shall include the following: 
+
+       (A) A plan to utilize available tools to address or       minimize the leading threats and challenges and to take       advantage of the leading opportunities, including the       following: 
+
+       (i) Specific objectives, tasks, metrics, and milestones for       each relevant Federal agency. 
+
+       (ii) Specific plans to support public and private sector       investment in research, technology development, and domestic       manufacturing in key technology focus areas supportive of the       national economic competitiveness of the United States and to       foster the prudent use of public-private partnerships. 
+
+       (iii) Specific plans to promote environmental stewardship       and fair competition for United States workers. 
+
+       (iv) A description of--  
+
+       (I) how the strategy submitted under subsection (b)(3)(B)       supports the national security strategy; and 
+
+       (II) how the strategy submitted under such subsection is       integrated and coordinated with the most recent national       defense strategy under section 113(g) of title 10, United       States Code.  
+
+       (v) A plan to encourage the governments of countries that       are allies or partners of the United States to cooperate with       the execution of the strategy submitted under subsection       (b)(3)(B), where appropriate. 
+
+       (vi) A plan to encourage certain international and       multilateral organizations to support the implementation of       such strategy. 
+
+       (vii) A plan for how the United States should develop local       and regional capacity for building innovation ecosystems       across the nation by providing Federal support. 
+
+       (viii) A plan for strengthening the industrial base of the       United States. 
+
+       (B) An identification of additional resources,       administrative action, or legislative action recommended to       assist with the implementation of such strategy. 
+
+       (d) Form of Reports and Strategies.--Each report and       strategy submitted under subsection (b) shall be submitted in       unclassified form, but may include a classified annex.       SEC. 6. CONFORMING AMENDMENTS.  
+
+       (a) Scientific and Advanced-Technology Act of 1992.--The       Scientific and Advanced-Technology Act of 1992 (42 U.S.C.       1862h et seq.) is amended-- 
+
+       (1) in section 2(a)(5) (42 U.S.C. 1862h(a)(5)), by striking       ``National Science Foundation'' and inserting ``National       Science and Technology Foundation''; and 
+
+       (2) in section 3 (42 U.S.C. 1862i), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''. 
+
+       (b) National Science Foundation Authorization Act of       1998.--The National Science Foundation Authorization Act of       1998 (42 U.S.C. 1862k et seq.) is amended-- 
+
+       (1) in each of paragraphs (1) and (2) of section 2 (112       Stat. 869), by striking ``National Science Foundation       established'' and inserting ``National Science and Technology       Foundation established''; and 
+
+       (2) in section 101(a)(6) (42 U.S.C. 1862k(a)(6)), by       striking ``National Science Foundation'' each place the term       appears and inserting ``National Science and Technology       Foundation''. 
+
+       (c) National Science Foundation Authorization Act of       2002.--The National Science Foundation Authorization Act of       2002 (42 U.S.C. 1862n et seq.) is amended-- 
+
+       (1) in section 2 (42 U.S.C. 1862n note), by striking       ``National Science Foundation'' each place the term appears       and inserting ``National Science and Technology Foundation''; 
+
+       (2) in each of paragraphs (4) and (7) of section 4 (42       U.S.C. 1862n note), by striking ``National Science Foundation       established'' and inserting ``National Science and Technology       Foundation established''; and 
+
+       (3) in section 10A (42 U.S.C. 1862n-1a)-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``national science''; 
+
+       (B) in the subsection heading of subsection (e), by       inserting ``and Technology'' after ``National Science''; and 
+
+       (C) by striking ``National Science Foundation'' each place       the term appears and inserting ``National Science and       Technology Foundation''. 
+
+       (d) America COMPETES Act.--The America COMPETES Act (Public       Law 110-69; 121 Stat. 572) is amended-- 
+
+       (1) in each of sections 1006(c)(1)(K) (15 U.S.C.       3718(c)(1)(K)), 4001 (33 U.S.C. 893), and 5003(b)(1), by       striking ``National Science Foundation'' and inserting       ``National Science and Technology Foundation''; 
+
+       (2) in section 7001(5) (42 U.S.C. 1862o note), by striking       ``National Science Foundation'' and inserting ``National       Science and Technology Foundation''; and 
+
+       (3) in the title heading for title VII, by inserting ``AND       TECHNOLOGY'' after ``NATIONAL SCIENCE''. 
+
+       (e) National Science and Technology Policy, Organization,       and Priorities Act of 1976.--The National Science and       Technology Policy, Organization, and Priorities Act of 1976       (42 U.S.C. 6601 et seq.) is amended-- 
+
+       (1) in section 205(b)(2) (42 U.S.C. 6614(b)(2)), by       striking ``National Science Foundation'' and inserting       ``National Science and Technology Foundation''; and 
+
+       (2) in section 206 (42 U.S.C. 6615), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''. 
+
+       (f) America COMPETES Reauthorization Act of 2010.--The       America COMPETES Reauthorization Act of 2010 (Public Law 111-      358; 124 Stat. 3982) is amended-- 
+
+       (1) in the subtitle heading of subtitle A of title V, by       inserting ``and Technology'' after ``National Science''; 
+
+       (2) in section 502 (42 U.S.C. 1862p note)-- 
+
+       (A) in paragraph (1), by striking ``National Science       Foundation'' and inserting ``National Science and Technology       Foundation''; and 
+
+       (B) in paragraph (3), by striking ``National Science       Foundation established'' and inserting ``National Science and       Technology Foundation established''; 
+
+       (3) in the section heading of section 506 (42 U.S.C. 1862p-      1), by inserting ``and technology'' after ``national       science''; 
+
+       (4) in section 517 (42 U.S.C. 1862p-9)-- 
+
+       (A) in paragraph (2) of subsection (a), by striking       ``National Science Foundation'' each place the term appears       and inserting ``National Science and Technology Foundation'';       and 
+
+       (B) in each of subsections (a)(4), (b), and (c)(2), by       striking ``National Science Foundation'' and inserting       ``National Science and Technology Foundation''; 
+
+       (5) in section 518 (124 Stat. 4015), by striking       ``Foundation.'' and inserting ``and Technology Foundation.'';  
+
+       (6) in section 519 (124 Stat. 4015)-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``national science''; and 
+
+       (B) by striking ``National Science Foundation'' each place       the term appears and inserting ``National Science and       Technology Foundation''; 
+
+       (7) in section 520 (42 U.S.C. 1862p-10)-- 
+
+       (A) by striking ``National Science Foundation'' each place       the term appears and inserting ``National Science and       Technology Foundation''; and 
+
+       (B) in the subsection heading of subsection (b), by       striking ``NSF'' and inserting ``NSTF''; 
+
+       (8) in section 522 (42 U.S.C. 1862p-11)-- 
+
+       (A) in the section heading, by striking ``nsf'' and       inserting ``nstf''; and 
+
+       (B) by striking ``National Science Foundation'' and       inserting ``National Science and Technology Foundation''; 
+
+       (9) in section 524 (42 U.S.C. 1862p-12), by striking       ``National Science Foundation'' each place the term appears       and inserting ``National Science and Technology Foundation'';       and 
+
+       (10) in section 555(5) (20 U.S.C. 9905(5)), by inserting       ``and Technology'' after ``National Science''. 
+
+       (g) STEM Education Act of 2015.--Each of sections 2 and 3       of the STEM Education Act of 2015 (42 U.S.C. 6621 note;       1862q) are amended by striking ``National Science       Foundation'' and inserting ``National Science and Technology       Foundation''. 
+
+       (h) Research Excellence and Advancements for Dyslexia       Act.--The Research Excellence and Advancements for Dyslexia       Act (Public Law 114-124; 130 Stat. 120) is amended by       striking ``National Science'' each place the term appears and       inserting ``National Science and Technology''. 
+
+       (i) American Innovation and Competitiveness Act.--The       American Innovation and Competitiveness Act (42 U.S.C. 1862s       et seq.) is amended-- 
+
+       (1) in section 2 (42 U.S.C. 1862 note), by inserting ``and       Technology'' after ``National Science''; and 
+
+       (2) in section 601(a)(1) (42 U.S.C. 1862s-8(a)(1)), by       striking ``National Science'' each place the term appears and       inserting ``National Science and Technology''. 
+
+       (j) National Science Foundation Authorization Act, 1976.--      The National Science Foundation Authorization Act, 1976       (Public Law 94-86) is amended-- 
+
+       (1) in section 2(b) (42 U.S.C. 1869a), by striking       ``National Science Foundation'' each place the term appears       and inserting ``National Science and Technology Foundation'';       and 
+
+       (2) in section 6(a) (42 U.S.C. 1881a(a)), by striking       ``National Science Foundation'' and inserting ``National       Science and Technology Foundation''. 
+
+       (k) National Science Foundation Authorization Act, 1977.--      Section 8 of the National Science Foundation Authorization       Act, 1977 (42 U.S.C. 1883) is amended by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''. 
+
+       (l) National Science Foundation Authorization Act, Fiscal       Year 1978.--Section 8 of the National Science Foundation       Authorization Act, Fiscal Year 1978 (42 U.S.C. 1869b) is       amended by inserting ``and Technology'' after ``National       Science''. 
+
+       (m) Act of August 25, 1959.--The first section of the Act       of August 25, 1959 (42 U.S.C. 1880) is amended by inserting       ``and Technology'' after ``National Science''. 
+
+       (n) National Science Foundation Authorization Act for       Fiscal Year 1980.--Section 9 of the National Science       Foundation Authorization Act for Fiscal Year 1980 (42 U.S.C.       1882) is amended by striking ``National Science Foundation''       each place the term appears and inserting ``National Science       and Technology Foundation''. 
+
+       (o) National Aeronautics and Space Administration       Authorization Act of 2005.--Section 721 of the National       Aeronautics and Space Administration Authorization Act of       2005 (42 U.S.C. 1886a) is amended by striking ``The National       Science Foundation'' and inserting ``The National Science and       Technology Foundation''. 
+
+       (p) National Science Foundation Authorization Act for       Fiscal Year 1986.--Section 108 of the National Science       Foundation Authorization Act for Fiscal Year 1986 (42 U.S.C.       1886) is amended by inserting ``and Technology'' after       ``National Science''. 
+
+       (q) National Quantum Initiative Act.--The National Quantum       Initiative Act (Public Law 115-368) is amended-- 
+
+       (1) in the table of contents in section 2, by striking the       item relating to title III and inserting the following:      ``TITLE III--NATIONAL SCIENCE AND TECHNOLOGY FOUNDATION QUANTUM                               ACTIVITIES'';  
+
+       (2) in section 102(a)(2)(A) (15 U.S.C. 8812(a)(2)(A)), by       inserting ``and Technology'' after ``National Science''; 
+
+       (3) in section 103 (15 U.S.C. 8813), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''; 
+
+       (4) in the title heading for title III, by inserting ``AND       TECHNOLOGY'' after ``NATIONAL SCIENCE''; and 
+
+       (5) in each of sections 301 and 302 (15 U.S.C. 8841, 8842),       by striking ``National Science Foundation'' each place the       term appears and inserting ``National Science and Technology       Foundation''. 
+
+       (r) Cybersecurity Enhancement Act of 2014.--The       Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7421 et       seq.) is amended-- 
+
+       (1) in section 201 (15 U.S.C. 7431), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''; and 
+
+       (2) in each of sections 301 and 302 (15 U.S.C. 7441, 7442),       by striking ``National Science Foundation'' each place the       term appears and inserting ``National Science and Technology       Foundation''. 
+
+       (s) High-performance Computing Act of 1991.--The High-      Performance Computing Act of 1991 (15 U.S.C. 5501 et seq.) is       amended-- 
+
+       (1) in section 101(a)(3)(C)(xi) 15 U.S.C.       5511(a)(3)(C)(xi)), by inserting ``and Technology'' after       ``National Science''; and 
+
+       (2) in section 201 (15 U.S.C. 5521)-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``national science''; and 
+
+       (B) by striking ``National Science Foundation'' each place       the term appears and inserting ``National Science and       Technology Foundation''. 
+
+       (t) Arctic Research and Policy Act of 1984.--The Arctic       Research and Policy Act of 1984 (15 U.S.C. 4101 et seq.) is       amended-- 
+
+       (1) in each of sections 102(b)(3) and 103(b)(1) (15 U.S.C.       4101(b)(3), 4102(b)(1)), by inserting ``and Technology''       after ``National Science''; and 
+
+       (2) in section 107 (15 U.S.C. 4106)-- 
+
+       (A) in the subsection heading of subsection (a), by       inserting ``and Technology'' after ``National Science''; and 
+
+       (B) by striking ``National Science Foundation'' each place       the term appears and inserting ``National Science and       Technology Foundation''. 
+
+       (u) Stevenson-Wydler Technology Innovation Act of 1980.--      The Stevenson-Wydler Technology Innovation Act of 1980 (15       U.S.C. 3701 et seq.) is amended-- 
+
+       (1) in each of sections 4(5), 5(a)(2)(A), 20, and 21(d) (15       U.S.C. 3703(5), 3704(a)(2)(A), 3712, and 3713(d)), by       inserting ``and Technology'' after ``National Science''; 
+
+       (2) in section 9 (15 U.S.C. 3707)-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``national science''; 
+
+       (B) in each of subsections (a) and (b), by striking       ``National Science Foundation'' and inserting ``National       Science and Technology Foundation''; and 
+
+       (C) in subsection (c)-- 
+
+       (i) by striking ``National Science Foundation in'' and       inserting ``National Science and Technology Foundation in'';       and 
+
+       (ii) by striking ``National Science Foundation under'' and       inserting ``National Science and Technology Foundation       under''; and 
+
+       (3) in section 10 (15 U.S.C. 3708), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''. 
+
+       (v) Cyber Security Research and Development Act.--The Cyber       Security Research and Development Act (15 U.S.C. 7401 et       seq.) is amended-- 
+
+       (1) in section 3(1) (15 U.S.C. 7402(1)), by inserting ``and       Technology'' after ``National Science''; 
+
+       (2) in section 5 (15 U.S.C. 7404)-- 
+
+       (A) in the section heading, by inserting ``and technology''       after ``national science''; 
+
+       (B) in subsection (c)(4), by inserting ``and Technology''       after ``National Science''; and 
+
+       (C) in subsection (d), by striking ``National Science       Foundation's'' and inserting ``National Science and       Technology Foundation's''; and 
+
+       (3) in section 13 (15 U.S.C. 7409), by striking ``National       Science Foundation'' each place the term appears and       inserting ``National Science and Technology Foundation''. 
+
+       (w) National Superconductivity and Competitiveness Act of       1988.--Section 6 of the National Superconductivity and       Competitiveness Act of 1988 (15 U.S.C. 5205) is amended by       inserting ``and Technology'' after ``National Science''. 
+
+       (x) Weather Research and Forecasting Innovation Act of       2017.--Each of sections 105 and 402(a)(1) of the Weather       Research and Forecasting Innovation Act of 2017 (15 U.S.C.       8515, 8542(a)(1)) are amended by inserting ``and Technology''       after ``National Science''.                                  ______                                   
+
+      By Mr. THUNE: 
+
+  S.J. Res. 74. A joint resolution requesting the Secretary of the  Interior to authorize a unique and 1-time arrangement for certain  displays on Mount Rushmore National Memorial relating to the centennial  of the ratification of the 19th Amendment to the Constitution of the  United States during the period beginning August 18, 2020, and ending  on September 30, 2020; to the Committee on Energy and Natural  Resources. 
+
+BREAK IN TRANSCRIPT
