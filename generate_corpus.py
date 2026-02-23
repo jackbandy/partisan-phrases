@@ -75,6 +75,18 @@ def scrape_state(state, start_str, end_str):
             table_person = cells[2].get_text(strip=True)
             table_person = re.sub(r"^(Rep\.|Sen\.|Representative|Senator)\s+", "", table_person).strip()
 
+            # Title from the link text in the search results
+            table_title = link_tag.get_text(strip=True).split(",")[0]
+            if len(table_title) > 150:
+                table_title = table_title[:150]
+
+            # Skip if a file already exists for this person + title
+            person_dir = os.path.join("corpus", table_person)
+            if os.path.isdir(person_dir):
+                existing = os.listdir(person_dir)
+                if any(f.startswith(table_title) for f in existing):
+                    continue
+
             try:
                 scrape_speech(href, state, table_person)
             except Exception as e:
@@ -83,7 +95,7 @@ def scrape_state(state, start_str, end_str):
 
         tqdm.write(f"\t{state} page {page_num}: {len(rows)} rows")
         page_num += 1
-        sleep(uniform(1, 3))
+        sleep(uniform(0.5, 1.5))
 
 
 def scrape_speech(speech_url, state, table_person):
@@ -171,7 +183,7 @@ def scrape_speech(speech_url, state, table_person):
             tqdm.write(f"\tNo source link found for {speech_url}")
             return
 
-        sleep(uniform(1, 3))
+        sleep(uniform(0.5, 1.5))
         source_resp = requests.get(source_url, headers=HEADERS, allow_redirects=True)
         source_resp.raise_for_status()
         source_soup = BeautifulSoup(source_resp.content, features="lxml")
@@ -205,7 +217,7 @@ def scrape_speech(speech_url, state, table_person):
         f.write(full_text)
 
     tqdm.write(f"\tSaved: {person} — {safe_title}")
-    sleep(uniform(1, 3))
+    sleep(uniform(0.5, 1.5))
 
 
 if __name__ == "__main__":
