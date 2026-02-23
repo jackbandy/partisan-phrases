@@ -1,4 +1,5 @@
 from sklearn.feature_extraction.text import CountVectorizer
+from difflib import get_close_matches
 from progressbar import progressbar
 from dateutil import parser as dateparser
 import pandas as pd
@@ -8,21 +9,66 @@ import re
 import os
 import io
 
-LEGISLATORS_URL = 'https://unitedstates.github.io/congress-legislators/legislators-current.csv'
+LEGISLATORS_CURRENT_URL = 'https://unitedstates.github.io/congress-legislators/legislators-current.csv'
+LEGISLATORS_HISTORICAL_URL = 'https://unitedstates.github.io/congress-legislators/legislators-historical.csv'
 HEADERS = {
     'User-Agent': 'PartisanPhrases/1.0 (https://github.com/jackbandy/partisan-phrases)',
 }
 
 
-def main():
-    resp = requests.get(LEGISLATORS_URL, headers=HEADERS)
-    resp.raise_for_status()
-    df = pd.read_csv(io.StringIO(resp.text))
-    df.at[df.twitter == 'SenSanders', 'party'] = 'Democrat'  # for ideological purposes
-    df = df[df.type == 'sen']
-    df = df[~df.votesmart_id.isna()]
+def build_party_lookup():
+    """Build a name -> party dict from current + historical legislators."""
+    party_lookup = {}
 
-    texts_df = get_all_texts(df)
+    for url in [LEGISLATORS_CURRENT_URL, LEGISLATORS_HISTORICAL_URL]:
+        try:
+            resp = requests.get(url, headers=HEADERS)
+            resp.raise_for_status()
+            df = pd.read_csv(io.StringIO(resp.text))
+            # Treat Independents who caucus with Democrats as Democrat
+            for _, row in df.iterrows():
+                name = str(row.get('full_name', ''))
+                party = row.get('party', 'Unknown')
+                if not name:
+                    continue
+                party_lookup[name] = party
+                # Also store by "First Last" (drop middle initials/suffixes)
+                parts = name.split()
+                if len(parts) >= 2:
+                    simple_name = f"{parts[0]} {parts[-1]}"
+                    if simple_name not in party_lookup:
+                        party_lookup[simple_name] = party
+        except Exception as e:
+            print(f"Warning: could not fetch {url}: {e}")
+
+    print(f"Party lookup has {len(party_lookup)} entries")
+    return party_lookup
+
+
+def lookup_party(person_name, party_lookup):
+    """Look up party for a person name, with fuzzy matching fallback."""
+    # Exact match
+    if person_name in party_lookup:
+        return party_lookup[person_name]
+
+    # Try "First Last" (drop middle parts)
+    parts = person_name.split()
+    if len(parts) >= 2:
+        simple = f"{parts[0]} {parts[-1]}"
+        if simple in party_lookup:
+            return party_lookup[simple]
+
+    # Fuzzy match against all known names
+    match = get_close_matches(person_name, party_lookup.keys(), n=1, cutoff=0.75)
+    if match:
+        return party_lookup[match[0]]
+
+    return None
+
+
+def main():
+    party_lookup = build_party_lookup()
+    texts_df = get_all_texts(party_lookup)
 
     tf_vectorizer = CountVectorizer(max_df=0.8, min_df=50,
                                     ngram_range=(1, 2),
@@ -209,22 +255,36 @@ def extract_quotes(target_df, texts_df):
             json.dump(quotes, f)
 
 
-def get_all_texts(df):
+def get_all_texts(party_lookup):
     texts_list = []
     date_pattern = re.compile(
-        r',\s*(\w+ \d{1,2},\s*\d{4})'
+        r',\s*(\w+\.? \d{1,2},?\s*\d{4})'
     )
+    skipped_unknown = []
 
-    for row in df.itertuples():
-        n_tweets = 0
-        print("Reading in {}...".format(row.full_name))
-        corpus_dir = f'corpus/{row.full_name}'
-        if not os.path.isdir(corpus_dir):
-            print(f"  No corpus directory found, skipping")
+    corpus_root = 'corpus'
+    if not os.path.isdir(corpus_root):
+        print("No corpus/ directory found")
+        return pd.DataFrame()
+
+    person_dirs = sorted(d for d in os.listdir(corpus_root)
+                         if os.path.isdir(os.path.join(corpus_root, d)))
+
+    for person_name in person_dirs:
+        party = lookup_party(person_name, party_lookup)
+        if not party:
+            skipped_unknown.append(person_name)
             continue
+
+        n_tweets = 0
+        print(f"Reading in {person_name} ({party})...")
+        corpus_dir = os.path.join(corpus_root, person_name)
         all_files = os.listdir(corpus_dir)
         for fname in progressbar(all_files):
-            with open(f'{corpus_dir}/{fname}', 'r') as f:
+            fpath = os.path.join(corpus_dir, fname)
+            if not fname.endswith('.txt'):
+                continue
+            with open(fpath, 'r') as f:
                 title_and_speech = f.read().split('\n\n\n')
                 if len(title_and_speech) < 2:
                     continue
@@ -248,20 +308,26 @@ def get_all_texts(df):
                     pass
 
             text = {
-                'party': row.party,
-                'person': row.full_name,
-                'bioguide_id': row.bioguide_id,
-                'state': row.state,
+                'party': party,
+                'person': person_name,
                 'title': title,
                 'text': speech,
                 'date': date_str,
                 'week': week,
             }
             texts_list.append(text)
-        print("{} tweets excluded".format(n_tweets))
+        if n_tweets:
+            print(f"  {n_tweets} tweets excluded")
+
+    if skipped_unknown:
+        print(f"\nSkipped {len(skipped_unknown)} people with unknown party: {', '.join(skipped_unknown)}")
 
     texts_df = pd.DataFrame(texts_list)
+    if len(texts_df) == 0:
+        print("No texts found in corpus")
+        return texts_df
     texts_df = texts_df.drop_duplicates(subset=['text'])
+    os.makedirs('output', exist_ok=True)
     texts_df.sample(min(100, len(texts_df))).to_csv('output/all_texts_sample.csv', index=False)
 
     return texts_df
