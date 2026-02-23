@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Partisan Phrases — What Language Divides the Senate?</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+</head>
+<body>
+  <header>
+    <h1>Partisan Phrases</h1>
+    <p class="subtitle">Which words and phrases are used most by Democrats vs. Republicans in the U.S. Senate?</p>
+    <p class="description">Each bubble is a phrase. <span class="blue">Blue</span> phrases lean Democratic, <span class="red">red</span> phrases lean Republican. Bigger bubbles appear more often. Click a bubble for details.</p>
+  </header>
+
+  <div id="controls">
+    <button id="btn-show-more">Show next 300</button>
+    <span id="phrase-count"></span>
+  </div>
+
+  <div id="bubble-container">
+    <svg id="bubble-svg"></svg>
+  </div>
+
+  <div id="panel" class="panel hidden">
+    <button id="panel-close">&times;</button>
+    <h2 id="panel-phrase"></h2>
+    <div id="panel-stats"></div>
+    <div id="panel-chart-container">
+      <canvas id="panel-chart"></canvas>
+    </div>
+    <h3>Example Quotes</h3>
+    <div id="panel-quotes"></div>
+    <button id="btn-more-quotes" class="hidden">Show 10 more</button>
+  </div>
+
+  <div id="panel-overlay" class="hidden"></div>
+
+  <footer>
+    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>. Updated weekly. <a href="https://github.com/jackbandy/partisan-phrases">Source code</a>.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

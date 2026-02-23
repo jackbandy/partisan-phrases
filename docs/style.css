@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #fafafa;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+header .subtitle {
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+header .description {
+  font-size: 0.9rem;
+  color: #777;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+header .blue { color: hsl(220, 70%, 50%); font-weight: 600; }
+header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
+
+#controls {
+  text-align: center;
+  padding: 0.5rem 1rem 1rem;
+}
+
+#controls button {
+  background: #555;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1.25rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+#controls button:hover {
+  background: #333;
+}
+
+#phrase-count {
+  margin-left: 1rem;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+#bubble-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+#bubble-svg {
+  display: block;
+  width: 100%;
+}
+
+#bubble-svg text {
+  pointer-events: none;
+  font-size: 11px;
+  fill: #fff;
+  text-anchor: middle;
+  dominant-baseline: central;
+  font-weight: 500;
+}
+
+#bubble-svg circle {
+  cursor: pointer;
+  stroke: #fff;
+  stroke-width: 1;
+  transition: opacity 0.2s;
+}
+
+#bubble-svg circle:hover {
+  opacity: 0.8;
+}
+
+/* Panel */
+.panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 420px;
+  height: 100%;
+  background: #fff;
+  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  overflow-y: auto;
+  padding: 1.5rem;
+  transform: translateX(100%);
+  transition: transform 0.3s ease;
+}
+
+.panel.open {
+  transform: translateX(0);
+}
+
+.panel.hidden {
+  display: none;
+}
+
+#panel-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #888;
+}
+
+#panel-close:hover {
+  color: #333;
+}
+
+#panel-phrase {
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+  padding-right: 2rem;
+}
+
+#panel-stats {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+#panel-chart-container {
+  margin-bottom: 1.5rem;
+}
+
+#panel-quotes h3, .panel h3 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.quote-card {
+  border-left: 3px solid #ccc;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.quote-card.dem {
+  border-left-color: hsl(220, 70%, 55%);
+}
+
+.quote-card.rep {
+  border-left-color: hsl(0, 70%, 55%);
+}
+
+.quote-senator {
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.quote-text {
+  color: #444;
+}
+
+#btn-more-quotes {
+  background: #eee;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+#btn-more-quotes:hover {
+  background: #ddd;
+}
+
+#panel-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 999;
+}
+
+#panel-overlay.hidden {
+  display: none;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-size: 0.8rem;
+  color: #999;
+}
+
+footer a {
+  color: #777;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .panel {
+    width: 100%;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+}

@@ -1,0 +1,15 @@
+We need to rework the corpus generation. It will need to search votesmart differently (and graciously), using this URL format: https://justfacts.votesmart.org/public-statements/IL/C/?search=&section=&bull=&search=&start=2026-01-01&end=2026-02-01
+
+The results from that kind of search can be used to find the representative (e.g. "Rep. Delia Ramirez"), and clicking on the statement goes to a page (e.g. https://justfacts.votesmart.org/public-statement/1699241/restoring-election-integrity) that includes a "Source" link that we should use to download and view the corpus as txt files (e.g. https://www.gpo.gov/fdsys/pkg/CREC-2026-01-21/html/CREC-2026-01-21-pt1-PgH1162.htm)
+
+To start, let's just collect all statements in 2026.
+
+We are going to make a live version of this analysis as a website. It will retrieve the corpus (i.e. run generate_corpus.py) once per week and update the corpus folder accordingly. The "analyze_corpus.py" script should also run once per week (after the corpus is updated).
+
+We will also make a simple website to visualize partisan phrases. The analyze_corpus script will save the data in json or another format that can be easily ingested through javascript.
+
+The interface will look as follows:
+* the top 100 left leaning right leaning, and overall phrases will all be displayed by default, for a total of 300 words/phrases
+* the words/phrases will appear as floating color-coded speech bubble circles. More left-leaning phrases will be more blue, more right-leaning phrases will be more red, and top overall phrases will be purple (proportional to their p_dem / p_rep score). The location of these bubbles will also be based on their partisan score.
+* a button will allow the user to "show the next 300 words/phrases"
+* when the user clicks on a speech bubble circle, an "phrase information" panel will appear. The panel will show a line graph with three lines, the x-axis spanning the past 12 months: (1) overall total uses of the phrase week by week, (2) total democratic uses of the phrase week by week, and (3) total republican uses of the phrase week by week. The panel will also have 10 randomly-sampled quotes from the corpus that use the phrase, including a circle-cropped headshot of the person who said it. There will also be a button with the shuffle icon that says "Show 10 more random quotes using this phrase."
