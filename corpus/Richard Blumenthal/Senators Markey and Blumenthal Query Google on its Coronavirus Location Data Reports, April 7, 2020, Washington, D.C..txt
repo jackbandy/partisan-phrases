@@ -1,8 +1,0 @@
-Senators Markey and Blumenthal Query Google on its Coronavirus Location Data Reports
-
-
-Senators Edward J. Markey (D-Mass.), Richard Blumenthal (D-Conn.), members of the Commerce, Science and Transportation Committee, today sent a letter to Google requesting information about the company's recently announced COVID-19 Community Mobility Reports. According to Google, this project employs users' location information in an aggregated and anonymized form to provide insight into movement trends related to the coronavirus pandemic. In their letter, the Senators commend Google for its efforts to combat the current public health crisis, but caution the company against taking any steps that risk undermining their users' privacy.
-
- 
-
-"An individual's location data can reveal other sensitive information, such as a place of employment, religious affiliation, or political preferences," write the Senators in their letter to Google CEO Sundar Pichai. "Access to this type of information can pose risks to both individuals' civil liberties and their physical safety. While we commend Google's efforts to assist in combatting the coronavirus pandemic, we caution you against steps that risk undermining your users' privacy."

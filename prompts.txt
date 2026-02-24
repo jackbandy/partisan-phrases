@@ -1,3 +1,34 @@
+More refinements:
+* The ovals are too pointy now. Reduce the width and increase the height to make them more bubble-like.
+* The month labels on the x-axis are unevenly spaced. Make them even and non-overlapping.
+* For the bias score, change the background of the score to a rounded colored rectangle. When the mouse hovers over the rectangle, a popup should appear with an explanatory note about the bias score (e.g. a score of 0.981 means that 98.1%...)
+* Quotes for 2-grams and 3-grams are not showing up, so the search algorithm probably needs to be revised to do some kind of fuzzy matching based on the tokenization process
+* In the quotes panel, the phrase in question should be highlighted.
+* Headshots are missing for many representatives. Also, switch back to a circle frame instead of rounded rectangle.
+* the search bar should permit all phrases in the data, not just the ones that are visible.
+
+The bubbles are still circles, the filtering does not work, and the panel x-axis still shows weeks instead of months. Do I need to run something to make this update?
+
+A few more changes:
+* Add a filter for the ngram length to allow filtering to 1-word, 2-word, or 3-word phrases
+* Update the analysis script to extract 3-word phrases (3-grams)
+* Delete the 2020 data from the corpus folder
+* The "Sample 10 More Random Quotes" button should clear the existing quotes
+* Check previous changes for senator headshots.
+* Check previous changes for making sure the rendered text fits within the oval
+* The x-axis on the panel graph should show month labels instead of weeks
+
+
+Need to make a few changes:
+* add a text search box at the top to type in different phrases
+* adjust the circle display to an oval and make sure the phrase is fully rendered in the oval
+* make sure the color of the bubble is proportional to the bias score. Neutral words should be gray.
+* get rid of the "bigger bubbles for more frequent phrases" feature
+* Make the headshots twice as large and make sure the aspect ratio of the original image is preserved
+* Instead of "Show 10 more," make it a "Sample 10 More Random Quotes" right under "Example Quotes"
+* For the panel on the right, highlight the bias score with the same proportional red/blue/gray color used in the bubbles
+* Make sure only 2025-2026 data is included (data from the last year - there is 2020 data in the corpus but it should be ignored)
+
 We need to rework the corpus generation. It will need to search votesmart differently (and graciously), using this URL format: https://justfacts.votesmart.org/public-statements/IL/C/?search=&section=&bull=&search=&start=2026-01-01&end=2026-02-01
 
 The results from that kind of search can be used to find the representative (e.g. "Rep. Delia Ramirez"), and clicking on the statement goes to a page (e.g. https://justfacts.votesmart.org/public-statement/1699241/restoring-election-integrity) that includes a "Source" link that we should use to download and view the corpus as txt files (e.g. https://www.gpo.gov/fdsys/pkg/CREC-2026-01-21/html/CREC-2026-01-21-pt1-PgH1162.htm)

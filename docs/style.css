@@ -39,6 +39,24 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
 #controls {
   text-align: center;
   padding: 0.5rem 1rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+#search-input {
+  padding: 0.45rem 0.85rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  width: 220px;
+  outline: none;
+}
+
+#search-input:focus {
+  border-color: #888;
 }
 
 #controls button {
@@ -55,8 +73,44 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   background: #333;
 }
 
+#ngram-filter {
+  display: flex;
+  gap: 0;
+}
+
+.ngram-btn {
+  background: #fff !important;
+  color: #555 !important;
+  border: 1px solid #ccc !important;
+  padding: 0.45rem 0.85rem !important;
+  border-radius: 0 !important;
+  font-size: 0.85rem !important;
+}
+
+.ngram-btn:first-child {
+  border-radius: 4px 0 0 4px !important;
+}
+
+.ngram-btn:last-child {
+  border-radius: 0 4px 4px 0 !important;
+  border-left: none !important;
+}
+
+.ngram-btn:not(:first-child):not(:last-child) {
+  border-left: none !important;
+}
+
+.ngram-btn.active {
+  background: #555 !important;
+  color: #fff !important;
+  border-color: #555 !important;
+}
+
+.ngram-btn:hover:not(.active) {
+  background: #f0f0f0 !important;
+}
+
 #phrase-count {
-  margin-left: 1rem;
   font-size: 0.85rem;
   color: #888;
 }
@@ -80,14 +134,14 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   font-weight: 500;
 }
 
-#bubble-svg circle {
+#bubble-svg ellipse {
   cursor: pointer;
   stroke: #fff;
   stroke-width: 1;
   transition: opacity 0.2s;
 }
 
-#bubble-svg circle:hover {
+#bubble-svg ellipse:hover {
   opacity: 0.8;
 }
 
@@ -96,7 +150,7 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   position: fixed;
   top: 0;
   right: 0;
-  width: 420px;
+  width: 560px;
   height: 100%;
   background: #fff;
   box-shadow: -4px 0 20px rgba(0, 0, 0, 0.15);
@@ -149,7 +203,22 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
 
 #panel-quotes h3, .panel h3 {
   font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#btn-more-quotes {
+  background: #eee;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
   margin-bottom: 0.75rem;
+  display: block;
+}
+
+#btn-more-quotes:hover {
+  background: #ddd;
 }
 
 .quote-card {
@@ -169,26 +238,97 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
 }
 
 .quote-senator {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
   font-weight: 600;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.35rem;
+}
+
+.senator-name {
+  padding-top: 2px;
+}
+
+/* Circle-cropped headshot */
+.headshot-container {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.headshot {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
 }
 
 .quote-text {
   color: #444;
 }
 
-#btn-more-quotes {
-  background: #eee;
-  border: none;
-  padding: 0.4rem 1rem;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 0.85rem;
-  margin-bottom: 1rem;
+.source-link {
+  margin-left: auto;
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: #999;
+  text-decoration: none;
+  white-space: nowrap;
 }
 
-#btn-more-quotes:hover {
-  background: #ddd;
+.source-link:hover {
+  color: #555;
+}
+
+/* Highlighted phrase inside quotes */
+.quote-text mark {
+  background: rgba(255, 210, 0, 0.4);
+  border-radius: 2px;
+  padding: 0 1px;
+  font-style: normal;
+}
+
+/* Colored bias score badge with hover tooltip */
+.bias-badge {
+  position: relative;
+  display: inline-block;
+  padding: 1px 9px;
+  border-radius: 12px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.85em;
+  cursor: help;
+  vertical-align: middle;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+}
+
+.bias-badge::after {
+  content: attr(data-tip);
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #222;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 0.78rem;
+  font-weight: 400;
+  width: 300px;
+  white-space: normal;
+  line-height: 1.45;
+  z-index: 1100;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+  text-shadow: none;
+}
+
+.bias-badge:hover::after {
+  opacity: 1;
 }
 
 #panel-overlay {
@@ -221,5 +361,10 @@ footer a {
 
   header h1 {
     font-size: 1.5rem;
+  }
+
+  #search-input {
+    width: 100%;
+    max-width: 320px;
   }
 }

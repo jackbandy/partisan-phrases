@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer
 from difflib import get_close_matches
 from progressbar import progressbar
-from dateutil import parser as dateparser
+from datetime import datetime
 import pandas as pd
 import requests
 import json
@@ -45,8 +45,35 @@ def build_party_lookup():
     return party_lookup
 
 
+# Manual overrides for names that don't match the legislators dataset.
+# Maps VoteSmart display name -> party string, or None to skip (non-federal officials).
+NAME_OVERRIDES = {
+    # Nickname mismatches
+    'Bobby Scott': 'Democrat',        # Robert C. Scott (VA)
+    'Buddy Carter': 'Republican',     # Earl L. Carter (GA)
+    'Chuck Schumer': 'Democrat',      # Charles E. Schumer (NY)
+    'Chuy Garcia': 'Democrat',        # Jesús G. García (IL)
+    'Dick Durbin': 'Democrat',        # Richard J. Durbin (IL)
+    'GT Thompson, Jr.': 'Republican', # Glenn Thompson (PA)
+    # New members not yet in legislators dataset
+    'Jim Justice, Jr.': 'Republican', # WV Senator, sworn in Jan 2025
+    'Nick Begich': 'Republican',      # AK Rep, sworn in Jan 2025
+    'Nick Begich III': 'Republican',
+    # Gil Cisneros is in historical data but fuzzy match misses it
+    'Gil Cisneros': 'Democrat',       # former CA Rep
+    # Non-federal officials — skip so they don't skew the analysis
+    'Bob Onder': None,                # MO state senator
+    'Christian Menefee': None,        # TX county attorney
+    'Felix Moore': None,              # not a federal legislator
+}
+
+
 def lookup_party(person_name, party_lookup):
     """Look up party for a person name, with fuzzy matching fallback."""
+    # Manual overrides take priority
+    if person_name in NAME_OVERRIDES:
+        return NAME_OVERRIDES[person_name]
+
     # Exact match
     if person_name in party_lookup:
         return party_lookup[person_name]
@@ -70,13 +97,12 @@ def main():
     party_lookup = build_party_lookup()
     texts_df = get_all_texts(party_lookup)
 
-    tf_vectorizer = CountVectorizer(max_df=0.8, min_df=50,
-                                    ngram_range=(1, 2),
+    tf_vectorizer = CountVectorizer(max_df=0.8, min_df=20,
+                                    ngram_range=(1, 3),
                                     binary=False,
                                     stop_words='english')
 
     print("Fitting...")
-    tf_vectorizer.fit(texts_df.text.tolist())
     term_frequencies = tf_vectorizer.fit_transform(texts_df.text.tolist())
     feature_names = tf_vectorizer.get_feature_names_out()
     phrases_df = pd.DataFrame(data=feature_names, columns=['phrase'])
@@ -88,8 +114,8 @@ def main():
     print("Analyzing partisan patterns...")
     dem_mask = texts_df.party == 'Democrat'
     rep_mask = texts_df.party == 'Republican'
-    dem_tfs = tf_vectorizer.transform(texts_df[dem_mask].text.tolist())
-    rep_tfs = tf_vectorizer.transform(texts_df[rep_mask].text.tolist())
+    dem_tfs = term_frequencies[dem_mask.values]
+    rep_tfs = term_frequencies[rep_mask.values]
     n_dem_docs = dem_tfs.shape[0]
     n_rep_docs = rep_tfs.shape[0]
     print(f"{n_dem_docs} Dem docs, {n_rep_docs} Rep docs")
@@ -106,6 +132,7 @@ def main():
     phrases_df['p_rep'] = p_rep
     phrases_df['n_dem'] = total_dem_tfs
     phrases_df['n_rep'] = total_rep_tfs
+    phrases_df['ngram_size'] = phrases_df['phrase'].apply(lambda x: len(x.split()))
 
     # Existing CSV output
     phrases_df.sort_values(by='total_occurrences', ascending=False).to_csv(
@@ -127,17 +154,17 @@ def main():
 
     # === JSON output for website ===
     print("Generating JSON for website...")
-    generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names)
+    generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, term_frequencies)
 
 
-def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names):
+def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, term_frequencies):
     os.makedirs('docs/data/history', exist_ok=True)
     os.makedirs('docs/data/quotes', exist_ok=True)
 
-    # Select top phrases: 300 left + 300 right + 300 overall, deduplicated
-    top_left = phrases_df.sort_values('bias_score', ascending=True).head(300)
-    top_right = phrases_df.sort_values('bias_score', ascending=False).head(300)
-    top_overall = phrases_df.sort_values('total_occurrences', ascending=False).head(300)
+    # Select top phrases: 600 left + 600 right + 600 overall, deduplicated
+    top_left = phrases_df.sort_values('bias_score', ascending=True).head(600)
+    top_right = phrases_df.sort_values('bias_score', ascending=False).head(600)
+    top_overall = phrases_df.sort_values('total_occurrences', ascending=False).head(600)
 
     combined = pd.concat([top_left, top_right, top_overall]).drop_duplicates(subset=['phrase'])
 
@@ -157,7 +184,8 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names):
 
     # Write phrases.json
     phrases_out = combined[['phrase', 'slug', 'total_occurrences', 'bias_score',
-                            'p_dem', 'p_rep', 'rank_left', 'rank_right', 'rank_overall']].copy()
+                            'p_dem', 'p_rep', 'rank_left', 'rank_right', 'rank_overall',
+                            'ngram_size']].copy()
     phrases_out['total_occurrences'] = phrases_out['total_occurrences'].astype(int)
     phrases_out['rank_left'] = phrases_out['rank_left'].astype(int)
     phrases_out['rank_right'] = phrases_out['rank_right'].astype(int)
@@ -169,8 +197,8 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names):
 
     # Compute weekly history and extract quotes for target phrases
     print("  Computing weekly history and extracting quotes...")
-    compute_weekly_history(combined, texts_df, tf_vectorizer, feature_names)
-    extract_quotes(combined, texts_df)
+    compute_weekly_history(combined, texts_df, feature_names, term_frequencies)
+    extract_quotes(combined, texts_df, feature_names, term_frequencies, tf_vectorizer)
 
 
 def slugify(phrase):
@@ -178,13 +206,26 @@ def slugify(phrase):
     return slug
 
 
-def compute_weekly_history(target_df, texts_df, tf_vectorizer, feature_names):
+def compute_weekly_history(target_df, texts_df, feature_names, term_frequencies):
     if 'week' not in texts_df.columns:
         print("  No week data available, skipping history generation")
         return
 
     feature_to_idx = {name: i for i, name in enumerate(feature_names)}
     weeks = sorted(texts_df.week.dropna().unique())
+
+    # Pre-compute per-week, per-party column sums across all phrases at once.
+    # This replaces O(phrases × weeks × 2) transform calls with O(weeks × 2) sums.
+    print("  Pre-computing weekly term counts...")
+    week_dem_sums = {}  # week -> np array of length n_features
+    week_rep_sums = {}
+    for week in weeks:
+        dem_mask = (texts_df.week == week) & (texts_df.party == 'Democrat')
+        rep_mask = (texts_df.week == week) & (texts_df.party == 'Republican')
+        if dem_mask.any():
+            week_dem_sums[week] = term_frequencies[dem_mask.values].sum(axis=0).A1
+        if rep_mask.any():
+            week_rep_sums[week] = term_frequencies[rep_mask.values].sum(axis=0).A1
 
     for _, row in progressbar(list(target_df.iterrows())):
         slug = row['slug']
@@ -195,19 +236,8 @@ def compute_weekly_history(target_df, texts_df, tf_vectorizer, feature_names):
 
         history = []
         for week in weeks:
-            week_texts = texts_df[texts_df.week == week]
-            dem_texts = week_texts[week_texts.party == 'Democrat'].text.tolist()
-            rep_texts = week_texts[week_texts.party == 'Republican'].text.tolist()
-
-            dem_count = 0
-            rep_count = 0
-            if dem_texts:
-                dem_tf = tf_vectorizer.transform(dem_texts)
-                dem_count = int(dem_tf[:, idx].sum())
-            if rep_texts:
-                rep_tf = tf_vectorizer.transform(rep_texts)
-                rep_count = int(rep_tf[:, idx].sum())
-
+            dem_count = int(week_dem_sums[week][idx]) if week in week_dem_sums else 0
+            rep_count = int(week_rep_sums[week][idx]) if week in week_rep_sums else 0
             if dem_count > 0 or rep_count > 0:
                 history.append({
                     'week': week,
@@ -220,16 +250,45 @@ def compute_weekly_history(target_df, texts_df, tf_vectorizer, feature_names):
             json.dump(history, f)
 
 
-def extract_quotes(target_df, texts_df):
+def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vectorizer):
+    feature_to_idx = {name: i for i, name in enumerate(feature_names)}
+    # Build a word-level tokenizer that mirrors the vectorizer's preprocessing
+    # pipeline WITHOUT producing n-grams (unlike build_analyzer()).
+    # This lets us match stop-word-skipped n-grams like "secretary state"
+    # (from "Secretary of State") via a token subsequence check.
+    preprocessor = tf_vectorizer.build_preprocessor()
+    tokenizer = tf_vectorizer.build_tokenizer()
+    stop_words = tf_vectorizer.get_stop_words() or set()
+
+    def word_tokens(text):
+        """Tokenize text to individual words, stop words removed."""
+        return [t for t in tokenizer(preprocessor(text)) if t not in stop_words]
+
     for _, row in progressbar(list(target_df.iterrows())):
         slug = row['slug']
         phrase = row['phrase']
+        idx = feature_to_idx.get(phrase)
+        phrase_words = phrase.split()   # e.g. ["skills", "work", "ethic"]
+        n = len(phrase_words)
 
-        matches = texts_df[texts_df.text.str.contains(phrase, case=False, regex=False)]
+        # Regex that handles punctuation between phrase words.
+        # e.g. "skills, work ethic" matches phrase "skills work ethic".
+        # \W+ matches one or more non-word chars (spaces, commas, etc.)
+        punct_pattern = re.compile(
+            r'\b' + r'\W+'.join(re.escape(w) for w in phrase_words) + r'\b',
+            re.IGNORECASE
+        )
+
+        # Sparse-matrix column lookup: O(1) to find all docs containing this phrase
+        if idx is not None:
+            doc_indices = term_frequencies[:, idx].nonzero()[0]
+            matches = texts_df.iloc[doc_indices]
+        else:
+            matches = texts_df[texts_df.text.str.contains(phrase, case=False, regex=False)]
+
         if len(matches) == 0:
             continue
 
-        # Balance across parties
         dem_matches = matches[matches.party == 'Democrat'].sample(
             n=min(15, len(matches[matches.party == 'Democrat'])), random_state=42)
         rep_matches = matches[matches.party == 'Republican'].sample(
@@ -238,21 +297,60 @@ def extract_quotes(target_df, texts_df):
 
         quotes = []
         for _, m in selected.iterrows():
-            # Find the sentence containing the phrase
             sentences = re.split(r'(?<=[.!?])\s+', m.text)
-            matching_sentence = next(
-                (s for s in sentences if phrase.lower() in s.lower()), None)
+            matching_sentence = None
+            for sentence in sentences:
+                # Fast path 1: exact substring match
+                if phrase.lower() in sentence.lower():
+                    matching_sentence = sentence
+                    break
+                # Fast path 2: punctuation-gap regex
+                # Catches "skills, work ethic" for phrase "skills work ethic"
+                if punct_pattern.search(sentence):
+                    matching_sentence = sentence
+                    break
+                # Slow path: word-token subsequence for stop-word gaps.
+                # Catches "secretary state" inside "Secretary of State".
+                if n > 1:
+                    sent_tokens = word_tokens(sentence)
+                    for i in range(len(sent_tokens) - n + 1):
+                        if sent_tokens[i:i + n] == phrase_words:
+                            matching_sentence = sentence
+                            break
+                if matching_sentence:
+                    break
+
             if matching_sentence and len(matching_sentence) < 500:
                 quotes.append({
                     'senator': m.person,
                     'party': m.party,
                     'sentence': matching_sentence.strip(),
+                    'title': m.title,
+                    'date': m.date,
                 })
             if len(quotes) >= 30:
                 break
 
         with open(f'docs/data/quotes/{slug}.json', 'w') as f:
             json.dump(quotes, f)
+
+
+_DATE_FORMATS = ('%b %d %Y', '%B %d %Y')
+
+def _parse_date_fast(raw):
+    """Parse a date string extracted from a corpus filename.
+
+    Handles both abbreviated ('Feb. 26, 2025') and full ('February 26, 2025')
+    month names.  Much faster than dateparser.parse() for known formats.
+    """
+    # Strip trailing periods from abbreviated months and commas throughout
+    cleaned = re.sub(r'\.(?=\s)', '', raw).replace(',', '').strip()
+    for fmt in _DATE_FORMATS:
+        try:
+            return datetime.strptime(cleaned, fmt)
+        except ValueError:
+            continue
+    return None
 
 
 def get_all_texts(party_lookup):
@@ -299,13 +397,14 @@ def get_all_texts(party_lookup):
             week = None
             match = date_pattern.search(fname)
             if match:
-                try:
-                    parsed_date = dateparser.parse(match.group(1))
+                parsed_date = _parse_date_fast(match.group(1))
+                if parsed_date is not None:
+                    # Skip speeches from before 2025
+                    if parsed_date.year < 2025:
+                        continue
                     date_str = parsed_date.strftime('%Y-%m-%d')
                     iso = parsed_date.isocalendar()
                     week = f'{iso[0]}-W{iso[1]:02d}'
-                except (ValueError, TypeError):
-                    pass
 
             text = {
                 'party': party,

@@ -15,11 +15,11 @@ def main():
     resp = requests.get(LEGISLATORS_URL, headers=HEADERS)
     resp.raise_for_status()
     df = pd.read_csv(io.StringIO(resp.text))
-    df = df[df.type == 'sen']
+    df = df[df.type.isin(['sen', 'rep'])]
 
-    senators = []
+    legislators = []
     for _, row in df.iterrows():
-        senators.append({
+        legislators.append({
             'full_name': row.full_name,
             'bioguide_id': row.bioguide_id,
             'party': row.party,
@@ -29,9 +29,9 @@ def main():
 
     os.makedirs('docs/data', exist_ok=True)
     with open('docs/data/senators.json', 'w') as f:
-        json.dump(senators, f, indent=2)
+        json.dump(legislators, f, indent=2)
 
-    print(f"Wrote {len(senators)} senators to docs/data/senators.json")
+    print(f"Wrote {len(legislators)} legislators to docs/data/senators.json")
 
 
 if __name__ == '__main__':
