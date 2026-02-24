@@ -95,7 +95,7 @@ def scrape_state(state, start_str, end_str):
 
         tqdm.write(f"\t{state} page {page_num}: {len(rows)} rows")
         page_num += 1
-        sleep(uniform(0.5, 1.5))
+        sleep(uniform(2, 4))
 
 
 def scrape_speech(speech_url, state, table_person):
@@ -183,7 +183,7 @@ def scrape_speech(speech_url, state, table_person):
             tqdm.write(f"\tNo source link found for {speech_url}")
             return
 
-        sleep(uniform(0.5, 1.5))
+        sleep(uniform(2, 4))
         source_resp = requests.get(source_url, headers=HEADERS, allow_redirects=True)
         source_resp.raise_for_status()
         source_soup = BeautifulSoup(source_resp.content, features="lxml")
@@ -217,7 +217,7 @@ def scrape_speech(speech_url, state, table_person):
         f.write(full_text)
 
     tqdm.write(f"\tSaved: {person} — {safe_title}")
-    sleep(uniform(0.5, 1.5))
+    sleep(uniform(2, 4))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,62 @@
+Sba It Modernization Reporting Act
+
+
+Mr. WILLIAMS of Texas. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 4491) to require the Administrator of the Small  Business Administration to implement certain recommendations relating  to information technology modernization, and for other purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 4491
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``SBA IT Modernization       Reporting Act''.       SEC. 2. IMPLEMENTATION OF RECOMMENDATIONS RELATING TO                     INFORMATION TECHNOLOGY MODERNIZATION FOR THE                     SMALL BUSINESS ADMINISTRATION.
+
+(a) In General.--The Administrator of the Small Business       Administration, acting through the Chief Information Officer       of the Administration, shall take such actions as may be       necessary to implement the recommendations contained in the       report of the Comptroller General of the United States titled       ``IT MODERNIZATION: SBA Urgently       Needs to Address Risks on Newly Deployed System'' (GAO-25-      106963; published November 6, 2024).
+
+(b) Implementation Plan.--Not later than 180 days after the       date of the enactment of this Act, the Administrator shall       submit to the Committee on Small Business of the House of       Representatives and the Committee on Small Business and       Entrepreneurship of the Senate an implementation plan       detailing the actions the Small Business Administration will       undertake to establish and implement policies and procedures       to govern information technology modernization projects of       the Administration. Such policies and procedures shall, with       respect to each project--
+
+(1) for each risk identified, explicitly state the source       of such risk in the relevant risk documentation;
+
+(2) clearly define risk parameters;
+
+(3) establish and maintain risk management strategies;
+
+(4) identify and document risks for all phases of the life       cycle;
+
+(5) evaluate, categorize, and prioritize risks based on       defined risk parameters and develop project risk management       plans;
+
+(6) connect measures to mitigate risk to risk mitigation       plans;
+
+(7) require that any information technology acquisition       plan and any strategic plan contains information needed to       manage cyber risks;
+
+(8) require that a traceability analysis is performed and       documented;
+
+(9) require that security-related subject matter experts       are involved in selection process for contractors for a       project;
+
+(10) develop master schedules using the guidelines       contained in the publication of the Comptroller General       titled ``GAO Schedule Assessment Guide: Best Practices for       Project Schedules'' (GAO-16-89G; published December 22,       2015); and
+
+(11) develop cost estimates using the guidelines contained       in the publication of the Comptroller General titled ``Cost       Estimating and Assessment Guide: Best Practices for       Developing and Managing Program Costs'' (GAO-20-195G;       published March 12, 2020).
+
+(c) Additional Requirements.--The implementation plan       required by this section shall include the actions required       to carry out the requirements listed in paragraphs (1)       through (11) of subsection (b), an identification of the       office of the Administration responsible for implementation,       and the timelines for completion of each action.
+
+(d) Briefing Required.--Not later than 30 days after the       submission of the implementation plan required under this       section, the Administrator shall provide to the Committee on       Small Business of the House of Representatives and the       Committee on Small Business and Entrepreneurship of the       Senate a briefing on the plan.
+
+Mr. Speaker, I rise today in support of H.R. 4491, the SBA IT  Modernization Reporting Act, introduced by Representative Cisneros from  the great State of California and Representative Jack from the great  State of Georgia.
+
+The SBA is charged with certifying small businesses to participate in  certain government contract opportunities.
+
+Last year, the Biden-Harris SBA sought to implement a new  certification portal. Unfortunately, this portal's lackluster planning,  creation, and rollout left the SBA with a ticking time bomb.
+
+The Biden administration's failed Unified Certification Portal  rollout resulted in delays, errors, and cybersecurity risks, shutting  out small businesses from vital government contracting opportunities.
+
+While this committee shared bipartisan concerns with the Biden-Harris  SBA over its rollout plan, or lack thereof, former Administrator Guzman  failed to listen, and the results were damaging. Small businesses were  delayed for months, sometimes longer, to get approval from the SBA to  compete for governmental contracts.
+
+To make matters worse, the SBA allowed small businesses to use the  new portal without conducting minimum cyber threat assessments.  Entrepreneurs didn't just face delays, but their sensitive personal and  business information was put at risk of cybercrime.
+
+The SBA IT Modernization Reporting Act ensures that this will not  happen at the SBA again. This bill requires the SBA to implement the  GAO's recommendations to establish stronger safeguards and improve  oversight of IT initiatives so small businesses can rely on an  efficient contract certification system.
+
+Small businesses should not be held back by government mismanagement.  This bipartisan, commonsense bill restores accountability and helps  Main Street focus on what it does best--innovate.
+
+Mr. Speaker, I urge my colleagues to support this bill, and I reserve  the balance of my time.
+
+Mr. WILLIAMS of Texas. Mr. Speaker, I urge my colleagues to support  this commonsense legislation to protect both the SBA and small  businesses alike. I yield back the balance of my time.

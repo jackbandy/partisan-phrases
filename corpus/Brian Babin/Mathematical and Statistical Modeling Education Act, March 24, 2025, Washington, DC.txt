@@ -1,0 +1,194 @@
+Mathematical and Statistical Modeling Education Act
+
+
+Mr. BABIN. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 730) to coordinate Federal research and development efforts  focused on modernizing mathematics in STEM education through  mathematical and statistical modeling, including data-driven and  computational thinking, problem, project, and performance-based  learning and assessment, interdisciplinary exploration, and career  connections, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                   H.R. 730
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Mathematical and Statistical       Modeling Education Act''.       SEC. 2. MATHEMATICAL AND STATISTICAL MODELING EDUCATION.
+
+(a) Findings.--Congress finds the following:
+
+(1) The mathematics taught in schools, including       statistical problem solving and data science, is not keeping       pace with the rapidly evolving needs of the public and       private sector, resulting in a STEM skills shortage and       employers needing to expend resources to train and upskill       employees.
+
+(2) According to the Bureau of Labor Statistics, the United       States will need 1,000,000       additional STEM professionals than it is on track to produce       in the coming decade.
+
+(3) The field of data science, which is relevant in almost       every workplace, relies on the ability to work in teams and       use computational tools to do mathematical and statistical       problem solving.
+
+(4) Many STEM occupations offer higher wages, more       opportunities for advancement, and a higher degree of job       security than non-STEM jobs.
+
+(5) The STEM workforce relies on computational and data-      driven discovery, decision making, and predictions, from       models that often must quantify uncertainty, as in weather       predictions, spread of disease, or financial forecasting.
+
+(6) Most fields, including analytics, science, economics,       publishing, marketing, actuarial science, operations       research, engineering, and medicine, require data savvy,       including the ability to select reliable sources of data,       identify and remove errors in data, recognize and quantify       uncertainty in data, visualize and analyze data, and use data       to develop understanding or make predictions.
+
+(7) Rapidly emerging fields, such as artificial       intelligence, machine learning, quantum computing and quantum       information, all rely on mathematical and statistical       concepts, which are critical to prove under what       circumstances an algorithm or experiment will work and when       it will fail.
+
+(8) Military academies have a long tradition in teaching       mathematical modeling and would benefit from the ability to       recruit students with this expertise from their other school       experiences.
+
+(9) Mathematical modeling has been a strong educational       priority globally, especially in China, where participation       in United States mathematical modeling challenges in high       school and higher education is orders of magnitude higher       than in the United States, and Chinese teams are taking a       majority of the prizes.
+
+(10) Girls participate in mathematical modeling challenges       at all levels at similar levels as boys, while in traditional       mathematical competitions girls participate less and drop out       at every stage. Students cite opportunity for teamwork, using       mathematics and statistics in meaningful contexts, ability to       use computation, and emphasis on communication as reasons for       continued participation in modeling challenges.
+
+(b) Definitions.--In this section:
+
+(1) Director.--The term ``Director'' means the Director of       the National Science Foundation.
+
+(2) Federal laboratory.--The term ``Federal laboratory''       has the meaning given such term in section 4 of the       Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C.       3703).
+
+(3) Foundation.--The term ``Foundation'' means the National       Science Foundation.
+
+(4) Institution of higher education.--The term       ``institution of higher education'' has the meaning given       such term in section 101(a) of the Higher Education Act of       1965 (20 U.S.C. 1001(a)).
+
+(5) Mathematical modeling.--The term ``mathematical       modeling'' has the meaning given such term in the 2019       Guidelines to Assessment and Instruction in Mathematical       Modeling Education (GAIMME) report, 2nd edition.
+
+(6) Operations research.--The term ``operations research''       means the application of scientific methods to the management       and administration of organized military, governmental,       commercial, and industrial processes to maximize operational       efficiency.
+
+(7) Statistical modeling.--The term ``statistical       modeling'' has the meaning given such term in the 2021       Guidelines to Assessment and Instruction in Statistical       Education (GAISE II) report.
+
+(8) STEM.--The term ``STEM'' means the academic and       professional disciplines of science, technology, engineering,       and mathematics, including computer science.
+
+(c) Preparing Educators To Engage Students in Mathematical       and Statistical Modeling.--The Director shall make awards on       a merit-reviewed, competitive basis to institutions of higher       education and nonprofit organizations (or a consortium       thereof) for research and development to advance innovative       approaches to support and sustain high-quality mathematical       modeling education in schools that are operated by local       educational agencies, including statistical modeling, data       science, operations research, and computational thinking. The       Director shall encourage applicants to form partnerships to       address critical transitions, such as middle school to high       school, high school to college, and school to internships and       jobs.
+
+(d) Application.--An entity seeking an award under       subsection (c) shall submit an application at such time, in       such manner, and containing such information as the Director       may require. The application shall include the following:
+
+(1) A description of the target population to be served by       the research activity for which such an award is sought,       including student subgroups described in section       1111(b)(2)(B)(xi) of the Elementary and Secondary Education       Act of 1965 (20 U.S.C. 6311(b)(2)(B)(xi)), and students       experiencing homelessness and children and youth in foster       care.
+
+(2) A description of the process for recruitment and       selection of students, educators, or local educational       agencies to participate in such research activity.
+
+(3) A description of how such research activity may inform       efforts to promote the engagement and achievement of       students, including students from groups historically       underrepresented in STEM, in prekindergarten through grade 12       in mathematical modeling and statistical modeling using       problem-based learning with contextualized data and       computational tools.
+
+(4) In the case of a proposal consisting of a partnership       or partnerships with one or more local educational agencies       and one or more researchers, a plan for establishing a       sustained partnership that is jointly developed and managed,       draws from the capacities of each partner, and is mutually       beneficial.
+
+(e) Partnerships.--In making awards under subsection (c),       the Director shall encourage applications that include the       following:
+
+(1) Partnership with a nonprofit organization or an       institution of higher education that has extensive experience       and expertise in increasing the participation of students in       prekindergarten through grade 12 in mathematical modeling and       statistical modeling.
+
+(2) Partnership with a local educational agency, a       consortium of local educational agencies, or Tribal       educational agencies.
+
+(3) An assurance from school leaders to making reforms and       activities proposed by the applicant a priority.
+
+(4) Ways to address critical transitions, such as middle       school to high school, high school to college, and school to       internships and jobs.
+
+(5) Input from education researchers and cognitive       scientists, as well as practitioners in research and       industry, so that what is being taught is up-to-date in terms       of content and pedagogy.
+
+(6) A communications strategy for early conversations with       parents, school leaders, school boards, community members,       employers, and other stakeholders.
+
+(7) Resources for parents, school leaders, school boards,       community members, and other stakeholders to build skills in       modeling and analytics.
+
+(f) Use of Funds.--An entity that receives an award under       this section shall use the award for research and development       activities to advance innovative approaches to support and       sustain high-quality mathematical modeling education in       public schools, including statistical modeling, data science,       operations research, and computational thinking, which may       include the following:
+
+(1) Engaging prekindergarten through grade 12 educators in       professional learning opportunities to enhance mathematical       modeling and statistical problem solving knowledge, and       developing training and best practices to provide more       interdisciplinary learning opportunities.
+
+(2) Conducting research on curricula and teaching practices       that empower students to choose the mathematical,       statistical, computational, and technological tools they will       apply to a problem, as is required in life and the workplace,       rather than prescribing a particular approach or method.
+
+(3) Providing students with opportunities to explore and       analyze real data sets from contexts that are meaningful to       the students, which may include the following:
+
+(A) Missing or incorrect values.
+
+(B) Quantities of data that require choice and use of       appropriate technology.
+
+(C) Multiple data sets that require choices about which       data are relevant to the current problem.
+
+(D) Data of various types including quantities, words, and       images.
+
+(4) Taking a school or district-wide approach to       professional development in mathematical modeling and       statistical modeling.
+
+(5) Engaging rural local agencies.
+
+(6) Supporting research on effective mathematical modeling       and statistical modeling teaching practices, including       problem- and project-based learning, universal design for       accessibility, and rubrics and mastery-based grading       practices to assess student performance.
+
+(7) Designing and developing pre-service and in-service       training resources to assist educators in adopting       transdisciplinary teaching practices within mathematics and       statistics courses.
+
+(8) Coordinating with local partners to adapt mathematics       and statistics teaching practices to leverage local natural,       business, industry, and community assets in order to support       community-based learning.
+
+(9) Providing hands-on training and research opportunities       for mathematics and statistics educators at Federal       laboratories, institutions of higher education, or in       industry.
+
+(10) Developing mechanisms for partnerships between       educators and employers to help educators and students make       connections between their mathematics and statistics projects       and topics of relevance in today's world.
+
+(11) Designing and implementing professional development       courses and experiences, including mentoring for educators,       that combine face-to-face and online experiences.
+
+(12) Reducing gaps in access to learning opportunities for       students from groups historically underrepresented in STEM.
+
+(13) Providing support and resources for students from       groups historically underrepresented in STEM.
+
+(14) Addressing critical transitions, such as middle school       to high school, high school to college, and school to       internships and jobs.
+
+(15) Researching effective approaches for engaging students       from groups historically underrepresented in STEM.
+
+(16) Any other activity the Director determines will       accomplish the goals of this section.
+
+(g) Evaluations.--All proposals for awards under this       section shall include an evaluation plan that includes the       use of outcome oriented measures to assess the impact and       efficacy of the award. Each recipient of an award under this       section shall include results from such evaluative activities       in annual and final project reports.
+
+(h) Accountability and Dissemination.--
+
+(1) Evaluation required.--The Director shall evaluate the       portfolio of awards made under this section. Such evaluation       shall--
+
+(A) use a common set of benchmarks and tools to assess the       results of research conducted under such awards and identify       best practices; and
+
+(B) to the extent practicable, integrate the findings of       research resulting from the activities funded through such       awards with the findings of other research on student's       pursuit of degrees or careers in STEM.
+
+(2) Report on evaluations.--Not later than 180 days after       the completion of the evaluation under paragraph (1), the       Director shall submit to Congress and make widely available       to the public a report that includes the following:
+
+(A) The results of the evaluation.
+
+(B) Any recommendations for administrative and legislative       action that could optimize the effectiveness of the awards       made under this section.
+
+(i) Funding.--$10,000,000 for each of the fiscal years 2026       through 2030 is authorized to be used by the Directorate for       STEM Education of the National Science Foundation to carry       out this section.       SEC. 3. NASEM REPORT ON MATHEMATICAL AND STATISTICAL MODELING                     EDUCATION IN PREKINDERGARTEN THROUGH 12TH                     GRADE.
+
+(a) Study.--Not later than 180 days after the date of the       enactment of this Act, the Director of the National Science       Foundation (in this section referred to as the ``Director'')       shall seek to enter into an agreement with the National       Academies of Sciences, Engineering and Medicine (in this       section referred to as ``NASEM'') (or if NASEM declines to       enter into such an agreement, another appropriate entity)       under which NASEM, or such other appropriate entity, agrees       to conduct a study on the following:
+
+(1) Factors that enhance or barriers to the implementation       of mathematical modeling and statistical modeling in       elementary and secondary education, including opportunities       for and barriers to use modeling to integrate mathematical       and statistical ideas across the curriculum, including the       following:
+
+(A) Pathways in mathematical modeling and statistical       problem solving from kindergarten to the workplace so       students are able to identify opportunities to use their       school mathematics and statistics in a variety of jobs and       life situations and so employers can benefit from students'       school learning of data science, computational thinking,       mathematics, statistics, and related subjects.
+
+(B) The role of community-based problems, service-based       learning. and internships for connecting students with career       preparatory experiences.
+
+(C) Best practices in problem-, project-, performance-based       learning and assessment.
+
+(2) Characteristics of teacher education programs that       successfully prepare teachers to engage students in       mathematical modeling and statistical modeling, as well as       gaps and suggestions for building capacity in the pre-service       and in-service teacher workforce.
+
+(3) Mechanisms for communication with stakeholders,       including parents, administrators, and the public, to promote       understanding and knowledge of the value of mathematical       modeling and statistical modeling in education.
+
+(b) Public Stakeholder Meeting.--In the course of       completing the study described in subsection (a), NASEM or       such other appropriate entity shall hold not fewer than one       public meeting to obtain stakeholder input on the topics of       such study.
+
+(c) Report.--The agreement under subsection (a) shall       require NASEM, or such other appropriate entity, not later       than 24 months after the effective date of such agreement, to       submit to the Director, the Secretary of Education, and the       Congress a report containing the following:
+
+(1) The results of the study conducted under subsection       (a).
+
+(2) Recommendations to modernize the processes described in       subsection (a)(1).
+
+(3) Recommendations for such legislative and administrative       action as NASEM, or such other appropriate entity, determines       appropriate.
+
+(d) Funding.--$1,000,000 for each of the fiscal years 2026       through 2030 is authorized to be used by the Directorate for       STEM Education of the National Science Foundation to carry       out this section.       SEC. 4. LIMITATIONS.
+
+(a) Limitation on Funding.--Amounts made available to carry       out sections 2 and 3 shall be derived from amounts       appropriated or otherwise made available to the National       Science Foundation.
+
+(b) Sunset.--The authority to provide awards under this Act       shall expire on September 30, 2029.
+
+Mr. BABIN.  730, the bill now under consideration.
+
+Mr. Speaker, I am proud to support H.R. 730, the Mathematical and  Statistical Modeling Education Act, sponsored by my colleagues  Representatives Houlahan and Baird.
+
+The importance of STEM education to our economy cannot be overstated.  The National Science Board's 2024 Science and Engineering Indicators  report estimates that our country's STEM workforce constitutes 24  percent of all U.S. jobs. Further still, the Bureau of Labor Statistics  predicts that the need for STEM jobs will increase by another 11  percent by 2032.
+
+America's education sector must ensure that we meet this growing  demand head-on. Many STEM jobs require data comprehension to inform  decisionmaking, but we are currently not providing a strong foundation  for that skill in our schools.
+
+H.R. 730 would modernize our mathematics curriculum by providing  competitive, merit-based grants to support mathematical and statistical  modeling education.
+
+Having served on the House Committee on Science, Space, and  Technology since joining Congress, and now as the sitting chairman, I  understand the importance of mathematical and statistical analyses. I  have had a front row seat to the extraordinary accomplishments of our  domestic STEM talent across many industries and professions. One thing  they all share is a solid foundation and understanding of mathematics  and modeling.
+
+These skills are crucial to a wide variety of occupations, informing  computational and data-driven thinking that supports the growth of a  versatile STEM workforce. Statistical analysis underpins everything  from the development of artificial intelligence to improving advanced  manufacturing.
+
+This bill will allow us to teach these skills more effectively  through R&D and new curricula and methodologies. H.R. 730 also directs  the National Academies to conduct a study identifying best practices  for mathematical and statistical modeling education.
+
+I thank Representatives Houlahan and Baird for their work on this  logical legislation that supports our students and our economy. This  bill passed the House in the 117th and 118th Congresses, and I urge my  colleagues to pass it again today.
+
+Mr. BABIN. Mr. Speaker, I am prepared to close, and I reserve the  balance of my time.
+
+Mr. Speaker, as teachers prepare the next generation of American STEM  workers, we must invest in the best curricula and teaching methods.  H.R. 730 will improve mathematical and statistical modeling education  in the United States, ensuring American businesses have qualified  workers with the necessary skills to drive innovation in STEM fields,  including artificial intelligence and advanced manufacturing. This is  good policy, which is why this same bill passed the House in the 117th  and the 118th Congresses.
+
+Mr. Speaker, I urge my colleagues to support it once again, and I  yield back the balance of my time.

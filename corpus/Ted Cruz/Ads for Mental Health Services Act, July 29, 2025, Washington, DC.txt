@@ -1,0 +1,52 @@
+Ads for Mental Health Services Act
+
+
+Mr. CRUZ. Madam President, the Committee on Commerce, Science, and  Transportation filed a report for S. 414, ADS for Mental Health  Services Act, on June 24, 2025, before receiving the formal CBO score  on the bill. The committee received the CBO score today. I ask  unanimous consent that the accompanying CBO score be printed in the  Record.
+
+This       document provides estimates for 3 of those bills. One bill,       S. 414, was reported on June 24, 2025. Details of the       estimated costs of each bill are discussed in the text.
+
+CBO estimates that enacting each bill would increase       spending subject to appropriation.
+
+None of the bills would increase direct spending or       revenues; thus, pay-as-you-go procedures do not apply.
+
+CBO estimates that none of the bills would increase net       direct spending or on-budget deficits in any of the four       consecutive 10-year periods beginning in 2036.
+
+All three bills contain private-sector mandates.  ----------------------------------------------------------------------------------------------------------------                                                                     Changes in                                               Net Increase or    Spending Subject                                               Decrease (-) in    to Appropriation                                               the Deficit Over    Over the 2025-                     Bill                       the 2025-2035       2030 Period           Mandate  Effects?                                              Period  (Millions      (Outlays,                                                 of  Dollars)       Millions of                                                                      Dollars) ---------------------------------------------------------------------------------------------------------------- S. 289.....................................                  0                  2  Yes S. 389.....................................                  0                  8  Yes S. 414.....................................                  0                  *  Yes ---------------------------------------------------------------------------------------------------------------- * = between zero and $500,000.                           summary of legislation
+
+On March 12, 2025, the Senate Committee on Commerce,       Science, and Transportation ordered reported 14 bills. This       document provides estimates for 3 of those bills. One bill,       S. 414, was reported on June 24, 2025.
+
+S. 289 would ban the sale of certain products covered by       the Consumer Product Safety Act and S. 389 would require the       Consumer Product Safety Commission (CPSC) to adopt voluntary       safety standards for lithium-ion batteries. S. 414 would       require digital advertising platforms to report annually to       the Federal Trade Commission (FTC).                            estimated federal cost
+
+The costs of the legislation fall within budget functions       370 (commerce and housing credit) and 550 (health).                              basis of estimate
+
+For this estimate, CBO assumes that each bill will be       enacted near the end of fiscal year 2025 and that the       estimated amounts will be available each year. The cost       estimate does not include any effects of interactions among       the bills. If all three bills were combined and enacted as a       single piece of legislation, the effects could be different       from the sum of the separate estimates, although CBO expects       that any differences would be small.
+
+S. 289, the Youth Poisoning Protection Act, would ban the       sale of products containing 10 percent or more by weight of       sodium nitrite that are covered under the Consumer Product       Safety Act. The legislation would not affect the sale or use       of commercial or industrial products not ordinarily intended       for consumer use or consumption.
+
+Using information from the Consumer Product Safety       Commission, CBO estimates that implementing S. 289 would cost       $2 million over the 2025-2030 period; any related spending       would be subject to the availability of appropriated funds.
+
+S. 389, the Setting Consumer Standards for Lithium-Ion       Batteries Act, would require the Consumer Product Safety       Commission within 180 days of enactment, to adopt certain       voluntary safety standards--specifically ANSI/CAN/UL 2271,       2849, and 2272--concerning rechargeable lithium-ion batteries       used in electric bicycles, scooters, and other micromobility       devices. The bill also would require the CPSC to determine       the applicable scope of covered consumer products and to       monitor and evaluate future revisions to the voluntary       standards and report to the Congress within five years of       enactment.
+
+Using information from the CPSC, CBO estimates that       implementing S. 389 would cost $8 million over the 2025-2030       period; any related spending would be subject to the       availability of appropriated funds.
+
+S. 414, the ADS for Mental Health Services Act, would       require certain digital advertising platforms to report       annually to the Federal Trade Commission about advertising on       their platforms for certain mental health services, including       information on the number, percent, and dollar value of such       advertisements. Platforms that would be affected by the bill       include social media platforms, public facing websites,       online services, and mobile applications with more than 100       million unique monthly users. The bill also would require the       FTC to report annually to the Congress summarizing that data.       CBO estimates that enacting S. 414 would cost less than       $500,000 over the 2025-2030 period. Any related spending       would be subject to the availability of appropriated funds.                         pay-as-you-go considerations
+
+The Statutory Pay-As-You-Go Act of 2010 establishes budget-      reporting and enforcement procedures for legislation       affecting direct spending or revenues. None of the bills       would affect direct spending or revenues; thus, pay-as-you-go       procedures do not apply.            increase in long-term net direct spending and deficits
+
+CBO estimates that enacting S. 289, S. 389 and S. 414 would       not increase net direct spending or deficits in any of the       four consecutive 10-year periods beginning in 2036.                                   mandates
+
+All three bills would impose private-sector mandates as       defined in in the Unfunded Mandates Reform Act (UMRA). None       of the bills would impose intergovernmental mandates.
+
+S. 289, the Youth Poisoning Protection Act, would impose a       private-sector mandate as defined in UMRA by banning the sale       of consumer products containing 10 percent or more of sodium       nitrite by weight. The prohibition would not apply to       industrial uses or to food preservation. Because there is       only a small market for consumer products containing that       much sodium nitrite and some states already have curtailed       the sale of       products containing sodium nitrite, CBO estimates that the       cost of the mandate would not exceed the private sector       threshold established in UMRA ($206 million in 2025, adjusted       annually for inflation).
+
+S. 389, the Setting Consumer Standards for Lithium-Ion       Batteries Act, would impose a private-sector mandate as       defined in UMRA by requiring manufacturers of electric       mobility devices, including bicycles and scooters, to comply       with a prospective Consumer Product Safety Commission safety       standard related to the risk of fire in lithium-ion       batteries. Based on voluntary compliance with the specified       standard by domestic manufacturers and current state and       local laws requiring compliance, CBO estimates that the cost       of the mandate would not exceed the annual private-sector       threshold established in UMRA ($206 million in 2025, adjusted       annually for inflation).
+
+S. 414, the ADS for Mental Health Services Act, would       require certain digital advertising platforms to report to       the FTC on their public service advertisements for mental and       behavioral health. That requirement would impose a private-      sector mandate as defined by UMRA. CBO estimates the cost of       the mandate would be small and not exceed the threshold       established in UMRA ($206 million in 2025, adjusted annually       for inflation) because the mandated entities generally       already possess or collect the information required to be       reported under the bill.
+
+Estimate Prepared By: Federal Costs: Cyrus Ekland (for the       Consumer Product Safety Commission); Johnny Willing (for the       Federal Trade Commission).
+
+Mandates: Andrew Laughlin (for the Consumer Product Safety       Commission); Rachel Austin (for the Federal Trade       Commission).
+
+Estimate Reviewed By: Sean Dunbar, Chief, Low-Income Health       Programs and Prescription Drugs Cost Estimates Unit; Justin       Humphrey, Chief, Finance, Housing, and Education Cost       Estimates Unit; Kathleen FitzGerald, Chief, Public and       Private Mandates Unit; H. Samuel Papenfuss, Deputy Director       of Budget Analysis.
+
+Estimate Approved By: Phillip L. Swagel, Director,       Congressional Budget Office.
