@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Partisan Phrases — What Language Divides the Senate?</title>
+  <title>Partisan Phrases</title>
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
@@ -11,19 +11,22 @@
 <body>
   <header>
     <h1>Partisan Phrases</h1>
-    <p class="subtitle">Which words and phrases are used most by Democrats vs. Republicans in the U.S. Senate?</p>
+    <p class="subtitle">Explore the language used in congress.</p>
     <p class="description">Each bubble is a phrase. <span class="blue">Blue</span> phrases lean Democratic, <span class="red">red</span> phrases lean Republican. Click a bubble for details.</p>
   </header>
 
   <div id="controls">
-    <input type="text" id="search-input" placeholder="Search phrases…" autocomplete="off">
+    <div class="search-wrapper">
+      <input type="text" id="search-input" placeholder="Search phrases…" autocomplete="off">
+      <div id="search-results" class="hidden"></div>
+    </div>
     <div id="ngram-filter">
       <button class="ngram-btn active" data-ngram="0">All</button>
       <button class="ngram-btn" data-ngram="1">1-word</button>
       <button class="ngram-btn" data-ngram="2">2-word</button>
       <button class="ngram-btn" data-ngram="3">3-word</button>
     </div>
-    <button id="btn-show-more">Show next 300</button>
+    <button id="btn-show-more">Show 150 more random phrases</button>
     <span id="phrase-count"></span>
   </div>
 
@@ -37,6 +40,7 @@
     <div id="panel-stats"></div>
     <div id="panel-chart-container">
       <canvas id="panel-chart"></canvas>
+      <div id="panel-chart-note"></div>
     </div>
     <h3>Example Quotes</h3>
     <button id="btn-more-quotes" class="hidden">Sample 10 More Random Quotes</button>
@@ -46,8 +50,9 @@
   <div id="panel-overlay" class="hidden"></div>
 
   <footer>
-    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>. Updated weekly. <a href="https://github.com/jackbandy/partisan-phrases">Source code</a>.</p>
+    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>'s public statements database. Updated weekly.</p>
     <p>Includes phrases used 20+ times across all legislators since January 2025.</p>
+    <p>This is a hobby project — bugs should be expected. <a href="https://github.com/jackbandy/partisan-phrases">Contributions welcome.</a></p>
   </footer>
 
   <script src="app.js"></script>

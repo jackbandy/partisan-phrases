@@ -212,7 +212,7 @@ def scrape_speech(speech_url, state, table_person):
     if not speech_text:
         return
 
-    full_text = f"{title}\n\n\n{speech_text}"
+    full_text = f"{title}\n\n\n{speech_url}\n\n\n{speech_text}"
     with open(file_path, "w") as f:
         f.write(full_text)
 

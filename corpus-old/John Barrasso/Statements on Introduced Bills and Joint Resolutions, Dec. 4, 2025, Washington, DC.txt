@@ -1,0 +1,128 @@
+Statements on Introduced Bills and Joint Resolutions
+
+
+3350
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``ACO Assignment Improvement       Act of 2025''.       SEC. 2. IMPROVEMENTS TO THE ASSIGNMENT OF BENEFICIARIES UNDER                     THE MEDICARE SHARED SAVINGS PROGRAM.
+
+Section 1899(c)(1) of the Social Security Act (42 U.S.C.       1395jjj(c)(1)) is amended--
+
+(1) in subparagraph (A), by striking ``and'' at the end;
+
+(2) in subparagraph (B), by striking the period at the end       and inserting ``; and''; and
+
+(3) by adding at the end the following new subparagraph:
+
+``(C) in the case of performance years beginning on or       after January 1, 2026, primary care services provided under       this title by an ACO professional described in subsection       (h)(1)(B).''.                                  ______
+
+By Mr. BARRASSO (for himself and Mr. Bennet):
+
+S. 3352. A bill to amend the Internal Revenue Code of 1986 to permit  rollover contributions from Roth IRAs to designated Roth accounts; to  the Committee on Finance.
+
+3352
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Retirement Rollover       Flexibility Act''.       SEC. 2. ROLLOVER CONTRIBUTIONS FROM ROTH IRAS TO DESIGNATED                     ROTH ACCOUNTS.
+
+(a) Treatment as Rollover Distribution for Purposes of Roth       IRA.--
+
+(1) In general.--Section 408(d)(3)(A) of the Internal       Revenue Code of 1986 is amended by striking ``; or'' at the       end of clause (i) and inserting a comma, by striking the       period at the end of clause (ii) and inserting ``, or'' and       by inserting after clause (ii) the following new clause:
+
+``(iii) the entire amount received (including money and any       other property) is paid in a direct trustee-to-trustee       transfer to a designated Roth account (within the meaning of       section 402A)--
+
+``(I) from an eligible Roth IRA, or
+
+``(II) in an automatic portability transaction (as defined       in section 4975(f)(12)(A)(i)).''.
+
+(2) Eligible roth ira.--Section 408(d)(3) is amended by       adding at the end the following new subparagraph:
+
+``(J) Eligible roth ira.--For purposes of subparagraph       (A)(iii), the term `eligible Roth IRA' means a Roth IRA       which--
+
+``(i) is the only Roth IRA (other than a Roth IRA       established under section 401(a)(31)(B)(i)) maintained for       the benefit of the individual during the taxable year of the       taxpayer in which the distribution or payment described in       subparagraph (A)(iii) is made, and
+
+``(ii) has a balance at the time of the payment or       distribution which is not in excess of the amount described       in section 401(a)(31)(B)(ii).''.
+
+(b) Treatment as Rollover Contribution for Purposes of       Designated Roth Account.--
+
+(1) In general.--Section 402A(c)(3)(B) of the Internal       Revenue Code of 1986 is amended by inserting ``or under       section 408(d)(3)(A)(iii)'' after ``subparagraph (A)''.
+
+(2) Treatment of earnings in case of taxable       distributions.--Section 402A(d) of such Code is amended by       adding at the end the following new paragraph:
+
+``(6) Treatment of roth ira rollover contributions.--      Notwithstanding section 72, the total amount of any rollover       contribution to a designated Roth account under section       408(d)(3)(A)(iii) shall be treated as investment in the       contract.''.
+
+(c) Coordination With Nonexclusion Period.--Section       402A(d)(2)(B) of such Code is amended--
+
+(1) by striking ``earlier'' in the matter preceding       subclause (i) and inserting ``earliest'',
+
+(2) by striking ``or'' at the end of clause (i),
+
+(3) by striking the period at the end of clause (ii), and
+
+(4) by adding at the end the following:
+
+``(iii) if a rollover contribution was made to such       designated Roth account from a Roth IRA under section       408(d)(3)(A)(iii)(II) and the automatic portability provider       (as defined in section 4975(f)(12)(A)(ii)) provides the first       taxable year to which a contribution was made to the source       plan, the first taxable year in which the individual made       contributions to the source plan.      For purposes of clause (iii), the term `source plan' means       the eligible retirement plan (as defined in section       401(a)(31)(B)(ii)) from which amounts were transferred to the       Roth IRA as described in section 4975(f)(12)(A)(i)(I).''.
+
+(d) Effective Date.--The amendments made by this section       shall apply to amounts paid or distributed after the date of       the enactment of this Act.
+
+By Ms. Collins (for herself, Mr. King, and Mrs. Shaheen):
+
+S. 3353. A bill to authorize the Secretary of Agriculture to provide  grants to States, territories, and Indian Tribes to address  contamination by perfluoroalkyl and polyfluoroalkyl substances on  farms, and for other purposes; to the Agriculture, Nutrition, and  Forestry.
+
+3377
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. DELAYED IMPLEMENTATION OF RULE RELATING TO                     IMPORTATION OF SHEEP AND GOATS AND PRODUCTS                     DERIVED FROM SHEEP AND GOATS.
+
+(a) In General.--During the period beginning on the date of       the enactment of this Act and ending on the date that is 1       year after the date on which the report is submitted under       subsection (b), the Secretary of Agriculture, and any other       Federal official, may not finalize, implement, administer, or       enforce the proposed rule entitled ``Importation of Sheep,       Goats, and Certain Other Ruminants'' (81 Fed. Reg. 46619) and       dated July 18, 2016.
+
+(b) Study and Report.--
+
+(1) Study.--
+
+(A) In general.--The Secretary of Agriculture shall conduct       a study on the potential costs and benefits of the rule       referred to in subsection (a).
+
+(B) Contents.--The study required by subparagraph (A) shall       assess--
+
+(i) the estimated amount of sheep and goat meat imported       into the United States as a result of the implementation of       the rule referred to in subsection (a);
+
+(ii) the estimated increase in the number of live sheep and       goats imported into the United States as a result of the       rule;
+
+(iii) the estimated demand for sheep and goat meat in the       United States during the 10-year period beginning on the date       of the enactment of this Act, disaggregated by region and       State;
+
+(iv) the impact of the COVID-19 pandemic on the economic       data and market conditions for imports of sheep and goat meat       and live sheep and goats;
+
+(v) the potential effects of the rule on--
+
+(I) the supply and prices of live sheep and goats in the       United States;
+
+(II) producers of and markets for live sheep and goats in       the United States, disaggregated by region and State;
+
+(III) export opportunities for United States producers of       sheep and goat meat;
+
+(IV) the competitiveness of the sheep and goat industries       in the United States;
+
+(V) consumer confidence in sheep and goat meat;
+
+(VI) the health of sheep and goat herds in the United       States; and
+
+(VII) disease outbreaks across species of animals;
+
+(vi) the estimated amount of direct payments made by       foreign countries to producers of live sheep and goats in       such countries as a result of the implementation of the rule       referred to in subsection (a); and
+
+(vii) any negative impacts that could result from the       implementation of the rule referred to in subsection (a) not       covered by clauses (i) through (vi).
+
+(2) Report.--
+
+(A) In general.--Not later than 1 year after the date of       the enactment of this Act, the Secretary of Agriculture shall       submit to the committees specified in subparagraph (B) a       report that includes--
+
+(i) an analysis of the results of the study conducted under       paragraph (1); and
+
+(ii) recommendations for changes to the rule referred to in       subsection (a) to eliminate or mitigate any negative effects       of the implementation of the rule.
+
+(B) Committees specified.--The committees specified in this       subparagraph are--
+
+(i) the Committee on Agriculture, Nutrition, and Forestry,       the Committee on Foreign Relations, the Committee on Finance,       and the Committee on Homeland Security and Governmental       Affairs of the Senate; and
+
+(ii) the Committee on Agriculture, the Committee on Foreign       Affairs, and the Committee on Oversight and Reform of the       House of Representatives.

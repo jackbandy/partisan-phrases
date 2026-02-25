@@ -1,0 +1,40 @@
+Arms Sales Notification
+
+
+Mr. RISCH. Mr. President, section 36(b) of the Arms Export Control  Act requires that Congress receive prior notification of certain  proposed arms sales as defined by that statute. Upon such notification,  the Congress has 30 calendar days during which the sale may be  reviewed. The provision stipulates that, in the Senate, the  notification of proposed sales shall be sent to the chairman of the  Senate Foreign Relations Committee.
+
+In keeping with the committee's intention to see that relevant  information is still available to the full Senate, I ask unanimous  consent to have printed in the Record the notifications that have been  received. If the cover letter references a classified annex, then such  an annex is available to all Senators in the office of the Foreign  Relations Committee, room SD-423.
+
+Hon. James E. Risch,      Chairman, Committee on Foreign Relations,      U.S. Senate, Washington, DC.
+
+Dear Mr. Chairman: Pursuant to the reporting requirements       of Section 36(b)(5)(A) of the Arms Export Control Act (AECA),       as amended, we are forwarding Transmittal No. 0B-25. This       notification relates to enhancements or upgrades from the       level of sensitivity of technology or capability described in       the Section 36(b)(1) AECA certification 22-60 of November 9,       2022.            Sincerely,                                                 Michael F. Miller,                                                          Director.
+
+Enclosure.                            Transmittal No. 0B-25       Report of Enhancement or Upgrade of Sensitivity of Technology           or Capability (Sec. 36(b)(5)(A), AECA)
+
+(i) Purchaser: Government of Lithuania.
+
+(ii) Sec. 36(b)(1), AECA Transmittal No.: 22-60; Date:       November 9, 2022; Implementing Agency: Army.
+
+Funding Source: National Funds and Foreign Military       Financing.
+
+(iii) Description: On November 9, 2022, Congress was       notified by congressional certification transmittal number       22-60 of the possible sale, under Section 36(b)(1) of the       Arms Export Control Act, of eight (8) M142 High Mobility       Artillery Rocket System (HIMARS) Launchers; thirty-six (36)       M30A2 Guided Multiple Launch Rocket System (GMLRS)       Alternative Warhead (AW) Missile Pods with Insensitive       Munitions Propulsion System (IMPS); thirty-six (36) M31A2       GMLRS Unitary High Explosive (HE) Missile Pods; thirty-six       (36) XM403 Extended Range GMLRS (ER GMLRS) Alternative       Warhead (AW) Missile Pods with IMPS; thirty-six (36) XM404       Extended Range GMLRS (ER GMLRS) Unitary Pods with IMPS; and       eighteen (18) M57 Army Tactical Missile System (ATACMS)       Missile Pods. Also included were M28A2 Low Cost Reduced Range       Practice Rocket (LCRRPR) pods; International Field Artillery       Tactical Data System (IFATDS); battle management system       Vehicle Integration Kits; ruggedized laptops;training       equipment publications for HIMARS and munitions; and other       related elements of program and logistics support. The       estimated total value was $495 million. Major Defense       Equipment (MDE) constituted $440 million of this total.
+
+This transmittal reports the correction of the previous       designation of the International Field Artillery Tactical       Data System (IFATDS) from non-MDE to MDE. Because reporting       the quantity of MDE items is required, this transmittal also       reports the quantity of eighteen (18) for the IFATDS. The       following non-MDE items will also be included: communications       equipment, including AN/PRC-160 and AN/PRC-167 radios and       associated accessories and training; Defense Advanced Global       Positioning System (GPS) Receivers (DAGRs); AN/PYQ-10 Simple       Key Loaders; and other related elements of program and       logistics support. The estimated total cost of the new items       is $21.5 million. The estimated total cost of the new MDE       items is $11.5 million, but will not result in a net increase       in total cost of MDE, which will remain at $440 million. The       estimated total cost of new non-MDE items is $10 million, but       will not result in a net increase in total cost of non-MDE,       which will remain at $55 million. The estimated total case       value will remain at $495 million.
+
+(iv) Significance: This report corrects an error included       in the original notification and includes additional non-MDE       items that increase the sensitivity of technology. The       proposed sale will improve Lithuania's capability to deter       current and future threats to support coalition operations,       as well as promote its interoperability with United States       and other NATO forces.
+
+(v) Justification: This proposed sale will support the       foreign policy and national security of the United States by       helping to improve the security of a NATO Ally that is an       important force for ensuring peace and stability in Europe.
+
+(vi) Sensitivity of Technology: The IFATDS is a multi-      service (U.S. Army and Marine Corps) automated, expert       decision support system used for command, control,       communications, and integration and synchronization of fires       on ground targets during all phases of military conflict. The       IFATDS provides the automated tools that significantly       augment the capability of fire support coordinators, fire       support asset commanders, and their respective staffs at       every echelon during the planning and execution of fire       support on dynamic battlefields.
+
+The AN/PRC-160 radio is a tactical wideband high frequency       (HF)/very high frequency (VHF) transceiver providing Type 1       encryption and Selective Availability Anti-Spoofing Module       (SAASM) GPS location and timing capabilities. The system       operates at variable frequencies and uses various standard       waveforms.
+
+The AN/PRC-167 is a multi-domain multi-channel tactical       narrow and wide-band dual transceiver radio system providing       Type 1 encryption and SAASM GPS location and timing       capabilities. Each transceiver is software programmable and       operates at variable frequencies and uses various standard       waveforms.
+
+The DAGR is a small commercial Navigation Satellite Timing       and Ranging (NAVSTAR) GPS receiver designed for military       operations. The Selective Availability/Anti Spoofing Module       (SAASM) is a security device controlling the encryption that       enables Precise Positioning Service (PPS) and resists       adversary attempts to spoof GPS signals. The DAGR with SAASM       will provide position and location information necessary for       ground-based operations.
+
+The Simple Key Loader (SKL) is a ruggedized and portable       hand-held device for securely receiving, storing, and       transferring data between compatible cryptographic and       communications equipment.
+
+The highest level of classification of defense articles,       components, and services included in this potential sale is       SECRET.
+
+(vii) Date Report Delivered to Congress: April 24, 2025.

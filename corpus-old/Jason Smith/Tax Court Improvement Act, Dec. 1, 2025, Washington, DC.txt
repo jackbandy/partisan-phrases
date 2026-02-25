@@ -1,0 +1,96 @@
+Tax Court Improvement Act
+
+
+Mr. SMITH of Missouri. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 5349) to amend the Internal Revenue Code of 1986 to  improve services provided to taxpayers by the Internal Revenue Service  by providing greater judicial review, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 5349
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE; ETC.
+
+(a) Short Title.--This Act may be cited as the ``Tax Court       Improvement Act''.
+
+(b) Amendment of 1986 Code.--Except as otherwise expressly       provided, whenever in this Act an amendment is expressed in       terms of an amendment to a section or other provision, the       reference shall be considered to be made to a section or       other provision of the Internal Revenue Code of 1986.
+
+(c) Table of Contents.--The table of contents of this Act       is as follows:  Sec. 1. Short title; etc. Sec. 2. Authorization of subpoenas before hearings to facilitate                settlements. Sec. 3. Authorization of special trial judges to hear additional cases                and address contempt. Sec. 4. Disqualification of judges and special trial judges. Sec. 5. Clarification of Tax Court jurisdiction to apply equitable                tolling in deficiency cases.       SEC. 2. AUTHORIZATION OF SUBPOENAS BEFORE HEARINGS TO                     FACILITATE SETTLEMENTS.
+
+Section 7456(a) is amended to read as follows:
+
+``(a) In General.--
+
+``(1) Administration of oaths.--For the efficient       administration of the functions vested in the Tax Court or       any division thereof, any judge or special trial judge, the       clerk or the clerk's deputies, as such, or any other employee       of the Tax Court designated in writing for the purpose by the       chief judge, may administer oaths or affirmations.
+
+``(2) Subpoena authority.--Any judge or special trial judge       may examine witnesses and require, by subpoena ordered by the       Tax Court or any division thereof and signed by the judge or       special trial judge (or by the clerk of the Tax Court or by       any other employee of the Tax Court when acting as deputy       clerk), any of the following:
+
+``(A) The attendance of parties or witnesses.
+
+``(B) The production of books, papers, documents,       electronically stored information, or tangible things from       any place in the United States by any party or witness having       custody or control thereof for purposes of discovery or for       use of the things produced as evidence in accordance with the       rules and orders of the Tax Court.      Any such subpoena shall be issued and served, and compliance       therewith shall be compelled, as provided in the rules and       orders of the Tax Court.
+
+``(3) Depositions.--Pursuant to rules and orders of the       Court, the deposition of a witness may be taken before any       designated individual competent to administer oaths under       this title. Any deposition testimony shall be reduced to       writing by the individual taking the deposition, or under       such individual's direction, and shall be subscribed by the       deponent.''.       SEC. 3. AUTHORIZATION OF SPECIAL TRIAL JUDGES TO HEAR                     ADDITIONAL CASES AND ADDRESS CONTEMPT.
+
+(a) Consent to Assignment.--Section 7443A(b) is amended by       striking ``and'' at the end of paragraph (6), by       redesignating paragraph (7) as paragraph (8), and by       inserting after paragraph (6) the following new paragraph:
+
+``(7) upon the consent of the parties, and pursuant to       rules promulgated by the Tax Court, any proceeding not       described in paragraphs (1) through (6), and'', and
+
+(b) Authorizing Special Trial Judge.--Section 7443A(c) is       amended by striking ``or (6)'' and inserting ``(6), or (7)''.
+
+(c) Contempt Authority.--Section 7443A is amended by adding       at the end the following new subsection:
+
+``(f) Incidental Powers.--A special trial judge appointed       under this section shall have the power to punish for       contempt of the authority of the Tax Court as provided in       section 7456(c), except the sentence imposed by such a       special trial judge for any contempt shall not exceed the       penalties for a Class C misdemeanor as set forth in sections       3571(b)(6) and 3581(b)(8) of title 18, United States Code.       This subsection shall not be construed to limit the authority       of a special trial judge to order sanctions under any other       statute or any rule of the Tax Court prescribed pursuant to       section 7453.''.
+
+(d) Effective Date.--The amendments made by subsections (a)       and (b) shall take effect on the date the United States Tax       Court adopts rules implementing the consent procedures of       section 7443A.       SEC. 4. DISQUALIFICATION OF JUDGES AND SPECIAL TRIAL JUDGES.
+
+(a) In General.--Part II of subchapter C of chapter 76 is       amended by adding at the end the following new section:       ``SEC. 7467. DISQUALIFICATION OF JUDGE OR SPECIAL TRIAL                     JUDGE.
+
+``Section 455 of title 28, United States Code, shall apply       to judges, special trial judges, and proceedings of the Tax       Court.''.
+
+(b) Clerical Amendment.--The table of sections for such       part is amended by adding at the end the following new item:  ``Sec. 7467. Disqualification of judge or special trial judge.''.       SEC. 5. CLARIFICATION OF TAX COURT JURISDICTION TO APPLY                     EQUITABLE TOLLING IN DEFICIENCY CASES.
+
+(a) In General.--Section 7451(b) is amended to read as       follows:
+
+``(b) Tolling of Time.--
+
+``(1) In general.--The Tax Court shall have jurisdiction to       toll the period for filing a petition under section 6213(a)       in cases in which the Tax Court determines based on the facts       and circumstances that equity warrants such tolling.
+
+``(2) Rules for inaccessible filing locations.--
+
+``(A) In general.--Notwithstanding any other provision of       this title, in any case (including by reason of a lapse in       appropriations) in which a filing location is inaccessible or       otherwise unavailable to the general public on the date a       petition is due, the relevant time period for filing such       petition shall be tolled for the number of days within the       period of inaccessibility plus an additional 14 days.
+
+``(B) Filing location.--For purposes of this paragraph, the       term `filing location' means--
+
+``(i) the office of the clerk of the Tax Court, or
+
+``(ii) any on-line portal made available by the Tax Court       for electronic filing of petitions.''.
+
+(b) Conforming Amendment.--Section 7459(d) is amended--
+
+(1) by striking ``If a petition'' and inserting the       following:
+
+``(1) In general.--If a petition'', and
+
+(2) by adding at the end the following new paragraph:
+
+``(2) Exception.--Paragraph (1) shall not apply with       respect to any dismissal which is solely based on a       determination of the Tax Court not to toll the period for       filing a petition under section 6213(a).''.
+
+(c) Effective Date.--The amendments made by this section       shall apply to filings made after the date of the enactment       of this Act.
+
+(d) No Inference.--The amendment made by subsections (a)       shall not be construed to create any inference with respect       to the jurisdiction of the Tax Court with respect to any       petition filed on or before the date of the enactment of this       Act.
+
+Mr. SMITH of Missouri.
+
+Mr. Speaker, I rise in support of the Tax Court Improvement Act,  bipartisan legislation introduced by Representatives Nathaniel Moran  and Terri Sewell. As a former judge, Congressman Moran knows the  importance of fully protecting Americans' legal rights and due process,  and I appreciate his leadership on this issue.
+
+This bill strengthens taxpayer rights during judicial proceedings  before the U.S. Tax Court.
+
+The court will be able to more expeditiously resolve cases as the  legislation enhances the efficiency of its judicial review to the  benefit of the taxpayer. This will increase the court's productivity,  and Tax Court judges will also be held to the same disqualification  standards as other judges. Finally, the court will now have the ability  to extend taxpayer deadlines where timely filing is impractical.
+
+The U.S. Tax Court is the only venue where taxpayers can dispute a  tax estimate without first paying that tax. Taxpayers must stand on  equal footing when going toe-to-toe with the IRS. Without the guarantee  of rights, taxpayers are put in a situation where the  IRS is essentially saying: Heads, I win. Tails, you lose.
+
+Mr. Speaker, the Ways and Means Committee has been working tirelessly  to strengthen taxpayer rights. This year alone, the committee has  approved several pieces of legislation giving taxpayers fairer  treatment. The Tax Court Improvement Act is another one of these  solutions.
+
+The IRS is the most feared Federal agency for good reason, but we are  working to change that. In addition to pursuing partisan aims, it has a  long-documented history of treating taxpayer rights as mere  suggestions.
+
+This bill will give taxpayers more confidence and greater protections  when litigating their case before the U.S. Tax Court.
+
+Mr. Speaker, I thank Congressman Moran and Congresswoman Sewell for  championing taxpayer rights. This bill received total support in the  Ways and Means Committee, and I urge all my colleagues to do the same  here in the House.

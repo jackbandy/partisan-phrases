@@ -1,0 +1,63 @@
+Statements on Introduced Bills and Joint Resolutions
+
+
+https://justfacts.votesmart.org/public-statement/1694217/statements-on-introduced-bills-and-joint-resolutions
+
+
+2426
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Equitable Community Access       to Pharmacist Services Act''.       SEC. 2. COVERAGE OF PHARMACIST SERVICES UNDER MEDICARE PART                     B.
+
+(a) Coverage.--Section 1861 of the Social Security Act (42       U.S.C. 1395x) is amended--
+
+(1) in subsection (s)(2)--
+
+(A) in subparagraph (JJ), by adding ``and'' at the end; and
+
+(B) by adding at the end the following new subparagraph:
+
+``(KK) pharmacist services (as defined in subsection       (nnn));''; and
+
+(2) by adding at the end the following new subsection:
+
+``(nnn) Pharmacist Services.--
+
+``(1) In general.--The term `pharmacist services' means       such services furnished by a pharmacist, and such services       and supplies furnished as an incident to the pharmacist's       service, which the pharmacist is legally authorized to       perform under State law as would otherwise be covered if       furnished by a physician or as an incident to a physicians'       service which--
+
+``(A) in the case such State law requires such services to       be furnished under the supervision of, or working in       collaboration with, a physician or practitioner (as defined       in section 1842(b)(18)(C)(i)), are so furnished under the       supervision of, or working in collaboration with, such       physician or practitioner in the manner and to the extent as       so required by such State law; and
+
+``(B) are--
+
+``(i) for visits for the evaluation and management of       individuals for testing or treatment for COVID-19, influenza,       respiratory syncytial virus, or streptococcal pharyngitis; or
+
+``(ii) testing or treatment services that address a public       health need related to a public health emergency declared       under section 319 of the Public Health Service Act (as       determined by the Secretary).
+
+``(2) Collaboration.--For purposes of this subsection, the       term `collaboration' means a process in which a pharmacist       works with a physician or practitioner (as defined in section       1842(b)(18)(C)(i)), as applicable, to deliver health care       services within the scope of the pharmacist's professional       expertise, with medical direction and appropriate supervision       as provided for in jointly developed guidelines or other       mechanisms as defined by the law of the State in which the       services are performed.''.
+
+(b) Payment.--Section 1833(a)(1) of the Social Security Act       (42 U.S.C. 1395l(a)(1)) is amended--
+
+(1) by striking ``and (HH)'' and inserting ``(HH)''; and
+
+(2) by inserting before the semicolon at the end the       following: ``, and (II) with respect to pharmacist services       (as defined in section 1861(nnn)), the amounts paid shall be       equal to 80 percent of the lesser of (i) the actual charge       for the services or (ii) 85 percent (or 100 percent, in the       case of such services that address a public health need       described in paragraph (2)(B) of such section) of the amount       determined under the payment basis under section 1848 for       such services.''.
+
+(c) Prohibition on Balance Billing for Pharmacist       Services.--Section 1842(b)(18) of the Social Security Act (42       U.S.C. 1395u(b)(18)) is amended--
+
+(1) in subparagraph (A), by inserting ``or a pharmacist''       after ``a practitioner described in subparagraph (C)''; and
+
+(2) in subparagraph (B)--
+
+(A) in the first sentence, by inserting ``, a pharmacist,''       after ``a practitioner described in subparagraph (C)''; and
+
+(B) in the third sentence--
+
+(i) by inserting ``, a pharmacist,'' after ``a       practitioner''; and
+
+(ii) by inserting ``, the pharmacist,'' after ``the       practitioner''.
+
+(d) Application.--The amendments made by this section shall       apply to items and services furnished on or after January 1,       2026.                                  ______
+
+By Mr. PADILLA (for himself, Mr. Gallego, Mr. Heinrich, and Ms.          Hirono):
+
+S. 2446. A bill to amend the Public Health Service Act to provide for  a behavioral and mental health outreach and education strategy to  reduce stigma associated with mental health among the Hispanic and  Latino population, and for other purposes; to the Committee on Health,  Education, Labor, and Pensions.

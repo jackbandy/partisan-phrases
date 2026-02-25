@@ -1,0 +1,132 @@
+Artificial Intelligence Wisdom for Innovative Small Enterprises Act
+
+
+Mr. WILLIAMS of Texas. Madam Speaker, I move to suspend the rules and  pass the bill (H.R. 5784) to amend the Small Business Act to help small  business concerns critically evaluate artificial intelligence tools,  and for other purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 5784
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Artificial Intelligence       Wisdom for Innovative Small Enterprises Act'' or the ``AI-      WISE Act''.       SEC. 2. ARTIFICIAL INTELLIGENCE EDUCATIONAL RESOURCES AND                     MODULES FOR SMALL BUSINESS CONCERNS.
+
+(a) In General.--The Small Business Act (15 U.S.C. 631 et       seq.) is amended--
+
+(1) by redesignating section 49 as section 50; and
+
+(2) by inserting after section 48 the following new       section:       ``SEC. 49. ARTIFICIAL INTELLIGENCE EDUCATIONAL RESOURCES AND                     MODULES FOR SMALL BUSINESS CONCERNS.
+
+``(a) In General.--The Administrator shall--
+
+``(1) establish and maintain educational resources and       modules for small business concerns with information on       artificial intelligence tools; and
+
+``(2) make such educational resources and modules publicly       available on an existing online learning platform of the       Administration.
+
+``(b) Contents.--The educational resources and modules       established under subsection (a) shall include, to the extent       practicable, information on--
+
+``(1) how artificial intelligence models work, including       the limits of the capabilities of such models, and how such       limits affect the outputs of such tools;
+
+``(2) how to determine if software outputs are generated       with the use of artificial intelligence;
+
+``(3) how to remain updated on the emergence, development,       and technological maturation of artificial intelligence;
+
+``(4) how to understand and remain updated on the policies,       terms, and conditions applicable to users of artificial       intelligence;
+
+``(5) best practices in coordinating with third-party       providers of artificial intelligence tools;
+
+``(6) how to effectively identify, evaluate, and manage the       risks of artificial intelligence;
+
+``(7) how to ensure the privacy of user inputs to       artificial intelligence tools;
+
+``(8) how to retain human involvement in important       decisions informed by recommendations made by artificial       intelligence;
+
+``(9) how to identify tasks and functions that artificial       intelligence can reliably and effectively perform, including       whether artificial intelligence can improve operations,       productivity, or customer service; and
+
+``(10) how to determine whether an artificial intelligence       tool adequately fills a need and is worth adopting.
+
+``(c) Accuracy and Maintenance.--
+
+``(1) In general.--To the extent practicable, the       Administrator shall ensure that the information contained in       the educational resources and modules established under       subsection (a) is factually accurate and current, including       by consulting with--
+
+``(A) the Director of the National Institute of Standards       and Technology; and
+
+``(B) the Advisory Working Group established under       paragraph (2).
+
+``(2) Advisory working group.--
+
+``(A) Establishment.--The Administrator shall establish a       working group (in this paragraph referred to as the `Advisory       Working Group') with which the Administrator shall consult on       an ongoing basis regarding the information contained in the       educational resources and modules established under       subsection (a).
+
+``(B) Duties.--The duties of the Advisory Working Group       shall include the identification and recommendation of       relevant information to the Administrator for inclusion in       the educational resources and modules established under       subsection (a).
+
+``(C) Members.--The Advisory Working Group shall be       comprised of the following       members, who shall be selected by the Administrator:
+
+``(i) Individuals with demonstrated expertise in artificial       intelligence, including--
+
+``(I) not less than one individual from the private sector;
+
+``(II) not less than one individual from academia;
+
+``(III) not less than one individual from an organization       with demonstrated expertise in ensuring artificial       intelligence outputs--
+
+``(aa) are reliable, secure, transparent, and not used for       illegal purposes; and
+
+``(bb) which protect user privacy; and
+
+``(IV) not less than one individual with demonstrated       expertise in the creation of educational or professional       development materials regarding artificial intelligence.
+
+``(ii) Individuals with demonstrated expertise in outreach       to small business concerns, including--
+
+``(I) not less than one individual from each resource       partner;
+
+``(II) not less than one individual from a district office       of the Administration; and
+
+``(III) not less than one individual from an association       representing small business concerns.
+
+``(D) Vacancies.--Any vacancy in the Advisory Working Group       shall be filled in the same manner as the original       appointment.
+
+``(E) Inapplicability of faca.--The requirements of chapter       10 of title 5, United States Code, shall not apply to the       Advisory Working Group established under this paragraph.
+
+``(3) Incorporation of information in educational resources       and modules.--In establishing and maintaining the educational       resources and modules under subsection (a), the       Administrator--
+
+``(A) shall consider relevant, existing information       developed by resource partners;
+
+``(B) may consider relevant, existing information developed       by private entities; and
+
+``(C) may incorporate information described in       subparagraphs (A) and (B) into such educational resources and       modules.
+
+``(d) Resource Partner Involvement.--
+
+``(1) In general.--The Administrator shall coordinate with       resource partners to disseminate information to raise the       awareness of small business concerns about availability of       the educational resources and modules established under       subsection (a).
+
+``(2) Specialized and localized educational resource       development.--Resource partners may develop specialized and       localized training resources to more effectively disseminate       the information in the educational resources and modules       established under subsection (a), including by incorporating       information on uses of artificial intelligence tools common       to the community served by such resource partner.
+
+``(e) Manner.--The Administrator shall ensure that the       information in the educational resources and modules       established under subsection (a)--
+
+``(1) is actionable and presented in a manner that is       easily comprehensible by small business concerns;
+
+``(2) does not give preference to a particular artificial       intelligence model or tool over similar such models or tools;       and
+
+``(3) does not give preference to an artificial       intelligence model or tool developed by a specific entity or       group of entities over an artificial intelligence model or       tool developed by another entity or group of entities.
+
+``(f) Artificial Intelligence Defined.--In this section,       the term `artificial intelligence' has the meaning given such       term in section 5002 of the William M. (Mac) Thornberry       National Defense Authorization Act for Fiscal Year 2021 (15       U.S.C. 9401).''.
+
+(b) Deadline.--The Administrator of the Small Business       Administration shall establish the educational resources and       modules required by section 49 of the Small Business Act (15       U.S.C. 631 et seq.), as added by this Act, not later than 180       days after the date of the enactment of this Act.       SEC. 3. COMPLIANCE WITH CUTGO.
+
+No additional amounts are authorized to carry out this Act       or the amendments made by this Act.
+
+Mr. WILLIAMS of Texas. Madam Speaker, I yield myself such time as I  may consume.
+
+Madam Speaker, I rise in support of H.R. 5784, the Artificial  Intelligence Wisdom for Innovative Small Enterprises Act, the AI-WISE  Act. This bipartisan bill is led by Representatives Scholten and  Downing.
+
+Artificial intelligence is changing how businesses operate in real  time. While large corporations can afford expensive consultants and  trial-and-error experimentation, many small businesses do not have the  luxury to do that. For a small business owner like myself, every dollar  matters. The AI-WISE Act helps bridge that gap.
+
+This bill directs the SBA to provide clear, accessible, and practical  guidance that helps small business owners understand artificial  intelligence in straightforward terms. It focuses on helping  entrepreneurs evaluate whether an artificial intelligence tool is  useful for their specific business, where it may fall short, and  whether it is truly worth the cost before they spend their money to get  that.
+
+Importantly, this bill does all of this without authorizing any new  spending. It builds on existing programs, avoids picking winners and  losers, and keeps the Federal Government focused on providing  information, not mandates.
+
+I urge my colleagues to support this commonsense, bipartisan  legislation and to vote ``yes'' on H.R. 5784.
+
+Mr. WILLIAMS of Texas. Madam Speaker, I yield such time as he may  consume to the gentleman from Montana (Mr. Downing).
+
+Mr. WILLIAMS of Texas. Madam Speaker, we cannot leave Main Street  behind in the adoption of AI. I urge my colleagues to vote ``yes'' on  this legislation, and I yield back the balance of my time.

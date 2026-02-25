@@ -97,7 +97,7 @@ def main():
     party_lookup = build_party_lookup()
     texts_df = get_all_texts(party_lookup)
 
-    tf_vectorizer = CountVectorizer(max_df=0.8, min_df=20,
+    tf_vectorizer = CountVectorizer(max_df=0.8, min_df=2,
                                     ngram_range=(1, 3),
                                     binary=False,
                                     stop_words='english')
@@ -134,6 +134,11 @@ def main():
     phrases_df['n_rep'] = total_rep_tfs
     phrases_df['ngram_size'] = phrases_df['phrase'].apply(lambda x: len(x.split()))
 
+    # Filter to phrases with 20+ total occurrences (raw count, not doc frequency).
+    # Using min_df=2 in the vectorizer keeps vocabulary manageable while allowing
+    # words used many times by a few legislators to pass this threshold.
+    phrases_df = phrases_df[phrases_df['total_occurrences'] >= 20].reset_index(drop=True)
+
     # Existing CSV output
     phrases_df.sort_values(by='total_occurrences', ascending=False).to_csv(
         'output/all_phrases.csv', index=False)
@@ -161,12 +166,8 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, te
     os.makedirs('docs/data/history', exist_ok=True)
     os.makedirs('docs/data/quotes', exist_ok=True)
 
-    # Select top phrases: 600 left + 600 right + 600 overall, deduplicated
-    top_left = phrases_df.sort_values('bias_score', ascending=True).head(600)
-    top_right = phrases_df.sort_values('bias_score', ascending=False).head(600)
-    top_overall = phrases_df.sort_values('total_occurrences', ascending=False).head(600)
-
-    combined = pd.concat([top_left, top_right, top_overall]).drop_duplicates(subset=['phrase'])
+    # Include all vocabulary phrases
+    combined = phrases_df.copy()
 
     # Add rank columns
     left_ranked = phrases_df.sort_values('bias_score', ascending=True).reset_index(drop=True)
@@ -250,32 +251,42 @@ def compute_weekly_history(target_df, texts_df, feature_names, term_frequencies)
             json.dump(history, f)
 
 
+def _extract_window(text, match_start, match_end, max_len=350):
+    """Return a ~max_len excerpt centered on the match, trimmed to word boundaries."""
+    center = (match_start + match_end) // 2
+    half = max_len // 2
+    start = max(0, center - half)
+    end = min(len(text), center + half)
+    while start > 0 and not text[start - 1].isspace():
+        start -= 1
+    while end < len(text) and not text[end].isspace():
+        end += 1
+    excerpt = text[start:end].strip()
+    if not excerpt:
+        return None
+    if start > 0:
+        excerpt = '\u2026' + excerpt
+    if end < len(text):
+        excerpt = excerpt + '\u2026'
+    return excerpt
+
+
 def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vectorizer):
     feature_to_idx = {name: i for i, name in enumerate(feature_names)}
-    # Build a word-level tokenizer that mirrors the vectorizer's preprocessing
-    # pipeline WITHOUT producing n-grams (unlike build_analyzer()).
-    # This lets us match stop-word-skipped n-grams like "secretary state"
-    # (from "Secretary of State") via a token subsequence check.
-    preprocessor = tf_vectorizer.build_preprocessor()
-    tokenizer = tf_vectorizer.build_tokenizer()
-    stop_words = tf_vectorizer.get_stop_words() or set()
-
-    def word_tokens(text):
-        """Tokenize text to individual words, stop words removed."""
-        return [t for t in tokenizer(preprocessor(text)) if t not in stop_words]
 
     for _, row in progressbar(list(target_df.iterrows())):
         slug = row['slug']
         phrase = row['phrase']
         idx = feature_to_idx.get(phrase)
-        phrase_words = phrase.split()   # e.g. ["skills", "work", "ethic"]
-        n = len(phrase_words)
+        phrase_words = phrase.split()
 
-        # Regex that handles punctuation between phrase words.
-        # e.g. "skills, work ethic" matches phrase "skills work ethic".
-        # \W+ matches one or more non-word chars (spaces, commas, etc.)
-        punct_pattern = re.compile(
-            r'\b' + r'\W+'.join(re.escape(w) for w in phrase_words) + r'\b',
+        # One flexible regex replaces the previous sentence-splitting + multi-pass
+        # approach. Allows 0-3 non-phrase words between each phrase token, which
+        # handles stop-word gaps ("Secretary of State" → "secretary state"),
+        # punctuation ("skills, work ethic"), and abbreviations that break naive
+        # sentence splitting ("Mr. Speaker, I rise" → "mr speaker rise").
+        flex_pattern = re.compile(
+            r'\b' + r'(?:\W+\w+){0,3}\W+'.join(re.escape(w) for w in phrase_words) + r'\b',
             re.IGNORECASE
         )
 
@@ -297,36 +308,18 @@ def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vect
 
         quotes = []
         for _, m in selected.iterrows():
-            sentences = re.split(r'(?<=[.!?])\s+', m.text)
-            matching_sentence = None
-            for sentence in sentences:
-                # Fast path 1: exact substring match
-                if phrase.lower() in sentence.lower():
-                    matching_sentence = sentence
-                    break
-                # Fast path 2: punctuation-gap regex
-                # Catches "skills, work ethic" for phrase "skills work ethic"
-                if punct_pattern.search(sentence):
-                    matching_sentence = sentence
-                    break
-                # Slow path: word-token subsequence for stop-word gaps.
-                # Catches "secretary state" inside "Secretary of State".
-                if n > 1:
-                    sent_tokens = word_tokens(sentence)
-                    for i in range(len(sent_tokens) - n + 1):
-                        if sent_tokens[i:i + n] == phrase_words:
-                            matching_sentence = sentence
-                            break
-                if matching_sentence:
-                    break
-
-            if matching_sentence and len(matching_sentence) < 500:
+            match = flex_pattern.search(m.text)
+            if not match:
+                continue
+            excerpt = _extract_window(m.text, match.start(), match.end())
+            if excerpt:
+                url = m['source_url']
                 quotes.append({
                     'senator': m.person,
                     'party': m.party,
-                    'sentence': matching_sentence.strip(),
-                    'title': m.title,
-                    'date': m.date,
+                    'sentence': excerpt,
+                    'date': m['date'] if pd.notna(m['date']) else None,
+                    'source_url': url if pd.notna(url) else None,
                 })
             if len(quotes) >= 30:
                 break
@@ -383,11 +376,18 @@ def get_all_texts(party_lookup):
             if not fname.endswith('.txt'):
                 continue
             with open(fpath, 'r') as f:
-                title_and_speech = f.read().split('\n\n\n')
-                if len(title_and_speech) < 2:
+                parts = f.read().split('\n\n\n')
+                if len(parts) < 2:
                     continue
-                title = title_and_speech[0]
-                speech = title_and_speech[1]
+                title = parts[0]
+                # New format: title \n\n\n url \n\n\n speech
+                # Old format: title \n\n\n speech  (no URL section)
+                if len(parts) >= 3 and parts[1].strip().startswith('http'):
+                    source_url = parts[1].strip()
+                    speech = parts[2]
+                else:
+                    source_url = None
+                    speech = parts[1]
             if title.split()[0] == 'Tweet':
                 n_tweets += 1
                 continue
@@ -411,6 +411,7 @@ def get_all_texts(party_lookup):
                 'person': person_name,
                 'title': title,
                 'text': speech,
+                'source_url': source_url,
                 'date': date_str,
                 'week': week,
             }

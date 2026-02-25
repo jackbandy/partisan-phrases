@@ -1,10 +1,10 @@
 (function () {
   "use strict";
 
-  const PAGE_SIZE = 300;
   let allPhrases = [];
   let senators = {};
-  let displayedCount = 0;
+  let displayedPhrases = [];
+  let shownSlugs = new Set();
   let simulation = null;
   let currentChart = null;
   let currentQuotes = [];
@@ -43,8 +43,15 @@
     return weekMid.toLocaleString("en-US", { month: "short", year: "numeric" });
   }
 
-  // Aggregate weekly data into monthly totals → even x-axis spacing
+  // Aggregate weekly data into monthly totals, filling in missing months with 0.
+  // Returns { months, hasGaps } where hasGaps is true if any months were filled.
   function aggregateByMonth(filtered) {
+    const MONTH_NAMES = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    function parseLabel(label) {
+      const [mon, yr] = label.split(" ");
+      return new Date(parseInt(yr, 10), MONTH_NAMES.indexOf(mon), 1);
+    }
+
     const map = new Map();
     for (const h of filtered) {
       const label = weekToMonthLabel(h.week);
@@ -54,7 +61,21 @@
       m.rep += h.rep;
       m.total += h.total;
     }
-    return Array.from(map, ([label, vals]) => ({ label, ...vals }));
+
+    const dates = Array.from(map.keys()).map(parseLabel);
+    const minDate = new Date(Math.min(...dates));
+    const maxDate = new Date(Math.max(...dates));
+
+    const months = [];
+    let hasGaps = false;
+    const d = new Date(minDate.getFullYear(), minDate.getMonth(), 1);
+    while (d <= maxDate) {
+      const label = d.toLocaleString("en-US", { month: "short", year: "numeric" });
+      if (!map.has(label)) hasGaps = true;
+      months.push({ label, ...(map.get(label) || { dem: 0, rep: 0, total: 0 }) });
+      d.setMonth(d.getMonth() + 1);
+    }
+    return { months, hasGaps };
   }
 
   // ── Phrase highlighting in quotes ─────────────────────────────────────────────
@@ -89,17 +110,14 @@
     ]);
     allPhrases = await phrasesRes.json();
     const senatorsList = await senatorsRes.json();
-    senatorsList.forEach((s) => (senators[s.full_name] = s));
+    senatorsList.forEach((s) => {
+      senators[s.full_name] = s;
+      (s.alt_names || []).forEach((n) => { if (!senators[n]) senators[n] = s; });
+    });
 
     // ngram_size computed client-side — no JSON rebuild needed
     allPhrases.forEach((p) => {
       p.ngram_size = p.phrase.split(" ").length;
-    });
-
-    allPhrases.sort((a, b) => {
-      const aRank = Math.min(a.rank_left, a.rank_right, a.rank_overall);
-      const bRank = Math.min(b.rank_left, b.rank_right, b.rank_overall);
-      return aRank - bRank;
     });
 
     showMore();
@@ -110,7 +128,9 @@
     document.getElementById("btn-more-quotes").addEventListener("click", sampleMoreQuotes);
 
     document.getElementById("search-input").addEventListener("input", () => {
-      renderBubbles(getFilteredPhrases());
+      const filtered = getFilteredPhrases();
+      renderBubbles(filtered);
+      renderSearchResults(filtered);
     });
 
     document.querySelectorAll(".ngram-btn").forEach((btn) => {
@@ -118,44 +138,102 @@
         document.querySelectorAll(".ngram-btn").forEach((b) => b.classList.remove("active"));
         btn.classList.add("active");
         ngramFilter = parseInt(btn.dataset.ngram, 10);
-        renderBubbles(getFilteredPhrases());
+        // Reset bucket display for the new filter
+        displayedPhrases = [];
+        shownSlugs = new Set();
+        document.getElementById("btn-show-more").style.display = "";
+        showMore();
+        renderSearchResults(getFilteredPhrases());
       });
     });
   }
 
-  // Search and ngram filter operate over ALL phrases (not just currently paged ones)
-  // so the search box is never limited to what's visible.
+  // Pick n random phrases from each of the three bias buckets, excluding already-shown ones.
+  // Respects the current ngramFilter so "1-word" only samples from 1-word phrases.
+  function sampleBuckets(n) {
+    const pool = ngramFilter > 0
+      ? allPhrases.filter((p) => p.ngram_size === ngramFilter)
+      : allPhrases;
+    const left = pool.filter((p) => p.bias_score <= -0.1 && !shownSlugs.has(p.slug));
+    const right = pool.filter((p) => p.bias_score >= 0.1 && !shownSlugs.has(p.slug));
+    const neutral = pool.filter((p) => p.bias_score > -0.1 && p.bias_score < 0.1 && !shownSlugs.has(p.slug));
+    function pick(arr, k) { return [...arr].sort(() => Math.random() - 0.5).slice(0, k); }
+    return [...pick(left, n), ...pick(right, n), ...pick(neutral, n)];
+  }
+
+  // When search is active, filter across ALL phrases so nothing is hidden.
+  // Otherwise show only the current bucket-sampled set (displayedPhrases).
   function getFilteredPhrases() {
     const term = document.getElementById("search-input").value.toLowerCase().trim();
-    const filtering = term.length > 0 || ngramFilter > 0;
-    let result = filtering ? allPhrases : allPhrases.slice(0, displayedCount);
+    let result = term ? allPhrases : displayedPhrases;
     if (ngramFilter > 0) result = result.filter((p) => p.ngram_size === ngramFilter);
     if (term) result = result.filter((p) => p.phrase.toLowerCase().includes(term));
     return result;
   }
 
   function showMore() {
-    const next = allPhrases.slice(displayedCount, displayedCount + PAGE_SIZE);
-    if (next.length === 0) return;
-    displayedCount += next.length;
+    const newPhrases = sampleBuckets(50);
+    if (newPhrases.length === 0) {
+      document.getElementById("btn-show-more").style.display = "none";
+      return;
+    }
+    newPhrases.forEach((p) => shownSlugs.add(p.slug));
+    displayedPhrases = [...displayedPhrases, ...newPhrases];
 
+    const poolTotal = ngramFilter > 0
+      ? allPhrases.filter((p) => p.ngram_size === ngramFilter).length
+      : allPhrases.length;
     document.getElementById("phrase-count").textContent =
-      `Showing ${displayedCount} of ${allPhrases.length} phrases`;
+      `Showing ${displayedPhrases.length} of ${poolTotal} phrases`;
 
-    if (displayedCount >= allPhrases.length) {
+    if (shownSlugs.size >= poolTotal) {
       document.getElementById("btn-show-more").style.display = "none";
     }
 
     renderBubbles(getFilteredPhrases());
   }
 
+  // ── Search results list ───────────────────────────────────────────────────────
+  function renderSearchResults(phrases) {
+    const el = document.getElementById("search-results");
+    const term = document.getElementById("search-input").value.trim();
+    if (!term) { el.classList.add("hidden"); return; }
+
+    el.classList.remove("hidden");
+    el.innerHTML = "";
+
+    if (phrases.length === 0) {
+      el.innerHTML = '<div class="search-result-more">No matching phrases.</div>';
+      return;
+    }
+
+    const LIMIT = 30;
+    phrases.slice(0, LIMIT).forEach((p) => {
+      const row = document.createElement("div");
+      row.className = "search-result-item";
+      row.innerHTML = `
+        <span class="search-result-dot" style="background:${phraseColor(p.bias_score)}"></span>
+        <span class="search-result-phrase">${escapeHtml(p.phrase)}</span>
+        <span class="search-result-count">${p.total_occurrences.toLocaleString()}</span>
+      `;
+      row.addEventListener("click", () => openPanel(p));
+      el.appendChild(row);
+    });
+
+    if (phrases.length > LIMIT) {
+      const more = document.createElement("div");
+      more.className = "search-result-more";
+      more.textContent = `+${phrases.length - LIMIT} more — refine your search`;
+      el.appendChild(more);
+    }
+  }
+
   // ── Bubble rendering ──────────────────────────────────────────────────────────
   function renderBubbles(phrases) {
     const container = document.getElementById("bubble-container");
     const width = container.clientWidth;
-    const height = Math.max(700, width * 0.75);
 
-    const svg = d3.select("#bubble-svg").attr("width", width).attr("height", height);
+    const svg = d3.select("#bubble-svg").attr("width", width).attr("height", PHRASE_RY * 2 + 10);
     svg.selectAll("*").remove();
 
     const nodes = phrases.map((p) => {
@@ -166,7 +244,7 @@
         ry: PHRASE_RY,
         r: Math.sqrt(rx * PHRASE_RY) + 2,
         x: width / 2 + p.bias_score * (width * 0.4),
-        y: height / 2,
+        y: PHRASE_RY + 10,
       };
     });
 
@@ -174,7 +252,7 @@
 
     simulation = d3.forceSimulation(nodes)
       .force("x", d3.forceX((d) => width / 2 + d.bias_score * (width * 0.4)).strength(0.3))
-      .force("y", d3.forceY(height / 2).strength(0.05))
+      .force("y", d3.forceY(PHRASE_RY + 10).strength(0.07))
       .force("collide", d3.forceCollide((d) => d.r).iterations(3))
       .on("tick", ticked);
 
@@ -193,7 +271,13 @@
     groups.append("text").text((d) => d.phrase);
 
     function ticked() {
+      nodes.forEach((d) => {
+        d.x = Math.max(d.rx, Math.min(width - d.rx, d.x));
+        d.y = Math.max(d.ry, d.y);
+      });
       groups.attr("transform", (d) => `translate(${d.x},${d.y})`);
+      const maxY = d3.max(nodes, (d) => d.y + d.ry);
+      if (maxY) svg.attr("height", maxY + 10);
     }
   }
 
@@ -269,8 +353,9 @@
       if (filtered.length === 0) { canvas.style.display = "none"; return; }
       canvas.style.display = "block";
 
-      // Aggregate to monthly totals → one point per month → perfectly even spacing
-      const monthly = aggregateByMonth(filtered);
+      const { months: monthly, hasGaps } = aggregateByMonth(filtered);
+      const note = document.getElementById("panel-chart-note");
+      if (note) note.textContent = hasGaps ? "Some months had no recorded mentions and are shown as 0." : "";
 
       currentChart = new Chart(canvas, {
         type: "line",
@@ -342,43 +427,30 @@
     shuffled.slice(0, 10).forEach((q) => renderQuoteCard(q, container));
   }
 
-  function votesmartUrl(q) {
-    const senator = senators[q.senator];
-    if (!senator || !q.title) return null;
-    const state = senator.state;
-    // Use the first segment of the title (before the first comma) as the search query
-    const query = encodeURIComponent(q.title.split(",")[0].trim());
-    let url = `https://justfacts.votesmart.org/public-statements/${state}/C/?search=${query}`;
-    if (q.date) {
-      // q.date is YYYY-MM-DD; VoteSmart expects MM/DD/YYYY
-      const [y, m, d] = q.date.split("-");
-      const vsDate = `${m}/${d}/${y}`;
-      url += `&start=${vsDate}&end=${vsDate}`;
-    }
-    return url;
-  }
-
   function renderQuoteCard(q, container) {
     const card = document.createElement("div");
     card.className = `quote-card ${q.party === "Democrat" ? "dem" : "rep"}`;
 
     const senator = senators[q.senator];
     const headshotHtml = senator
-      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" onerror="this.parentElement.style.display='none'"></div>`
+      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" onerror="this.src='${senator.fallback_headshot_url}';this.onerror=function(){this.parentElement.style.display='none'}"></div>`
       : "";
 
     const highlighted = currentPhrase
       ? highlightPhrase(q.sentence, currentPhrase.phrase)
       : escapeHtml(q.sentence);
 
-    const sourceUrl = votesmartUrl(q);
-    const sourceLinkHtml = sourceUrl
-      ? `<a href="${sourceUrl}" target="_blank" rel="noopener" class="source-link">↗ source</a>`
+    const dateHtml = q.date
+      ? `<span class="quote-date">${new Date(q.date + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}</span>`
+      : "";
+    const sourceLinkHtml = q.source_url
+      ? `<a href="${q.source_url}" target="_blank" rel="noopener" class="source-link">↗ source</a>`
       : "";
 
     card.innerHTML = `
       <div class="quote-senator">${headshotHtml}<span class="senator-name">${escapeHtml(q.senator)} (${q.party === "Democrat" ? "D" : "R"})</span>${sourceLinkHtml}</div>
       <div class="quote-text">&ldquo;${highlighted}&rdquo;</div>
+      ${dateHtml ? `<div class="quote-meta">${dateHtml}</div>` : ""}
     `;
     container.appendChild(card);
   }
@@ -392,7 +464,7 @@
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimeout);
     resizeTimeout = setTimeout(() => {
-      if (displayedCount > 0) renderBubbles(getFilteredPhrases());
+      if (displayedPhrases.length > 0) renderBubbles(getFilteredPhrases());
     }, 250);
   });
 

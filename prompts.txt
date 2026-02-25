@@ -1,3 +1,10 @@
+
+More refinements:
+* the search results bar should only be the width of the search bar, maybe stretching to the right if need be.
+* lets' include all phrases that occurred 10 or more times. This will result in more than 1800 phrases.
+* instead of the top 300 phrases, let's just show 50 random ones from each of the three "buckets" (left, right, neutral). The button can say "show 150 more random phrases" instead of "show next 300"
+* let all the bubbles float toward the top, without blocking other bubbles. Keep them all in the viewport so that all the phrases are readable.
+
 More refinements:
 * The ovals are too pointy now. Reduce the width and increase the height to make them more bubble-like.
 * The month labels on the x-axis are unevenly spaced. Make them even and non-overlapping.
