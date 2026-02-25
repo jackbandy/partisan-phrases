@@ -1,0 +1,87 @@
+Ntia Policy and Cybersecurity Coordination Act
+
+
+https://justfacts.votesmart.org/public-statement/1693497/ntia-policy-and-cybersecurity-coordination-act
+
+
+Mr. LATTA. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 1766) to amend the National Telecommunications and Information  Administration Organization Act to establish the Office of Policy  Development and Cybersecurity, and for other purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 1766
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``NTIA Policy and       Cybersecurity Coordination Act''.       SEC. 2. POLICY DEVELOPMENT AND CYBERSECURITY.
+
+(a) Office of Policy Development and Cybersecurity.--Part A       of the National Telecommunications and Information       Administration Organization Act (47 U.S.C. 901 et seq.) is       amended by adding at the end the following:       ``SEC. 106. OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY.
+
+``(a) Establishment.--There shall be within the NTIA an       office to be known as the Office of Policy Development and       Cybersecurity (in this section referred to as the `Office').
+
+``(b) Associate Administrator.--The head of the Office       shall be an Associate Administrator for Policy Development       and Cybersecurity (in this section referred to as the       `Associate Administrator'), who shall report to the Assistant       Secretary.
+
+``(c) Duties.--
+
+``(1) In general.--The Associate Administrator shall       oversee and conduct national communications and information       policy analysis and development for the internet and       communications technologies.
+
+``(2) Particular duties.--In carrying out paragraph (1),       the Associate Administrator shall--
+
+``(A) develop, analyze, and advocate for market-based       policies that promote innovation, competition, consumer       access, digital inclusion, workforce development, and       economic growth in the communications, media, and technology       markets;
+
+``(B) conduct studies, as delegated by the Assistant       Secretary or required by Congress, on how individuals in the       United States access and use the internet, wireline and       wireless telephony, mass media, other digital services, and       video services;
+
+``(C) coordinate transparent, consensus-based,       multistakeholder processes to create guidance for and to       support the development and implementation of cybersecurity       and privacy policies with respect to the internet and other       communications networks;
+
+``(D) promote increased collaboration between security       researchers and providers of communications services and       software system developers;
+
+``(E) perform such duties as the Assistant Secretary       considers appropriate relating to the program for preventing       future vulnerabilities established under section 8(a) of the       Secure and Trusted Communications Networks Act of 2019 (47       U.S.C. 1607(a));
+
+``(F) advocate for policies that promote the security and       resilience to cybersecurity incidents of communications       networks while fostering innovation, including policies that       promote secure communications network supply chains;
+
+``(G) at the direction of the Assistant Secretary, present       security of the digital economy and infrastructure and       cybersecurity policy efforts before the Commission, Congress,       and elsewhere;
+
+``(H) provide advice and assistance to the Assistant       Secretary in carrying out the policy responsibilities of the       NTIA with respect to cybersecurity policy matters, including       the evaluation of the impact of cybersecurity matters pending       before the Commission, other Federal agencies, and Congress;
+
+``(I) in addition to the duties described in subparagraph       (H), perform such other duties regarding the policy       responsibilities of the NTIA with respect to cybersecurity       policy matters as the Assistant Secretary considers       appropriate;
+
+``(J) develop policies to accelerate innovation and       commercialization with respect to advances in technological       understanding of communications technologies;
+
+``(K) identify barriers to trust, security, innovation, and       commercialization with respect to communications       technologies, including access to capital and other       resources, and ways to overcome such barriers;
+
+``(L) provide public access to relevant data, research, and       technical assistance on innovation and commercialization with       respect to communications technologies, consistent with the       protection of classified information;
+
+``(M) strengthen collaboration on and coordination of       policies relating to innovation and commercialization with       respect to communications technologies, including policies       focused on the needs of small businesses and rural       communities--
+
+``(i) within the Department of Commerce;
+
+``(ii) between the Department of Commerce and State       government agencies, as appropriate; and
+
+``(iii) between the Department of Commerce and the       Commission or any other Federal agency the Assistant       Secretary determines to be necessary; and
+
+``(N) solicit and consider feedback from small and rural       communications service providers, as appropriate.''.
+
+(b) Transitional Rules.--
+
+(1) Redesignation of associate administrator; continuation       of service.--
+
+(A) Redesignation.--The position of Associate Administrator       for Policy Analysis and Development at the NTIA is hereby       redesignated as the position of Associate Administrator for       Policy Development and Cybersecurity.
+
+(B) Continuation of service.--The individual serving as       Associate Administrator for Policy Analysis and Development       at the NTIA on the date of the enactment of this Act shall       become, as of such date, the Associate Administrator for       Policy Development and Cybersecurity.
+
+(2) NTIA defined.--In this subsection, the term ``NTIA''       means the National Telecommunications and Information       Administration.
+
+Mr. Speaker, I rise in support of H.R. 1766, the NTIA Policy and  Cybersecurity Coordination Act, led by the gentleman from California's  23rd District and the gentlewoman from Virginia's Fourth District.
+
+Cyber threats, whether originating from state actors, criminal  organizations, or malicious hackers, pose significant risks to our  national security, economy, and the privacy of our citizens.
+
+The increasing frequency and sophistication of cyberattacks, like we  saw last year in the Salt Typhoon attack, underscores the urgency of  addressing this ever-evolving challenge.
+
+The NTIA Policy and Cybersecurity Coordination Act bolsters our  Nation's cybersecurity posture by strengthening the coordination  between the National Telecommunications and Information Administration,  NTIA, and other relevant Federal agencies. Additionally, the bill  renames the existing NTIA Office of Policy Analysis and Development to  the Office of Policy Development and Cybersecurity and codifies the  existing activities of the office.
+
+H.R. 1766 seeks to promote effective information sharing,  collaboration, and response efforts established in the Secure and  Trusted Communications Networks Act. The legislation also facilitates  public-private partnerships to develop and implement cybersecurity  policies relating to communication networks.
+
+By encouraging collaboration between government agencies and  stakeholders, we can work together to address cyber threats and  vulnerabilities more effectively.
+
+Mr. Speaker, this bipartisan legislation passed the House of  Representatives by a voice vote in the last Congress. I urge my  colleagues to support H.R.
+
+Mr. LATTA. Mr. Speaker, as you can see from today's bills coming from  the Energy and Commerce Committee, cybersecurity is high on our list to  make sure we are protecting the American public. I strongly ask my  colleagues to support this legislation of the gentleman from  California's 23rd and the gentlewoman from Virginia's 4th District. I  request an ``aye'' vote on this legislation.

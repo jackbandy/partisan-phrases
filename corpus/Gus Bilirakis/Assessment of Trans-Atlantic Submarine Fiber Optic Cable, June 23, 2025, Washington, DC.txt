@@ -1,0 +1,59 @@
+Assessment of Trans-Atlantic Submarine Fiber Optic Cable
+
+
+https://justfacts.votesmart.org/public-statement/1692701/assessment-of-trans-atlantic-submarine-fiber-optic-cable
+
+
+Mr. BILIRAKIS. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 1737) to direct the Secretary of Commerce to submit to  Congress a report containing an assessment of the value, cost, and  feasibility of a trans-Atlantic submarine fiber optic cable connecting  the contiguous United States, the United States Virgin Islands, Ghana,  and Nigeria.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 1737
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. ASSESSMENT OF TRANS-ATLANTIC SUBMARINE FIBER OPTIC                     CABLE.
+
+(a) Report.--Not later than 1 year after the date of the       enactment of this Act, the Secretary, in consultation with       the heads of other Federal departments and agencies as       necessary, shall submit to the Committee on Energy and       Commerce of the House of Representatives and the Committee on       Commerce, Science, and Transportation of the Senate a report       containing an assessment of the value, cost, and feasibility       of a trans-Atlantic submarine fiber optic cable connecting       the contiguous United States, the United States Virgin       Islands, Ghana, and Nigeria, to enhance the national security       of the United States.
+
+(b) Elements.--The report required by subsection (a) shall       include an assessment of--
+
+(1) the digital security, national security, and economic       opportunities associated with a trans-Atlantic submarine       fiber optic cable described in subsection (a);
+
+(2) the lifespan of submarine fiber optic cables currently       connecting the United States Virgin Islands to the contiguous       United States;
+
+(3) the current security of telecommunications between the       contiguous United States and the United States Virgin       Islands;
+
+(4) the readiness of telecommunications infrastructure in       the United States Virgin Islands to support a trans-Atlantic       submarine fiber optic cable described in subsection (a);
+
+(5) the potential for engagement with trusted entities in       the deployment of a trans-Atlantic submarine fiber optic       cable described in subsection (a), and the associated       geopolitical and economic advantages;
+
+(6) the potential connectivity opportunities to maximize       investments in the United States economy through the use of a       trans-Atlantic submarine fiber optic cable described in       subsection (a);
+
+(7) the value, cost, and feasibility of establishing a data       center and high-security cloud services facility, with       independent power generation, in the United States Virgin       Islands for communications of the United States Africa       Command, communications of the United States Special       Operations Command, and national security communications;
+
+(8) the state of submarine fiber optic cables connected to       United States telecommunications infrastructure; and
+
+(9) any other related matters the Secretary determines are       appropriate.
+
+(c) No Mandatory Data Collection.--The Secretary may not       require any entity to provide data for purposes of preparing       the report required by subsection (a).
+
+(d) Form.--The report required by subsection (a) shall be       submitted in unclassified form without any designation       relating to dissemination control, but may include a       classified annex.
+
+(e) Definitions.--In this section:
+
+(1) Not trusted.--The term ``not trusted'' means, with       respect to an entity, that the entity is determined by the       Secretary to pose an unacceptable risk to the national       security of the United States, or the security and safety of       United States persons, based solely on one or more       determination described under paragraphs (1) through (4) of       section 2(c) of the Secure and Trusted Communications       Networks Act of 2019 (47 U.S.C. 1601(c)).
+
+(2) Secretary.--The term ``Secretary'' means the Secretary       of Commerce, acting through the Assistant Secretary of       Commerce for Communications and Information.
+
+(3) Trusted.--The term ``trusted'' means, with respect to       an entity, that the Secretary has not determined that the       entity is not trusted.
+
+Mr. Speaker, I rise today on behalf of H.R. 1737. I am advocating for  this particular bill. The bill would direct the Secretary of Commerce  to submit a report on the value, cost, and feasibility of developing a  transatlantic submarine cable connecting the United States, the U.S.  Virgin Islands, Ghana, and Nigeria.
+
+Submarine cables are critical components of communications  infrastructure, carrying data traffic across oceans. There are more  than 600 active and planned submarine cable systems that keep the world  connected, but there is no cable connecting the United States to the  continent of Africa.
+
+Mr. Speaker, a transatlantic submarine cable could provide national  security benefits to the United States, given Africa's strategic  importance, and it is an important issue to study, in my opinion.
+
+I thank Delegate Plaskett and Representative Fulcher for their  leadership on this particular bill, and I urge my colleagues to join me  in voting in favor of H.R. 1737.
+
+Mr. BILIRAKIS. Mr. Speaker, I am prepared to close, and I reserve the  balance of my time.
+
+Mr. BILIRAKIS. Mr. Speaker, I commend the gentlewoman from the Virgin  Islands (Ms. Plaskett) for offering this very important bill, and I  encourage a ``yes'' vote on this particular bill.

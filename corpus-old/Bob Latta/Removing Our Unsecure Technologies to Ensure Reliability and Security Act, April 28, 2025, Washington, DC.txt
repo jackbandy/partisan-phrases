@@ -1,0 +1,22 @@
+Removing Our Unsecure Technologies to Ensure Reliability and Security Act
+
+
+Mr. LATTA. Mr. Speaker, I thank my good friend, the chair of the  subcommittee, for yielding.
+
+I rise today in support of my legislation, H.R. 866, the ROUTERS Act.
+
+Routers and modems play a key role in communications networks. They  are the entry point through which the public accesses the internet.  Thus, we make sure that they are secure.
+
+Bad actors can exploit vulnerabilities in routers to infect users'  computers, access their information, or disrupt their network.
+
+National security agencies, including the Director of National  Intelligence, the Department of Justice, and the Department of Homeland  Security, have reported on the threat posed by vulnerabilities in  routers and how some Chinese Communist Party-sponsored hackers have  used these vulnerabilities to launch attacks. We should take these  reports seriously.
+
+Further, we know that companies with ties to the CCP could be forced  to support Chinese intelligence activities. We can imagine how they  could use vulnerabilities in their equipment to aid these efforts.
+
+That is why I am pleased to sponsor the ROUTERS Act, which would  direct the Secretary of Commerce through the Assistant Secretary for  Communications and Information to study the national security risk  posed by routers and modems produced by companies with ties to foreign  adversaries. This study will help Congress understand the scope and  risk of this threat and will inform whether we need to remove this  equipment from our networks.
+
+The legislation builds on our bipartisan efforts to remove untrusted  equipment from our communications ecosystem. In the past 5 years, we  passed the Secure and Trusted Communications Networks Act to remove  Huawei and ZTE equipment from our networks and the Secure Equipment  Act, which prohibits the Federal Communications Commission from  authorizing equipment from untrusted vendors.
+
+It is imperative we move forward with these efforts to mitigate the  widespread availability of this equipment.
+
+Mr. Speaker, I urge my colleagues to support H.R. 866, and I yield  back the balance of my time.

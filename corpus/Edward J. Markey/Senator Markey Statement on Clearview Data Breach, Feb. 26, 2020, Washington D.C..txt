@@ -1,8 +1,0 @@
-Senator Markey Statement on Clearview Data Breach
-
-
-Senator Edward J. Markey (D-Mass.), who recently queried Clearview AI about the company's facial recognition app, released the following statement after the company reported its entire client list was stolen after it was hacked. Previous reporting revealed that Clearview's app allows users to capture and upload photos of strangers, analyze the photographed individuals' biometric information, and provide users with existing images and personal information of the photographed individuals online, potentially eliminating anonymity in the United States. 
-
- 
-
-"Clearview's statement that security is its "top priority' would be laughable if the company's failure to safeguard its information wasn't so disturbing and threatening to the public's privacy," said Senator Markey, a member of the Commerce, Science and Transportation. "If your password gets breached, you can change your password. If your credit card number gets breached, you can cancel your card. But you can't change biometric information like your facial characteristics if a company like Clearview fails to keep that data secure. This is a company whose entire business model relies on collecting incredibly sensitive and personal information, and this breach is yet another sign that the potential benefits of Clearview's technology do not outweigh the grave privacy risks it poses."

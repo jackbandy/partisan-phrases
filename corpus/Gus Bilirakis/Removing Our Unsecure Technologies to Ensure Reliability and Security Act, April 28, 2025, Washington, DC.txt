@@ -1,0 +1,39 @@
+Removing Our Unsecure Technologies to Ensure Reliability and Security Act
+
+
+https://justfacts.votesmart.org/public-statement/1690158/removing-our-unsecure-technologies-to-ensure-reliability-and-security-act
+
+
+Mr. BILIRAKIS. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 866) to direct the Secretary of Commerce, acting through the  Assistant Secretary of Commerce for Communications and Information, to  conduct a study of the national security risks posed by consumer  routers, modems, and devices that combine a modem and router, and for  other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                  H.R. 866
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Removing Our Unsecure       Technologies to Ensure Reliability and Security Act'' or the       ``ROUTERS Act''.       SEC. 2. STUDY OF RISKS POSED BY CERTAIN ROUTERS AND MODEMS.
+
+(a) In General.--The Secretary shall conduct a study of the       national security risks and cybersecurity vulnerabilities       posed by consumer routers, modems, and devices that combine a       modem and router that are designed, developed, manufactured,       or supplied by persons owned by, controlled by, or subject to       the influence of a covered country.
+
+(b) Report to Congress.--Not later than 1 year after the       date of the enactment of this Act, the Secretary shall submit       to the Committee on Energy and Commerce of the House of       Representatives and the Committee on Commerce, Science, and       Transportation of the Senate a report on the results of the       study conducted under subsection (a).
+
+(c) Consultation Within Department.--In conducting the       study under subsection (a), the Secretary shall consult with       appropriate bureaus and offices within the Department of       Commerce.
+
+(d) Definitions.--In this section:
+
+(1) Covered country.--The term ``covered country'' means a       country specified in section 4872(f)(2) of title 10, United       States Code.
+
+(2) Secretary.--The term ``Secretary'' means the Secretary       of Commerce, acting through the Assistant Secretary of       Commerce for Communications and Information.
+
+Mr. BILIRAKIS.
+
+Mr. Speaker, I rise in support of H.R. 866, the ROUTERS Act, led by  Chairman Latta, my good friend.
+
+Nearly everyone in America has a router or a modem in their home, but  these devices can have security vulnerabilities that can be exploited  by our adversaries, unfortunately.
+
+The ROUTERS Act would direct the Department of Commerce to study the  national security risks and cybersecurity vulnerabilities posed by  routers and modems produced by companies with ties to foreign  adversaries. This study will help Congress understand the security of  these devices.
+
+This legislation passed by voice vote last Congress, and I urge my  colleagues to support it once again.
+
+Mr. BILIRAKIS. Mr. Speaker, in closing, I urge a ``yes'' vote on this  particular vote, and I yield back the balance of my time.

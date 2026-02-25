@@ -1,0 +1,49 @@
+Protecting Information By Local Leaders for Agency Resilience Act
+
+
+https://justfacts.votesmart.org/public-statement/1696789/protecting-information-by-local-leaders-for-agency-resilience-act
+
+
+Mr. OGLES. Madam Speaker, I thank the gentleman for yielding.
+
+Madam Speaker, I rise today in support of my bill, H.R. 5078, the  Protecting Information by Local Leaders for Agency Resilience Act,  known as the PILLAR Act.
+
+This legislation is about strengthening the first line of defense in  our Nation's cybersecurity. While we often focus on Federal networks  and high-profile national systems, the reality is that many of the  services Americans depend on every single day are run by State and  local governments.
+
+When a resident pays a utility bill online, when a police department  dispatches an officer, or when a hospital connects to a county network,  all of those activities rely on State and local systems that are now  squarely in the sights of foreign adversaries and criminal groups.
+
+As a former county executive in Tennessee, I saw firsthand how  limited budgets, aging systems, and staffing constraints can leave  local governments struggling to keep up with modern cyber threats.
+
+Many smaller jurisdictions only operate with a handful of IT staff  and, in some cases, with none at all. Yet, they are expected to defend  against the same nation-state actors that target major corporations and  Federal agencies. That is not a fair fight, and it is not a sustainable  model for national security.
+
+The State and Local Cybersecurity Grant Program at the Department of  Homeland Security was created to help close that gap by providing  targeted assistance to those States, territories, and local governments  so that they can assess the risk, modernize outdated systems, and build  real cyber resilience.
+
+The PILLAR Act reauthorizes and strengthens this program so that it  reflects the threat environment we face today and the technological  landscape that State and local partners are actually operating in.
+
+This bill makes several important updates. It ensures that the  program covers not only traditional information technology systems but  also operational technology and systems that incorporate artificial  intelligence. That means that we are recognizing the reality that cyber  risk now extends to everything from industrial control systems at water  treatment plants to connected devices at public safety networks to AI- enabled tools used by local agencies.
+
+The bill encourages the adoption of basic but powerful best  practices, such as multifactor authentication and stronger identity and  access management tools across State and local networks.
+
+It promotes continuous vulnerability assessment and monitoring so  that jurisdictions can detect and mitigate threats before those threats  turn into major incidents. It also emphasizes the importance of good  cyber hygiene, modern configuration management, and alignment with  frameworks developed by CISA and the National Institute of Standards  and Technology.
+
+Importantly, the PILLAR Act recognizes that not all communities start  from the same place. It directs outreach and support to rural areas and  jurisdictions with small populations, which are often the least  resourced but still operate critical services.
+
+It encourages partnerships with academic and nonprofit organizations,  including cybersecurity clinics and other technical assistance  providers that can help these communities develop and implement their  cyber plans. This bill also guards against the use of Federal grant  dollars on technology that introduces additional risk.
+
+It prohibits the use of funds to purchase software or hardware from  foreign entities of concern when those products do not align with CISA  guidance, and it directs grantees to follow secure-by-design  recommendations so that public money is not spent on tools that  undermine security.
+
+We also provide more predictability around cost share requirements so  that States and local governments can plan over the long term.
+
+The legislation maintains a strong Federal commitment while  encouraging jurisdictions to invest in sustaining the improvements they  make.
+
+For those that implement multifactor authentication and related  protections by a certain date, the bill provides additional flexibility  in the Federal cost share to reward that proactive work.
+
+This is a bipartisan bill. I am proud to have worked closely with  Chairman Garbarino and Representatives Swalwell and Evans on this  critical legislation, and appreciate the support it has received from  Members on both sides of the aisle.
+
+We share the same goal, which is to help our communities defend  themselves against increasingly sophisticated cyber threats and to  ensure continuity of essential services for the American people.
+
+Supporting the PILLAR Act is about more than technology. It is about  public trust. When a local government falls victim to ransomware and  emergency services are delayed, when a school district loses student  records, or when basic services are interrupted, citizens lose  confidence in those institutions.
+
+This bill helps prevent those outcomes by equipping State and local  leaders with the resources and tools they need to prepare.
+
+Madam Speaker, I urge my colleagues to support H.R. 5078 and to stand  with the State, local, Tribal, and territorial partners who are on the  front lines of our cyber defense every day.

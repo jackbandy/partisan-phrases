@@ -1,0 +1,89 @@
+Communications Security Act
+
+
+https://justfacts.votesmart.org/public-statement/1693435/communications-security-act
+
+
+Mr. LATTA. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 1717) to direct the Federal Communications Commission to  establish a council to make recommendations on ways to increase the  security, reliability, and interoperability of communications networks,  and for other purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 1717
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Communications Security       Act''.       SEC. 2. COUNCIL ON COMMUNICATIONS SECURITY, RELIABILITY, AND                     INTEROPERABILITY.
+
+(a) Establishment.--Not later than 90 days after the date       of the enactment of this Act, the Commission shall--
+
+(1) establish a council to advise the Commission on issues       including the security, reliability, and interoperability of       communications networks; or
+
+(2) designate for purposes of this section an advisory       committee of the Commission that is operating on the date of       the enactment of this Act under a charter for the purpose of       addressing the issues described in paragraph (1) and, if the       membership of such committee does not comply with subsection       (b), modify such membership to comply with such subsection.
+
+(b) Membership.--
+
+(1) Appointment.--The members of the council shall be       appointed by the Chair.
+
+(2) Composition.--To the extent practicable, the membership       of the council shall be composed of the following:
+
+(A) Representatives of companies in the communications       industry, except companies that are determined by the Chair       to be not trusted.
+
+(B) Representatives of public interest organizations or       academic institutions, except public interest organizations       or academic institutions that are determined by the Chair to       be not trusted.
+
+(C) Representatives of the Federal Government, State       governments, local governments, or Tribal Governments, with       at least one member representing each such type of       government.
+
+(3) Knowledge and experience.--Each member of the council       shall have knowledge and experience relevant to the purpose       and goals of the council.
+
+(4) Terms.--
+
+(A) In general.--Each member of the council shall be       appointed for a term of 2 years, except as provided in       subparagraph (B).
+
+(B) Vacancies.--Any member appointed to fill a vacancy       occurring before the expiration of the term for which the       member's predecessor was appointed shall be appointed only       for the remainder of that term. A member may serve after the       expiration of that member's term until a successor has taken       office.
+
+(c) Reports.--
+
+(1) In general.--Not later than 2 years after the date on       which the council is established or designated (as the case       may be) under subsection (a), and every 2 years thereafter,       the council shall submit to the Chair each report adopted by       the council during the preceding 2-year period, and any       report adopted by any working group of the council during       such period, including any such report of the council or a       working group containing recommendations on ways to increase       the security, reliability, and interoperability of       communications networks, and on other relevant issues as       appropriate.
+
+(2) Availability on commission website.--The Commission       shall make each report submitted under paragraph (1) publicly       available on the website of the Commission.
+
+(d) Duration.--Section 1013(a)(2) of title 5, United States       Code (relating to the termination of advisory committees)       shall not apply to the council.
+
+(e) Definitions.--In this section:
+
+(1) Chair.--The term ``Chair'' means the Chair of the       Commission.
+
+(2) Commission.--The term ``Commission'' means the Federal       Communications Commission.
+
+(3) Council.--The term ``council'' means the council       established under subsection (a)(1) or the advisory committee       designated under subsection (a)(2), as the case may be.
+
+(4) Not trusted.--
+
+(A) In general.--The term ``not trusted'' means, with       respect to an entity, that--
+
+(i) the Chair has made a public determination that such       entity is owned by, controlled       by, or subject to the influence of a foreign adversary; or
+
+(ii) the Chair otherwise determines that such entity poses       a threat to the national security of the United States.
+
+(B) Criteria for determination.--In making a determination       under subparagraph (A)(ii), the Chair shall use the criteria       described in paragraphs (1) through (4) of section 2(c) of       the Secure and Trusted Communications Networks Act of 2019       (47 U.S.C. 1601(c)), as appropriate.
+
+(5) State.--The term ``State'' has the meaning given such       term in section 3 of the Communications Act of 1934 (47       U.S.C. 153).
+
+Mr. Speaker, I rise in support of H.R. 1717, the Communications  Security Act, led by the gentleman from Pennsylvania's 13th District  and the gentleman from New Jersey's Eighth District.
+
+The bill strengthens the cybersecurity of critical telecommunications  infrastructure by permanently establishing a Federal Communications  Commission advisory council to increase the security, reliability, and  interoperability of communication networks.
+
+The FCC established the Communications Security, Reliability, and  Interoperability Council, or CSRIC, to provide recommendations to the  Commission regarding best practices and actions the Commission can take  to ensure optimal security, reliability, and operability of commercial  and public safety communications.
+
+A hallmark of the body has been the collaboration between the  representatives of private industry, government, and other stakeholders  in a forum that facilitates information sharing and the advancement of  important issues.
+
+Last fall, we saw one of the most significant attacks on our Nation's  communications networks in the Salt Typhoon, which is publicly reported  to have been carried out by Communist China.
+
+Against that backdrop, it is critical that we continue efforts to  strengthen existing government partnerships with the communications  technology industry. This legislation would accomplish that goal by  making CSRIC a permanent advisory council to the FCC.
+
+Mr. LATTA. Mr. Speaker, I have no further speakers, and I am prepared  to close.
+
+Mr. LATTA. Mr. Speaker, I also urge support of this legislation  because, as I have said, we have been working on many of these areas in  the Energy and Commerce Committee. Again, I would ask for a ``yea''  vote on the legislation, and I yield back the balance of my time.
+
+Mr. LATTA. Mr. Speaker, on that I demand the yeas and nays.
+
+The yeas and nays were ordered.

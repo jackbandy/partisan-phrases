@@ -1,0 +1,93 @@
+Digital Asset Market Clarity Act of 2025
+
+
+https://justfacts.votesmart.org/public-statement/1693775/digital-asset-market-clarity-act-of-2025
+
+
+Mr. HILL of Arkansas. Mr. Speaker, pursuant to House Resolution 580,  I call up the bill (H.R. 3633) to provide for a system of regulation of  the offer and sale of digital commodities by the Securities and  Exchange Commission and the Commodity Futures Trading Commission, and  for other purposes, and ask for its immediate consideration in the  House.
+
+The Clerk read the title of the bill.
+
+I rise in strong support this morning of the CLARITY Act. We have  been here before, Mr. Speaker. Just last year, we passed landmark  legislation, FIT21, with an overwhelming bipartisan majority to apply  strong Federal standards to digital asset markets.
+
+For more than 5 years, our committee has heard from dozens and dozens  of experts, held numerous roundtables and hearings with market  participants of all sizes in all segments of the market to learn more  about the emerging digital asset ecosystem.
+
+We learned about the value proposition and relevant risks associated  with digital assets and the use of blockchain technology. We have heard  time and time again from market participants and regulators about the  need for clear regulatory guardrails.
+
+We have talked about the need to fill those regulatory gaps that have  left millions participating in crypto markets vulnerable. In fact, Mr.  Speaker, both President Biden in his Executive Order 14067, and  President Trump in his Executive Order 14178, identified those market  regulatory gaps, asking Congress to act to fill those gaps.
+
+In 2022, we certainly witnessed consumer harm when the Financial  Services Committee heard unprecedented testimony from an expert called  in to clean up the failed digital asset crypto firm FTX and the mess it  left behind. In his words, never had he seen such an utter failure in  corporate controls.
+
+In its wake, then-Chairwoman Waters wisely stated: ``We need  legislative action to ensure that digital assets entities cannot  operate in the shadows outside of robust Federal oversight and clear  rules of the road.''
+
+If we needed actions then, we certainly need it now. We risk history  repeating itself, and that is why we gather today on the House floor.
+
+After years of bipartisan work and numerous iterations, this bill  would apply rigorous rules to digital asset firms, prohibiting  commingling of customer funds, and requiring capital recordkeeping and  conflict of interest mitigation standards.
+
+Importantly, the bill recognizes that decentralized finance, or DeFi,  developers do not take custody of user assets nor do they control user  assets. Therefore, we should not treat them in the same way that we  treat centralized actors who do have custody and who do have control  over assets.
+
+It is important to note that in an Agriculture Committee hearing, the  former general counsel of FTX USA himself testified: Had we the  regulatory structure provided for in CLARITY applied to FTX, its  story--and he goes on to say--would almost certainly have had a much  different ending.
+
+Let's ensure that we learn from the past, Mr. Speaker, the digital  asset ecosystem is evolving at a remarkable pace, enabling real-time  settlement of peer-to-peer transactions, initiating a renaissance in  applied cryptography and laying the groundwork for the next generation  of the internet.
+
+The United States has long had the most innovative financial and  technology sectors and the deepest and most liquid capital markets, but  while other jurisdictions are building frameworks for the future of  finance to be on-chain and digitally native, our great country, with  those great characteristics, is lagging.
+
+For too long our digital asset regime has been the worst of both  worlds: regulation by enforcement, which has pushed good actors to  leave the United States, and the regulatory gaps that I talked about  identified in both President Biden and President Trump's executive  orders that have left consumers unprotected from the bad actors.
+
+Now, today, we have an opportunity to reverse course and reestablish  the United States as the global hub for digital innovation. To do so,  we must close the regulatory gaps with commonsense rules.
+
+Mr. Speaker, the CLARITY Act does just that by leveraging the  expertise of our two market regulators, the Securities and Exchange  Commission and the Commodity Futures Trading Commission, to ensure  wraparound oversight of digital asset markets, from initial sales,  raising capital, to daily trading, it provides clarity for banks  engaging in this ecosystem.
+
+As we said in the last Congress, Mr. Speaker, these rules need to be  fit for purpose for the digital ecosystem. All of us on this House  floor know that the status quo is simply unacceptable. We all know  American consumers and innovators deserve this clarity. They deserve  better. They deserve rules of the road.
+
+The choice before us is whether to lead in the financial markets of  the future or watch the next FTX fail while we are left saying once  again: Well, we have been here before.
+
+Mr. Speaker, I urge all my colleagues to join me on both sides of the  aisle and support the CLARITY Act. Let's fill these regulatory gaps  with the proper Federal oversight. Let's create a competitive digital  ecosystem. I support this bill, and I urge my colleagues to.
+
+Mr. HILL of Arkansas. Mr. Speaker, I include in the Record the CBO  estimate for this bill.
+
+ESTIMATED BUDGETARY EFFECTS OF H.R. 3633, THE CLARITY ACT OF 2025, AS POSTED ON THE WEBSITE OF THE HOUSE COMMITTEE ON RULES ON JULY 2, 2025 --------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                 By fiscal year, millions of dollars--                                            -------------------------------------------------------------------------------------------------------------                                              2025-   2026    2027    2028    2029    2030    2031    2032    2033    2034    2035   2025-2030  2025-2035 --------------------------------------------------------------------------------------------------------------------------------------------------------                                                               INCREASES IN DIRECT SPENDING   Estimated Budget Authority................       *       2       2       1       1       1       1       1       1       1       1         7         12 Estimated Outlays.........................       *       1       2       1       1       1       1       1       1       1       1         6         11                                                            INCREASES OR DECREASES (-) IN REVENUES   Estimated Revenues........................       *       *       *       *       1      -4       *       *       *       *      14        -3         11                                   NET INCREASE OR DECREASE (-) IN THE DEFICIT FROM CHANGES IN DIRECT SPENDING AND REVENUES   Effect on the Deficit.....................       *       1       2       1       *       5       1       1       1       1     -13         9          0 --------------------------------------------------------------------------------------------------------------------------------------------------------  AA*= between -$500,000 and $500,000. CBO has not completed an estimate of the effects of the bill on spending subject to appropriation.
+
+Basis of estimate: For this estimate, CBO assumes that the       legislation will be enacted in summer 2025.
+
+Direct spending: The bill would require the Commodity       Futures Trading Commission (CFTC) to share information that       it collects from digital commodity exchanges with the Federal       Deposit Insurance Corporation (FDIC), the Financial Stability       Oversight Council (FSOC), the National Credit Union       Administration (NCUA), and the Office of the Comptroller of       the Currency (OCC), upon request. The bill also would require       those agencies to regulate additional entities that are       subject to federal anti-money-laundering rules and to issue       regulations that set capital requirements for agreements that       combine multiple financial transactions.
+
+The expenditures of the FDIC, FSOC, NCUA, and OCC are       classified in the budget as direct spending. Both the NCUA       and the OCC collect fees from financial institutions to       offset their operating costs; those fees are recorded in the       budget as offsetting receipts (that is, as reductions in       direct spending). After accounting for fees collected by the       NCUA and OCC, CBO estimates that, on net, enacting H.R. 3633       would increase direct spending for those four agencies by $11       million over the 2025-2035 period.
+
+Revenues: H.R. 3633 would require the CFTC to share       information with the Federal Reserve upon request. The bill       also would direct the Federal Reserve to regulate additional       entities that are subject to federal anti-money-laundering       regulations and to issue rules for the capital requirements       described above. CBO estimates that those activities would       cost the Federal Reserve $7 million over the 2025-2035       period. Costs incurred by the Federal Reserve reduce       remittances, which are recorded in the budget as revenues.       Changes in costs for the Federal Reserve banks have       historically resulted in changes to remittances during the       same year. However, since fiscal year 2023, the central bank       has recorded a deferred asset to account for accrued net       losses from expenses in excess of income. As a result,       remittances largely have been suspended. In CBO's       projections, remittances from the Federal Reserve will       generally be suspended until 2030, and until they resume,       most changes in costs incurred by the system will not be       recorded as changes in remittances.
+
+The FSOC is authorized to assess fees on bank holding       companies and nonbank financial institutions; those fees are       recorded in the budget as revenues. CBO estimates that under       the bill the FSOC would collect $3 million in additional fees       over the 2025-2035 period to cover operating costs.
+
+Finally, section 315 would reduce the size of the Federal       Reserve's surplus fund. CBO estimates that enacting that       provision would increase remittances to the Treasury by $15       million in 2035.
+
+CBO estimates that enacting H.R. 3633 would increase       revenues by $11 million, on net, over the 2025-2035 period.
+
+Spending subject to appropriation: In addition to effects       on direct spending and revenues as noted in the table, the       bill also contains provisions that would affect spending       subject to appropriation. CBO has not estimated those       effects.
+
+Uncertainty: CBO did not estimate any budgetary effects       arising from changes to the banking system or financial       markets as a result of enacting H.R. 3633. Depending on their       individual design and extent of adoption, virtual currencies       could enhance the efficiency of the system, cause disruption,       or reduce bank deposits. Those effects are uncertain and,       given their potential range, CBO cannot currently estimate       their direction or magnitude.
+
+Increase in long-term net direct spending and deficits: CBO       estimates that enacting H.R. 3633 would not increase net       direct spending by more than $2.5 billion in any of the four       consecutive 10-year periods beginning in 2036.
+
+CBO estimates that enacting H.R. 3633 would not increase       on-budget deficits by more than $5 billion in any of the four       consecutive 10-year periods beginning in 2036.
+
+Mandates: H.R. 3633 would impose private-sector and       intergovernmental mandates as defined in the Unfunded       Mandates Reform Act (UMRA). CBO estimates that the cost of       the mandates would exceed the private- sector threshold but       fall below the intergovernmental threshold established in       UMRA ($206 million and $103 million in 2025, respectively,       adjusted annually for inflation).
+
+Private-Sector mandates: The bill would impose regulatory       requirements on some entities involved in digital commodities       and assets, such as large multinational businesses with       market capitalizations in the hundreds of billions of dollars       and with millions of U.S. consumers. Using publicly available       information and information from industry sources, CBO       estimates that the aggregate cost of the mandate would       greatly exceed the private-sector threshold established in       UMRA.
+
+In addition, if federal financial regulators increase fees       to offset the costs associated       with implementing the bill, H.R. 3633 would increase the cost       of an existing mandate on private entities required to pay       those assessments. CBO estimates that the annual cost of the       mandate would be in the millions of dollars.
+
+Intergovernmental mandates: The bill would expand existing       preemptions of state laws governing the registration of       digital assets as securities. Although it would limit the       application of state laws, H.R. 3633 would impose no duty on       states that would result in additional spending or loss of       revenue.                                                 Phillip L. Swagel,                             Director, Congressional Budget Office.
+
+Mr. Speaker, the gentleman is an essential leader in our committee  and also the chairman of our Subcommittee on Digital Assets, Financial  Technology, and Artificial Intelligence.
+
+Mr. HILL of Arkansas.
+
+Mr. HILL of Arkansas. Mr. Speaker, may I inquire as to the time  remaining.
+
+We are here today, Mr. Speaker, because of the exceptional work by  the House Financial Services Committee over a 5-year period, including  under the leadership of then-Chairwoman Maxine Waters and former  Chairman Patrick McHenry, gathering feedback from experts, looking at  market participants, analyzing the markets, and talking to regulators.  That is how we got the CLARITY Act on the floor today. It is built on  the backs of that hard work.
+
+This Chamber passed a similar bill in the last Congress with  exceedingly strong, bipartisan support. Since then, the CLARITY Act has  only been further refined and strengthened in terms of legal certainty  and consumer protection.
+
+This bill, Mr. Speaker, as we have demonstrated over that period of  time, would prevent consumer harm like FTX.
+
+Mr. Speaker, I support the bill. I urge my colleagues to support the  bill, and I yield back the balance of my time.

@@ -1,0 +1,81 @@
+Arms Sales Notification
+
+
+https://justfacts.votesmart.org/public-statement/1691198/arms-sales-notification
+
+
+Mr. RISCH. Mr. President, section 36(b) of the Arms Export Control  Act requires that Congress receive prior notification of certain  proposed arms sales as defined by that statute. Upon such notification,  the Congress has 30 calendar days during which the sale may be  reviewed. The provision stipulates that, in the Senate, the  notification of proposed sales shall be sent to the chairman of the  Senate Foreign Relations Committee.
+
+In keeping with the committee's intention to see that relevant  information is still available to the full Senate, I ask unanimous  consent to have printed in the Record the notifications that have been  received. If the cover letter references a classified annex, then such  an annex is available to all Senators in the office of the Foreign  Relations Committee, room SD-423.
+
+Hon. James E. Risch,      Chairman, Committee on Foreign Relations,      U.S. Senate, Washington, DC.
+
+Dear Mr. Chairman: Pursuant to the reporting requirements       of Section 36(b)(1) of the Arms Export Control Act, as       amended, we are forwarding herewith Transmittal No. 25-23,       concerning the Army's proposed Letter(s) of Offer and       Acceptance to the Government of the Czech Republic for       defense services estimated to cost $181 million. We will       issue a news release to notify the public of this proposed       sale upon delivery of this letter to your office.            Sincerely,                                                 Michael F. Miller,                                                          Director.
+
+Enclosures.                            Transmittal No. 25-23       Notice of Proposed Issuance of Letter of Offer Pursuant to           Section 36(b)(1) of the Arms Export Control Act, as           amended
+
+(i) Prospective Purchaser: Government of the Czech       Republic.
+
+(ii) Total Estimated Value:
+
+Major Defense Equipment * $0.
+
+Other $181 million.
+
+Total $181 million.
+
+Funding Source: National Funds
+
+(iii) Description and Quantity or Quantities of Articles or       Services under Consideration for Purchase:
+
+Major Defense Equipment (MDE):
+
+None
+
+Non-Major Defense Equipment: The following non-MDE items       will be included: AN/PYQ-10A(C) simple key loaders; AN/PRC-      160, AN/PRC-163, and AN/PRC-167 radios; RF-300M-DL(C) small       secure data links and support equipment; spare parts; U.S.       Government and contractor technical engineering, logistics,       and personnel services; and other related elements of       logistics and program support.
+
+(iv) Military Department: Army (EZ-B-UEZ).
+
+(v) Prior Related Cases, if any: None.
+
+(vi) Sales Commission, Fee, etc., Paid, Offered, or Agreed       to be Paid: None known at this time.
+
+(vii) Sensitivity of Technology Contained in the Defense       Article or Defense Services Proposed to be Sold: See Attached       Annex.
+
+(viii) Date Report Delivered to Congress: May 5, 2025.
+
+* As defined in Section 47(6) of the Arms Export Control       Act.                             POLICY JUSTIFICATION                  Czech Republic--Communications Equipment
+
+The Government of the Czech Republic has requested to buy       AN/PYQ-10A(C) simple key loaders; AN/PRC-160, AN/PRC-163, and       AN/PRC-167 radios; RF-300M-DL(C) small secure data links and       support equipment; spare       parts; U.S. Government and contractor technical engineering,       logistics, and personnel services; and other related elements       of logistics and program support. The estimated total program       cost is $181 million.
+
+This proposed sale will support the foreign policy goals       and national security objectives of the United States by       improving the security of a NATO Ally that is a force for       political stability and economic progress in Europe.
+
+The proposed sale will support the ongoing transformation       of the Czech Armed Forces into a modern military that is       properly trained, well equipped, and interoperable with U.S.       and other NATO forces. The procurement would facilitate U.S.       security goals by improving the Czech Republic's ability to       contribute to NATO efforts to secure the eastern flank of the       Alliance and deter aggression in the region. It would also       enhance the capabilities the Czech Republic could provide to       NATO and coalition expeditionary operations.
+
+The proposed sale of this equipment and support will not       alter the basic military balance in the region.
+
+The principal contractor will be L3Harris Global       Communications, Inc., located in Rochester, NY. At this time,       the U.S. Government is not aware of any offset agreement       proposed in connection with this potential sale. Any offset       agreement will be defined in negotiations between the       purchaser and the contractor.
+
+Implementation of this proposed sale will not require the       assignment of any additional U.S. Government or contractor       representatives to the Czech Republic.
+
+There will be no adverse impact on U.S. defense readiness       as a result of this proposed sale.                            Transmittal No. 25-23       Notice of Proposed Issuance of Letter of Offer Pursuant to           Section 36(b)(1) of the Arms Export Control Act                             Annex Item No. vii
+
+(vii) Sensitivity of Technology:
+
+1. The AN/PYQ-10A(C) simple key loader's (SKL) latest       production version is called the SKL V3.1 and offers improved       fill port ruggedization, an enhanced brightness/contrast LCD,       and a touchscreen interface that supports both finger and       stylus input. The AN/PYQ-10A(C) V3.1 SKL provides a secure       means of distribution and storage of COMSEC material, mission       data, and configuration files and continues to be compatible       with a multitude of cryptographic systems.
+
+2. The Falcon III AN/PRC-160(V) is the smallest, lightest,       fastest, Type 1-certified manpack radio available today.       Engineered for advanced security and performance, the       wideband high frequency very high frequency tactical radio       system features industry-leading encryption and breakthrough       data performance and interoperability.
+
+3. The AN/PRC-163 multi-channel handheld radio is a       versatile, secure solution that leverages crossbanding to       provide simultaneous data & voice across satellite       communications (SATCOM), line-of-sight, and mobile ad-hoc       networking (MANET) modes. As mission needs evolve, this       software-defined handheld supports fast, in-field updates to       new capabilities. An external mission module hardware       interface allows warfighters to quickly add options including       intelligence, surveillance, and reconnaissance (ISR) video       and SATCOM.
+
+4. The AN/PRC-167 harnesses the power of multiple tactical       devices converged into a single manpack. The radio provides       superior communications range extension, allowing for real-      time situational awareness updates. Engineered to meet multi-      domain challenges of any combination of ground, vehicular and       airborne missions, the manpack simultaneously and       independently runs a full frequency range of waveforms on       each of two channels. As mission needs evolve, this software-      defined manpack radio supports fast, in-field updates to new       capabilities.
+
+5. The RF300M-DL(C) small secure data link (SSDL) is a       single-channel, easily embedded tactical radio with a reduced       size, weight, and power (SWaP) engineered to meet challenging       requirements in a variety of platforms, including ground       vehicles, helicopters, and Unmanned Aerial Vehicles (UAVs).       The SSDL provides multiband, multi-mode networking       capabilities, ideal for warfighters on the tactical edge,       allowing them to switch networks and waveforms on-the-move       for real-time battle intelligence.
+
+6. The highest level of classification of defense articles,       components, and services included in this potential sale is       SECRET.
+
+7. If a technologically advanced adversary were to obtain       knowledge of the specific hardware and software elements, the       information could be used to develop countermeasures that       might reduce system effectiveness or be used in the       development of a system with similar or advanced       capabilities.
+
+8. A determination has been made that the Czech Republic       can provide substantially the same degree of protection for       the sensitive technology being released as the U.S.       Government. This sale is necessary in furtherance of the U.S.       foreign policy and national security objectives outlined in       the Policy Justification.
+
+9. All defense articles and services listed in this       transmittal have been authorized for release and export to       the Government of Czech Republic.                                   ____

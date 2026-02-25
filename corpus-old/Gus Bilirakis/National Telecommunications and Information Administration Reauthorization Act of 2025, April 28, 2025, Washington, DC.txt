@@ -1,0 +1,348 @@
+National Telecommunications and Information Administration Reauthorization Act of 2025
+
+
+Mr. BILIRAKIS. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 2482) to reauthorize the National Telecommunications and  Information Administration, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 2482
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+(a) Short Title.--This Act may be cited as the ``National       Telecommunications and Information Administration       Reauthorization Act of 2025'' or the ``NTIA Reauthorization       Act of 2025''.
+
+(b) Table of Contents.--The table of contents for this Act       is as follows:  Sec. 1. Short title; table of contents. Sec. 2. Definitions.                          TITLE I--REAUTHORIZATION  Sec. 101. Reauthorization of the National Telecommunications and                Information Administration Organization Act. Sec. 102. NTIA Consolidated Reporting Act.                  TITLE II--OFFICE OF SPECTRUM MANAGEMENT  Sec. 201. Office of Spectrum Management.                 TITLE III--OFFICE OF INTERNATIONAL AFFAIRS  Sec. 301. Office of International Affairs.       SEC. 2. DEFINITIONS.
+
+In this Act:
+
+(1) Commission.--The term ``Commission'' means the Federal       Communications Commission.
+
+(2) NTIA.--The term ``NTIA'' means the National       Telecommunications and Information Administration.
+
+(3) Under secretary.--The term ``Under Secretary'' means       the Under Secretary of Commerce for Communications and       Information.                          TITLE I--REAUTHORIZATION       SEC. 101. REAUTHORIZATION OF THE NATIONAL TELECOMMUNICATIONS                     AND INFORMATION ADMINISTRATION ORGANIZATION                     ACT.
+
+(a) Authorization of Appropriations.--Section 151 of the       National Telecommunications and Information Administration       Organization Act is amended by striking ``$17,600,000 for       fiscal year 1992 and $17,900,000 for fiscal year 1993'' and       inserting ``$57,000,000 for fiscal year 2025 and $57,000,000       for fiscal year 2026''.
+
+(b) Under Secretary of Commerce for Communications and       Information.--
+
+(1) Under secretary; deputy under secretary.--
+
+(A) Under secretary.--The National Telecommunications and       Information Administration Organization Act (47 U.S.C. 901 et       seq) is amended by striking ``Assistant Secretary'' each       place it appears and inserting ``Under Secretary''.
+
+(B) Deputy under secretary.--Section 103(a) of the National       Telecommunications and Information Administration       Organization Act (47 U.S.C. 902(a)) is amended by adding at       the end the following:
+
+``(3) Deputy under secretary.--The Deputy Under Secretary       of Commerce for Communications and Information shall--
+
+``(A) be the principal policy advisor of the Under       Secretary;
+
+``(B) perform such other functions as the Under Secretary       shall from time to time assign or delegate; and
+
+``(C) act as Under Secretary during the absence or       disability of the Under Secretary or in the event of a       vacancy in the office of the Under Secretary.''.
+
+(2) Continuation of civil actions.--This subsection, and       the amendments made by this subsection, shall not abate any       civil action commenced by or against the Assistant Secretary       of Commerce for Communications and Information before the       date of the enactment of this Act, except that the Under       Secretary shall be substituted as a party to the action on       and after such date.
+
+(3) Continuation in office.--The individual serving as the       Assistant Secretary of Commerce for Communications and       Information and the individual serving as the Deputy       Assistant Secretary of Commerce for Communications and       Information on the day before the date of the enactment of       this Act may serve as the Under Secretary and the Deputy       Under Secretary of Commerce for Communications and       Information, respectively, on and after that date without the       need for renomination or reappointment.
+
+(4) References.--Any reference in a law, regulation,       document, paper, or other record of the United States to the       Assistant Secretary of Commerce for Communications and       Information shall, on and after the date of the enactment of       this Act, be deemed to be a reference to the Under Secretary.
+
+(5) Executive schedule.--
+
+(A) In general.--Subchapter II of chapter 53 of title 5,       United States Code, is amended--
+
+(i) in section 5314, by adding at the end the following:
+
+``Under Secretary of Commerce for Communications and       Information.''; and
+
+(ii) in section 5315, in the item relating to the Assistant       Secretaries of Commerce, by striking ``(11)'' and inserting       ``(10)''.
+
+(B) Effective date.--The amendment made by subparagraph (A)       (establishing the annual rate of the basic pay of the Under       Secretary) shall take effect on the first day of the first       pay period beginning after the date of the enactment of this       Act.
+
+(c) Authorities and Responsibilities.--
+
+(1) Coordination of executive branch views on matters       before the federal communications commission.--Section       105(a)(1) of the National Telecommunications and Information       Administration Organization Act (47 U.S.C. 904(a)(1)) is       amended--
+
+(A) by striking ``to ensure that the conduct'' and       inserting the following: ``to ensure that--
+
+``(A) the conduct'';
+
+(B) in subparagraph (A), as so designated, by striking the       period at the end and inserting ``; and''; and
+
+(C) by adding at the end the following:
+
+``(B) the views of the executive branch on matters       presented to the Commission are, consistent with section       103(b)(2)(J)--
+
+``(i) appropriately coordinated; and
+
+``(ii) reflective of executive branch policy.''.
+
+(2) Assigned functions.--Section 103(b)(2) of the National       Telecommunications and Information Administration       Organization Act (47 U.S.C. 902(b)(2)) is amended--
+
+(A) in the matter preceding subparagraph (A), by inserting       ``, some of which were'' before ``transferred to the       Secretary''; and
+
+(B) in subparagraph (M), by inserting ``, publish       reports,'' after ``studies''.
+
+(3) Rule of construction.--Nothing in the amendments made       by paragraphs (1) and (2) may be construed to expand or       contract the authority of the Commission.
+
+(d) Technical and Conforming Amendments.--
+
+(1) Public telecommunications financing act of 1978.--      Section 106(c) of the Public Telecommunications Financing Act       of 1978 (5 U.S.C. 5316 note; Public Law 95-567) is amended by       striking ``The position of Deputy Assistant Secretary of       Commerce for Communications and Information, established in       Department of Commerce Organization Order Numbered 10-10       (effective March 26, 1978),'' and inserting ``The position of       Deputy Under Secretary of Commerce for Communications and       Information, established under section 103(a) of the National       Telecommunications and Information Administration       Organization Act (47 U.S.C. 902(a)),''.
+
+(2) Communications act of 1934.--Section 344(d)(2) of the       Communications Act of 1934 (47 U.S.C. 344(d)(2)) is amended       by striking ``Assistant Secretary'' and inserting ``Under       Secretary''.
+
+(3) Homeland security act of 2002.--Section 1805(d)(2) of       the Homeland Security Act of 2002 (6 U.S.C. 575(d)(2)) is       amended by striking ``Assistant Secretary for Communications       and Information of the Department of Commerce'' and inserting       ``Under Secretary of Commerce for Communications and       Information''.
+
+(4) Agriculture improvement act of 2018.--Section 6212 of       the Agriculture Improvement Act of 2018 (7 U.S.C. 950bb-6) is       amended--
+
+(A) in subsection (d)(1), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';       and
+
+(B) by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''.
+
+(5) Title 17, united states code.--Section 1201(a)(1)(C) of       title 17, United States Code, is amended by striking       ``Assistant Secretary for Communications and Information of       the Department of Commerce'' and inserting ``Under Secretary       of Commerce for Communications and Information''.
+
+(6) Unlocking consumer choice and wireless competition       act.--Section 2(b) of the Unlocking Consumer Choice and       Wireless Competition Act (17 U.S.C. 1201 note; Public Law       113-144) is amended by striking ``Assistant Secretary for       Communications and Information of the Department of       Commerce'' and inserting ``Under Secretary of Commerce for       Communications and Information''.
+
+(7) Communications satellite act of 1962.--Section       625(a)(1) of the Communications Satellite Act of 1962 (47       U.S.C. 763d(a)(1)) is amended, in the matter preceding       subparagraph (A), by striking ``Assistant Secretary'' and       inserting ``Under Secretary of Commerce''.
+
+(8) Spectrum pipeline act of 2015.--The Spectrum Pipeline       Act of 2015 (47 U.S.C. 921 note; title X of Public Law 114-      74) is amended--
+
+(A) in section 1002(1), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';       and
+
+(B) by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''.
+
+(9) Warning, alert, and response network act.--Section 606       of the Warning, Alert, and Response Network Act (47 U.S.C.       1205) is amended--
+
+(A) by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''; and
+
+(B) in subsection (b), in the first sentence, by striking       ``for7Communications'' and inserting ``for Communications''.
+
+(10) American recovery and reinvestment act of 2009.--      Section 6001 of the American Recovery and Reinvestment Act of       2009 (47 U.S.C. 1305) is amended by striking ``Assistant       Secretary'' each place the term appears and inserting ``Under       Secretary''.
+
+(11) Middle class tax relief and job creation act of       2012.--Title VI of the Middle Class Tax Relief and Job       Creation Act of 2012 (47 U.S.C. 1401 et seq.) is amended--
+
+(A) in section 6001 (47 U.S.C. 1401)--
+
+(i) by striking paragraph (4);
+
+(ii) by redesignating paragraphs (5) through (32) as       paragraphs (4) through (31), respectively; and
+
+(iii) by inserting after paragraph (31), as so       redesignated, the following:
+
+``(32) Under secretary.--The term `Under Secretary' means       the Under Secretary of Commerce for Communications and       Information.''; and
+
+(B) by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''.
+
+(12) Ray baum's act of 2018.--The RAY BAUM'S Act of 2018       (division P of Public Law 115-141; 132 Stat. 348) is amended       by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''.
+
+(13) Secure and trusted communications networks act of       2019.--Section 8 of the Secure and Trusted Communications       Networks Act of 2019 (47 U.S.C. 1607) is amended--
+
+(A) in subsection (c)(1), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';       and
+
+(B) by striking ``Assistant Secretary'' each place the term       appears and inserting ``Under Secretary''.
+
+(14) Title 51, united states code.--Section 50112(3) of       title 51, United States Code, is amended, in the matter       preceding subparagraph (A), by striking ``Assistant       Secretary'' each place the term appears and inserting ``Under       Secretary''.
+
+(15) Consolidated appropriations act, 2021.--The       Consolidated Appropriations Act, 2021 (Public Law 116-260) is       amended--
+
+(A) in title IX of division N--
+
+(i) in section 902(a)(2), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';
+
+(ii) in section 905--
+
+(I) in subsection (a)(1), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';
+
+(II) in subsection (c)(3)(B), in the heading, by striking       ``assistant secretary'' and inserting ``under secretary'';       and
+
+(III) in subsection (d)(2)(B), in the heading, by striking       ``assistant secretary'' and inserting ``under secretary'';       and
+
+(iii) by striking ``Assistant Secretary'' each place the       term appears (except the place such term appears in section       905(a)(13)(E)) and inserting ``Under Secretary''; and
+
+(B) in title IX of division FF--
+
+(i) in section 903(g)(2), in the heading, by striking       ``Assistant secretary'' and inserting ``Under secretary'';       and
+
+(ii) by striking ``Assistant Secretary'' each place the       term appears and inserting ``Under Secretary''.
+
+(16) Infrastructure investment and jobs act.--The       Infrastructure Investment and Jobs Act (Public Law 117-58) is       amended--
+
+(A) in section 27003, by striking ``Assistant Secretary''       each place the term appears and inserting ``Under       Secretary'';
+
+(B) in division F--
+
+(i) in section 60102--
+
+(I) in subsection (a)(2)(A), by striking ``Assistant       secretary'' and inserting ``Under secretary'';
+
+(II) in subsection (d)(1), by striking ``Assistant       secretary'' and inserting ``Under secretary''; and
+
+(III) in subsection (h)--
+
+(aa) in paragraph (1)(B), by striking ``assistant       secretary'' and inserting ``under secretary''; and
+
+(bb) in paragraph (5)(B)(iii), by striking ``assistant       secretary'' and inserting ``under secretary'';
+
+(ii) in title III--
+
+(I) in section 60302(5), by striking ``Assistant       secretary'' and inserting ``Under secretary''; and
+
+(II) in section 60305(d)(2)(B)(ii), by striking ``assistant       secretary'' and inserting ``under secretary'';
+
+(iii) in section 60401(a)(2), by striking ``Assistant       secretary'' and inserting ``Under secretary''; and
+
+(iv) by striking ``Assistant Secretary'' each place the       term appears and inserting ``Under Secretary''; and
+
+(C) in division J, in title I, in the matter under the       heading ``distance learning, telemedicine, and broadband       program'' under the heading ``Rural Utilities Service'' under       the heading ``RURAL DEVELOPMENT PROGRAMS'', by striking       ``Assistant Secretary'' and inserting ``Under Secretary''.       SEC. 102. NTIA CONSOLIDATED REPORTING ACT.
+
+(a) Elimination of Certain Outdated or Completed Reporting       Requirements.--
+
+(1) BTOP quarterly report.--Section 6001(d) of the American       Recovery and Reinvestment Act of 2009 (47 U.S.C. 1305(d)) is       amended--
+
+(A) in paragraph (2), by striking the semicolon at the end       and inserting ``; and'';
+
+(B) in paragraph (3), by striking ``; and'' and inserting a       period; and
+
+(C) by striking paragraph (4).
+
+(2) Certain reports required by national telecommunications       and information administration organization act.--Sections       154, 155, and 156 of the National Telecommunications and       Information Administration Organization Act are repealed.
+
+(3) Initial report required by section 9202(a)(1)(G) of the       ndaa for fiscal year 2021.--Section 9202(a)(1)(G) of the       William M. (Mac) Thornberry National Defense Authorization       Act for Fiscal Year 2021 (47 U.S.C. 906(a)(1)(G)) is       amended--
+
+(A) in clause (ii), by redesignating subclauses (I), (II),       and (III) as clauses (i), (ii), and (iii), respectively, and       conforming the margins of such clauses accordingly; and
+
+(B) by striking ``Reports to congress'' and all that       follows through ``For each fiscal year'' and inserting       ``Annual report to congress.--For each fiscal year''.
+
+(4) Report to president.--Section 105(a) of the National       Telecommunications and Information Administration       Organization Act (47 U.S.C. 904(a)) is amended--
+
+(A) by striking paragraph (2); and
+
+(B) by redesignating paragraph (3) as paragraph (2).
+
+(5) Effect on authority.--Nothing in this subsection or the       amendments made by this subsection may be construed to expand       or contract the authority of the Secretary, the Under       Secretary, the NTIA, or the Commission.
+
+(6) Other reports.--Nothing in this subsection or the       amendments made by this subsection may be construed to       prohibit or otherwise prevent the Secretary, the Under       Secretary, the NTIA, or the Commission from producing any       additional reports otherwise within the authority of the       Secretary, the Under Secretary, the NTIA, or the Commission,       respectively.
+
+(b) Consolidated Annual Report.--
+
+(1) In general.--In the first quarter of each calendar       year, the Under Secretary shall publish on the website of the       NTIA and submit to the Committee on Energy and Commerce of       the House of Representatives and the Committee on Commerce,       Science, and Transportation of the Senate a report that       contains the reports described in paragraph (2) for the       fiscal year ending most recently before the beginning of such       quarter.
+
+(2) Reports described.--The reports described in this       paragraph are the following:
+
+(A) The report required by section 903(c)(2)(C) of division       FF of the Consolidated Appropriations Act, 2021 (47 U.S.C.       1307(c)(2)(C)).
+
+(B) If amounts in the Public Wireless Supply Chain       Innovation Fund established by section 9202(a)(1)(A)(i) of       the William M. (Mac) Thornberry National Defense       Authorization Act for Fiscal Year 2021 (47 U.S.C.       906(a)(1)(A)(i)) were available for the fiscal year described       in paragraph (1) of this subsection, the report required by       section 9202(a)(1)(G) of such Act (47 U.S.C. 906(a)(1)(G)).
+
+(C) If the Under Secretary awarded grants under section       60304(d)(1) of the Infrastructure Investment and Jobs Act (47       U.S.C. 1723(d)(1)) in the fiscal year described in paragraph       (1) of this subsection, the report required by section       60306(a)(1)(A) of such Act (47 U.S.C. 1725(a)(1)(A)).
+
+(3) Timing of underlying reporting requirements.--
+
+(A) Report of office of internet connectivity and growth.--      Section 903(c)(2)(C) of division FF of the Consolidated       Appropriations Act, 2021 (47 U.S.C. 1307(c)(2)(C)) is       amended--
+
+(i) in the matter preceding clause (i)--
+
+(I) by striking ``Not later than 1 year after the date of       the enactment of this Act, and every year thereafter,'' and       inserting ``In the first quarter of each calendar year,'';       and
+
+(II) by inserting ``, for the fiscal year ending most       recently before the beginning of such quarter,'' after ``a       report''; and
+
+(ii) in clause (i), by striking ``for the previous year''.
+
+(B) Report on digital equity grant programs.--Section       60306(a)(1) of the Infrastructure Investment and Jobs Act (47       U.S.C. 1725(a)(1)) is amended--
+
+(i) in the matter preceding subparagraph (A), by striking       ``Not later than 1 year'' and all that follows through       ``shall--'' and inserting the following: ``For the first       fiscal year in which the Under Secretary awards grants under       section 60304(d)(1), and each fiscal year thereafter in which       the Under Secretary awards grants under such section, the       Under Secretary shall--''; and
+
+(ii) in subparagraph (A)--
+
+(I) by inserting ``in the first quarter of the first       calendar year that begins after the end of such fiscal       year,'' before ``submit''; and
+
+(II) by striking ``, for the year covered by the report''.
+
+(4) Satisfaction of underlying reporting requirements.--
+
+(A) In general.--Except as provided in subparagraph (B),       the publication and submission of a report as required by       paragraph (1) in the first quarter of a calendar year shall       be treated as satisfying any requirement to publish or       otherwise make publicly available or to submit to Congress or       to a committee of Congress a report described in paragraph       (2) for the fiscal year ending most recently before the       beginning of such quarter.
+
+(B) Certain submission requirements.--At the time when the       Under Secretary submits a report required by paragraph (1) to       the committees described in such paragraph, the Under       Secretary shall submit any portion of such report that       relates to a report described in paragraph (2)(C) to each       committee of Congress not described in paragraph (1) to which       such report would (without regard to subparagraph (A) of this       paragraph) be required to be submitted.
+
+(5) Applicability.--Paragraph (1), and the amendments made       by paragraph (3), shall apply beginning on January 1 of the       first calendar year that begins after the date of the       enactment of this Act.
+
+(c) Extension of Certain Audit and Reporting       Requirements.--Section 902(c)(4)(A) of division N of the       Consolidated Appropriations Act, 2021 (47 U.S.C.       1306(c)(4)(A)) is amended by striking ``fiscal years 2021 and       2022'' and inserting ``fiscal years 2021, 2022, 2023, and       2024''.
+
+(d) Definition.--In this section, the term ``Secretary''       means the Secretary of Commerce.                  TITLE II--OFFICE OF SPECTRUM MANAGEMENT       SEC. 201. OFFICE OF SPECTRUM MANAGEMENT.
+
+Part A of the National Telecommunications and Information       Administration Organization Act (47 U.S.C. 901 et seq.) is       amended by adding at the end the following:       ``SEC. 106. OFFICE OF SPECTRUM MANAGEMENT.
+
+``(a) Establishment.--There is established within the NTIA       an Office of Spectrum Management (in this section referred to       as the `Office').
+
+``(b) Head of Office.--
+
+``(1) In general.--The head of the Office shall be an       Associate Administrator for Spectrum Management (in this       section referred to as the `Associate Administrator').
+
+``(2) Requirement to report.--The Associate Administrator       shall report to the Under Secretary (or a designee of the       Under Secretary).
+
+``(c) Duties.--The Associate Administrator shall, at the       direction of the Under Secretary--
+
+``(1) carry out responsibilities under section 103(b)(2)(A)       (relating to frequency assignments for radio stations       belonging to and operated by the United States), make       frequency allocations for frequencies that will be used by       such stations, and develop and maintain techniques,       databases, measurements, files, and procedures necessary for       such allocations;
+
+``(2) carry out responsibilities under section 103(b)(2)(K)       (relating to establishing policies concerning spectrum       assignments and use by radio stations belonging to and       operated by the United States) and provide Federal agencies       with guidance to ensure that the conduct of       telecommunications activities by such agencies is consistent       with such policies;
+
+``(3) represent the interests of Federal agencies in the       process through which the Commission and the NTIA jointly       determine the National Table of Frequency Allocations, and       coordinate with the Commission in the development of a       comprehensive long-range plan for improved management of all       electromagnetic spectrum resources;
+
+``(4) appoint the chairpersons of and provide secretariat       functions for the Interdepartmental Radio Advisory Committee;
+
+``(5) carry out responsibilities under section 103(b)(2)(B)       (relating to authorizing a foreign government to construct       and operate a radio station at the seat of Government of the       United States) and assign frequencies for use by such       stations;
+
+``(6) provide advice and assistance to the Under Secretary       and coordinate with the Associate Administrator for       International Affairs in carrying out spectrum management       aspects of the international policy responsibilities of the       NTIA, including spectrum-related responsibilities under       section 103(b)(2)(G);
+
+``(7) carry out spectrum-related responsibilities under       section 103(b)(2)(H) (relating to coordination of the       telecommunications activities of the executive branch and       assistance in the formulation of policies and standards for       such activities);
+
+``(8) carry out spectrum-related responsibilities under       section 103(b)(2)(Q) (relating to certain activities with       respect to telecommunications resources); and
+
+``(9) carry out any other duties of the NTIA with respect       to spectrum policy that the Under Secretary may designate.''.                 TITLE III--OFFICE OF INTERNATIONAL AFFAIRS       SEC. 301. OFFICE OF INTERNATIONAL AFFAIRS.
+
+Part A of the National Telecommunications and Information       Administration Organization Act (47 U.S.C. 901 et seq.), as       amended by the preceding provisions of this Act, is further       amended by adding at the end the following:       ``SEC. 107. OFFICE OF INTERNATIONAL AFFAIRS.
+
+``(a) Establishment.--There is established within the NTIA       an Office of International Affairs (in this section referred       to as the `Office').
+
+``(b) Head of Office.--
+
+``(1) In general.--The head of the Office shall be an       Associate Administrator for International Affairs (in this       section referred to as the `Associate Administrator').
+
+``(2) Requirement to report.--The Associate Administrator       shall report to the Under Secretary (or a designee of the       Under Secretary).
+
+``(c) Duties.--The Associate Administrator shall, at the       direction of the Under Secretary--
+
+``(1) in coordination with the Secretary of State, conduct       analysis of, review, and formulate international       telecommunications and information policy;
+
+``(2) present on international telecommunications and       information policy--
+
+``(A) before the Commission, Congress, and others; and
+
+``(B) in coordination with the Secretary of State, before       international telecommunications bodies, including the       International Telecommunication Union;
+
+``(3) conduct or obtain analysis on economic and other       aspects of international telecommunications and information       policy;
+
+``(4) formulate, and recommend to the Under Secretary,       polices and plans with respect to preparation for and       participation in international telecommunications and       information policy activities;
+
+``(5) in coordination with the Secretary of State,       coordinate NTIA and interdepartmental economic, technical,       operational, and other preparations related to participation       by the United States in international telecommunications and       information policy conferences and negotiations;
+
+``(6) ensure NTIA representation with respect to       international telecommunications and information policy       meetings and the activities related to preparation for such       meetings;
+
+``(7) in coordination with the Secretary of State,       coordinate with Federal agencies and private organizations       engaged in activities involving international       telecommunications and information policy matters and       maintain cognizance of the activities of United States       signatories with respect to related treaties, agreements, and       other instruments;
+
+``(8) provide advice and assistance related to       international telecommunications and information policy to       other Federal agencies charged with responsibility for       international negotiations, to strengthen the position and       serve the best interests of the United States in the conduct       of negotiations with foreign nations;
+
+``(9) provide advice and assistance to the Under Secretary       with respect to evaluating the international impact of       matters pending before the Commission, other Federal       agencies, and Congress;
+
+``(10) carry out, at the request of the Secretary, the       responsibilities of the Secretary under the Communications       Satellite Act of 1962 (47 U.S.C. 701 et seq.) and other       Federal laws related to international telecommunications and       information policy; and
+
+``(11) carry out any other duties of the NTIA with respect       to international telecommunications and information policy       that the Under Secretary may designate.''.
+
+Mr. Speaker, I rise in support of H.R. 2482, as amended, the NTIA  Reauthorization Act, led by my good friend, Chairman Latta.
+
+Mr. Speaker, the National Telecommunications and Information  Administration plays a critical role in today's communications  ecosystem, but Congress has not reauthorized NTIA since 1992.
+
+The NTIA Reauthorization Act ensures that NTIA has the tools it needs  for today's needs. It elevates the head of the NTIA to an  Undersecretary of Commerce to reflect the important role that NTIA  plays. It eliminates unnecessary reports, codifies two critical  offices, and authorizes NTIA for 2 years.
+
+Mr. Speaker, I urge my colleagues to support H.R. 2482, and I reserve  the balance of my time.
+
+Mr. BILIRAKIS. Mr. Speaker, I thank Chairman Latta and Ranking Member  Matsui for this very important, vital bill.
+
+Mr. Speaker, I encourage a ``yes'' vote on this particular bill, and  I yield back the balance of my time.

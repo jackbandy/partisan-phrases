@@ -1,0 +1,165 @@
+Financial Technology Protection Act of 2025
+
+
+https://justfacts.votesmart.org/public-statement/1693963/financial-technology-protection-act-of-2025
+
+
+Mr. HILL of Arkansas. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 2384) to establish an Independent Financial  Technology Working Group to Combat Terrorism and Illicit Financing, and  for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 2384
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Financial Technology       Protection Act of 2025''.       SEC. 2. INDEPENDENT FINANCIAL TECHNOLOGY WORKING GROUP TO                     COMBAT TERRORISM AND ILLICIT FINANCING.
+
+(a) Establishment.--There is established the Independent       Financial Technology Working Group to Combat Terrorism and       Illicit Financing (in this section referred to as the       ``Working Group''), which shall consist of the following:
+
+(1) The Secretary of the Treasury, acting through the Under       Secretary for Terrorism and Financial Crimes, who shall serve       as the chair of the Working Group.
+
+(2) A senior-level representative from each of the       following:
+
+(A) The Department of the Treasury.
+
+(B) The Office of Terrorism and Financial Intelligence.
+
+(C) The Internal Revenue Service.
+
+(D) The Department of Justice.
+
+(E) The Federal Bureau of Investigation.
+
+(F) The Drug Enforcement Administration.
+
+(G) The Department of Homeland Security.
+
+(H) The United States Secret Service.
+
+(I) The Department of State.
+
+(J) The Office of the Director of National Intelligence.
+
+(3) At least five individuals appointed by the Under       Secretary for Terrorism and Financial Crimes to represent the       following:
+
+(A) Financial technology companies.
+
+(B) Blockchain intelligence companies.
+
+(C) Financial institutions.
+
+(D) Institutions or organizations engaged in research.
+
+(E) Institutions or organizations focused on individual       privacy and civil liberties.
+
+(4) Such additional individuals as the Secretary of the       Treasury may appoint as necessary to accomplish the duties       described under subsection (b).
+
+(b) Duties.--The Working Group shall--
+
+(1) conduct research on terrorist and illicit use of       digital assets and other related emerging technologies; and
+
+(2) develop legislative and regulatory proposals to improve       anti-money laundering, counter-terrorist, and other counter-      illicit financing efforts in the United States.
+
+(c) Reports.--
+
+(1) In general.--Not later than one year after the date of       the enactment of this Act, and annually for the 3 years       thereafter, the Working Group shall submit to the Secretary       of the Treasury, the heads of each agency represented in the       Working Group pursuant to subsection (a)(2), and the       appropriate congressional committees a report containing the       findings and determinations made by the Working Group in the       previous year and any legislative and regulatory proposals       developed by the Working Group.
+
+(2) Final report.--Before the date on which the Working       Group terminates under subsection (d)(1), the Working Group       shall submit to the appropriate congressional committees a       final report detailing the findings, recommendations, and       activities of the Working Group, including any final results       from the research conducted by the Working Group.
+
+(d) Sunset.--
+
+(1) In general.--The Working Group shall terminate on the       later of--
+
+(A) the date that is 4 years after the date of the       enactment of this Act; or
+
+(B) the date on which the Working Group completes any wind-      up activities described under paragraph (2).
+
+(2) Authority to wind up activities.--If there are ongoing       research, proposals, or other related activities of the       Working Group ongoing as of the date that is 4 years after       the date of the enactment of this Act, the Working Group may       temporarily continue working in order to wind-up such       activities.
+
+(3) Return of appropriated funds.--On the date on which the       Working Group terminates under paragraph (1), any unobligated       funds appropriated to carry out this section shall be       transferred to the Treasury.       SEC. 3. PREVENTING ROGUE AND FOREIGN ACTORS FROM EVADING                     SANCTIONS.
+
+(a) Report and Strategy With Respect to Digital Assets and       Other Related Emerging Technologies.--
+
+(1) In general.--Not later than 180 days after the date of       the enactment of this Act, the President, acting through the       Secretary of the Treasury and in consultation with the head       of each agency represented on the Independent Financial       Technology Working Group to Combat Terrorism and Illicit       Financing pursuant to section 2(a)(2), shall submit to the       appropriate congressional committees a report that       describes--
+
+(A) the potential uses of digital assets and other related       emerging technologies by States, non-State actors, foreign       terrorist organizations, and other terrorist groups to evade       sanctions, finance terrorism, or launder monetary       instruments, and threaten the national security of the United       States; and
+
+(B) a strategy for the United States to mitigate and       prevent the illicit use of digital assets and other related       emerging technologies.
+
+(2) Form of report; public availability.--
+
+(A) In general.--The report required by paragraph (1) shall       be submitted in unclassified form, but may include a       classified annex.
+
+(B) Public availability.--The unclassified portion of each       report required by paragraph (1) shall be made available to       the public and posted on a publicly accessible website of the       Department of the Treasury--
+
+(i) in precompressed, easily downloadable versions, in all       appropriate formats; and
+
+(ii) in machine-readable format, if applicable.
+
+(3) Sources of information.--In preparing the reports       required by paragraph (1), the President may utilize any       credible publication, database, or web-based resource, and       any credible information compiled by any government agency,       nongovernmental organization, or other entity that is made       available to the President.
+
+(b) Briefing.--Not later than 2 years after the date of the       enactment of this Act, the Secretary of the Treasury shall       brief the appropriate congressional committees on the       implementation of the strategy required by subsection       (a)(1)(B).       SEC. 4. DEFINITIONS.
+
+In this Act:
+
+(1) Appropriate congressional committees.--The term       ``appropriate congressional committees'' means--
+
+(A) the Committee on Banking, Housing, and Urban Affairs,       the Committee on Finance, the Committee on Foreign Relations,       the Committee on Homeland Security and Governmental Affairs,       the Committee on the Judiciary, and the Select Committee on       Intelligence of the Senate; and
+
+(B) the Committee on Financial Services, the Committee on       Foreign Affairs, the Committee on Homeland Security, the       Committee on the Judiciary, the Committee on Ways and Means,       and the Permanent Select Committee on Intelligence of the       House of Representatives.
+
+(2) Blockchain intelligence company.--The term ``blockchain       intelligence company'' means any business providing software,       research, or other services (such as blockchain tracing       tools, geofencing, transaction screening, the collection of       business data, and sanctions screening) that--
+
+(A) support private and public sector investigations and       risk management activities; and
+
+(B) involve cryptographically secured distributed ledgers       or any similar technology or implementation.
+
+(3) Digital asset.--The term ``digital asset'' means any       digital representation of value that is recorded on a       cryptographically secured digital ledger or any similar       technology.
+
+(4) Emerging technologies.--The term ``emerging       technologies'' means the critical and emerging technology       areas listed in the Critical and Emerging Technologies List       developed by the Fast Track Action Subcommittee on Critical       and Emerging Technologies of the National Science and       Technology Council, including any updates to such list.
+
+(5) Foreign terrorist organization.--The term ``foreign       terrorist organization'' means an organization that is       designated as a foreign terrorist organization under section       219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+
+(6) Illicit use.--The term ``illicit use'' includes fraud,       darknet marketplace transactions, money laundering, the       purchase and sale of illicit goods, sanctions evasion, theft       of funds, funding of illegal activities, transactions related       to child sexual abuse material, and any other financial       transaction involving the proceeds of specified unlawful       activity (as defined in section 1956(c) of title 18, United       States Code).
+
+(7) Terrorist.--The term ``terrorist'' includes a person       carrying out domestic terrorism or international terrorism       (as such terms are defined, respectively, under section 2331       of title 18, United States Code).
+
+I rise in strong support of H.R. 2384, the Financial Technology  Protection Act.
+
+Last week, the House passed critical digital asset legislation,  setting the stage for the United States to reclaim our global  leadership position in financial technology on digital assets. This  week, we build on that momentum to further strengthen our role in  global finance.
+
+As our technological world evolves, so must the tools that we use to  combat the potential new threats associated with it.
+
+The Financial Technology Protection Act creates a forum to ensure  that our law enforcement can keep pace with illicit actors seeking to  exploit these technological developments for their own gain.
+
+Mr. Nunn's and Mr. Himes' bill establishes an Independent Financial  Technology Working Group to combat terrorism, money laundering, and  other illicit finance through the use of financial technologies,  including digital assets.
+
+The group will conduct independent research on the illicit use of new  financial technologies and develop legislative and regulatory proposals  to improve anti-money laundering and counterterrorism financing efforts  here in the United States.
+
+This commonsense bill also requires private sector stakeholders to be  members of the working group, bridging a gap between law enforcement  and the private sector and allowing individuals with boots-on-the- ground experience to inform law enforcement's efforts and strategies.
+
+Because of that, I urge all my colleagues on both sides of the aisle  to join me in supporting this good bill, and I reserve the balance of  my time.
+
+Mr. HILL of Arkansas. Mr. Speaker, I include in the Record the CBO  estimate for this bill.    H.R. 2384, FINANCIAL TECHNOLOGY PROTECTION ACT OF 2025, AS REPORTED BY         THE HOUSE COMMITTEE ON FINANCIAL SERVICES ON MAY 6, 2025 ------------------------------------------------------------------------                                            By fiscal year, millions  of                                                      dollars--                                          -------------------------------                                             2025    2025-2030  2025-2035 ------------------------------------------------------------------------ Direct Spending (Outlays)...............        0          0          0 Revenues................................        0          0          0 Increase or Decrease (-) in the Deficit.        0          0          0 Spending Subject to Appropriation               *          1          1  (Outlays).............................. ------------------------------------------------------------------------  * = between zero and $500,000.
+
+Increases net direct spending in any of the four       consecutive 10-year periods beginning in 2036? No.
+
+Increases on-budget deficits in any of the four consecutive       10-year periods beginning in 2036? No.
+
+Statutory pay-as-you-go procedures apply? No.
+
+Mandate Effects:
+
+Contains intergovernmental mandate? No.
+
+Contains private-sector mandate? No.
+
+H.R. 2384 would establish a working group within the       Department of the Treasury to research terrorists' use of new       financial technologies, including digital assets, and report       on its findings. The working group would comprise 11 senior-      level representatives from specified agencies in the federal       government and 5 people representing businesses and other       interested organizations. The bill would require the working       group to report within 180 days of enactment on the evasion       of sanctions using digital assets to the Congress and to       report annually to the Congress and other executive branch       agencies about its findings. Under the bill, the working       group would sunset four years after enactment.
+
+Using information about the costs of similar working       groups, CBO estimates that implementing H.R. 2384 would cost       less than       $500,000 annually, totaling $1 million over the 2025-2030       period for administrative costs; any related spending would       be subject to the availability of appropriated funds.
+
+The CBO staff contact for this estimate is Matthew       Pickford. The estimate was reviewed by H. Samuel Papenfuss,       Deputy Director of Budget Analysis.                                                  Philip L. Swagel,                             Director, Congressional Budget Office.
+
+Mr. Speaker, I rise again in strong support of this bill. Mr. Nunn is  doing good work here, and I appreciate his leadership as a former  counterintelligence officer, someone who has brought that expertise to  his work here in the House.
+
+I appreciate my friend from Connecticut, our distinguished ranking  member of the House Permanent Select Committee on Intelligence, lending  his expertise to this bill. For years we have talked about how do we  fuse private-sector information, like in our financial services sector,  with law enforcement to come up with better strategies to counter  illicit finance, whether it is in trade-based money laundering, the use  of cash, hawala, now digital assets, or just the plain old banking  system. So I thank my friend from Iowa and urge strong bipartisan  support on both sides of the aisle.

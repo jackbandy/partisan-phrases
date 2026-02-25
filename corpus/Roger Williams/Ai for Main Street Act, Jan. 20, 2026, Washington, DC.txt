@@ -1,0 +1,71 @@
+Ai for Main Street Act
+
+
+https://justfacts.votesmart.org/public-statement/1699179/ai-for-main-street-act
+
+
+Mr. WILLIAMS of Texas. Madam Speaker, I move to suspend the rules and  pass the bill (H.R. 5764) to amend the Small Business Act to require  small business development centers to assist small business concerns  with the use of artificial intelligence, and for other purposes, as  amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 5764
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``AI for Main Street Act''.       SEC. 2. GUIDANCE ON THE USE OF ARTIFICIAL INTELLIGENCE FOR                     SMALL BUSINESS CONCERNS.
+
+(a) In General.--Section 21(c)(3) of the Small Business Act       (15 U.S.C. 648(c)(3)) is amended--
+
+(1) in subparagraph (T), by striking ``and'' at the end;
+
+(2) in the first subparagraph (U) (relating to encouraging       and assisting the provision of succession planning), by       striking the period at the end and inserting a semicolon;
+
+(3) by redesignating the second subparagraph (U) (relating       to providing training in conjunction with the United States       Patent and Trademark Office) as subparagraph (V);
+
+(4) in subparagraph (V), as so redesignated, by striking       the period at the end and inserting ``; and''; and
+
+(5) by adding at the end the following new subparagraph:
+
+``(W) assisting small business concerns in evaluating       artificial intelligence concerning operations, including by--
+
+``(i) providing information, guidance, and training to       small business concerns on the use of artificial       intelligence, including--
+
+``(I) best practices for using artificial intelligence;
+
+``(II) using artificial intelligence to plan for unexpected       circumstances, protect data and intellectual property,       improve cybersecurity, facilitate regulatory compliance, and       improve customer trust; and
+
+``(III) incorporating artificial intelligence into business       operations; and
+
+``(ii) conducting outreach to the extent practical to small       business concerns regarding the use of artificial       intelligence.''.
+
+(b) Conforming Amendment.--Section 3 of the Small Business       Act (15 U.S.C. 632) is amended by adding at the end the       following new subsection:
+
+``(gg) Artificial Intelligence.--In this Act, the term       `artificial intelligence' has the meaning given such term in       section 5002 of the National Artificial Intelligence       Initiative Act of 2020 (15 U.S.C. 9401).''.       SEC. 3. COMPLIANCE WITH CUTGO.
+
+No additional amounts are authorized to carry out this Act       or the amendments made by this Act.
+
+Mr. WILLIAMS of Texas. Madam Speaker, I yield myself such time as I  may consume.
+
+Madam Speaker, I rise today in strong support of H.R. 5764, the AI  for Main Street Act, introduced by Representatives Alford and Scholten.
+
+Artificial intelligence is increasingly being used to streamline  operations, reduce costs, and boost productivity for small businesses.  For many small businesses across the country, adopting these tools  remains out of reach because they lack the staff, the expertise, or the  capital to do so.
+
+Madam Speaker, the AI for Main Street Act helps address this  challenge by directing the SBA's Small Business Development Centers, or  SBDCs, to assist small businesses in developing AI technologies into  their operations.
+
+These centers operate in partnership with universities and community  colleges across the country and are trusted advisers to local  entrepreneurs.
+
+This approach builds on work already underway. In September 2024,  America's SBDCs, in partnership with Google, launched America's SBDC AI  U, which provides hands-on AI training, clinics, and technical  assistance to small businesses.
+
+This bill builds on that effort by requiring the SBDC network to have  a core duty to assist entrepreneurs nationwide in fighting AI in their  businesses.
+
+As artificial intelligence becomes a core driver of productivity and  competitiveness, Main Street cannot be left behind. I urge my  colleagues to support H.R. 5764, the AI for Main Street Act.
+
+Mr. WILLIAMS of Texas. Madam Speaker, I yield such time as he may  consume to the gentleman from Missouri (Mr. Alford).
+
+Mr. WILLIAMS of Texas. Madam Speaker, H.R. 5764 will directly give  small businesses the AI resources and tools for SBDCs across this  country. I urge my colleagues to support this commonsense legislation.
+
+Madam Speaker, I yield back the balance of my time.
+
+Mr. WILLIAMS of Texas. Madam Speaker, on that I demand the yeas and  nays.
+
+The yeas and nays were ordered.

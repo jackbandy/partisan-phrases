@@ -1,0 +1,110 @@
+Modernizing All Veterans and Survivors Claims Processing Act
+
+
+Mr. BOST. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 3854) to direct the Secretary of Veterans Affairs to submit a  plan to expand the use of certain automation tools in the Department of  Veterans Affairs, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 3854
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Modernizing All Veterans and       Survivors Claims Processing Act''.       SEC. 2. DEPARTMENT OF VETERANS AFFAIRS ANNUAL REPORT ON                     CAUSES OF DEATH AMONG VETERANS.
+
+(a) In General.--Subchaper II of chapter 5 of title 38,       United States Code, is amended by adding at the end the       following new section:       ``Sec. 534. Annual report on causes of death among veterans
+
+``(a) In General.--The Secretary shall submit to the       Committees on Veterans' Affairs of the House of       Representatives and the Senate an annual report that contains       data and information on causes of death among veterans.
+
+``(b) Elements.--Such report shall include--
+
+``(1) for each veteran that died during the period covered       by the report an identification of--
+
+``(A) whether such veteran had a service-connected       disability rated as total;
+
+``(B) the primary cause of death;
+
+``(C) the secondary cause of death, if applicable; and
+
+``(D) the manner of death;
+
+``(2) for each primary cause of death identified pursuant       to paragraph (1), a statement of the total number of veterans       that died from such primary cause of death during the period       covered by the report; and
+
+``(3) for each manner of death identified pursuant to       paragraph (1), a statement of the       total number of veterans that died in such manner during the       period covered by the report.
+
+``(c) Sunset.--This section shall terminate on the date       that is five years after the date of the enactment of the       Justice for America's Veterans and Survivors Act of 2025.''.
+
+(b) Clerical Amendment.--The table of sections at the       beginning of chapter 5 of such title is amended by inserting       after the item relating to section 533 the following new       item: ``534. Annual report on causes of death among veterans''.       SEC. 3. PLAN FOR USE OF AUTOMATION TOOLS TO PROCESS CLAIMS                     UNDER LAWS ADMINISTERED BY THE SECRETARY OF                     VETERANS AFFAIRS.
+
+(a) In General.--Not later than one year after the date of       the enactment of this Act, the Secretary of Veterans Affairs       shall submit to the Committees on Veterans' Affairs of the       Senate and House of Representatives the plan of the Secretary       to make available, to the maximum extent practicable, an       automation tool described in subsection (b) to elements of       the Department of Veterans Affairs for the purpose of       processing claims under laws administered by the Secretary.
+
+(b) Automation Tool Described.--An automation tool       described in this subsection is a technology developed for       the Compensation Service of the Veterans Benefits       Administration that--
+
+(1) automates the retrieval of the service record or health       records of a veteran;
+
+(2) compiles evidence relevant to the determination of a       claim for benefits under laws administered by the Secretary;
+
+(3) provides automated decision support relevant to such a       determination;
+
+(4) automates information sharing between Federal agencies;       and
+
+(5) assists in generating correspondence regarding such a       claim.
+
+(c) Analysis.--In developing the plan required under       subsection (a), the Secretary shall conduct an analysis of       each of the following:
+
+(1) The feasibility and benefits of the use of an       automation tool described in subsection (b) by elements of       the Department for the purpose of processing claims under       laws administered by the Secretary.
+
+(2) Any modification to an existing automation tool that       could render such tool usable for such purpose by such an       element.
+
+(3) Any requirement of any such element pertaining to such       purpose that cannot be addressed by using an automation tool.
+
+(4) The extent to which the technology offices of such       elements may need to collaborate with the technology office       responsible for developing an automation tool in the course       of the development and use of the tool by the element for       such purpose.
+
+(5) A timeline for modifying and implementing any       automation tool for use by such elements for such purpose.
+
+(d) Priority.--In providing an automation tool described in       subsection (b) to elements of the Department pursuant to the       plan required under subsection (a), the Secretary shall give       priority to the following elements:
+
+(1) The Pension and Fiduciary Service of the Veterans       Benefits Administration.
+
+(2) The Education Service of the Veterans Benefits       Administration.
+
+(3) Program offices of the Veterans Benefits       Administration, as determined by the Secretary.
+
+(4) The Debt Management Center.
+
+(5) The Board of Veterans' Appeals.       SEC. 4. OTHER REQUIREMENTS RELATING TO TECHNOLOGY AT                     DEPARTMENT OF VETERANS AFFAIRS.
+
+(a) Automatic Notices Regarding Benefits for Certain       Children of Veterans.--
+
+(1) In general.--Not later than one year after the date of       the enactment of this Act, the Secretary of Veterans Affairs       shall implement policies, processes, and technological       capabilities, including in the National Work Queue (or       successor system), to ensure that, in the case of any covered       situation, a claims processors is made aware of, and assigned       to address, such covered situation.
+
+(2) Definitions.--In this subsection:
+
+(A) The term ``covered situation'' means--
+
+(i) any increase in the amount of dependency compensation       paid to a beneficiary for a child under the laws administered       by the Secretary; and
+
+(ii) any educational assistance paid to the child of a       veteran under the laws administered by the Secretary.
+
+(B) The term ``child'' has the meaning given such term in       section 101(4)(A)(iii) of title 38, United States Code.
+
+(b) Correct Labeling of Documents.--Not later than one year       after the date of the enactment of this Act, the Secretary       shall submit to the Committees on Veterans' Affairs of the       Senate and House of Representatives a plan to ensure that       documents in the Veterans Benefits Management System (or any       successor system) are correctly labeled when such documents       are uploaded, including when such documents are labeled using       automation tools.
+
+Mr. BOST.  3854, as amended.
+
+Mr. Speaker, I rise today in support of H.R. 3854, as amended,  sponsored by Representative Valadao.
+
+This bill would require the VA to review existing claims, automation  tools, and submit a plan to Congress on improving, modifying, or  creating new tools to support claims processors.
+
+These improvements would, in return, help the VA automatically  retrieve veterans' records, compile evidence, automate Federal  Government data sharing, and generate notice letters to veterans. These  improvements are common sense and would lead to more efficient and  accurate decisions on benefit claims.
+
+This bill would require the VA to detail how it would provide these  improvements to other benefit programs in the Veterans Benefits  Administration.
+
+This bill also includes Representative Edwards' bill, the Justice for  American Veterans and Survivors Act of 2025. Importantly, this  provision would require the VA to publish an annual report for the next  5 years on the cause and manner of death among veterans rated 100  percent, our totally disabled veteran community.
+
+The VA currently supports over 506,000 surviving spouses. However,  the VA does not track the cause and manner of death among recently  deceased totally disabled veterans. Data like this is critical to  ensuring that the VA programs for surviving family members meet their  needs.
+
+The report would also require the VA to publish the total number of  prevalent causes and manners of death among these veterans to better  identify trends.
+
+Mr. Speaker, I thank my colleagues for their work to ensure that the  VA continues to develop the tools it needs to effectively deliver  benefits. I urge all of my colleagues to support H.R.
+
+Mr. Speaker, once again, I encourage all Members to support this  legislation, and I yield back the balance of my time.

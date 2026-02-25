@@ -1,0 +1,69 @@
+Enhancing Multi-Class Share Disclosures Act
+
+
+https://justfacts.votesmart.org/public-statement/1693913/enhancing-multi-class-share-disclosures-act
+
+
+Mr. HILL of Arkansas. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 3357) to amend the Securities Exchange Act of 1934  to require issuers with a multi-class stock structure to make certain  disclosures in any proxy or consent solicitation material, and for  other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 3357
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Enhancing Multi-Class Share       Disclosures Act''.       SEC. 2. DISCLOSURE RELATING TO MULTI-CLASS SHARE STRUCTURES.
+
+Section 14 of the Securities Exchange Act of 1934 (15       U.S.C. 78n) is amended by adding at the end the following:
+
+``(l) Disclosure Relating to Multi-class Share       Structures.--
+
+``(1) Disclosure.--The Commission shall, by rule, require       each issuer with a multi-class share structure to disclose       the information described in paragraph (2) in any proxy or       consent solicitation material for an annual meeting of the       shareholders of the issuer, or any other filing as the       Commission determines appropriate.
+
+``(2) Content of disclosure.--A disclosure made under       paragraph (1) shall include, with respect to each person who       is a director, director nominee, or named executive officer       of the issuer, or who is the beneficial owner of securities       with 5 percent or more of the total combined voting power of       all classes of securities entitled to vote in the election of       directors--
+
+``(A) the number of shares of all classes of securities       entitled to vote in the election of directors beneficially       owned by such person, expressed as a percentage of the total       number of the outstanding securities of the issuer entitled       to vote in the election of directors; and
+
+``(B) the amount of voting power held by such person,       expressed as a percentage of the total combined voting power       of all classes of the securities of the issuer entitled to       vote in the election of directors.
+
+``(3) Multi-class share structure.--In this subsection, the       term `multi-class share structure' means a capitalization       structure that contains 2 or more types of securities that       have differing amounts of voting rights in the election of       directors.''.
+
+Mr. Speaker, I rise in strong support of H.R. 3357, the Enhancing  Multi-Class Share Disclosures Act.
+
+Mr. Speaker, multiclass structures have existed in American capital  markets for many decades, helping founders retain control of their  companies without holding a majority of the economic interest. These  structures are important for certain business models, like family  businesses, but they also raise questions about transparency and  shareholder rights.
+
+Since this information is not required to be disclosed, shareholders  might not always understand how control is concentrated within a public  company.
+
+Mr. Meeks' bill rightsizes this issue by requiring companies to  provide clear information about voting power, especially where insiders  or significant shareholders hold outsized influence.
+
+Mr. HILL of Arkansas. Mr. Speaker, I include in the Record the CBO  estimate for this bill.    H.R. 3357, ENHANCING MULTI-CLASS SHARE DISCLOSURES ACT, AS REPORTED BY      THE HOUSE COMMITTEE ON HOUSE FINANCIAL SERVICES ON JUNE 3, 2025 ------------------------------------------------------------------------                                            By fiscal year, millions  of                                                      dollars--                                          -------------------------------                                             2025    2025-2030  2025-2035 ------------------------------------------------------------------------ Direct Spending (Outlays)...............        0          0          0 Revenues................................        0          0          0 Increase or Decrease (-) in the Deficit.        0          0          0 Spending Subject to Appropriation               *          *         **  (Outlays).............................. ------------------------------------------------------------------------ * = between -$500,000 and $500,000. ** not estimated.
+
+Increases net direct spending in any of the four       consecutive 10-year periods beginning in 2036? No.
+
+Increases on-budget deficits in any of the four consecutive       10-year periods beginning in 2036? No.
+
+Statutory pay-as-you-go procedures apply? No.
+
+Mandate Effects:
+
+Contains intergovernmental mandate? No.
+
+Contains private-sector mandate? Yes, Under Threshold.
+
+H.R. 3357 would direct the Securities and Exchange       Commission (SEC) to issue rules requiring securities issuers       with multi-class stock structures to disclose to all       shareholders information about the shares of all classes of       securities owned by and the voting power of particular       shareholders specified in the bill. A multi-class stock       structure is one in which a company offers two or more       classes of securities with different voting rights in an       election of directors.
+
+Using information about the cost of similar rulemakings,       CBO estimates that implementing H.R. 3357 would cost $1       million over the 2025-2030 period. CBO expects the commission       would need three employees, at an average annual cost of       $330,000 for each employee, to issue rules over one year.       Because the SEC is authorized to collect fees each year to       offset its annual appropriation, CBO expects that the net       effect on discretionary spending over the 2025-2030 period       would be negligible, assuming appropriation actions       consistent with that authority.
+
+If the SEC increased fees to offset the costs for       rulemaking as required by the bill, H.R. 3357 would increase       the cost of an existing mandate as defined in the Unfunded       Mandates Reform Act (UMRA) on private entities required to       pay those fees. CBO estimates that the incremental cost of       the mandate would be small and would fall well below the       annual threshold for private-sector mandates established in       UMRA ($206 million in 2025, adjusted annually for inflation).
+
+The bill would not impose any intergovernmental mandates.
+
+The CBO staff contacts for this estimate are Aurora Swanson       (for federal costs) and Rachel Austin (for mandates). The       estimate was reviewed by H. Samuel Papenfuss, Deputy Director       of Budget Analysis.                                                 Phillip L. Swagel,                             Director, Congressional Budget Office.
+
+Mr. HILL of Arkansas. Mr. Speaker, I am prepared to close, and I  reserve the balance of my time.
+
+Mr. HILL of Arkansas. Mr. Speaker, I rise, as I said, in support of  this bill. I agree with the ranking member of the full committee. It  deserves strong bipartisan support, and I yield back the balance of my  time.
+
+Mr. HILL of Arkansas. Mr. Speaker, on that I demand the yeas and  nays.
+
+The yeas and nays were ordered.

@@ -1,6 +1,0 @@
-Wyden Statement on Google and Apple Contact-Tracing Plans
-
-
-U.S. Senator Ron Wyden, D-Ore., today issued the following statement, on Google and Apple's plans to roll out Bluetooth-based contact tracing technology:
-
-"This plan appears to be a sincere effort to bring tech's resources to bear on the COVID-19 pandemic, and I appreciate Google and Apple's transparency about their contact-tracing technology. However, I remain pessimistic about the prospect that Bluetooth-based contact tracing will be a viable way to trace or contain the coronavirus anytime in the near future, given gaps in testing, high participation rate required for success and unknown accuracy of Bluetooth technology. Furthermore, it will be up to governments to decide the hard questions that will have the greatest impact on Americans' rights, including how information will be collected and shared, and whether it could be made mandatory by governments or businesses. There's no indication that any federal agency is prepared to take responsibility for answering those questions. Without a coordinated federal response to the pandemic, more information about immunity and vast increases in testing capacity, I worry that this project will do little to move the needle."

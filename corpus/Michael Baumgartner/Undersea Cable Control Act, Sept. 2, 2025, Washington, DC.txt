@@ -1,0 +1,95 @@
+Undersea Cable Control Act
+
+
+https://justfacts.votesmart.org/public-statement/1694819/undersea-cable-control-act
+
+
+Mr. BAUMGARTNER. Mr. Speaker, I move to suspend the rules and pass  the bill (H.R. 2503) to require the development of a strategy to  eliminate the availability to foreign adversaries of goods and  technologies capable of supporting undersea cables, and for other  purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 2503
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Undersea Cable Control       Act''.       SEC. 2. STRATEGY TO ELIMINATE THE AVAILABILITY TO FOREIGN                     ADVERSARIES OF ITEMS REQUIRED FOR SUPPORTING                     UNDERSEA CABLES.
+
+(a) In General.--The President, acting through the       Secretary of Commerce and in coordination with the Secretary       of State, shall develop a strategy to eliminate the       availability to foreign adversaries of items required for       supporting undersea cables consistent with United States       policy described in section 1752 of the Export Control Reform       Act of 2018 (50 U.S.C. 4811).
+
+(b) Matters To Be Included.--The strategy required under       subsection (a) shall include the following:
+
+(1) An identification of items required for supporting the       construction, maintenance, or operation of an undersea cable       project.
+
+(2) An identification of United States and multilateral       export controls and licensing policies for items identified       pursuant to paragraph (1) with respect to foreign       adversaries.
+
+(3) An identification of United States allies and partners       that have a share of the global market with respect to the       items so identified, including a detailed description of the       availability of such items without restriction in sufficient       quantities and comparable in quality to those produced in the       United States.
+
+(4) A description of ongoing negotiations with other       countries to achieve unified export controls and licensing       policies for items so identified to eliminate availability to       foreign adversaries.
+
+(5) To the extent practicable, an identification of all       identified entities under the control, ownership, or       influence of a foreign adversary that support the       construction, operation, or maintenance of undersea cables.
+
+(6) A description of efforts taken to promote United States       leadership at international standards-setting bodies for       equipment, systems, software, and virtually defined networks       relevant to undersea cables, taking into account the       different processes followed by such bodies.
+
+(7) A description of the presence and activities of foreign       adversaries at international standards-setting bodies       relevant to undersea cables, including information on the       differences in the scope and scale of the engagement of       foreign adversaries at such bodies compared to engagement at       such bodies by the United States and its allies and partners,       and the security risks raised by the proposals of foreign       adversaries at such bodies.
+
+(c) Report.--
+
+(1) In general.--Not later than 180 days after the date of       the enactment of this Act and annually thereafter for 3       years, the President shall submit to the appropriate       congressional committees a report that contains the strategy       required under subsection (a).
+
+(2) Form.--Each report required under this subsection       shall--
+
+(A) be submitted in unclassified form, but may contain a       classified annex; and
+
+(B) be made available on a publicly accessible Federal       Government website.
+
+(d) Agreement.--
+
+(1) In general.--Not later than 1 year after the date of       the enactment of this Act, the President shall seek to--
+
+(A) establish bilateral or multilateral agreements with       allies and partners identified pursuant to subsection (b)(3)       to seek to eliminate the availability to foreign adversaries       of items identified pursuant to subsection (b)(1); and
+
+(B) include in such agreements penalty provisions for       noncompliance.
+
+(2) Briefings.--The President shall brief the congressional       committees specified in subsection (c)(1) on negotiations to       establish agreements described in paragraph (1) beginning not       later than 30 days after receipt of the report required under       subsection (a) and every 180 days thereafter until each such       agreement is established.
+
+(e) Actions.--
+
+(1) In general.--The Secretary of Commerce shall evaluate       the export, reexport, and in-country transfer of the items       identified pursuant to subsection (b)(1) for appropriate       controls under the Export Administration Regulations,       including by evaluating, for each item so identified, whether       to add the technology to the Commerce Control List maintained       under title 15, Code of Federal Regulations.
+
+(2) Levels of control.--
+
+(A) In general.--In determining the level of control       appropriate for items identified pursuant to subsection       (b)(1), including requirements for a license or other       authorization for the export, reexport, or in-country       transfer of any such technology, the Secretary of Commerce       (in coordination with the Secretary of Defense, the Secretary       of State, and the heads of other Federal agencies, as       appropriate) shall take into account the potential end uses       and end users of the item.
+
+(B) Statement of policy.--At a minimum, it is the policy of       the United States to work with its allies and partners to       control the export, reexport, or in-country transfer of       technologies identified pursuant to subsection (b)(1) to or       in a country subject to an embargo, including an arms       embargo, imposed by the United States.
+
+(3) Notification.--Not later than 1 year after the date of       enactment of this Act, and annually thereafter for 3 years,       the President, acting through the Secretary of Commerce,       shall submit to the appropriate congressional committees an       unclassified notification describing the results of actions       taken pursuant to this subsection in the preceding period,       including a description of--
+
+(A) the individual items evaluated for controls; and
+
+(B) the rationale, including United States national       security and foreign policy considerations, for adding or not       adding an item to the Commerce Control List maintained under       title 15, Code of Federal Regulations,       pursuant to the evaluation under paragraph (1) with respect       to such item.
+
+(f) Definitions.--In this section:
+
+(1) Appropriate congressional committees.--The term       ``appropriate congressional committees'' means--
+
+(A) the Committee on Foreign Affairs of the House of       Representatives; and
+
+(B) the Committee on Banking, Housing, and Urban Affairs of       the Senate.
+
+(2) Foreign adversary.--The term ``foreign adversary'' has       the meaning given such term in section 8(c) of the Secure and       Trusted Communications Networks Act of 2019 (47 U.S.C.       1607(c)).
+
+(3) Item.--The term ``item'' has the meaning given such       term in the Export Administration Regulations (15 C.F.R.       772.1).
+
+Mr. Speaker, I rise today in support of Representative Kean's  Undersea Cable Control Act.
+
+Over 99 percent of the world's data that crosses the oceans travels  through the fiber-optic cables that sit on the sea floor. This bill  requires the U.S. to develop and execute a strategy to protect this  critical infrastructure.
+
+America's adversaries are working around the clock to control these  communication chokepoints. Chinese companies like HMN Technologies,  formerly known as Huawei Marine Networks, are estimated to be building  or repairing about a quarter of the world's undersea cables. There have  been documented instances of the Chinese manipulating and spying on  these networks, with internet traffic being rerouted through China.
+
+Mr. Speaker, it is important that we identify what the Chinese  Communist Party needs to deploy undersea cables so that we can ensure  only America and its allies lead in the development and maintenance of  this technology.
+
+I urge my colleagues to support Representative Kean's fine bill to  begin this process of protecting this critical and vulnerable  infrastructure.
+
+Mr. BAUMGARTNER. Mr. Speaker, the Undersea Cable Control Act will  ensure America, not the Chinese Communist Party, is connecting the  globe with critical undersea cable infrastructure.
+
+Mr. Speaker, I urge my colleagues to support this bill, and I yield  back the balance of my time.

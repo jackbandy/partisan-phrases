@@ -1,0 +1,69 @@
+Informing Consumers About Smart Devices Act
+
+
+https://justfacts.votesmart.org/public-statement/1690179/informing-consumers-about-smart-devices-act
+
+
+Mr. BILIRAKIS. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 859) to require the disclosure of a camera or recording  capability in certain internet-connected devices.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                  H.R. 859
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Informing Consumers about       Smart Devices Act''.       SEC. 2. REQUIRED DISCLOSURE OF A CAMERA OR RECORDING                     CAPABILITY IN CERTAIN INTERNET-CONNECTED                     DEVICES.
+
+Each manufacturer of a covered device shall disclose,       clearly and conspicuously and prior to purchase, whether the       covered device manufactured by the manufacturer contains a       camera or microphone as a component of the covered device.       SEC. 3. ENFORCEMENT BY THE FEDERAL TRADE COMMISSION.
+
+(a) Unfair or Deceptive Acts or Practices.--A violation of       section 2 shall be treated as a violation of a rule defining       an unfair or deceptive act or practice prescribed under       section 18(a)(1)(B) of the Federal Trade Commission Act (15       U.S.C. 57a(a)(1)(B)).
+
+(b) Actions by the Commission.--
+
+(1) In general.--The Federal Trade Commission (in this Act       referred to as the ``Commission'') shall enforce this Act in       the same manner, by the same means, and with the       same jurisdiction, powers, and duties as though all       applicable terms and provisions of the Federal Trade       Commission Act (15 U.S.C. 41 et seq.) were incorporated into       and made a part of this Act.
+
+(2) Penalties and privileges.--Any person who violates this       Act or a regulation promulgated under this Act shall be       subject to the penalties and entitled to the privileges and       immunities provided in the Federal Trade Commission Act (15       U.S.C. 41 et seq.).
+
+(3) Savings clause.--Nothing in this Act shall be construed       to limit the authority of the Commission under any other       provision of law.
+
+(c) Commission Guidance.--Not later than 180 days after the       date of enactment of this Act, the Commission, through       outreach to relevant private entities, shall issue guidance       to assist manufacturers in complying with the requirements of       this Act, including guidance about best practices for making       the disclosure required by section 2 as clear and conspicuous       and age appropriate as practicable and about best practices       for the use of a pictorial (as defined in section 2(a) of the       Consumer Review Fairness Act of 2016 (15 U.S.C. 45b(a)))       visual representation of the information to be disclosed.
+
+(d) Tailored Guidance.--A manufacturer of a covered device       may petition the Commission for tailored guidance as to how       to meet the requirements of section 2 consistent with       existing rules of practice or any successor rules.
+
+(e) Limitation on Commission Guidance.--No guidance issued       by the Commission with respect to this Act shall confer any       rights on any person, State, or locality, nor shall operate       to bind the Commission or any person to the approach       recommended in such guidance. In any enforcement action       brought pursuant to this Act, the Commission shall allege a       specific violation of a provision of this Act. The Commission       may not base an enforcement action on, or execute a consent       order based on, practices that are alleged to be inconsistent       with any such guidelines, unless the practices allegedly       violate section 2.       SEC. 4. DEFINITION OF COVERED DEVICE.
+
+As used in this Act, the term ``covered device''--
+
+(1) means a consumer product, as defined by section 3(a) of       the Consumer Product Safety Act (15 U.S.C. 2052(a)) that is       capable of connecting to the internet, a component of which       is a camera or microphone; and
+
+(2) does not include--
+
+(A) a telephone (including a mobile phone), a laptop,       tablet, or any device that a consumer would reasonably expect       to have a microphone or camera;
+
+(B) any device that is specifically marketed as a camera,       telecommunications device, or microphone; or
+
+(C) any device or apparatus described in sections 255, 716,       and 718, and subsections (aa) and (bb) of section 303 of the       Communications Act of 1934 (47 U.S.C. 255; 617; 619; and       303(aa) and (bb)), and any regulations promulgated       thereunder.       SEC. 5. EFFECTIVE DATE.
+
+This Act shall apply to all covered devices manufactured       after the date that is 180 days after the date on which       guidance is issued by the Commission under section 3(c), and       shall not apply to covered devices manufactured or sold       before such date, or otherwise introduced into interstate       commerce before such date.
+
+Mr. Speaker, I rise today in strong support of H.R. 859, the  Informing Consumers About Smart Devices Act led by Representative  Fulcher.
+
+In recent years, we have witnessed remarkable advancements in  consumer goods technologies. While these innovations certainly make  daily life more convenient, they also carry the risk of collecting data  from users, often without their knowledge.
+
+It is clear to most people that devices like laptops have the  capability to record sound and video. It may not be so obvious that  other household devices such as televisions or refrigerators can do the  same thing.
+
+This bipartisan legislation seeks to address this gap by requiring  manufacturers of internet-connected devices that contain a microphone  or camera, but aren't marketed as consumer electronics, to disclose the  presence of these components to consumers.
+
+This is a very important bill. I commend the vice chairman of the  Subcommittee on Commerce, Manufacturing, and Trade for sponsoring this  particular bill.
+
+Mr. Speaker, I urge unanimous support for H.R. 859, and I reserve the  balance of my time.
+
+Mr. BILIRAKIS. Mr. Speaker, I couldn't agree more. There is no  question that this is definitely needed.
+
+Mr. BILIRAKIS. Mr. Speaker, I commend Representative Fulcher, the  vice chairman of the subcommittee, and also Representative Mouton for  this really good bill.
+
+Mr. Speaker, I urge unanimous passage, and I yield back the balance  of my time.
+
+Mr. BILIRAKIS. Mr. Speaker, on that I demand the yeas and nays.
+
+The yeas and nays were ordered.

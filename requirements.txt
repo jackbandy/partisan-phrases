@@ -1,0 +1,8 @@
+beautifulsoup4
+lxml
+pandas
+requests
+scikit-learn
+progressbar2
+python-dateutil
+tqdm

@@ -1,0 +1,153 @@
+Studying Nepa's Impact on Projects Act
+
+
+https://justfacts.votesmart.org/public-statement/1697711/studying-nepas-impact-on-projects-act
+
+
+Mr. CRANK. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 573) to require the Council on Environmental Quality to publish  an annual report on environmental reviews and causes of action based on  alleged non-compliance with the National Environmental Policy Act of  1969, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                  H.R. 573
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Studying NEPA's Impact on       Projects Act''.       SEC. 2. ANNUAL REPORT ON NEPA'S IMPACT ON PROJECTS.
+
+Section 201 of the National Environmental Policy Act of       1969 (42 U.S.C. 4341) is amended to read as follows:       ``SEC. 201. ANNUAL REPORTS ON NEPA'S IMPACT ON PROJECTS.
+
+``(a) Submissions by Lead Agencies.--Not later than July 1,       2026, and annually thereafter,       the head of each lead agency shall submit to the Council on       Environmental Quality a report on--
+
+``(1) each civil action alleging an agency action in       violation of this Act that was active during the period       beginning June 1 of the preceding year and ending June 1 of       the current year, which shall identify--
+
+``(A) with respect to each such civil action--
+
+``(i) the defendant lead agency, where applicable, and each       plaintiff; and
+
+``(ii) the court in which the civil action was brought and       any court to which a decision on the civil action was       appealed;
+
+``(B) the number of such civil actions, disaggregated by       the defendant agency, with a single entry denoting the lead       agency, where applicable, for cases involving multiple       Federal agency defendants;
+
+``(C) the alleged basis for each such civil action,       disaggregated by covered sectors; and
+
+``(D) the status and outcome, if applicable, of each civil       action alleging an agency action in violation of this Act       that was active during the period beginning June 1 of the       preceding year and ending June 1 of the current year,       including whether--
+
+``(i) the civil action resulted in a decision to hold       unlawful and set aside the agency action within the meaning       of section 706(2) of title 5, United States Code;
+
+``(ii) the civil action resulted in a decision allowing the       Federal agency to proceed with the major Federal action;
+
+``(iii) the civil action resulted in an order remanding the       matter to the agency for reconsideration without vacating the       analysis;
+
+``(iv) any claim under the civil action was resolved by a       settlement agreement or consent decree between any plaintiff       and the defendant lead agency;
+
+``(v) the civil action is still active; and
+
+``(vi) any of the plaintiffs received an award, including       an award of costs pursuant to section 2412 of title 28,       United States Code, except that if such information is       received after the lead agency submits the applicable report       to the Council on Environmental Quality, the lead agency       shall include such information in the subsequent report;
+
+``(2) the length of environmental impact statements made       publicly available pursuant to section 102(2)(C) during the       period of 5 years that ends on June 1 of the current year,       which shall include--
+
+``(A) the average and median page count of all such       environmental impact statements (not including the page count       of any citations or appendices), including such page counts       disaggregated by quartiles;
+
+``(B) the average and median page count of any citations       and appendices included in such environmental impact       statements;
+
+``(C) the number of such environmental impact statements,       disaggregated by lead agency and subagency as applicable;
+
+``(D) a description of trends in average and median page       count of such environmental impact statements and any       citations and appendices included in such environmental       impact statements compared to prior reports published by the       Council on Environmental Quality; and
+
+``(E) for each report submitted under this section through       2028, a disaggregation of the data from before and after the       date of the enactment of the Fiscal Responsibility Act of       2023;
+
+``(3) an estimate of the cost to prepare the environmental       impact statements described in paragraph (2), including--
+
+``(A) the full-time equivalent personnel hour costs,       contractor costs, and other direct costs of the lead agency       that prepared the environmental impact statement; and
+
+``(B) if practicable, and noted where not practicable, the       costs incurred by cooperating agencies, participating       agencies, any project sponsor that prepared an environmental       impact statement under the supervision of the lead agency,       and contractors; and
+
+``(4) the timelines to complete environmental impact       statements pursuant to section 102(2)(C) during the period of       10 years that ends on June 1 of the current year, which shall       include--
+
+``(A) with respect to each major Federal action commenced       during such period of 10 years, the date on which (as       applicable)--
+
+``(i) the project sponsor submitted an application for any       permit or other authorization for the project;
+
+``(ii) the lead agency began the scoping;
+
+``(iii) the notice of intent to prepare the environmental       impact statement was made publicly available;
+
+``(iv) the environmental impact statement was made publicly       available;
+
+``(v) the record of decision was made publicly available;       and
+
+``(vi) the lead agency provided to the project sponsor       notice to proceed on the project;
+
+``(B) the average and median completion timelines during       such period of 10 years for each document described in       subparagraph (A);
+
+``(C) a description of trends in completion timelines       during such period of 10 years for such documents compared to       prior reports published by the Council on Environmental       Quality; and
+
+``(D) for each report submitted under this section through       2033, a disaggregation of the data from before and after the       date of the enactment of the Fiscal Responsibility Act of       2023.
+
+``(b) Publication and Submission of Reports by the Council       on Environmental Quality.--
+
+``(1) In general.--The Council on Environmental Qualify       shall annually--
+
+``(A) publish the reports received under subsection (a) on       the website of the Council on Environmental Quality; and
+
+``(B) submit such reports to the Committee on Natural       Resources of the House of Representatives and the Committee       on Environment and Public Works of the Senate.
+
+``(2) Inclusion in other reports.--The Council on       Environmental Quality may carry out paragraph (1)(B) by       including the reports received under subsection (a) in the       report submitted under section 107(h).
+
+``(3) Public availability of data.--The Council on       Environmental Quality shall publish with each report       published under paragraph (1)(A) the underlying data used to       prepare each such report and include any citations or other       information necessary for the public to locate records       related to the court proceedings for any civil action       described in subsection (a)(1).
+
+``(c) Format.--To the extent practicable, the information       included in each report submitted to the Council on       Environmental Quality under subsection (a) shall be       disaggregated by covered sector.
+
+``(d) Covered Sector Defined.--In this section, the term       `covered sector' means any of the following sectors:
+
+``(1) Aviation and space.
+
+``(2) Broadband.
+
+``(3) Carbon capture and sequestration.
+
+``(4) Conventional energy production.
+
+``(5) Electricity transmission.
+
+``(6) Forestry.
+
+``(7) Information technology infrastructure.
+
+``(8) Manufacturing.
+
+``(9) Mining.
+
+``(10) Pipelines.
+
+``(11) Ports and waterways.
+
+``(12) Renewable energy production.
+
+``(13) Surface transportation.
+
+``(14) Water resources.
+
+``(15) Any other sector as determined by the Council on       Environmental Quality or lead agency.''.
+
+Mr. CRANK.  573, the bill now under  consideration.
+
+Mr. Speaker, I rise today in support of H.R. 573, which would  consolidate prior NEPA data collection and reporting efforts into a  single report published annually by the Council on Environmental  Quality, or CEQ. This bill ensures that consistent, transparent  permitting data is available and accessible to the public.
+
+It is well known that our permitting system is mired with substantial  delays. Many of these issues stem from burdensome and lengthy  environmental documents and lawsuits instigated by special interest  groups.
+
+In past administrations, CEQ has published reports on NEPA litigation  and environmental reviews. From 2001 to 2013, annual surveys recorded  the defendant agency, plaintiff category, and case results, showing  that special interest groups, not individual citizens or communities,  were responsible for the most NEPA cases.
+
+Although these CEQ studies provided useful data on the cumbersome  review timelines and resource strains resulting from NEPA analysis,  they have either been produced ad hoc or attention to their continued  production has fallen by the wayside.
+
+Similar to CEQ's annual litigation surveys conducted between 2001 and  2013, the reports required by this bill would include information  related to any NEPA-related civil action brought against an agency and  would identify the lead Federal agency, each plaintiff, and case  outcome. This information will allow Congress to identify who is suing  to block critical infrastructure projects and examine the end result of  the litigation on the project itself.
+
+This bill would also build off the first Trump administration's NEPA  reports conducted in 2020 by directing CEQ to review the page length of  environmental impact statements and the timelines to complete such EIS,  with updates published annually. This information will give Congress  better insight into whether agencies are respecting the NEPA deadlines  and page limits created in the Fiscal Responsibility Act.
+
+Mr. Speaker, I thank the lead sponsor of this legislation,  Representative Yakym, for his hard work on this bill, and I reserve the  balance of my time.
+
+Mr. CRANK. Mr. Speaker, I am prepared to close, and I reserve the  balance of my time.
+
+Mr. CRANK. Mr. Speaker, the Studying NEPA's Impact on Projects Act  will provide Congress with crucial information on NEPA litigation. It  will also provide transparency to help ensure that agencies comply with  the Fiscal Responsibility Act's NEPA deadlines and page limits.
+
+I thank Mr. Yakym and Mr. Panetta for their work on this bill, and I  urge my colleagues to support the bill.

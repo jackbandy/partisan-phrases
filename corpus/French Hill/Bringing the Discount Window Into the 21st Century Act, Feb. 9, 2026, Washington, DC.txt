@@ -1,0 +1,135 @@
+Bringing the Discount Window Into the 21st Century Act
+
+
+https://justfacts.votesmart.org/public-statement/1699861/bringing-the-discount-window-into-the-21st-century-act
+
+
+Mr. HILL of Arkansas. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 3390) to amend the Federal Reserve Act to require  the Board of Governors of the Federal Reserve System to carry out a  review of discount window operations and to implement improvements to  such operations, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 3390
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Bringing the Discount Window       into the 21st Century Act''.       SEC. 2. REVIEW OF DISCOUNT WINDOW OPERATIONS.
+
+Section 10 of the Federal Reserve Act (12 U.S.C. 241 et       seq.) is amended--
+
+(1) by redesignating paragraph (12) as paragraph (11); and
+
+(2) by adding at the end the following:
+
+``(12) Review of discount window operations.--
+
+``(A) In general.--Not later than 60 days after the date of       enactment of this paragraph, the Board of Governors shall       commence a review of the discount window lending programs of       the Federal reserve banks (the `discount window'), and shall       complete such review not later than 240 days after the date       of enactment of this paragraph.
+
+``(B) Contents.--The review required by subparagraph (A)       shall include a consideration of--
+
+``(i) the effectiveness of the discount window in providing       liquidity to financial institutions, including in times of       financial stress;
+
+``(ii) whether the technology infrastructure, including       means of communications, are sufficient to support the timely       provision of liquidity, including in times of financial       stress;
+
+``(iii) the effectiveness of cybersecurity measures       implemented with respect to discount window operations;
+
+``(iv) the effectiveness of communications between Federal       reserve banks, financial institutions, the Board of       Governors, the Federal Deposit Insurance Corporation, the       Comptroller of the Currency, and the Secretary of the       Treasury regarding discount window operations;
+
+``(v) the effectiveness of the Board of Governors in       providing oversight of the discount window and in ensuring       consistent access to the discount window across the Federal       Reserve System;
+
+``(vi) how the discount window interacts with other       providers of liquidity, including the Federal Home Loan       Banks, during both normal operations and times of financial       distress;
+
+``(vii) the effectiveness of existing discount window       operating hours and whether such hours should be expanded,       taking into account the interaction between discount window       operating hours and the operating hours of payment systems of       the Federal reserve banks, such as the Fedwire Funds Service       and FedNow Service;
+
+``(viii) the impact of mobile banking and instant       communications technology on depositor behavior and liquidity       risk posed to financial institutions, including how the       discount window can--
+
+``(I) help financial institutions better respond to rapid       liquidity shortfalls; and
+
+``(II) prevent broader financial instability; and
+
+``(ix) the effectiveness of the discount window in light of       the stigma associated with its usage, ways to reduce such       stigma, and ways to improve access, operational efficiency,       transparency, and timeliness of the process for financial       institutions seeking advances, including on the pricing and       other terms of such advances.
+
+``(C) Remediation plan.--After the Board of Governors       completes the review required by subparagraph (A), the Board       of Governors, in consultation with the Federal reserve banks,       shall--
+
+``(i) identify deficiencies with the discount window and       areas for enhancing discount window effectiveness; and
+
+``(ii) develop a written plan to remediate the identified       deficiencies and implement the identified enhancements, which       shall include--
+
+``(I) an identification of actions that will be taken to       enhance discount window effectiveness and remediate       identified deficiencies;
+
+``(II) timelines and milestones for implementing the plan       and measures to demonstrate how the implemented improvements       will be maintained on an ongoing basis; and
+
+``(III) measures of managing and controlling any       deficiencies and current operations until the plan is       implemented in full.
+
+``(D) Report to congress on review and plan.--
+
+``(i) In general.--Not later than 365 days after the date       of enactment of this paragraph, the Board of Governors shall       submit a report to the Committee on Financial Services of the       House of Representatives and the Committee on Banking,       Housing, and Urban Affairs of the Senate containing--
+
+``(I) the findings of the review required by subparagraph       (A); and
+
+``(II) the remediation plan required by subparagraph (C).
+
+``(ii) Consultation.--Before submitting the report required       by clause (i), the Board of Governors shall--
+
+``(I) provide a copy of the proposed report to the       Comptroller of the Currency, the Federal Deposit Insurance       Corporation, and the Secretary of the Treasury; and
+
+``(II) provide the Comptroller of the Currency, the Federal       Deposit Insurance Corporation, and the Secretary of the       Treasury with an opportunity to provide feedback on the       report.
+
+``(iii) Testimony.--The Chairman of the Board of Governors       shall, at the semi-annual hearing required under section 2B,       testify with respect to the contents of the report required       under this subparagraph.
+
+``(E) Annual reports to congress.--
+
+``(i) Reports by the board.--The Board of Governors shall       submit an annual report to the Committee on Financial       Services of the House of Representatives and the Committee on       Banking, Housing, and Urban Affairs of the Senate containing       a review of the effectiveness of discount window operations       and a progress report on the actions taken to implement the       identified enhancements described in subparagraph (C).
+
+``(ii) Reports by the inspector general.--The Inspector       General of the Board of Governors of the Federal Reserve       System and the Bureau of Consumer Financial Protection shall       submit an annual report to the Committee on Financial       Services of the House of Representatives and the Committee on       Banking, Housing, and Urban Affairs of the Senate containing       a report on the progress of the Board of Governors in       implementing the remediation plan required by subparagraph       (C).
+
+``(F) Confidential report information.--Any report required       under this paragraph may contain a confidential annex       containing information that, if made public, could--
+
+``(i) impact monetary policy, financial stability, or       cybersecurity; or
+
+``(ii) significantly endanger the financial stability of       any financial institution.
+
+``(G) Repeal.--This paragraph shall be repealed on the date       on which the Board of Governors notifies the Congress and       publishes on a public website of the Board of Governors that       the remediation plan required under subparagraph (C) has been       fully implemented.''.
+
+Mr. HILL of Arkansas.  I rise today in support of Ms. De La Cruz's bill, the Bringing  the Discount Window into the 21st Century Act.
+
+It is critical that our banks have the ability to have emergency  liquidity in the case of a crisis or having liquidity intraday in the  banking day without a stigma. These are challenges. They were  challenges before the financial crisis, but it continues today.
+
+This bill allows banks to keep credit flowing through the economy  while reducing risks that a panic-induced bank run would lead to  unnecessary bank failures.
+
+The discount window has been underused and burdened by operational  difficulties and stigma. We have seen that on this House floor in our  economy, most recently in the failures of Silicon Valley Bank and  Signature Bank in the spring of 2023, where fear of a market reaction  and outdated technology delayed the use of the discount window when it  was needed most.
+
+It is critical that the Federal Reserve learn from these mistakes of  the past and allow the discount window to fulfill its role as the  primary tool for stabilizing the financial system in a time of stress.
+
+Representative De La Cruz's bipartisan bill would do just that by  directing the Fed to conduct a review of the discount window, submit a  plan to Congress with concrete, actionable reforms, and then provide  regular updates on its implementation.
+
+For example, H.R. 3390 explicitly directs the Federal Reserve to  evaluate whether extending operating hours and improving technology  would make the discount window more accessible and thereby more  effective. In requiring the Fed to make changes based on these  findings, H.R. 3390 goes beyond a study bill and would meaningfully  address deficiencies that would make the American financial system  stronger and more stable.
+
+Mr. Speaker, I thank the gentlewoman from south Texas (Ms. De La  Cruz) for her leadership on this important issue to make sure the Fed  is ready and the discount window use is appropriate for the 21st  century, where money now moves, Mr. Speaker, at the press of a button.
+
+Mr. Speaker, I urge my colleagues to support this bill, and I reserve  the balance of my time.
+
+Mr. HILL of Arkansas. Mr. Speaker, I include in the Record the CBO  estimate for this bill.   EFFECTS ON DIRECT SPENDING AND REVENUES OF LEGISLATION CONSIDERED UNDER SUSPENSION OF THE RULES IN THE HOUSE OF                                     REPRESENTATIVES WEEK OF FEBRUARY 9, 2026 ----------------------------------------------------------------------------------------------------------------                                                                                                   Additional                                                                                                 Information on           Bill  Number                   Title         Effect on Direct   Effect on Revenues    Direct Spending                                                            Spending                               and Revenue                                                                                                     Effects ---------------------------------------------------------------------------------------------------------------- H.R. 3390.......................  Bringing the        None..............  Reduce by at Least  Would increase                                    Discount Window                         $500K.              deficits by more                                    into the 21st                                               than $500K.                                    Century Act, as                                    amended. ---------------------------------------------------------------------------------------------------------------- Source: Congressional Budget Office.
+
+Mr. HILL of Arkansas.  De La Cruz), the author of this important  legislation.
+
+Ms. De La CRUZ. Mr. Speaker, I thank Chairman Hill for yielding.
+
+Mr. Speaker, today, I rise in support of my bill, H.R. 3390, the  Bringing the Discount Window into the 21st Century Act of 2025, which  has received broad bipartisan support in the Financial Services  Committee.
+
+H.R. 3390 addresses needed improvements for the Federal Reserve's  discount window operations and technology to ensure it is better  equipped to serve depository institutions, including community banks,  which strengthens the resiliency of our U.S. financial system.
+
+The Federal Reserve's important role as the lender of last resort is  supported by the Fed's discount window. In times when depository  institutions need liquidity, they can rely on the discount window to  fulfill short-term liquidity needs by pledging high-quality collateral  such as U.S. Treasuries in return for cash.
+
+Unfortunately, as we saw most recently in the 2023 bank failures,  stigma remains, which can cause the discount window to be underused or  banks to delay accessing it for fear of market reactions.
+
+Bringing the Discount Window into the 21st Century Act ensures that  Congress acts on the bipartisan consensus to modernize the Federal  Reserve's discount window operations and reduce the stigma of accessing  it.
+
+H.R. 3390 does so by requiring the Federal Reserve to conduct a  review of the discount window to identify deficiencies and develop a  remediation plan. This review will identify improvements in all aspects  of discount window operations, including technology, operating hours,  stigma, and interaction with other providers of liquidity, including  the Federal Home Loan Banks, during both normal operations and times of  financial stress.
+
+By improving efficiencies in the U.S. banking system, we are ensuring  homeowners, small businesses, and farmers can access capital from their  financial institutions when they need it most.
+
+Mr. Speaker, I urge my colleagues to join me in support of H.R. 3390.
+
+Mr. Speaker, I thank the gentlewoman from south Texas for advancing  this bill. I thank the minority's consistent work to make sure that  this is a bill that will substantially direct the Federal Reserve to  make sure our discount window is effective and used by our financial  institutions to enhance financial stability.
+
+Mr. Speaker, I urge both sides of the aisle to vote ``yes,'' and I  yield back the balance of my time.

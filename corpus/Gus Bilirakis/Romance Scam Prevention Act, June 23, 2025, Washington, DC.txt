@@ -1,0 +1,139 @@
+Romance Scam Prevention Act
+
+
+https://justfacts.votesmart.org/public-statement/1692730/romance-scam-prevention-act
+
+
+Mr. BILIRAKIS. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 2481) to require online dating service providers to provide  fraud ban notifications to online dating servicemembers, and for other  purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 2481
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Romance Scam Prevention       Act''.       SEC. 2. ROMANCE SCAM PREVENTION.
+
+(a) Fraud Ban Notification.--
+
+(1) In general.--An online dating service provider shall       provide to a member of the online dating service a fraud ban       notification if       the member has received a message through the online dating       service from a banned member of the online dating service.
+
+(2) Required contents.--A fraud ban notification under       paragraph (1) shall include the following:
+
+(A) The username or other profile identifier of the banned       member, as well as the most recent time when the member to       whom the notification is being provided sent or received a       message through the online dating service to or from the       banned member.
+
+(B) A statement, as applicable, that the banned member       identified in subparagraph (A) may have been using a false       identity or attempting to defraud members.
+
+(C) A statement that a member should not send cash or       another form of currency or personal financial information to       another member.
+
+(D) Information regarding best practices to avoid online       fraud or being defrauded by a member of an online dating       service, which may be provided through a link to another web       page or disclosure.
+
+(E) Contact information to reach the customer service       department of the online dating service provider.
+
+(3) Manner and timing.--
+
+(A) Manner.--A fraud ban notification under paragraph (1)       shall be--
+
+(i) clear and conspicuous; and
+
+(ii) provided by email, text message, or, if consented to       by the member receiving the fraud ban notification, other       appropriate means of communication.
+
+(B) Timing.--
+
+(i) In general.--Except as provided in clauses (ii) and       (iii), an online dating service provider shall provide a       fraud ban notification under paragraph (1) not later than 24       hours after the fraud ban is initiated against the banned       member.
+
+(ii) Delay based on judgment of provider.--If, in the       judgment of the online dating service provider, the       circumstances require a fraud ban notification under       paragraph (1) to be provided after the 24-hour period       described in clause (i), the online dating service provider       shall, except as provided in clause (iii), provide the       notification not later than 3 days after the day on which the       fraud ban is initiated against the banned member.
+
+(iii) Delay upon request of law enforcement official.--If,       due to an ongoing investigation, a law enforcement official       requests an online dating service provider to delay providing       a fraud ban notification under paragraph (1) beyond the time       when the notification is required to be provided under clause       (i) or (ii), the online dating service provider--
+
+(I) may not provide the notification before the end of the       period of delay (including any extension of such period)       requested by the law enforcement official; and
+
+(II) shall provide the notification not later than 3 days       after the last day of the period of delay (including any       extension of such period) requested by the law enforcement       official.
+
+(4) Safe harbor applicability.--An online dating service       provider is not liable to a member, a banned member, or a       former member for a claim based on an online dating service       provider's action to comply with the requirements for       providing a fraud ban notification under this subsection.
+
+(b) Enforcement.--
+
+(1) Enforcement by the commission.--
+
+(A) Unfair or deceptive acts or practices.--A violation of       this section or a regulation promulgated under this section       shall be treated as a violation of a rule defining an unfair       or deceptive act or practice under section 18(a)(1)(B) of the       Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+(B) Powers of commission.--
+
+(i) In general.--The Commission shall enforce this section       in the same manner, by the same means, and with the same       jurisdiction, powers, and duties as though all applicable       terms and provisions of the Federal Trade Commission Act (15       U.S.C. 41 et seq.) were incorporated into and made a part of       this section.
+
+(ii) Privileges and immunities.--Any person who violates       this section shall be subject to the penalties and entitled       to the privileges and immunities provided in the Federal       Trade Commission Act.
+
+(iii) Authority preserved.--Nothing in this section may be       construed to limit the authority of the Commission under any       other provision of law.
+
+(2) Enforcement by states.--
+
+(A) In general.--Subject to subparagraph (B), in any case       in which the attorney general of a State has reason to       believe that an interest of the residents of the State has       been or is threatened or adversely affected by the engagement       of any person in an act or practice that violates this       section, the attorney general of the State may, as parens       patriae, bring a civil action on behalf of the residents of       the State in an appropriate district court of the United       States to obtain appropriate relief.
+
+(B) Rights of the commission.--
+
+(i) Notice to the commission.--
+
+(I) In general.--Except as provided in subclause (III),       before initiating a civil action under subparagraph (A), the       attorney general of a State shall notify the Commission in       writing that the attorney general intends to bring such civil       action.
+
+(II) Contents.--The notification required by subclause (I)       shall include a copy of the complaint to be filed to initiate       the civil action.
+
+(III) Exception.--If it is not feasible for the attorney       general of a State to provide the notification required by       subclause (I) before initiating a civil action under       subparagraph (A), the attorney general shall notify the       Commission immediately upon instituting the civil action.
+
+(ii) Intervention by the commission.--Upon receiving the       notice required by clause (i)(I), the Commission may       intervene in the civil action and, upon intervening--
+
+(I) be heard on all matters arising in the civil action;       and
+
+(II) file petitions for appeal of a decision in the civil       action.
+
+(C) Limitation on state action while federal action is       pending.--If the Commission has instituted a civil action for       a violation of this section or a regulation promulgated under       this section, no attorney general of a State may bring an       action under subparagraph (A) during the pendency of that       action against any defendant named in the complaint of the       Commission for any violation of this section or a regulation       promulgated under this section alleged in the complaint.
+
+(D) Rule of construction.--For purposes of bringing a civil       action under this subsection, nothing in this subsection may       be construed to prevent the attorney general of a State from       exercising the powers conferred on the attorney general by       the laws of the State to conduct investigations, to       administer oaths or affirmations, or to compel the attendance       of witnesses or the production of documentary or other       evidence.
+
+(E) Actions by other state officials.--In addition to a       civil action brought by an attorney general under       subparagraph (A), any other consumer protection officer of a       State who is authorized by the State to do so may bring a       civil action under subparagraph (A), subject to the same       requirements and limitations that apply under this paragraph       to a civil action brought by an attorney general.
+
+(c) One National Standard.--
+
+(1) In general.--A State, or political subdivision thereof,       may not maintain, enforce, prescribe, or continue in effect a       provision of any law, rule, regulation, requirement, or       standard having the force and effect of law of the State, or       political subdivision of the State, that requires an online       dating service provider to notify, prohibits an online dating       service provider from notifying, or otherwise affects the       manner in which an online dating service provider is required       or permitted to notify, a member of the online dating service       that the member has received a message from or sent a message       to a member whose account or profile on the online dating       service is the subject of a fraud ban through the online       dating service.
+
+(2) Rule of construction.--This subsection may not be       construed to preempt any law of a State or political       subdivision of a State relating to contracts or torts.
+
+(d) Definitions.--In this section:
+
+(1) Banned member.--The term ``banned member'' means a       member of an online dating service whose account or profile       on the online dating service is the subject of a fraud ban.
+
+(2) Commission.--The term ``Commission'' means the Federal       Trade Commission.
+
+(3) Fraud ban.--The term ``fraud ban'' means the       termination or suspension of the account or profile of a       member of an online dating service because, in the judgment       of the online dating service provider, there is a significant       risk the member will attempt to obtain cash or another form       of currency from another member through fraudulent means.
+
+(4) Member.--The term ``member'' means an individual who--
+
+(A) submits to an online dating service provider the       information required by the provider to establish an account       or profile on the online dating service; and
+
+(B) is allowed by the provider to establish such an account       or profile.
+
+(5) Online dating service.--The term ``online dating       service'' means a service that--
+
+(A) is provided through a website or a mobile application;       and
+
+(B) offers members access to dating or romantic       relationships with other members by arranging or facilitating       the social introduction of members.
+
+(6) Online dating service provider.--The term ``online       dating service provider'' means a person engaged in the       business of offering an online dating service.
+
+(7) State.--The term ``State'' means each State of the       United States, the District of Columbia, each commonwealth,       territory, or possession of the United States, and each       federally recognized Indian Tribe.
+
+(e) Effective Date.--This section shall take effect on the       date that is 1 year after the date of the enactment of this       Act.
+
+Mr. BILIRAKIS.
+
+Mr. Speaker, I rise today in support of H.R. 2481, the Romance Scam  Prevention Act, led by Representative Valadao. This legislation would  require online dating platforms to notify users when they have  interacted with someone who has been removed from the platform for  fraudulent activity.
+
+Online dating platforms have been around for over 30 years, and they  continue to grow in popularity. While they can help people connect,  their accessibility and digital format have also created new risks,  unfortunately.
+
+The FTC, the Federal Trade Commission, reported that romance scams  lost victims $1.3 billion in 2022. I have constituents who were  victims, unfortunately. Many of those affected were elderly individuals  who lost their retirement savings. What a shame.
+
+By requiring a fraud ban notification, we can put a stop to these  senseless scams and protect vulnerable consumers.
+
+Mr. Speaker, I urge my colleagues to join me in voting in favor of  H.R.
+
+Mr. BILIRAKIS. Mr. Speaker, in closing, I urge a ``yes'' vote on this  particular bill.

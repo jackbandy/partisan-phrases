@@ -1,0 +1,343 @@
+Mikaela Naylon Give Kids A Chance Act
+
+
+https://justfacts.votesmart.org/public-statement/1697276/mikaela-naylon-give-kids-a-chance-act
+
+
+Mr. CARTER of Georgia. Mr. Speaker, I move to suspend the rules and  pass the bill (H.R. 1262) to amend the Federal Food, Drug, and Cosmetic  Act with respect to molecularly targeted pediatric cancer  investigations, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 1262
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+(a) Short Title.--This Act may be cited as the ``Mikaela       Naylon Give Kids a Chance Act''.
+
+(b) Table of Contents.--The table of contents for this Act       is as follows:  Sec. 1. Short title; table of contents. Sec. 2. Research into pediatric uses of drugs; additional authorities                of Food and Drug Administration regarding molecularly                targeted cancer drugs. Sec. 3. Ensuring completion of pediatric study requirements. Sec. 4. FDA report on PREA enforcement. Sec. 5. Extension of authority to issue priority review vouchers to                encourage treatments for rare pediatric diseases. Sec. 6. Limitations on exclusive approval or licensure of orphan drugs. Sec. 7. Program for pediatric studies of drugs. Sec. 8. Organ Procurement and Transplantation Network. Sec. 9. Establishment of Abraham Accords Office within Food and Drug                Administration. Sec. 10. Increasing transparency in generic drug applications. Sec. 11. Medicare Improvement Fund.       SEC. 2. RESEARCH INTO PEDIATRIC USES OF DRUGS; ADDITIONAL                     AUTHORITIES OF FOOD AND DRUG ADMINISTRATION                     REGARDING MOLECULARLY TARGETED CANCER DRUGS.
+
+(a) In General.--
+
+(1) Additional active ingredient for application drug;       limitation regarding novel-combination application drug.--      Section 505B(a)(3) of the Federal Food, Drug, and Cosmetic       Act (21 U.S.C. 355c(a)(3)) is amended--
+
+(A) by redesignating subparagraphs (B) and (C) as       subparagraphs (C) and (D), respectively; and
+
+(B) by striking subparagraph (A) and inserting the       following:
+
+``(A) In general.--For purposes of paragraph (1)(B), the       investigation described in this paragraph is a molecularly       targeted pediatric cancer investigation of--
+
+``(i) the drug or biological product for which the       application referred to in such paragraph is submitted; or
+
+``(ii) such drug or biological product used in combination       with--
+
+``(I) an active ingredient of a drug or biological       product--
+
+``(aa) for which an approved application under section       505(j) under this Act or under section 351(k) of the Public       Health Service Act is in effect; and
+
+``(bb) that is determined by the Secretary, after       consultation with the applicant, to be part of the standard       of care for treating a pediatric cancer; or
+
+``(II) an active ingredient of a drug or biological       product--
+
+``(aa) for which an approved application under section       505(b) of this Act or section 351(a) of the Public Health       Service Act to treat an adult cancer is in effect and is held       by the same person submitting the application under paragraph       (1)(B); and
+
+``(bb) that is directed at a molecular target that the       Secretary determines to be substantially relevant to the       growth or progression of a pediatric cancer.
+
+``(B) Additional requirements.--
+
+``(i) Design of investigation.--A molecularly targeted       pediatric cancer investigation referred to in subparagraph       (A) shall be designed to yield clinically meaningful       pediatric study data that is gathered using appropriate       formulations for each age group for which the study is       required, regarding dosing, safety, and preliminary efficacy       to inform potential pediatric labeling.
+
+``(ii) Limitation.--An investigation described in       subparagraph (A)(ii) may be required only if the drug or       biological product       for which the application referred to in paragraph (1)(B)       contains either--
+
+``(I) a single new active ingredient; or
+
+``(II) more than one active ingredient, if an application       for the combination of active ingredients has not previously       been approved but each active ingredient is in a drug product       that has been previously approved to treat an adult cancer.
+
+``(iii) Results of already-completed preclinical studies of       application drug.--With respect to an investigation required       pursuant to paragraph (1)(B), the Secretary may require the       results of any completed preclinical studies relevant to the       initial pediatric study plan be submitted to the Secretary at       the same time that the initial pediatric study plan required       under subsection (e)(1) is submitted.
+
+``(iv) Rule of construction regarding inactive       ingredients.--With respect to a combination of active       ingredients referred to in subparagraph (A)(ii), such       subparagraph shall not be construed as addressing the use of       inactive ingredients with such combination.''.
+
+(2) Determination of applicable requirements.--Section       505B(e)(1) of the Federal Food, Drug, and Cosmetic Act (21       U.S.C. 355c(e)(1)) is amended by adding at the end the       following: ``The Secretary shall determine whether       subparagraph (A) or (B) of subsection (a)(1) applies with       respect to an application before the date on which the       applicant is required to submit the initial pediatric study       plan under paragraph (2)(A).''.
+
+(3) Clarifying applicability.--Section 505B(a)(1) of the       Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355c(a)(1))       is amended by adding at the end the following:
+
+``(C) Rule of construction.--No application that is subject       to the requirements of subparagraph (B) shall be subject to       the requirements of subparagraph (A), and no application (or       supplement to an application) that is subject to the       requirements of subparagraph (A) shall be subject to the       requirements of subparagraph (B).''.
+
+(4) Conforming amendments.--Section 505B(a) of the Federal       Food, Drug, and Cosmetic Act (21 U.S.C. 355c(a)) is amended--
+
+(A) in paragraph (3)(C), as redesignated by paragraph       (1)(A) of this subsection, by striking ``investigations       described in this paragraph'' and inserting ``investigations       referred to in subparagraph (A)''; and
+
+(B) in paragraph (3)(D), as redesignated by paragraph       (1)(A) of this subsection, by striking ``the assessments       under paragraph (2)(B)'' and inserting ``the assessments       required under paragraph (1)(A)''.
+
+(b) Guidance.--The Secretary of Health and Human Services,       acting through the Commissioner of Food and Drugs, shall--
+
+(1) not later than 12 months after the date of enactment of       this Act, issue draft guidance on the implementation of the       amendments made by subsection (a); and
+
+(2) not later than 12 months after closing the comment       period on such draft guidance, finalize such guidance.
+
+(c) Applicability.--The amendments made by this section       apply with respect to any application under section 505(b) of       the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b))       and any application under section 351(a) of the Public Health       Service Act (42 U.S.C. 262(a)), that is submitted on or after       the date that is 3 years after the date of enactment of this       Act.
+
+(d) Reports to Congress.--
+
+(1) Secretary of health and human services.--Not later than       6 years after the date of enactment of this Act, the       Secretary of Health and Human Services shall submit to the       Committee on Energy and Commerce of the House of       Representatives and the Committee on Health, Education,       Labor, and Pensions of the Senate a report on the Secretary's       efforts, in coordination with industry, to ensure       implementation of the amendments made by subsection (a).
+
+(2) GAO study and report.--
+
+(A) Study.--Not later than 8 years after the date of       enactment of this Act, the Comptroller General of the United       States shall conduct a study of the effectiveness of       requiring assessments and investigations described in section       505B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C.       355c), as amended by subsection (a), in the development of       drugs and biological products for pediatric cancer       indications, including consideration of any benefits to, or       burdens on, pediatric cancer drug development.
+
+(B) Findings.--Not later than 10 years after the date of       enactment of this Act, the Comptroller General shall submit       to the Committee on Energy and Commerce of the House of       Representatives and the Committee on Health, Education,       Labor, and Pensions of the Senate a report containing the       findings of the study conducted under subparagraph (A).       SEC. 3. ENSURING COMPLETION OF PEDIATRIC STUDY REQUIREMENTS.
+
+(a) Equal Accountability for Pediatric Study       Requirements.--Section 505B(d) of the Federal Food, Drug, and       Cosmetic Act (21 U.S.C. 355c(d)) is amended--
+
+(1) in paragraph (1), by striking ``Beginning 270'' and       inserting ``Noncompliance letter.--Beginning 270'';
+
+(2) in paragraph (2)--
+
+(A) by striking ``The drug or'' and inserting ``Effect of       noncompliance.--The drug or''; and
+
+(B) by striking ``(except that the drug or biological       product shall not be subject to action under section 303)''       and inserting ``(except that the drug or biological product       shall be subject to action under section 303 only if such       person demonstrated a lack of due diligence in satisfying the       applicable requirement)''; and
+
+(3) by adding at the end the following:
+
+``(3) Limitation.--The Secretary shall not issue       enforcement actions under section 303 for failures under this       subsection in the case of a drug or biological product that       is no longer marketed.''.
+
+(b) Due Diligence.--Section 505B(d) of the Federal Food,       Drug, and Cosmetic Act (21 U.S.C. 355c(d)), as amended by       subsection (a), is further amended by adding at the end the       following:
+
+``(4) Due diligence.--Before the Secretary may conclude       that a person failed to submit or otherwise meet a       requirement as described in the matter preceding paragraph       (1), the Secretary shall--
+
+``(A) issue a noncompliance letter pursuant to paragraph       (1);
+
+``(B) provide such person with a 45-day period beginning on       the date of receipt of such noncompliance letter to respond       in writing as set forth in such paragraph; and
+
+``(C) after reviewing such written response, determine       whether the person demonstrated a lack of due diligence in       satisfying such requirement.''.
+
+(c) Conforming Amendments.--Section 303(f)(4)(A) of the       Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(4)(A))       is amended by striking ``or 505-1'' and inserting ``505-1, or       505B''.
+
+(d) Transition Rule.--The Secretary of Health and Human       Services may take enforcement action under section 303 of the       Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333) only for       failures described in section 505B(d) of such Act (21 U.S.C.       355c(d)) that occur on or after the date that is 180 days       after the date of enactment of this Act.       SEC. 4. FDA REPORT ON PREA ENFORCEMENT.
+
+Section 508(b) of the Food and Drug Administration Safety       and Innovation Act (21 U.S.C. 355c-1(b)) is amended--
+
+(1) in paragraph (11), by striking the semicolon at the end       and inserting ``, including an evaluation of compliance with       deadlines provided for in deferrals and deferral       extensions;'';
+
+(2) in paragraph (15), by striking ``and'' at the end;
+
+(3) in paragraph (16), by striking the period at the end       and inserting ``; and''; and
+
+(4) by adding at the end the following:
+
+``(17) a listing of penalties, settlements, or payments       under section 303 of the Federal Food, Drug, and Cosmetic Act       (21 U.S.C. 353) for failure to comply with requirements under       such section 505B, including, for each penalty, settlement,       or payment, the name of the drug, the sponsor thereof, and       the amount of the penalty, settlement, or payment imposed.''.       SEC. 5. EXTENSION OF AUTHORITY TO ISSUE PRIORITY REVIEW                     VOUCHERS TO ENCOURAGE TREATMENTS FOR RARE                     PEDIATRIC DISEASES.
+
+(a) Extension.--Paragraph (5) of section 529(b) of the       Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ff(b)) is       amended by striking ``December 20, 2024, unless'' and all       that follows through the period at the end and inserting       ``September 30, 2029.''.
+
+(b) User Fee Payment.--Section 529(c)(4) of the Federal       Food, Drug, and Cosmetic Act (21 U.S.C. 360ff(c)(4)) is       amended by striking subparagraph (A) and inserting the       following:
+
+``(A) In general.--The priority review user fee required by       this subsection shall be due upon the submission of a human       drug application under section 505(b)(1) or section 351(a) of       the Public Health Service Act for which the priority review       voucher is used. All other user fees associated with the       human drug application shall be due as required by the       Secretary or under applicable law.''.
+
+(c) GAO Report on Effectiveness of Rare Pediatric Disease       Priority Voucher Awards in Incentivizing Rare Pediatric       Disease Drug Development.--
+
+(1) GAO study.--
+
+(A) Study.--The Comptroller General of the United States       shall conduct a study of the effectiveness of awarding rare       pediatric disease priority vouchers under section 529 of the       Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360ff), as       amended by subsection (a), in the development of human drug       products that treat or prevent rare pediatric diseases (as       defined in such section 529).
+
+(B) Contents of study.--In conducting the study under       subparagraph (A), the Comptroller General shall examine the       following:
+
+(i) The indications for each drug or biological product       that--
+
+(I) is the subject of a rare pediatric disease product       application (as defined in section 529 of the Federal Food,       Drug, and Cosmetic Act (21 U.S.C. 360ff)) for which a       priority review voucher was awarded; and
+
+(II) was approved under section 505 of the Federal Food,       Drug, and Cosmetic Act (42 U.S.C. 355) or licensed under       section 351 of the Public Health Service Act (42 U.S.C. 262).
+
+(ii) Whether, and to what extent, an unmet need related to       the treatment or prevention of a rare pediatric disease was       met through the approval or licensure of such a drug or       biological product.
+
+(iii) The size of the company to which a priority review       voucher was awarded under section 529 of the Federal Food,       Drug, and Cosmetic Act (21 U.S.C. 360ff) for such a drug or       biological product.
+
+(iv) The value of such priority review voucher if       transferred.
+
+(v) Identification of each drug for which a priority review       voucher awarded under such section 529 was used.
+
+(vi) The size of the company using each priority review       voucher awarded under such section 529.
+
+(vii) The length of the period of time between the date on       which a priority review voucher was awarded under such       section 529 and the date on which it was used.
+
+(viii) Whether, and to what extent, an unmet need related       to the treatment or prevention of a rare pediatric disease       was met through the approval under section 505 of the Federal       Food, Drug, and Cosmetic Act (42 U.S.C. 355) or licensure       under section 351 of the Public Health Service Act (42 U.S.C.       262) of a drug for which a priority review voucher was used.
+
+(ix) Whether, and to what extent, companies were motivated       by the availability of priority review vouchers under section       529 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C.       360ff) to attempt to develop a drug for a rare pediatric       disease.
+
+(x) Whether, and to what extent, pediatric review vouchers       awarded under such section were successful in stimulating       development and expedited patient access to drug products for       treatment or prevention of a rare pediatric disease that       wouldn't otherwise take place without the incentive provided       by such vouchers.
+
+(xi) The impact of such priority review vouchers on the       workload, review process, and public health prioritization       efforts of the Food and Drug Administration.
+
+(xii) Any other incentives in Federal law that exist for       companies developing drugs or biological products described       in clause (i).
+
+(2) Report on findings.--Not later than 5 years after the       date of the enactment of this Act, the Comptroller General of       the United States shall submit to the Committee on Energy and       Commerce of the House of Representatives and the Committee on       Health, Education, Labor, and Pensions of the Senate a report       containing the findings of the study conducted under       paragraph (1).       SEC. 6. LIMITATIONS ON EXCLUSIVE APPROVAL OR LICENSURE OF                     ORPHAN DRUGS.
+
+(a) In General.--Section 527 of the Federal Food, Drug, and       Cosmetic Act (21 U.S.C. 360cc) is amended--
+
+(1) in subsection (a), in the matter following paragraph       (2), by striking ``same disease or condition'' and inserting       ``same approved use or indication within such rare disease or       condition'';
+
+(2) in subsection (b)--
+
+(A) in the matter preceding paragraph (1), by striking       ``same rare disease or condition'' and inserting ``same       approved use or indication for which such 7-year period       applies to such already approved or licensed drug''; and
+
+(B) in paragraph (1), by inserting ``, relating to the       approved use or indication,'' after ``the needs'';
+
+(3) in subsection (c)(1), by striking ``same rare disease       or condition as the already approved drug'' and inserting       ``same use or indication for which the already approved or       licensed drug was approved or licensed''; and
+
+(4) by adding at the end the following:
+
+``(f) Approved Use or Indication Defined.--In this section,       the term `approved use or indication' means the use or       indication approved under section 505 of this Act or licensed       under section 351 of the Public Health Service Act for a drug       designated under section 526 for a rare disease or       condition.''.
+
+(b) Application of Amendments.--The amendments made by       subsection (a) shall apply with respect to any drug       designated under section 526 of the Federal Food, Drug, and       Cosmetic Act (21 U.S.C. 360bb), regardless of the date on       which the drug was so designated, and regardless of the date       on which the drug was approved under section 505 of such Act       (21 U.S.C. 355) or licensed under section 351 of the Public       Health Service Act (42 U.S.C. 262).       SEC. 7. PROGRAM FOR PEDIATRIC STUDIES OF DRUGS.
+
+Section 409I(d)(1) of the Public Health Service Act (42       U.S.C. 284m(d)(1)) is amended by striking ``section,'' and       all that follows through the period at the end and inserting       ``section, $25,000,000 for each of fiscal years 2026 through       2028.''.       SEC. 8. ORGAN PROCUREMENT AND TRANSPLANTATION NETWORK.
+
+Section 372 of the Public Health Service Act (42 U.S.C.       274) is amended--
+
+(1) in subsection (b)(2)--
+
+(A) by moving the margins of subparagraphs (M) through (O)       2 ems to the left;
+
+(B) in subparagraph (A)--
+
+(i) in clause (i), by striking ``, and'' and inserting ``;       and''; and
+
+(ii) in clause (ii), by striking the comma at the end and       inserting a semicolon;
+
+(C) in subparagraph (C), by striking ``twenty-four-hour       telephone service'' and inserting ``24-hour telephone or       information technology service'';
+
+(D) in each of subparagraphs (B) through (M), by striking       the comma at the end and inserting a semicolon;
+
+(E) in subparagraph (N), by striking ``transportation,       and'' and inserting ``transportation;'';
+
+(F) in subparagraph (O), by striking the period and       inserting a semicolon; and
+
+(G) by adding at the end the following:
+
+``(P) encourage the integration of electronic health       records systems through application programming interfaces       (or successor technologies) among hospitals, organ       procurement organizations, and transplant centers, including       the use of automated electronic hospital referrals and the       grant of remote, electronic access to hospital electronic       health records of potential donors by organ procurement       organizations, in a manner that complies with the privacy       regulations promulgated under the Health Insurance       Portability and Accountability Act of 1996, at part 160 of       title 45, Code of Federal Regulations, and subparts A, C, and       E of part 164 of such title (or any successor regulations);       and
+
+``(Q) consider establishing a dashboard to display the       number of transplants performed, the types of transplants       performed, the number and types of organs that entered the       Organ Procurement and Transplantation Network system and       failed to be transplanted, and other appropriate statistics,       which should be updated more frequently than annually.''; and
+
+(2) by adding at the end the following:
+
+``(d) Registration Fees.--
+
+``(1) In general.--The Secretary may collect registration       fees from any member of the Organ Procurement and       Transplantation Network for each transplant candidate such       member places on the list described in subsection       (b)(2)(A)(i). Such registration fees shall be collected and       distributed only to support the operation of the Organ       Procurement and Transplantation Network. Such registration       fees are authorized to remain available until expended.
+
+``(2) Collection.--The Secretary may collect the       registration fees under paragraph (1) directly or through       awards made under subsection (b)(1)(A).
+
+``(3) Distribution.--Any amounts collected under this       subsection shall--
+
+``(A) be credited to the currently applicable       appropriation, account, or fund of the Department of Health       and Human Services as discretionary offsetting collections;       and
+
+``(B) be available, only to the extent and in the amounts       provided in advance in appropriations Acts, to distribute       such fees among awardees described in subsection (b)(1)(A).
+
+``(4) Transparency.--The Secretary shall--
+
+``(A) promptly post on the website of the Organ Procurement       and Transplantation Network--
+
+``(i) the amount of registration fees collected under this       subsection from each member of the Organ Procurement and       Transplantation Network; and
+
+``(ii) a list of activities such fees are used to support;       and
+
+``(B) update the information posted pursuant to       subparagraph (A), as applicable for each calendar quarter for       which fees are collected under paragraph (1).
+
+``(5) GAO review.--Not later than 2 years after the date of       enactment of this subsection, the Comptroller General of the       United States shall, to the extent data are available--
+
+``(A) conduct a review concerning the activities under this       subsection; and
+
+``(B) submit to the Committee on Health, Education, Labor,       and Pensions and the Committee on Finance of the Senate and       the Committee on Energy and Commerce of the House of       Representatives, a report on such review, including related       recommendations, as applicable.
+
+``(6) Sunset.--The authority to collect registration fees       under paragraph (1) shall expire on the date that is 3 years       after the date of enactment of the Mikaela Naylon Give Kids a       Chance Act.''.       SEC. 9. ESTABLISHMENT OF ABRAHAM ACCORDS OFFICE WITHIN FOOD                     AND DRUG ADMINISTRATION.
+
+(a) In General.--Chapter X of the Federal Food, Drug, and       Cosmetic Act (21 U.S.C. 391 et seq.) is amended by adding at       the end the following:       ``SEC. 1015. ABRAHAM ACCORDS OFFICE.
+
+``(a) In General.--The Secretary, acting through the       Commissioner of Food and Drugs, shall establish within the       Food and Drug Administration an office, to be known as the       Abraham Accords Office, to be headed by a director.
+
+``(b) Office.--Not later than two years after the date of       enactment of this section, the Secretary shall--
+
+``(1) in consultation with the governments of Abraham       Accords countries, as well as appropriate United States       Government diplomatic and security personnel--
+
+``(A) select the location of the Abraham Accords Office in       an Abraham Accords country; and
+
+``(B) establish such office; and
+
+``(2) assign to such office such personnel of the Food and       Drug Administration as the Secretary determines necessary to       carry out the functions of such office.
+
+``(c) Duties.--The Secretary, acting through the Director       of the Abraham Accords Office, shall--
+
+``(1) after the Abraham Accords Office is established--
+
+``(A) as part of the Food and Drug Administration's work to       strengthen the international oversight of regulated       commodities, provide technical assistance to regulatory       partners in Abraham Accords countries on strengthening       regulatory oversight and converging regulatory requirements       for the oversight of regulated products, including good       manufacturing practices and other issues relevant to       manufacturing medical products that are regulated by the Food       and Drug Administration; and
+
+``(B) facilitate interactions between the Food and Drug       Administration and interested parties in Abraham Accords       countries, including by sharing relevant information       regarding United States regulatory pathways with such       parties, and facilitate feedback on the research,       development, and manufacturing of products regulated in       accordance with this Act; and
+
+``(2) carry out other functions and activities as the       Secretary determines to be necessary to carry out this       section.
+
+``(d) Abraham Accords Country Defined.--In this section,       the term `Abraham Accords country' means a country identified       by the Department of State as having signed the Abraham       Accords Declaration.
+
+``(e) National Security.--Nothing in this section shall be       construed to require any action inconsistent with a national       security recommendation provided by the Federal       Government.''.
+
+(b) Report to Congress.--
+
+(1) In general.--Not later than 3 years after the date of       enactment of this Act, the Secretary of Health and Human       Services shall submit to the Congress a report on the Abraham       Accords Office, including--
+
+(A) an evaluation of how the Office has advanced progress       toward conformance with Food and Drug Administration       regulatory requirements by manufacturers in the Abraham       Accords countries;
+
+(B) a numerical count of parties that the Office has helped       facilitate interactions or feedback pursuant to section       1015(c)(1)(B) of the Federal Food, Drug, and Cosmetic Act (as       added by subsection (a));
+
+(C) a summary of technical assistance provided to       regulatory partners in Abraham Accords countries pursuant to       subparagraph (A) of such section 1015(c)(1); and
+
+(D) recommendations for increasing and improving       coordination between the Food and Drug Administration and       entities in Abraham Accords countries.
+
+(2) Abraham accords country defined.--In this subsection,       the term ``Abraham Accords country'' has the meaning given       such term in section 1015(d) of the Federal Food, Drug, and       Cosmetic Act (as added by subsection (a)).       SEC. 10. INCREASING TRANSPARENCY IN GENERIC DRUG                     APPLICATIONS.
+
+(a) In General.--Section 505(j)(3) of the Federal Food,       Drug, and Cosmetic Act (21 U.S.C. 355(j)(3)) is amended by       adding at the end the following:
+
+``(H)(i) Upon request (in controlled correspondence or an       analogous process) by a person that has submitted or intends       to submit an abbreviated application under this subsection       for a drug that is required by regulation to contain one or       more of the same inactive ingredients in the same       concentrations as the listed drug referred to, or for which       the Secretary determines there is a scientific justification       for an approach that is in vitro, in whole or in part, to be       used to demonstrate bioequivalence for a drug if such a drug       contains one or more of the same inactive ingredients in the       same concentrations as the listed drug referred to, the       Secretary shall inform the person whether such drug is       qualitatively and quantitatively the same as the listed drug.       The Secretary may also provide such information to such a       person on the Secretary's own initiative during the review of       an abbreviated application under this subsection for such       drug.
+
+``(ii) Notwithstanding section 301(j), if the Secretary       determines that such drug is not qualitatively or       quantitatively the same as the listed drug, the Secretary       shall identify and disclose to the person--
+
+``(I) the ingredient or ingredients that cause such drug       not to be qualitatively or quantitatively the same as the       listed drug; and
+
+``(II) for any ingredient for which there is an identified       quantitative deviation, the amount of such deviation.
+
+``(iii) If the Secretary determines that such drug is       qualitatively and quantitatively the same as the listed drug,       the Secretary shall not change or rescind such determination       after the submission of an abbreviated application for such       drug under this subsection unless--
+
+``(I) the formulation of the listed drug has been changed       and the Secretary has determined that the prior listed drug       formulation was withdrawn for reasons of safety or       effectiveness; or
+
+``(II) the Secretary makes a written determination that the       prior determination must be changed because an error has been       identified.
+
+``(iv) If the Secretary makes a written determination       described in clause (iii)(II), the Secretary shall provide       notice and a copy of the written determination to the person       making the request under clause (i).
+
+``(v) The disclosures authorized under clauses (i) and (ii)       are disclosures authorized by law, including for purposes of       section 1905 of title 18, United States Code. This       subparagraph shall not otherwise be construed to authorize       the disclosure of nonpublic qualitative or quantitative       information about the ingredients in a listed drug, or to       affect the status, if any, of such information as trade       secret or confidential commercial information for purposes of       section 301(j) of this Act, section 552 of title 5, United       States Code, or section 1905 of title 18, United States       Code.''.
+
+(b) Guidance.--
+
+(1) In general.--Not later than one year after the date of       enactment of this Act, the Secretary of Health and Human       Services shall issue draft guidance, or update guidance,       describing how the Secretary will determine whether a drug is       qualitatively and quantitatively the same as the listed drug       (as such terms are used in section 505(j)(3)(H) of the       Federal Food, Drug, and Cosmetic Act, as added by subsection       (a)), including with respect to assessing pH adjusters.
+
+(2) Process.--In issuing guidance under this subsection,       the Secretary of Health and Human Services shall--
+
+(A) publish draft guidance;
+
+(B) provide a period of at least 60 days for comment on the       draft guidance; and
+
+(C) after considering any comments received and not later       than one year after the close of the comment period on the       draft guidance, publish final guidance.
+
+(c) Applicability.--Section 505(j)(3)(H) of the Federal       Food, Drug, and Cosmetic Act, as added by subsection (a),       applies beginning on the date of enactment of this Act,       irrespective of the date on which the guidance required by       subsection (b) is finalized.       SEC. 11. MEDICARE IMPROVEMENT FUND.
+
+Section 1898(b)(1) of the Social Security Act (42 U.S.C.       1395iii(b)(1)) is amended by striking ``$1,403,000,000'' and       inserting ``$2,622,000,000''.
+
+Mr. Speaker, I rise today in strong support of the bipartisan Give  Kids a Chance Act, which supports research and development of drugs for  children with cancer and other rare diseases.
+
+Nearly 70 percent of rare diseases start in childhood, and most still  have no approved treatments. The Rare Pediatric Disease Priority Review  Voucher Program has been a catalyst for developing therapies for these  vulnerable populations.
+
+Thanks to this program, treatments have reached children who are  suffering from nearly 40 rare diseases, many of which previously had no  FDA-approved options and often led to severe disability or death before  adulthood. Since 2012, the Rare Pediatric Disease PRV Program has  helped bring more than 60 new treatments to market and has driven  investment in hundreds of additional therapies for rare pediatric  diseases that would otherwise be financially unviable.
+
+The Give Kids a Chance Act restores this critical program, ensuring  that we continue to spur innovation, improve outcomes for young  patients, and close gaps in pediatric drug research.
+
+Mr. Speaker, I encourage my colleagues to support this bill.
+
+Mr. CARTER of Georgia.
+
+Mr. CARTER of Georgia. Mr. Speaker, I apologize. I do have one other  speaker.
+
+Mr. CARTER of Georgia. Mr. Speaker, in closing, I encourage a ``yes''  vote on this bill, and I yield back the balance of my time.
