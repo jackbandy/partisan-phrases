@@ -2,6 +2,9 @@
 
 Which words and phrases are used most by Democrats vs. Republicans in the U.S. Senate? Visualized as an interactive bubble chart.
 
+![the original vision for this analysis, circa 2020](cover.png)
+*the original vision for this analysis, circa 2020*
+
 ## Setup
 
 ```bash
