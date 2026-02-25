@@ -3,7 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Partisan Phrases</title>
+  <title>Partisan Phrases — Democratic vs. Republican Language in Congress</title>
+  <meta name="description" content="Explore the words and phrases used most by lawmakers in the U.S. Congress. Interactive bubble chart of partisan language, updated weekly from public statements since January 2025.">
+  <meta name="keywords" content="partisan phrases, congress language, Democrats, Republicans, political speech, NLP, bubble chart, U.S. Congress">
+  <meta name="author" content="Jack Bandy">
+  <link rel="canonical" href="https://jackbandy.com/partisan-phrases/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://jackbandy.com/partisan-phrases/">
+  <meta property="og:title" content="Partisan Phrases — Language in Congress">
+  <meta property="og:description" content="Explore the words and phrases used most by lawmakers in the U.S. Congress. Interactive bubble chart updated weekly.">
+  <meta property="og:image" content="https://jackbandy.com/partisan-phrases/cover.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Partisan Phrases — Language in Congress">
+  <meta name="twitter:description" content="EExplore the words and phrases used most by lawmakers in the U.S. Congress. Interactive bubble chart updated weekly.">
+  <meta name="twitter:image" content="https://jackbandy.com/partisan-phrases/cover.png">
+
   <link rel="stylesheet" href="style.css">
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
@@ -26,7 +44,7 @@
       <button class="ngram-btn" data-ngram="2">2-word</button>
       <button class="ngram-btn" data-ngram="3">3-word</button>
     </div>
-    <button id="btn-show-more">Show 150 more random phrases</button>
+    <button id="btn-show-more">🔀 Show 150 more random phrases</button>
     <span id="phrase-count"></span>
   </div>
 
@@ -43,16 +61,16 @@
       <div id="panel-chart-note"></div>
     </div>
     <h3>Example Quotes</h3>
-    <button id="btn-more-quotes" class="hidden">Sample 10 More Random Quotes</button>
+    <button id="btn-more-quotes" class="hidden">🔀 Sample 10 More Random Quotes</button>
     <div id="panel-quotes"></div>
   </div>
 
   <div id="panel-overlay" class="hidden"></div>
 
   <footer>
-    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>'s public statements database. Updated weekly.</p>
+    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>'s public statements database. Auto-updated every Monday (in theory).</p>
     <p>Includes phrases used 20+ times across all legislators since January 2025.</p>
-    <p>This is a hobby project — bugs should be expected. <a href="https://github.com/jackbandy/partisan-phrases">Contributions welcome.</a></p>
+    <p>This is a hobby project — expect bugs. <a href="https://github.com/jackbandy/partisan-phrases">Contributions welcome.</a></p>
   </footer>
 
   <script src="app.js"></script>
