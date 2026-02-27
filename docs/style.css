@@ -435,6 +435,19 @@ footer a {
 }
 
 /* Responsive */
+@media (max-width: 768px) {
+  /* Prevent iOS from zooming in on input focus */
+  #search-input {
+    font-size: 16px;
+  }
+
+  /* Larger touch targets */
+  #controls button,
+  .ngram-btn {
+    min-height: 44px;
+  }
+}
+
 @media (max-width: 600px) {
   .panel {
     width: 100%;

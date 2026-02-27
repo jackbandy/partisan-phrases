@@ -11,6 +11,11 @@
   let currentPhrase = null;
   let ngramFilter = 0; // 0=all, 1=1-word, 2=2-word, 3=3-word
 
+  // ── Mobile detection ─────────────────────────────────────────────────────────
+  function isMobile() {
+    return window.innerWidth <= 768;
+  }
+
   // ── Color ────────────────────────────────────────────────────────────────────
   function phraseColor(bias) {
     const absBias = Math.min(Math.abs(bias), 1);
@@ -122,15 +127,17 @@
 
     showMore();
 
-    document.getElementById("btn-show-more").addEventListener("click", showMore);
+    const showMoreBtn = document.getElementById("btn-show-more");
+    showMoreBtn.textContent = isMobile()
+      ? "🔀 Show 60 more random phrases"
+      : "🔀 Show 150 more random phrases";
+    showMoreBtn.addEventListener("click", showMore);
     document.getElementById("panel-close").addEventListener("click", closePanel);
     document.getElementById("panel-overlay").addEventListener("click", closePanel);
     document.getElementById("btn-more-quotes").addEventListener("click", sampleMoreQuotes);
 
     document.getElementById("search-input").addEventListener("input", () => {
-      const filtered = getFilteredPhrases();
-      renderBubbles(filtered);
-      renderSearchResults(filtered);
+      renderSearchResults(getFilteredPhrases());
     });
 
     document.querySelectorAll(".ngram-btn").forEach((btn) => {
@@ -161,18 +168,25 @@
     return [...pick(left, n), ...pick(right, n), ...pick(neutral, n)];
   }
 
-  // When search is active, filter across ALL phrases so nothing is hidden.
-  // Otherwise show only the current bucket-sampled set (displayedPhrases).
+  // Returns the phrases to display in bubbles — always the current sampled set,
+  // filtered by ngram but never by search term (search uses a separate results list).
+  function getBubblePhrases() {
+    let result = displayedPhrases;
+    if (ngramFilter > 0) result = result.filter((p) => p.ngram_size === ngramFilter);
+    return result;
+  }
+
+  // When search is active, filter across ALL phrases for the results list.
   function getFilteredPhrases() {
     const term = document.getElementById("search-input").value.toLowerCase().trim();
-    let result = term ? allPhrases : displayedPhrases;
+    let result = allPhrases;
     if (ngramFilter > 0) result = result.filter((p) => p.ngram_size === ngramFilter);
     if (term) result = result.filter((p) => p.phrase.toLowerCase().includes(term));
     return result;
   }
 
   function showMore() {
-    const newPhrases = sampleBuckets(50);
+    const newPhrases = sampleBuckets(isMobile() ? 20 : 50);
     if (newPhrases.length === 0) {
       document.getElementById("btn-show-more").style.display = "none";
       return;
@@ -190,7 +204,7 @@
       document.getElementById("btn-show-more").style.display = "none";
     }
 
-    renderBubbles(getFilteredPhrases());
+    renderBubbles(getBubblePhrases());
   }
 
   // ── Search results list ───────────────────────────────────────────────────────
@@ -250,10 +264,12 @@
 
     if (simulation) simulation.stop();
 
+    const mobile = isMobile();
     simulation = d3.forceSimulation(nodes)
       .force("x", d3.forceX((d) => width / 2 + d.bias_score * (width * 0.4)).strength(0.3))
       .force("y", d3.forceY(PHRASE_RY + 10).strength(0.07))
-      .force("collide", d3.forceCollide((d) => d.r).iterations(3))
+      .force("collide", d3.forceCollide((d) => d.r).iterations(mobile ? 1 : 3))
+      .alphaDecay(mobile ? 0.04 : 0.0228)
       .on("tick", ticked);
 
     const groups = svg.selectAll("g")
@@ -464,7 +480,7 @@
   window.addEventListener("resize", () => {
     clearTimeout(resizeTimeout);
     resizeTimeout = setTimeout(() => {
-      if (displayedPhrases.length > 0) renderBubbles(getFilteredPhrases());
+      if (displayedPhrases.length > 0) renderBubbles(getBubblePhrases());
     }, 250);
   });
 
