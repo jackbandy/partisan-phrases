@@ -17,12 +17,12 @@
   }
 
   // ── Color ────────────────────────────────────────────────────────────────────
-  function phraseColor(bias) {
-    const absBias = Math.min(Math.abs(bias), 1);
-    const saturation = absBias * 70;
-    const lightness = 60 - absBias * 20;
-    if (bias < 0) return `hsl(220, ${saturation.toFixed(1)}%, ${lightness.toFixed(1)}%)`;
-    if (bias > 0) return `hsl(0, ${saturation.toFixed(1)}%, ${lightness.toFixed(1)}%)`;
+  function phraseColor(position) {
+    const absPosition = Math.min(Math.abs(position), 1);
+    const saturation = absPosition * 70;
+    const lightness = 60 - absPosition * 20;
+    if (position < 0) return `hsl(220, ${saturation.toFixed(1)}%, ${lightness.toFixed(1)}%)`;
+    if (position > 0) return `hsl(0, ${saturation.toFixed(1)}%, ${lightness.toFixed(1)}%)`;
     return `hsl(0, 0%, 60%)`;
   }
 
@@ -155,15 +155,15 @@
     });
   }
 
-  // Pick n random phrases from each of the three bias buckets, excluding already-shown ones.
+  // Pick n random phrases from each of the three position buckets, excluding already-shown ones.
   // Respects the current ngramFilter so "1-word" only samples from 1-word phrases.
   function sampleBuckets(n) {
     const pool = ngramFilter > 0
       ? allPhrases.filter((p) => p.ngram_size === ngramFilter)
       : allPhrases;
-    const left = pool.filter((p) => p.bias_score <= -0.1 && !shownSlugs.has(p.slug));
-    const right = pool.filter((p) => p.bias_score >= 0.1 && !shownSlugs.has(p.slug));
-    const neutral = pool.filter((p) => p.bias_score > -0.1 && p.bias_score < 0.1 && !shownSlugs.has(p.slug));
+    const left = pool.filter((p) => p.position_score <= -0.1 && !shownSlugs.has(p.slug));
+    const right = pool.filter((p) => p.position_score >= 0.1 && !shownSlugs.has(p.slug));
+    const neutral = pool.filter((p) => p.position_score > -0.1 && p.position_score < 0.1 && !shownSlugs.has(p.slug));
     function pick(arr, k) { return [...arr].sort(() => Math.random() - 0.5).slice(0, k); }
     return [...pick(left, n), ...pick(right, n), ...pick(neutral, n)];
   }
@@ -226,7 +226,7 @@
       const row = document.createElement("div");
       row.className = "search-result-item";
       row.innerHTML = `
-        <span class="search-result-dot" style="background:${phraseColor(p.bias_score)}"></span>
+        <span class="search-result-dot" style="background:${phraseColor(p.position_score)}"></span>
         <span class="search-result-phrase">${escapeHtml(p.phrase)}</span>
         <span class="search-result-count">${p.total_occurrences.toLocaleString()}</span>
       `;
@@ -257,7 +257,7 @@
         rx,
         ry: PHRASE_RY,
         r: Math.sqrt(rx * PHRASE_RY) + 2,
-        x: width / 2 + p.bias_score * (width * 0.4),
+        x: width / 2 + p.position_score * (width * 0.4),
         y: PHRASE_RY + 10,
       };
     });
@@ -266,7 +266,7 @@
 
     const mobile = isMobile();
     simulation = d3.forceSimulation(nodes)
-      .force("x", d3.forceX((d) => width / 2 + d.bias_score * (width * 0.4)).strength(0.3))
+      .force("x", d3.forceX((d) => width / 2 + d.position_score * (width * 0.4)).strength(0.3))
       .force("y", d3.forceY(PHRASE_RY + 10).strength(0.07))
       .force("collide", d3.forceCollide((d) => d.r).iterations(mobile ? 1 : 3))
       .alphaDecay(mobile ? 0.04 : 0.0228)
@@ -282,7 +282,7 @@
     groups.append("ellipse")
       .attr("rx", (d) => d.rx)
       .attr("ry", (d) => d.ry)
-      .attr("fill", (d) => phraseColor(d.bias_score));
+      .attr("fill", (d) => phraseColor(d.position_score));
 
     groups.append("text").text((d) => d.phrase);
 
@@ -310,22 +310,22 @@
 
     document.getElementById("panel-phrase").textContent = `"${phrase.phrase}"`;
 
-    const biasColor = phraseColor(phrase.bias_score);
-    const biasLabel = phrase.bias_score < -0.05
+    const positionColor = phraseColor(phrase.position_score);
+    const positionLabel = phrase.position_score < -0.05
       ? "leans Democratic"
-      : phrase.bias_score > 0.05 ? "leans Republican" : "neutral";
+      : phrase.position_score > 0.05 ? "leans Republican" : "neutral";
 
-    // Bias share calculation: for score S, Rep share = (1+S)/2, Dem share = (1-S)/2
-    const repShare = Math.round(((1 + phrase.bias_score) / 2) * 100);
+    // Position share calculation: for score S, Rep share = (1+S)/2, Dem share = (1-S)/2
+    const repShare = Math.round(((1 + phrase.position_score) / 2) * 100);
     const demShare = 100 - repShare;
     const pRep = phrase.p_rep.toFixed(4);
     const pDem = phrase.p_dem.toFixed(4);
     const pSum = (phrase.p_rep + phrase.p_dem).toFixed(4);
-    const formula = `(Rep rate − Dem rate) / (Rep rate + Dem rate) = (${pRep} − ${pDem}) / (${pSum}) = ${phrase.bias_score.toFixed(3)}, where rate = avg. occurrences per speech.`;
+    const formula = `(Rep rate − Dem rate) / (Rep rate + Dem rate) = (${pRep} − ${pDem}) / (${pSum}) = ${phrase.position_score.toFixed(3)}, where rate = avg. occurrences per speech.`;
     let tooltipText;
-    if (phrase.bias_score >= 0.05) {
+    if (phrase.position_score >= 0.05) {
       tooltipText = `${formula} ${repShare}% of per-speech usage is from Republicans, ${demShare}% from Democrats.`;
-    } else if (phrase.bias_score <= -0.05) {
+    } else if (phrase.position_score <= -0.05) {
       tooltipText = `${formula} ${demShare}% of per-speech usage is from Democrats, ${repShare}% from Republicans.`;
     } else {
       tooltipText = `${formula} This phrase is used roughly equally by both parties.`;
@@ -333,12 +333,12 @@
 
     document.getElementById("panel-stats").innerHTML = `
       <strong>Total occurrences:</strong> ${phrase.total_occurrences.toLocaleString()}<br>
-      <strong>Bias score:</strong> <span class="bias-badge" style="background:${biasColor};">${phrase.bias_score.toFixed(3)}</span>
-        (${biasLabel})<br>
+      <strong>Position score:</strong> <span class="position-badge" style="background:${positionColor};">${phrase.position_score.toFixed(3)}</span>
+        (${positionLabel})<br>
       <strong>Rank:</strong> #${phrase.rank_left} left, #${phrase.rank_right} right, #${phrase.rank_overall} overall
     `;
     // Set tooltip text via JS to avoid HTML-encoding issues in the attribute
-    document.querySelector(".bias-badge").dataset.tip = tooltipText;
+    document.querySelector(".position-badge").dataset.tip = tooltipText;
 
     loadChart(phrase.slug);
     loadQuotes(phrase.slug);

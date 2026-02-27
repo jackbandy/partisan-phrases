@@ -371,8 +371,8 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   font-style: normal;
 }
 
-/* Colored bias score badge with hover tooltip */
-.bias-badge {
+/* Colored position score badge with hover tooltip */
+.position-badge {
   position: relative;
   display: inline-block;
   padding: 1px 9px;
@@ -385,7 +385,7 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   text-shadow: 0 1px 1px rgba(0,0,0,0.2);
 }
 
-.bias-badge::after {
+.position-badge::after {
   content: attr(data-tip);
   position: absolute;
   top: calc(100% + 8px);
@@ -408,7 +408,7 @@ header .red { color: hsl(0, 70%, 50%); font-weight: 600; }
   text-shadow: none;
 }
 
-.bias-badge:hover::after {
+.position-badge:hover::after {
   opacity: 1;
 }
 
