@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://static.getclicky.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://static.getclicky.com; connect-src 'self' https://in.getclicky.com; frame-ancestors 'none';">
+  <meta http-equiv="X-Frame-Options" content="DENY">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Partisan Phrases — Democratic vs. Republican Language in Congress</title>
   <meta name="description" content="Explore the words and phrases used most by lawmakers in the U.S. Congress. Interactive bubble chart of partisan language, updated weekly from public statements since January 2025.">
@@ -23,6 +27,8 @@
   <meta name="twitter:image" content="https://jackbandy.com/partisan-phrases/cover.png">
 
   <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://static.getclicky.com" crossorigin>
+  <script async data-id="101201112" src="https://static.getclicky.com/js"></script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
 </head>
