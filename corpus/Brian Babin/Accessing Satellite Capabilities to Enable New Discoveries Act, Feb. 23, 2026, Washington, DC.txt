@@ -1,0 +1,91 @@
+Accessing Satellite Capabilities to Enable New Discoveries Act
+
+
+https://justfacts.votesmart.org/public-statement/1700115/accessing-satellite-capabilities-to-enable-new-discoveries-act
+
+
+Mr. BABIN. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 2600) to require the Administrator of the National Aeronautics  and Space Administration to establish a program to identify, evaluate,  acquire, and disseminate commercial Earth remote sensing data and  imagery in order to satisfy the scientific, operational, and  educational requirements of the Administration, and for other purposes,  as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 2600
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Accessing Satellite       Capabilities to Enable New Discoveries Act'' or the ``ASCEND       Act''.       SEC. 2. COMMERCIAL SATELLITE DATA.
+
+(a) Findings.--Congress makes the following findings:
+
+(1) Section 60501 of title 51, United States Code, states       that the goal for the Earth Science program of the National       Aeronautics and Space Administration (referred to in this       section as ``NASA'') shall be to pursue a program of Earth       observations, research, and applications activities to better       understand the Earth, how it supports life, and how human       activities affect its ability to do so in the future.
+
+(2) Section 50115 of title 51, United States Code, states       that the Administrator of NASA shall, to the extent possible       and while satisfying the scientific or educational       requirements of NASA, and where appropriate, of other Federal       agencies and scientific researchers, acquire, where cost       effective, space-based and airborne commercial Earth remote       sensing data, services, distribution, and applications from a       commercial provider.
+
+(3) The Administrator of NASA established the Commercial       SmallSat Data Acquisition Pilot Program in 2019 to identify,       validate, and acquire from commercial sources data that       support the Earth science research and application goals.
+
+(4) The Administrator of NASA has--
+
+(A) determined that the pilot program described in       paragraph (3) has been a success, as described in the final       evaluation entitled ``Commercial SmallSat Data Acquisition       Program Pilot Evaluation Report'' issued in 2020;
+
+(B) established a formal process for evaluating and       onboarding new commercial vendors in such pilot program;
+
+(C) increased the number of commercial vendors and       commercial data products available through such pilot       program; and
+
+(D) expanded procurement arrangements with commercial       vendors to broaden user access to provide commercial Earth       remote sensing data and imagery to federally funded       researchers.
+
+(b) Commercial Satellite Data Acquisition Program.--
+
+(1) In general.--Chapter 603 of title 51, United States       Code, is amended by adding at the end the following:       ``Sec. 60307. Commercial satellite data acquisition program
+
+``(a) In General.--The Administrator shall establish within       the Earth Science Division of the Science Mission Directorate       a program to acquire and disseminate cost-effective and       appropriate commercial Earth remote sensing data and imagery       in order to satisfy the scientific, operational, and       educational requirements of the Administration, and where       appropriate, of other Federal agencies and scientific       researchers to augment or complement the suite of Earth       observations acquired by the Administration, other United       States Government agencies, and international partners.
+
+``(b) Data Publication and Transparency.--The terms and       conditions of commercial Earth remote sensing data and       imagery acquisitions under the program described in       subsection (a) shall not prevent--
+
+``(1) the publication of commercial data or imagery for       scientific purposes; or
+
+``(2) the publication of information that is derived from,       incorporates, or enhances the original commercial data or       imagery of a vendor.
+
+``(c) Authorization.--In carrying out the program under       this section, the Administrator may--
+
+``(1) procure commercial Earth remote sensing data and       imagery from commercial vendors to advance scientific       research and applications in accordance with subsection (a);       and
+
+``(2) establish or modify end-use license terms and       conditions to allow for the widest-possible use of procured       commercial Earth remote sensing data and imagery by       individuals other than NASA-funded users, consistent with the       goals of the program.
+
+``(d) United States Vendors.--Commercial Earth remote       sensing data and imagery referred to in subsections (a) and       (c) shall, to the maximum extent practicable, be procured       from United States vendors.
+
+``(e) Report.--Not later than 180 days after the date of       the enactment of this section and annually thereafter, the       Administrator shall submit to the Committee on Commerce,       Science, and Transportation of the Senate and the Committee       on Science, Space, and Technology of the House of       Representatives       a report that includes the following information regarding       the agreements, vendors, license terms, and uses of       commercial Earth remote sensing data and imagery under this       section:
+
+``(1)(A) In the case of the initial report, a list of all       agreements that are providing commercial Earth remote sensing       data and imagery to NASA as of the date of the report.
+
+``(B) For each subsequent report, a list of all agreements       that have provided commercial Earth remote sensing data and       imagery to NASA during the reporting period.
+
+``(2) A description of the end-use license terms and       conditions for each such vendor.
+
+``(3) A description of the manner in which each such       agreement is advancing scientific research and applications,       including priorities recommended by the National Academies of       Sciences, Engineering, and Medicine decadal surveys.
+
+``(4) Information specifying whether the Administrator has       entered into an agreement with a commercial vendor or a       Federal agency that permits the use of data and imagery by       Federal Government employees, contractors, or non-Federal       users.''.
+
+(2) Clerical amendment.--The table of contents for chapter       603 of title 51, United States Code, is amended by adding at       the end the following new item: ``60307. Commercial satellite data acquisition program.''.
+
+Mr. BABIN.  2600, the bill that is now under  consideration.
+
+Mr. Speaker, I rise in support of H.R. 2600, the ASCEND Act,  sponsored by Representatives Hurd and Bonamici.
+
+Commercial remote sensing is an increasingly important part of the  growing space economy. In recent years, technological advancements and  lower launch costs have enabled American companies to expand their  remote sensing capabilities and to deliver innovative, high-quality  satellite data at competitive prices.
+
+Recognizing this potential, NASA established a pilot program in 2017  to assess how the agency could leverage commercial satellite data to  support mission objectives.
+
+Through this effort, NASA gained valuable experience working directly  with the commercial sector. The agency evaluated available satellite  data, explored how it could advance scientific research and  applications, and developed acquisition approaches that allowed for  appropriate government use and dissemination.
+
+The pilot program demonstrated that commercially provided datasets  can effectively complement NASA's existing capabilities. The ASCEND Act  builds on that success by authorizing the Commercial Satellite Data  Acquisition program within NASA's Science Mission Directorate.
+
+This legislation ensures that NASA can continue to evaluate, access,  and utilize cost-effective, cutting-edge commercial data to advance its  scientific research and applications. At the same time, it supports the  growth of the space economy and strengthens the United States  leadership in space.
+
+I thank Representatives Hurd and Bonamici for their bipartisan work  to bring this bill to the House floor.
+
+Mr. Speaker, over the past two decades, the United States commercial  space sector has experienced significant growth and maturity.
+
+The Commercial Satellite Data Acquisition pilot program that NASA  launched in 2017 is one example of how the agency has embraced this  evolution.
+
+By enabling the continued acquisition of commercial satellite data,  the ASCEND Act will complement NASA's scientific efforts and ensure  that the agency has access to the innovative capabilities being  developed by America's commercial space sector. The ability to procure  this data will strengthen U.S. leadership in the global space industry.
+
+Again, I thank Representatives Hurd, Kean, and Bonamici for their  work on this important legislation. I yield back the balance of my  time.

@@ -1,0 +1,93 @@
+Advanced Capabilities for Emergency Response Operations Act
+
+
+https://justfacts.votesmart.org/public-statement/1700124/advanced-capabilities-for-emergency-response-operations-act
+
+
+Mr. BABIN. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 390) to utlitize the Advanced Capabilities for Emergency Response  to Operations project of NASA to improve aerial responses to wildfires,  and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                  H.R. 390
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Advanced Capabilities for       Emergency Response Operations Act'' or the ``ACERO Act''.       SEC. 2. ADVANCED CAPABILITIES FOR EMERGENCY RESPONSE                     OPERATIONS.
+
+(a) In General.--The Administrator shall leverage NASA-      developed tools and technologies to conduct research and       development activities under the Advanced Capabilities for       Emergency Response Operations (ACERO) project, or appropriate       successor project or projects, to improve aerial responses to       wildfires.
+
+(b) Goals.--The research and development activities       conducted under subsection (a) may include the following:
+
+(1) Advanced aircraft technologies and airspace management       efforts to assist in the management, deconfliction, and       coordination of aerial assets during wildfire response       efforts.
+
+(2) Information sharing and real-time data exchange for       wildfire response teams.
+
+(3) Development of an interoperable platform to provide       situational awareness of aerial assets during wildfire       response.
+
+(4) Establishment of a multi-agency concept of operations,       which may involve Federal, State, and local government       agencies, to enable coordination of aerial activities for       wildfire response.
+
+(c) Collaboration.--In carrying out this section, the       Administrator--
+
+(1) may coordinate and collaborate with other Federal,       State, and local government agencies, regional organizations,       and commercial partners and academic institutions involved in       wildfire management; and
+
+(2) shall, to the maximum extent practicable, consult with       the heads of other Federal departments and agencies to avoid       duplication of activities.
+
+(d) Prohibition.--
+
+(1) In general.--Except as provided in this subsection, the       Administrator may not procure an unmanned aircraft system to       conduct activities described in this section if such unmanned       aircraft system is manufactured or assembled by a covered       foreign entity.
+
+(2) Exemption.--The Administrator may waive the prohibition       under paragraph (1) on a case-by-case basis if the       Administrator--
+
+(A) determines that the procurement of an unmanned aircraft       system is--
+
+(i) in the national interest of the United States; and
+
+(ii) necessary for the sole purpose of improving aerial       responses to wildfires; and
+
+(B) notifies the Committee on Science, Space, and       Technology of the House of Representatives and the Committee       on Commerce, Science, and Transportation of the Senate not       later than 30 days after a determination in the affirmative       under subparagraph (A).
+
+(e) Annual Reports.--Not later than one year after the date       of the enactment of this Act and annually thereafter until       December 31, 2030, the Administrator shall submit to the       Committee on Science, Space and Technology of the House of       Representatives and the Committee on Commerce, Science, and       Transportation of the Senate a report describing the       activities, including results, carried out pursuant to this       section. Each such report, at minimum, shall contain the       following:
+
+(1) A description of any research and development       activities.
+
+(2) A description of the Administrator's activities       pursuant to subsection (c).
+
+(3) An identification of any topics related to improvement       of aerial responses to wildfires that could benefit from       further research.
+
+(4) A description of any continuing efforts under this       section.
+
+(5) Any other information determined appropriate by the       Administrator.
+
+(f) Definitions.--In this section:
+
+(1) Administrator.--The term ``Administrator'' means the       Administrator of the National Aeronautics and Space       Administration.
+
+(2) Covered foreign entity.--The term ``covered foreign       entity'' has the meaning given such term in section 1822 of       the National Defense Authorization Act for Fiscal Year 2024       (Public Law 118-31).
+
+(3) NASA.--The term ``NASA'' means the National Aeronautics       and Space Administration.
+
+(4) Unmanned aircraft system.--The term ``unmanned aircraft       system'' has the meaning given such term in section 44801 of       title 49, United States Code.
+
+Mr. BABIN.  390, the bill that is now under  consideration.
+
+Mr. Speaker, I rise in support of H.R. 390, the ACERO Act, sponsored  by Representatives Fong and McClellan. This important, bipartisan  legislation will enhance our ability to respond to wildfires and  mitigate the destruction that they cause.
+
+Each year, wildfires burn millions of acres, threatening lives,  destroying homes, and causing billions of dollars in damage. Federal  agencies are increasingly turning to advanced technologies to improve  wildfire detection, response, and suppression efforts.
+
+Aerial capabilities are critical tools in combating wildfires,  enabling crews to monitor fire behavior and spread, conduct suppression  activities, and support ground operations. As unmanned aircraft systems  continue to mature, they present new opportunities to strengthen aerial  operations. Drones can map fire perimeters, assist with suppression  efforts, enhance communications across large or remote areas, and even  deliver equipment. In the future, some missions currently carried out  by piloted helicopters may be performed by unmanned aircraft, which  reduces risk to human life.
+
+At the same time, aerial wildfire operations face significant  challenges. Heavy smoke can severely limit visibility, grounding  aircraft and disrupting response efforts. Rapidly changing fire  behavior can complicate navigation and real-time coordination among  multiple aircraft operating simultaneously. These airspace management  challenges can hinder operations at the very moment decisive action is  required.
+
+NASA's Advanced Capabilities for Emergency Response Operations, or  ACERO, project seeks to improve airspace management and coordination  during emergency response activities. Building on prior NASA research,  ACERO aims to enhance information sharing, communications, and airspace  coordination while developing interoperable tools to improve  situational awareness. More timely and accurate information can support  safer, more effective decisionmaking and better coordination among  Federal, State, and local agencies during wildfire events.
+
+This legislation directs NASA to leverage its unique research and  development expertise in aeronautics, airspace systems, and advanced  technologies to further the objectives of the ACERO project in support  of wildfire response.
+
+This is a practical, forward-looking application of American  innovation to protect lives, including those of our first responders.  These brave men and women who risk their safety to combat wildfires  deserve every available tool to bolster response capabilities and  enhance operational safety.
+
+I thank Representatives Fong and McClellan for their work to address  this pressing need.
+
+Mr. Speaker, I urge all of my colleagues to support this bill, and I  reserve the balance of my time.
+
+Mr. Speaker, the ACERO Act promotes the development of advanced  technologies to strengthen our wildfire response efforts. NASA should  leverage its unique aeronautics expertise to improve the emergency  operations involving aerial assets. ACERO seeks to enhance situational  awareness, coordination, and information sharing among aerial  platforms, both piloted and unmanned. This bill recognizes the  important work already underway and encourages NASA to continue  advancing these efforts.
+
+Again, I thank Representatives Fong and McClellan for their  bipartisan leadership.
