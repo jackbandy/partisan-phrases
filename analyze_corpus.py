@@ -271,24 +271,35 @@ def _extract_window(text, match_start, match_end, max_len=350):
     return excerpt
 
 
+def _find_phrase_pos(text, phrase_words, stop_words):
+    """Find char positions of phrase in text using CountVectorizer's tokenization.
+
+    Replicates CV's preprocessing exactly: tokenize with (?u)\b\w\w+\b, lowercase,
+    remove stop words, then find phrase_words as consecutive remaining tokens.
+    This guarantees we find any document that CountVectorizer counted toward the phrase,
+    regardless of how many stop words appear between the phrase tokens in raw text.
+
+    Returns (char_start, char_end) of first match, or None.
+    """
+    token_re = re.compile(r'(?u)\b\w\w+\b')
+    n = len(phrase_words)
+    tokens = [(m.group().lower(), m.start(), m.end()) for m in token_re.finditer(text)]
+    filtered = [(w, s, e) for w, s, e in tokens if w not in stop_words]
+    for i in range(len(filtered) - n + 1):
+        if [t[0] for t in filtered[i:i + n]] == phrase_words:
+            return filtered[i][1], filtered[i + n - 1][2]
+    return None
+
+
 def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vectorizer):
     feature_to_idx = {name: i for i, name in enumerate(feature_names)}
+    stop_words = tf_vectorizer.stop_words_
 
     for _, row in progressbar(list(target_df.iterrows())):
         slug = row['slug']
         phrase = row['phrase']
         idx = feature_to_idx.get(phrase)
         phrase_words = phrase.split()
-
-        # One flexible regex replaces the previous sentence-splitting + multi-pass
-        # approach. Allows 0-3 non-phrase words between each phrase token, which
-        # handles stop-word gaps ("Secretary of State" → "secretary state"),
-        # punctuation ("skills, work ethic"), and abbreviations that break naive
-        # sentence splitting ("Mr. Speaker, I rise" → "mr speaker rise").
-        flex_pattern = re.compile(
-            r'\b' + r'(?:\W+\w+){0,3}\W+'.join(re.escape(w) for w in phrase_words) + r'\b',
-            re.IGNORECASE
-        )
 
         # Sparse-matrix column lookup: O(1) to find all docs containing this phrase
         if idx is not None:
@@ -308,18 +319,17 @@ def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vect
 
         quotes = []
         for _, m in selected.iterrows():
-            match = flex_pattern.search(m.text)
-            if not match:
+            pos = _find_phrase_pos(m.text, phrase_words, stop_words)
+            if pos is None:
                 continue
-            excerpt = _extract_window(m.text, match.start(), match.end())
+            excerpt = _extract_window(m.text, pos[0], pos[1])
             if excerpt:
-                url = m['source_url']
                 quotes.append({
                     'senator': m.person,
                     'party': m.party,
                     'sentence': excerpt,
                     'date': m['date'] if pd.notna(m['date']) else None,
-                    'source_url': url if pd.notna(url) else None,
+                    'source_url': m['source_url'] if pd.notna(m['source_url']) else None,
                 })
             if len(quotes) >= 30:
                 break
