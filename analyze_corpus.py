@@ -127,7 +127,7 @@ def main():
 
     bias = (p_rep - p_dem) / (p_rep + p_dem + 1e-10)
 
-    phrases_df['bias_score'] = bias
+    phrases_df['position_score'] = bias
     phrases_df['p_dem'] = p_dem
     phrases_df['p_rep'] = p_rep
     phrases_df['n_dem'] = total_dem_tfs
@@ -144,14 +144,14 @@ def main():
         'output/all_phrases.csv', index=False)
 
     print("Most Democratic...")
-    top_dem = phrases_df.sort_values(by='bias_score', ascending=True).head(200).copy()
+    top_dem = phrases_df.sort_values(by='position_score', ascending=True).head(200).copy()
     top_dem['n_senators'] = top_dem.apply(
         lambda x: len(texts_df[texts_df.text.str.contains(x.phrase, regex=False)].person.unique()), axis=1)
     top_dem = top_dem[top_dem.n_senators > 2]
     top_dem.head(20).to_csv('output/top_20_democrat.csv', index=False)
 
     print("Most Republican:")
-    top_rep = phrases_df.sort_values(by='bias_score', ascending=False).head(200).copy()
+    top_rep = phrases_df.sort_values(by='position_score', ascending=False).head(200).copy()
     top_rep['n_senators'] = top_rep.apply(
         lambda x: len(texts_df[texts_df.text.str.contains(x.phrase, regex=False)].person.unique()), axis=1)
     top_rep = top_rep[top_rep.n_senators > 2]
@@ -170,8 +170,8 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, te
     combined = phrases_df.copy()
 
     # Add rank columns
-    left_ranked = phrases_df.sort_values('bias_score', ascending=True).reset_index(drop=True)
-    right_ranked = phrases_df.sort_values('bias_score', ascending=False).reset_index(drop=True)
+    left_ranked = phrases_df.sort_values('position_score', ascending=True).reset_index(drop=True)
+    right_ranked = phrases_df.sort_values('position_score', ascending=False).reset_index(drop=True)
     overall_ranked = phrases_df.sort_values('total_occurrences', ascending=False).reset_index(drop=True)
 
     left_rank_map = {p: i + 1 for i, p in enumerate(left_ranked.phrase)}
@@ -184,7 +184,7 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, te
     combined['slug'] = combined.phrase.apply(slugify)
 
     # Write phrases.json
-    phrases_out = combined[['phrase', 'slug', 'total_occurrences', 'bias_score',
+    phrases_out = combined[['phrase', 'slug', 'total_occurrences', 'position_score',
                             'p_dem', 'p_rep', 'rank_left', 'rank_right', 'rank_overall',
                             'ngram_size']].copy()
     phrases_out['total_occurrences'] = phrases_out['total_occurrences'].astype(int)
