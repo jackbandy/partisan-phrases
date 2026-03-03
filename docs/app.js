@@ -16,6 +16,18 @@
     return window.innerWidth <= 768;
   }
 
+  // ── Headshot fallback chain ───────────────────────────────────────────────────
+  function handleHeadshotError(img) {
+    const fallbacks = img.dataset.fallbacks ? img.dataset.fallbacks.split("|").filter(Boolean) : [];
+    if (fallbacks.length > 0) {
+      img.src = fallbacks[0];
+      img.dataset.fallbacks = fallbacks.slice(1).join("|");
+    } else {
+      img.parentElement.style.display = "none";
+    }
+  }
+  window.handleHeadshotError = handleHeadshotError;
+
   // ── Color ────────────────────────────────────────────────────────────────────
   function phraseColor(position) {
     const absPosition = Math.min(Math.abs(position), 1);
@@ -448,8 +460,9 @@
     card.className = `quote-card ${q.party === "Democrat" ? "dem" : "rep"}`;
 
     const senator = senators[q.senator];
+    const fallbacks = [senator.congress_headshot_url, senator.fallback_headshot_url].filter(Boolean);
     const headshotHtml = senator
-      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" onerror="this.src='${senator.fallback_headshot_url}';this.onerror=function(){this.parentElement.style.display='none'}"></div>`
+      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" data-fallbacks="${fallbacks.join('|')}" onerror="handleHeadshotError(this)"></div>`
       : "";
 
     const highlighted = currentPhrase

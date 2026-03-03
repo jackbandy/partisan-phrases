@@ -6,7 +6,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C000127.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C000127.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c000127.jpg"
   },
   {
     "full_name": "Amy Klobuchar",
@@ -15,7 +16,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000367.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000367.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000367.jpg"
   },
   {
     "full_name": "Bernard Sanders",
@@ -26,7 +28,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S000033.jpg",
     "alt_names": [
       "Bernie Sanders"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000033.jpg"
   },
   {
     "full_name": "Sheldon Whitehouse",
@@ -35,7 +38,8 @@
     "state": "RI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000802.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000802.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000802.jpg"
   },
   {
     "full_name": "John Barrasso",
@@ -44,7 +48,8 @@
     "state": "WY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001261.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001261.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001261.jpg"
   },
   {
     "full_name": "Roger F. Wicker",
@@ -55,7 +60,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000437.jpg",
     "alt_names": [
       "Roger Wicker"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000437.jpg"
   },
   {
     "full_name": "Susan M. Collins",
@@ -66,7 +72,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001035.jpg",
     "alt_names": [
       "Susan Collins"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001035.jpg"
   },
   {
     "full_name": "John Cornyn",
@@ -75,7 +82,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001056.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001056.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001056.jpg"
   },
   {
     "full_name": "Richard J. Durbin",
@@ -86,7 +94,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/D000563.jpg",
     "alt_names": [
       "Dick Durbin"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000563.jpg"
   },
   {
     "full_name": "Lindsey Graham",
@@ -95,7 +104,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000359.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000359.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000359.jpg"
   },
   {
     "full_name": "Mitch McConnell",
@@ -106,7 +116,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M000355.jpg",
     "alt_names": [
       "Mitch McConnell, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000355.jpg"
   },
   {
     "full_name": "Jeff Merkley",
@@ -115,7 +126,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001176.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001176.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001176.jpg"
   },
   {
     "full_name": "Jack Reed",
@@ -124,7 +136,8 @@
     "state": "RI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000122.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/R000122.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000122.jpg"
   },
   {
     "full_name": "James E. Risch",
@@ -135,7 +148,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/R000584.jpg",
     "alt_names": [
       "James Risch"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000584.jpg"
   },
   {
     "full_name": "Jeanne Shaheen",
@@ -144,7 +158,8 @@
     "state": "NH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001181.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001181.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001181.jpg"
   },
   {
     "full_name": "Mark R. Warner",
@@ -155,7 +170,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000805.jpg",
     "alt_names": [
       "Mark Warner"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000805.jpg"
   },
   {
     "full_name": "Kirsten E. Gillibrand",
@@ -166,7 +182,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000555.jpg",
     "alt_names": [
       "Kirsten Gillibrand"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000555.jpg"
   },
   {
     "full_name": "Christopher A. Coons",
@@ -177,7 +194,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001088.jpg",
     "alt_names": [
       "Chris Coons"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001088.jpg"
   },
   {
     "full_name": "Robert B. Aderholt",
@@ -188,7 +206,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000055.jpg",
     "alt_names": [
       "Robert Aderholt"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000055.jpg"
   },
   {
     "full_name": "Tammy Baldwin",
@@ -197,7 +216,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001230.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001230.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001230.jpg"
   },
   {
     "full_name": "Michael F. Bennet",
@@ -208,7 +228,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001267.jpg",
     "alt_names": [
       "Michael Bennet"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001267.jpg"
   },
   {
     "full_name": "Gus M. Bilirakis",
@@ -219,7 +240,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001257.jpg",
     "alt_names": [
       "Gus Bilirakis"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001257.jpg"
   },
   {
     "full_name": "Sanford D. Bishop, Jr.",
@@ -230,7 +252,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B000490.jpg",
     "alt_names": [
       "Sanford Bishop, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b000490.jpg"
   },
   {
     "full_name": "Marsha Blackburn",
@@ -239,7 +262,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001243.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001243.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001243.jpg"
   },
   {
     "full_name": "Richard Blumenthal",
@@ -248,7 +272,8 @@
     "state": "CT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001277.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001277.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001277.jpg"
   },
   {
     "full_name": "John Boozman",
@@ -257,7 +282,8 @@
     "state": "AR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001236.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001236.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001236.jpg"
   },
   {
     "full_name": "Vern Buchanan",
@@ -266,7 +292,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001260.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001260.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001260.jpg"
   },
   {
     "full_name": "Ken Calvert",
@@ -275,7 +302,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C000059.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C000059.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c000059.jpg"
   },
   {
     "full_name": "Shelley Moore Capito",
@@ -286,7 +314,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001047.jpg",
     "alt_names": [
       "Shelley Capito"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001047.jpg"
   },
   {
     "full_name": "Andr\u00e9 Carson",
@@ -295,7 +324,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001072.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001072.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001072.jpg"
   },
   {
     "full_name": "John R. Carter",
@@ -306,7 +336,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001051.jpg",
     "alt_names": [
       "John Carter"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001051.jpg"
   },
   {
     "full_name": "Bill Cassidy",
@@ -315,7 +346,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001075.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001075.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001075.jpg"
   },
   {
     "full_name": "Kathy Castor",
@@ -324,7 +356,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001066.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001066.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001066.jpg"
   },
   {
     "full_name": "Judy Chu",
@@ -333,7 +366,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001080.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001080.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001080.jpg"
   },
   {
     "full_name": "Yvette D. Clarke",
@@ -342,7 +376,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001067.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001067.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001067.jpg"
   },
   {
     "full_name": "Emanuel Cleaver",
@@ -353,7 +388,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001061.jpg",
     "alt_names": [
       "Emanuel Cleaver II"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001061.jpg"
   },
   {
     "full_name": "James E. Clyburn",
@@ -364,7 +400,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C000537.jpg",
     "alt_names": [
       "Jim Clyburn"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c000537.jpg"
   },
   {
     "full_name": "Steve Cohen",
@@ -373,7 +410,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001068.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001068.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001068.jpg"
   },
   {
     "full_name": "Tom Cole",
@@ -382,7 +420,8 @@
     "state": "OK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001053.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001053.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001053.jpg"
   },
   {
     "full_name": "Jim Costa",
@@ -391,7 +430,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001059.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001059.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001059.jpg"
   },
   {
     "full_name": "Joe Courtney",
@@ -400,7 +440,8 @@
     "state": "CT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001069.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001069.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001069.jpg"
   },
   {
     "full_name": "Mike Crapo",
@@ -409,7 +450,8 @@
     "state": "ID",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C000880.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C000880.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c000880.jpg"
   },
   {
     "full_name": "Eric A. \"Rick\" Crawford",
@@ -420,7 +462,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001087.jpg",
     "alt_names": [
       "Rick Crawford"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001087.jpg"
   },
   {
     "full_name": "Henry Cuellar",
@@ -429,7 +472,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001063.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001063.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001063.jpg"
   },
   {
     "full_name": "Danny K. Davis",
@@ -440,7 +484,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000096.jpg",
     "alt_names": [
       "Danny Davis"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000096.jpg"
   },
   {
     "full_name": "Diana DeGette",
@@ -449,7 +494,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000197.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000197.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000197.jpg"
   },
   {
     "full_name": "Rosa L. DeLauro",
@@ -460,7 +506,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000216.jpg",
     "alt_names": [
       "Rosa DeLauro"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000216.jpg"
   },
   {
     "full_name": "Scott DesJarlais",
@@ -469,7 +516,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000616.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000616.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000616.jpg"
   },
   {
     "full_name": "Mario Diaz-Balart",
@@ -478,7 +526,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000600.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000600.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000600.jpg"
   },
   {
     "full_name": "Lloyd Doggett",
@@ -489,7 +538,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000399.jpg",
     "alt_names": [
       "Lloyd Doggett II"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000399.jpg"
   },
   {
     "full_name": "Charles J. \"Chuck\" Fleischmann",
@@ -500,7 +550,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000459.jpg",
     "alt_names": [
       "Chuck Fleischmann"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000459.jpg"
   },
   {
     "full_name": "Virginia Foxx",
@@ -509,7 +560,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000450.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000450.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000450.jpg"
   },
   {
     "full_name": "John Garamendi",
@@ -518,7 +570,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000559.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000559.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000559.jpg"
   },
   {
     "full_name": "Paul A. Gosar",
@@ -529,7 +582,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000565.jpg",
     "alt_names": [
       "Paul Gosar"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000565.jpg"
   },
   {
     "full_name": "Chuck Grassley",
@@ -538,7 +592,8 @@
     "state": "IA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000386.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000386.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000386.jpg"
   },
   {
     "full_name": "Sam Graves",
@@ -547,7 +602,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000546.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000546.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000546.jpg"
   },
   {
     "full_name": "Al Green",
@@ -556,7 +612,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000553.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000553.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000553.jpg"
   },
   {
     "full_name": "H. Morgan Griffith",
@@ -567,7 +624,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000568.jpg",
     "alt_names": [
       "Morgan Griffith"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000568.jpg"
   },
   {
     "full_name": "Brett Guthrie",
@@ -576,7 +634,8 @@
     "state": "KY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000558.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000558.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000558.jpg"
   },
   {
     "full_name": "Andy Harris",
@@ -585,7 +644,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001052.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001052.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001052.jpg"
   },
   {
     "full_name": "Martin Heinrich",
@@ -594,7 +654,8 @@
     "state": "NM",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001046.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001046.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001046.jpg"
   },
   {
     "full_name": "James A. Himes",
@@ -605,7 +666,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001047.jpg",
     "alt_names": [
       "Jim Himes"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001047.jpg"
   },
   {
     "full_name": "Mazie K. Hirono",
@@ -616,7 +678,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001042.jpg",
     "alt_names": [
       "Mazie Hirono"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001042.jpg"
   },
   {
     "full_name": "John Hoeven",
@@ -625,7 +688,8 @@
     "state": "ND",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001061.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001061.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001061.jpg"
   },
   {
     "full_name": "Steny H. Hoyer",
@@ -636,7 +700,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H000874.jpg",
     "alt_names": [
       "Steny Hoyer"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h000874.jpg"
   },
   {
     "full_name": "Bill Huizenga",
@@ -645,7 +710,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001058.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001058.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001058.jpg"
   },
   {
     "full_name": "Henry C. \"Hank\" Johnson, Jr.",
@@ -656,7 +722,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000288.jpg",
     "alt_names": [
       "Hank Johnson, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000288.jpg"
   },
   {
     "full_name": "Ron Johnson",
@@ -665,7 +732,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000293.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/J000293.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000293.jpg"
   },
   {
     "full_name": "Jim Jordan",
@@ -674,7 +742,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000289.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000289.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000289.jpg"
   },
   {
     "full_name": "Marcy Kaptur",
@@ -683,7 +752,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000009.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000009.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000009.jpg"
   },
   {
     "full_name": "William R. Keating",
@@ -694,7 +764,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000375.jpg",
     "alt_names": [
       "Bill Keating"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000375.jpg"
   },
   {
     "full_name": "Mike Kelly",
@@ -705,7 +776,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000376.jpg",
     "alt_names": [
       "Mike Kelly, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000376.jpg"
   },
   {
     "full_name": "James Lankford",
@@ -714,7 +786,8 @@
     "state": "OK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000575.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/L000575.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000575.jpg"
   },
   {
     "full_name": "Rick Larsen",
@@ -723,7 +796,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000560.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000560.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000560.jpg"
   },
   {
     "full_name": "John B. Larson",
@@ -734,7 +808,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000557.jpg",
     "alt_names": [
       "John Larson"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000557.jpg"
   },
   {
     "full_name": "Robert E. Latta",
@@ -745,7 +820,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000566.jpg",
     "alt_names": [
       "Bob Latta"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000566.jpg"
   },
   {
     "full_name": "Mike Lee",
@@ -754,7 +830,8 @@
     "state": "UT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000577.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/L000577.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000577.jpg"
   },
   {
     "full_name": "Zoe Lofgren",
@@ -763,7 +840,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000397.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000397.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000397.jpg"
   },
   {
     "full_name": "Frank D. Lucas",
@@ -774,7 +852,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000491.jpg",
     "alt_names": [
       "Frank Lucas"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000491.jpg"
   },
   {
     "full_name": "Ben Ray Luj\u00e1n",
@@ -785,7 +864,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/L000570.jpg",
     "alt_names": [
       "Ben Luj\u00e1n, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000570.jpg"
   },
   {
     "full_name": "Stephen F. Lynch",
@@ -796,7 +876,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000562.jpg",
     "alt_names": [
       "Stephen Lynch"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000562.jpg"
   },
   {
     "full_name": "Edward J. Markey",
@@ -807,7 +888,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M000133.jpg",
     "alt_names": [
       "Ed Markey"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000133.jpg"
   },
   {
     "full_name": "Doris O. Matsui",
@@ -818,7 +900,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001163.jpg",
     "alt_names": [
       "Doris Matsui"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001163.jpg"
   },
   {
     "full_name": "Michael T. McCaul",
@@ -829,7 +912,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001157.jpg",
     "alt_names": [
       "Michael McCaul"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001157.jpg"
   },
   {
     "full_name": "Tom McClintock",
@@ -838,7 +922,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001177.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001177.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001177.jpg"
   },
   {
     "full_name": "Betty McCollum",
@@ -847,7 +932,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001143.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001143.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001143.jpg"
   },
   {
     "full_name": "James P. McGovern",
@@ -858,7 +944,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M000312.jpg",
     "alt_names": [
       "Jim McGovern"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000312.jpg"
   },
   {
     "full_name": "Gregory W. Meeks",
@@ -869,7 +956,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001137.jpg",
     "alt_names": [
       "Gregory Meeks"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001137.jpg"
   },
   {
     "full_name": "Gwen Moore",
@@ -878,7 +966,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001160.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001160.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001160.jpg"
   },
   {
     "full_name": "Jerry Moran",
@@ -887,7 +976,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M000934.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M000934.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000934.jpg"
   },
   {
     "full_name": "Lisa Murkowski",
@@ -896,7 +986,8 @@
     "state": "AK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001153.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001153.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001153.jpg"
   },
   {
     "full_name": "Christopher Murphy",
@@ -907,7 +998,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001169.jpg",
     "alt_names": [
       "Chris Murphy"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001169.jpg"
   },
   {
     "full_name": "Patty Murray",
@@ -916,7 +1008,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001111.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001111.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001111.jpg"
   },
   {
     "full_name": "Jerrold Nadler",
@@ -927,7 +1020,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000002.jpg",
     "alt_names": [
       "Jerry Nadler"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000002.jpg"
   },
   {
     "full_name": "Richard E. Neal",
@@ -938,7 +1032,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000015.jpg",
     "alt_names": [
       "Richard Neal"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000015.jpg"
   },
   {
     "full_name": "Eleanor Holmes Norton",
@@ -949,7 +1044,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000147.jpg",
     "alt_names": [
       "Eleanor Norton"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000147.jpg"
   },
   {
     "full_name": "Frank Pallone, Jr.",
@@ -958,7 +1054,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000034.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000034.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000034.jpg"
   },
   {
     "full_name": "Rand Paul",
@@ -967,7 +1064,8 @@
     "state": "KY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000603.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/P000603.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000603.jpg"
   },
   {
     "full_name": "Nancy Pelosi",
@@ -976,7 +1074,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000197.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000197.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000197.jpg"
   },
   {
     "full_name": "Gary C. Peters",
@@ -987,7 +1086,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/P000595.jpg",
     "alt_names": [
       "Gary Peters"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000595.jpg"
   },
   {
     "full_name": "Chellie Pingree",
@@ -996,7 +1096,8 @@
     "state": "ME",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000597.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000597.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000597.jpg"
   },
   {
     "full_name": "Mike Quigley",
@@ -1005,7 +1106,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/Q000023.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/Q000023.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/q000023.jpg"
   },
   {
     "full_name": "Harold Rogers",
@@ -1016,7 +1118,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000395.jpg",
     "alt_names": [
       "Hal Rogers"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000395.jpg"
   },
   {
     "full_name": "Mike Rogers",
@@ -1025,7 +1128,8 @@
     "state": "AL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000575.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000575.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000575.jpg"
   },
   {
     "full_name": "Steve Scalise",
@@ -1034,7 +1138,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001176.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001176.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001176.jpg"
   },
   {
     "full_name": "Janice D. Schakowsky",
@@ -1045,7 +1150,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001145.jpg",
     "alt_names": [
       "Jan Schakowsky"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001145.jpg"
   },
   {
     "full_name": "Adam B. Schiff",
@@ -1056,7 +1162,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001150.jpg",
     "alt_names": [
       "Adam Schiff"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001150.jpg"
   },
   {
     "full_name": "Charles E. Schumer",
@@ -1067,7 +1174,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S000148.jpg",
     "alt_names": [
       "Chuck Schumer"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000148.jpg"
   },
   {
     "full_name": "David Schweikert",
@@ -1076,7 +1184,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001183.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001183.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001183.jpg"
   },
   {
     "full_name": "Austin Scott",
@@ -1085,7 +1194,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001189.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001189.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001189.jpg"
   },
   {
     "full_name": "David Scott",
@@ -1094,7 +1204,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001157.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001157.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001157.jpg"
   },
   {
     "full_name": "Robert C. \"Bobby\" Scott",
@@ -1105,7 +1216,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000185.jpg",
     "alt_names": [
       "Bobby Scott"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000185.jpg"
   },
   {
     "full_name": "Tim Scott",
@@ -1114,7 +1226,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001184.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001184.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001184.jpg"
   },
   {
     "full_name": "Terri A. Sewell",
@@ -1125,7 +1238,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001185.jpg",
     "alt_names": [
       "Terri Sewell"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001185.jpg"
   },
   {
     "full_name": "Brad Sherman",
@@ -1134,7 +1248,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S000344.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000344.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000344.jpg"
   },
   {
     "full_name": "Michael K. Simpson",
@@ -1143,7 +1258,8 @@
     "state": "ID",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001148.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001148.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001148.jpg"
   },
   {
     "full_name": "Adam Smith",
@@ -1152,7 +1268,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S000510.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000510.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000510.jpg"
   },
   {
     "full_name": "Adrian Smith",
@@ -1161,7 +1278,8 @@
     "state": "NE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001172.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001172.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001172.jpg"
   },
   {
     "full_name": "Christopher H. Smith",
@@ -1170,7 +1288,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S000522.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000522.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000522.jpg"
   },
   {
     "full_name": "Linda T. S\u00e1nchez",
@@ -1181,7 +1300,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001156.jpg",
     "alt_names": [
       "Linda S\u00e1nchez"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001156.jpg"
   },
   {
     "full_name": "Bennie G. Thompson",
@@ -1192,7 +1312,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000193.jpg",
     "alt_names": [
       "Bennie Thompson"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000193.jpg"
   },
   {
     "full_name": "Mike Thompson",
@@ -1203,7 +1324,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000460.jpg",
     "alt_names": [
       "Mike Simpson"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000460.jpg"
   },
   {
     "full_name": "Glenn Thompson",
@@ -1214,7 +1336,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000467.jpg",
     "alt_names": [
       "GT Thompson, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000467.jpg"
   },
   {
     "full_name": "John Thune",
@@ -1223,7 +1346,8 @@
     "state": "SD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000250.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/T000250.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000250.jpg"
   },
   {
     "full_name": "Paul Tonko",
@@ -1232,7 +1356,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000469.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000469.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000469.jpg"
   },
   {
     "full_name": "Michael R. Turner",
@@ -1243,7 +1368,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000463.jpg",
     "alt_names": [
       "Mike Turner"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000463.jpg"
   },
   {
     "full_name": "Chris Van Hollen",
@@ -1254,7 +1380,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/V000128.jpg",
     "alt_names": [
       "Christian Menefee"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000128.jpg"
   },
   {
     "full_name": "Nydia M. Vel\u00e1zquez",
@@ -1265,7 +1392,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000081.jpg",
     "alt_names": [
       "Nydia Vel\u00e1zquez"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000081.jpg"
   },
   {
     "full_name": "Tim Walberg",
@@ -1274,7 +1402,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000798.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000798.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000798.jpg"
   },
   {
     "full_name": "Debbie Wasserman Schultz",
@@ -1283,7 +1412,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000797.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000797.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000797.jpg"
   },
   {
     "full_name": "Maxine Waters",
@@ -1292,7 +1422,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000187.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000187.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000187.jpg"
   },
   {
     "full_name": "Daniel Webster",
@@ -1301,7 +1432,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000806.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000806.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000806.jpg"
   },
   {
     "full_name": "Peter Welch",
@@ -1310,7 +1442,8 @@
     "state": "VT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000800.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000800.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000800.jpg"
   },
   {
     "full_name": "Joe Wilson",
@@ -1319,7 +1452,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000795.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000795.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000795.jpg"
   },
   {
     "full_name": "Frederica S. Wilson",
@@ -1330,7 +1464,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000808.jpg",
     "alt_names": [
       "Frederica Wilson"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000808.jpg"
   },
   {
     "full_name": "Robert J. Wittman",
@@ -1341,7 +1476,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000804.jpg",
     "alt_names": [
       "Rob Wittman"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000804.jpg"
   },
   {
     "full_name": "Steve Womack",
@@ -1350,7 +1486,8 @@
     "state": "AR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000809.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000809.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000809.jpg"
   },
   {
     "full_name": "Ron Wyden",
@@ -1359,7 +1496,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000779.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000779.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000779.jpg"
   },
   {
     "full_name": "Todd Young",
@@ -1368,7 +1506,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/Y000064.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/Y000064.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/y000064.jpg"
   },
   {
     "full_name": "Mark E. Amodei",
@@ -1379,7 +1518,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000369.jpg",
     "alt_names": [
       "Mark Amodei"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000369.jpg"
   },
   {
     "full_name": "Suzanne Bonamici",
@@ -1388,7 +1528,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001278.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001278.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001278.jpg"
   },
   {
     "full_name": "Suzan K. DelBene",
@@ -1399,7 +1540,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000617.jpg",
     "alt_names": [
       "Suzan DelBene"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000617.jpg"
   },
   {
     "full_name": "Thomas Massie",
@@ -1408,7 +1550,8 @@
     "state": "KY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001184.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001184.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001184.jpg"
   },
   {
     "full_name": "Brian Schatz",
@@ -1417,7 +1560,8 @@
     "state": "HI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001194.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001194.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001194.jpg"
   },
   {
     "full_name": "Bill Foster",
@@ -1426,7 +1570,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000454.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000454.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000454.jpg"
   },
   {
     "full_name": "Dina Titus",
@@ -1435,7 +1580,8 @@
     "state": "NV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000468.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000468.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000468.jpg"
   },
   {
     "full_name": "Tom Cotton",
@@ -1444,7 +1590,8 @@
     "state": "AR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001095.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001095.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001095.jpg"
   },
   {
     "full_name": "Jared Huffman",
@@ -1453,7 +1600,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001068.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001068.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001068.jpg"
   },
   {
     "full_name": "Ami Bera",
@@ -1462,7 +1610,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001287.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001287.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001287.jpg"
   },
   {
     "full_name": "Eric Swalwell",
@@ -1471,7 +1620,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001193.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001193.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001193.jpg"
   },
   {
     "full_name": "Julia Brownley",
@@ -1480,7 +1630,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001285.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001285.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001285.jpg"
   },
   {
     "full_name": "Raul Ruiz",
@@ -1489,7 +1640,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000599.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000599.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000599.jpg"
   },
   {
     "full_name": "Mark Takano",
@@ -1498,7 +1650,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000472.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000472.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000472.jpg"
   },
   {
     "full_name": "Juan Vargas",
@@ -1507,7 +1660,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000130.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000130.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000130.jpg"
   },
   {
     "full_name": "Scott H. Peters",
@@ -1518,7 +1672,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000608.jpg",
     "alt_names": [
       "Scott Peters"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000608.jpg"
   },
   {
     "full_name": "Lois Frankel",
@@ -1527,7 +1682,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000462.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000462.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000462.jpg"
   },
   {
     "full_name": "Tammy Duckworth",
@@ -1536,7 +1692,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000622.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/D000622.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000622.jpg"
   },
   {
     "full_name": "Andy Barr",
@@ -1545,7 +1702,8 @@
     "state": "KY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001282.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001282.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001282.jpg"
   },
   {
     "full_name": "Elizabeth Warren",
@@ -1554,7 +1712,8 @@
     "state": "MA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000817.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000817.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000817.jpg"
   },
   {
     "full_name": "Angus S. King, Jr.",
@@ -1565,7 +1724,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000383.jpg",
     "alt_names": [
       "Angus King, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000383.jpg"
   },
   {
     "full_name": "Ann Wagner",
@@ -1574,7 +1734,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000812.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000812.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000812.jpg"
   },
   {
     "full_name": "Steve Daines",
@@ -1583,7 +1744,8 @@
     "state": "MT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000618.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/D000618.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000618.jpg"
   },
   {
     "full_name": "Richard Hudson",
@@ -1594,7 +1756,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001067.jpg",
     "alt_names": [
       "Richard Hudson, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001067.jpg"
   },
   {
     "full_name": "Kevin Cramer",
@@ -1603,7 +1766,8 @@
     "state": "ND",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001096.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001096.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001096.jpg"
   },
   {
     "full_name": "Deb Fischer",
@@ -1612,7 +1776,8 @@
     "state": "NE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000463.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/F000463.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000463.jpg"
   },
   {
     "full_name": "Grace Meng",
@@ -1621,7 +1786,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001188.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001188.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001188.jpg"
   },
   {
     "full_name": "Hakeem S. Jeffries",
@@ -1632,7 +1798,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000294.jpg",
     "alt_names": [
       "Hakeem Jeffries"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000294.jpg"
   },
   {
     "full_name": "Joyce Beatty",
@@ -1641,7 +1808,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001281.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001281.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001281.jpg"
   },
   {
     "full_name": "David P. Joyce",
@@ -1652,7 +1820,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000295.jpg",
     "alt_names": [
       "Dave Joyce"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000295.jpg"
   },
   {
     "full_name": "Markwayne Mullin",
@@ -1661,7 +1830,8 @@
     "state": "OK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001190.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001190.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001190.jpg"
   },
   {
     "full_name": "Scott Perry",
@@ -1670,7 +1840,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000605.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000605.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000605.jpg"
   },
   {
     "full_name": "Ted Cruz",
@@ -1679,7 +1850,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001098.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001098.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001098.jpg"
   },
   {
     "full_name": "Randy K. Weber, Sr.",
@@ -1690,7 +1862,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000814.jpg",
     "alt_names": [
       "Randy Weber, Sr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000814.jpg"
   },
   {
     "full_name": "Joaquin Castro",
@@ -1699,7 +1872,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001091.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001091.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001091.jpg"
   },
   {
     "full_name": "Roger Williams",
@@ -1708,7 +1882,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000816.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000816.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000816.jpg"
   },
   {
     "full_name": "Marc A. Veasey",
@@ -1719,7 +1894,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000131.jpg",
     "alt_names": [
       "Marc Veasey"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000131.jpg"
   },
   {
     "full_name": "Tim Kaine",
@@ -1728,7 +1904,8 @@
     "state": "VA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000384.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000384.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000384.jpg"
   },
   {
     "full_name": "Mark Pocan",
@@ -1737,7 +1914,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000607.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000607.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000607.jpg"
   },
   {
     "full_name": "Robin L. Kelly",
@@ -1748,7 +1926,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000385.jpg",
     "alt_names": [
       "Robin Kelly"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000385.jpg"
   },
   {
     "full_name": "Jason Smith",
@@ -1757,7 +1936,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001195.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001195.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001195.jpg"
   },
   {
     "full_name": "Cory A. Booker",
@@ -1768,7 +1948,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001288.jpg",
     "alt_names": [
       "Cory Booker"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001288.jpg"
   },
   {
     "full_name": "Katherine M. Clark",
@@ -1779,7 +1960,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001101.jpg",
     "alt_names": [
       "Katherine Clark"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001101.jpg"
   },
   {
     "full_name": "Donald Norcross",
@@ -1788,7 +1970,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/N000188.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000188.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000188.jpg"
   },
   {
     "full_name": "Alma S. Adams",
@@ -1799,7 +1982,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000370.jpg",
     "alt_names": [
       "Alma Adams"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000370.jpg"
   },
   {
     "full_name": "Gary J. Palmer",
@@ -1810,7 +1994,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000609.jpg",
     "alt_names": [
       "Gary Palmer"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000609.jpg"
   },
   {
     "full_name": "J. French Hill",
@@ -1821,7 +2006,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001072.jpg",
     "alt_names": [
       "French Hill"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001072.jpg"
   },
   {
     "full_name": "Bruce Westerman",
@@ -1830,7 +2016,8 @@
     "state": "AR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000821.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000821.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000821.jpg"
   },
   {
     "full_name": "Ruben Gallego",
@@ -1839,7 +2026,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000574.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000574.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000574.jpg"
   },
   {
     "full_name": "Mark DeSaulnier",
@@ -1848,7 +2036,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000623.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000623.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000623.jpg"
   },
   {
     "full_name": "Pete Aguilar",
@@ -1857,7 +2046,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/A000371.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000371.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000371.jpg"
   },
   {
     "full_name": "Ted Lieu",
@@ -1866,7 +2056,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000582.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000582.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000582.jpg"
   },
   {
     "full_name": "Norma J. Torres",
@@ -1877,7 +2068,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000474.jpg",
     "alt_names": [
       "Norma Torres"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000474.jpg"
   },
   {
     "full_name": "Earl L. \"Buddy\" Carter",
@@ -1888,7 +2080,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001103.jpg",
     "alt_names": [
       "Buddy Carter"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001103.jpg"
   },
   {
     "full_name": "Barry Loudermilk",
@@ -1897,7 +2090,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000583.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000583.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000583.jpg"
   },
   {
     "full_name": "Rick W. Allen",
@@ -1908,7 +2102,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000372.jpg",
     "alt_names": [
       "Rick Allen"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000372.jpg"
   },
   {
     "full_name": "Mike Bost",
@@ -1917,7 +2112,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001295.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001295.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001295.jpg"
   },
   {
     "full_name": "Seth Moulton",
@@ -1926,7 +2122,8 @@
     "state": "MA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001196.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001196.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001196.jpg"
   },
   {
     "full_name": "John R. Moolenaar",
@@ -1937,7 +2134,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001194.jpg",
     "alt_names": [
       "John Moolenaar"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001194.jpg"
   },
   {
     "full_name": "Debbie Dingell",
@@ -1946,7 +2144,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000624.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000624.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000624.jpg"
   },
   {
     "full_name": "Tom Emmer",
@@ -1955,7 +2154,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000294.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000294.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000294.jpg"
   },
   {
     "full_name": "David Rouzer",
@@ -1964,7 +2164,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000603.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000603.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000603.jpg"
   },
   {
     "full_name": "Bonnie Watson Coleman",
@@ -1973,7 +2174,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000822.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000822.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000822.jpg"
   },
   {
     "full_name": "Elise M. Stefanik",
@@ -1984,7 +2186,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001196.jpg",
     "alt_names": [
       "Elise Stefanik"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001196.jpg"
   },
   {
     "full_name": "Brendan F. Boyle",
@@ -1995,7 +2198,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001296.jpg",
     "alt_names": [
       "Brendan Boyle"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001296.jpg"
   },
   {
     "full_name": "Brian Babin",
@@ -2004,7 +2208,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001291.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001291.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001291.jpg"
   },
   {
     "full_name": "Donald S. Beyer, Jr.",
@@ -2015,7 +2220,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001292.jpg",
     "alt_names": [
       "Don Beyer, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001292.jpg"
   },
   {
     "full_name": "Stacey E. Plaskett",
@@ -2024,7 +2230,8 @@
     "state": "VI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000610.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000610.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000610.jpg"
   },
   {
     "full_name": "Dan Newhouse",
@@ -2033,7 +2240,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/N000189.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000189.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000189.jpg"
   },
   {
     "full_name": "Glenn Grothman",
@@ -2042,7 +2250,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000576.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000576.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000576.jpg"
   },
   {
     "full_name": "Aumua Amata Coleman Radewagen",
@@ -2051,7 +2260,8 @@
     "state": "AS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000600.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000600.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000600.jpg"
   },
   {
     "full_name": "Dan Sullivan",
@@ -2060,7 +2270,8 @@
     "state": "AK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001198.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001198.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001198.jpg"
   },
   {
     "full_name": "Joni Ernst",
@@ -2069,7 +2280,8 @@
     "state": "IA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000295.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/E000295.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000295.jpg"
   },
   {
     "full_name": "Thom Tillis",
@@ -2078,7 +2290,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000476.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/T000476.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000476.jpg"
   },
   {
     "full_name": "Mike Rounds",
@@ -2087,7 +2300,8 @@
     "state": "SD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000605.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/R000605.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000605.jpg"
   },
   {
     "full_name": "Trent Kelly",
@@ -2096,7 +2310,8 @@
     "state": "MS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000388.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000388.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000388.jpg"
   },
   {
     "full_name": "Darin LaHood",
@@ -2105,7 +2320,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000585.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000585.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000585.jpg"
   },
   {
     "full_name": "Warren Davidson",
@@ -2114,7 +2330,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000626.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000626.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000626.jpg"
   },
   {
     "full_name": "James Comer",
@@ -2125,7 +2342,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001108.jpg",
     "alt_names": [
       "James Comer, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001108.jpg"
   },
   {
     "full_name": "Dwight Evans",
@@ -2134,7 +2352,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000296.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000296.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000296.jpg"
   },
   {
     "full_name": "John Kennedy",
@@ -2143,7 +2362,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000393.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000393.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000393.jpg"
   },
   {
     "full_name": "Margaret Wood Hassan",
@@ -2154,7 +2374,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001076.jpg",
     "alt_names": [
       "Maggie Hassan"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001076.jpg"
   },
   {
     "full_name": "Catherine Cortez Masto",
@@ -2163,7 +2384,8 @@
     "state": "NV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001113.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001113.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001113.jpg"
   },
   {
     "full_name": "Bradley Scott Schneider",
@@ -2174,7 +2396,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001190.jpg",
     "alt_names": [
       "Brad Schneider"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001190.jpg"
   },
   {
     "full_name": "Andy Biggs",
@@ -2183,7 +2406,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001302.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001302.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001302.jpg"
   },
   {
     "full_name": "Ro Khanna",
@@ -2192,7 +2416,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000389.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000389.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000389.jpg"
   },
   {
     "full_name": "Jimmy Panetta",
@@ -2201,7 +2426,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000613.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000613.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000613.jpg"
   },
   {
     "full_name": "Salud O. Carbajal",
@@ -2212,7 +2438,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001112.jpg",
     "alt_names": [
       "Salud Carbajal"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001112.jpg"
   },
   {
     "full_name": "Nanette Diaz Barrag\u00e1n",
@@ -2223,7 +2450,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001300.jpg",
     "alt_names": [
       "Nanette Barrag\u00e1n"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001300.jpg"
   },
   {
     "full_name": "J. Luis Correa",
@@ -2234,7 +2462,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001110.jpg",
     "alt_names": [
       "Lou Correa"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001110.jpg"
   },
   {
     "full_name": "Lisa Blunt Rochester",
@@ -2243,7 +2472,8 @@
     "state": "DE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001303.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001303.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001303.jpg"
   },
   {
     "full_name": "Neal P. Dunn",
@@ -2254,7 +2484,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000628.jpg",
     "alt_names": [
       "Neal Dunn"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000628.jpg"
   },
   {
     "full_name": "John H. Rutherford",
@@ -2265,7 +2496,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000609.jpg",
     "alt_names": [
       "John Rutherford"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000609.jpg"
   },
   {
     "full_name": "Darren Soto",
@@ -2274,7 +2506,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001200.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001200.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001200.jpg"
   },
   {
     "full_name": "Brian J. Mast",
@@ -2285,7 +2518,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001199.jpg",
     "alt_names": [
       "Brian Mast"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001199.jpg"
   },
   {
     "full_name": "Raja Krishnamoorthi",
@@ -2294,7 +2528,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000391.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000391.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000391.jpg"
   },
   {
     "full_name": "Jim Banks",
@@ -2303,7 +2538,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001299.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001299.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001299.jpg"
   },
   {
     "full_name": "Roger Marshall",
@@ -2312,7 +2548,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001198.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001198.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001198.jpg"
   },
   {
     "full_name": "Clay Higgins",
@@ -2321,7 +2558,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001077.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001077.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001077.jpg"
   },
   {
     "full_name": "Mike Johnson",
@@ -2330,7 +2568,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000299.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000299.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000299.jpg"
   },
   {
     "full_name": "Jamie Raskin",
@@ -2339,7 +2578,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000606.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000606.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000606.jpg"
   },
   {
     "full_name": "Jack Bergman",
@@ -2348,7 +2588,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001301.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001301.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001301.jpg"
   },
   {
     "full_name": "Ted Budd",
@@ -2357,7 +2598,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001305.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001305.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001305.jpg"
   },
   {
     "full_name": "Don Bacon",
@@ -2368,7 +2610,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001298.jpg",
     "alt_names": [
       "Donald Bacon"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001298.jpg"
   },
   {
     "full_name": "Josh Gottheimer",
@@ -2379,7 +2622,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000583.jpg",
     "alt_names": [
       "Joshua Gottheimer"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000583.jpg"
   },
   {
     "full_name": "Jacky Rosen",
@@ -2388,7 +2632,8 @@
     "state": "NV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000608.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/R000608.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000608.jpg"
   },
   {
     "full_name": "Adriano Espaillat",
@@ -2397,7 +2642,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000297.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000297.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000297.jpg"
   },
   {
     "full_name": "Brian K. Fitzpatrick",
@@ -2408,7 +2654,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000466.jpg",
     "alt_names": [
       "Brian Fitzpatrick"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000466.jpg"
   },
   {
     "full_name": "Lloyd Smucker",
@@ -2417,7 +2664,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001199.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001199.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001199.jpg"
   },
   {
     "full_name": "David Kustoff",
@@ -2426,7 +2674,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000392.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000392.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000392.jpg"
   },
   {
     "full_name": "Vicente Gonzalez",
@@ -2435,7 +2684,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000581.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000581.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000581.jpg"
   },
   {
     "full_name": "Jodey C. Arrington",
@@ -2446,7 +2696,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000375.jpg",
     "alt_names": [
       "Jodey Arrington"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000375.jpg"
   },
   {
     "full_name": "Pramila Jayapal",
@@ -2455,7 +2706,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000298.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000298.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000298.jpg"
   },
   {
     "full_name": "Ron Estes",
@@ -2464,7 +2716,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000298.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000298.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000298.jpg"
   },
   {
     "full_name": "Ralph Norman",
@@ -2475,7 +2728,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000190.jpg",
     "alt_names": [
       "Ralph Norman, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000190.jpg"
   },
   {
     "full_name": "Jimmy Gomez",
@@ -2484,7 +2738,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000585.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000585.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000585.jpg"
   },
   {
     "full_name": "John R. Curtis",
@@ -2495,7 +2750,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/C001114.jpg",
     "alt_names": [
       "John Curtis"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001114.jpg"
   },
   {
     "full_name": "Tina Smith",
@@ -2504,7 +2760,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001203.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001203.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001203.jpg"
   },
   {
     "full_name": "Cindy Hyde-Smith",
@@ -2513,7 +2770,8 @@
     "state": "MS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001079.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001079.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001079.jpg"
   },
   {
     "full_name": "Michael Cloud",
@@ -2522,7 +2780,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001115.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001115.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001115.jpg"
   },
   {
     "full_name": "Troy Balderson",
@@ -2531,7 +2790,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001306.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001306.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001306.jpg"
   },
   {
     "full_name": "Kevin Hern",
@@ -2540,7 +2800,8 @@
     "state": "OK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001082.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001082.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001082.jpg"
   },
   {
     "full_name": "Joseph D. Morelle",
@@ -2551,7 +2812,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001206.jpg",
     "alt_names": [
       "Joe Morelle"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001206.jpg"
   },
   {
     "full_name": "Mary Gay Scanlon",
@@ -2562,7 +2824,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001205.jpg",
     "alt_names": [
       "Mary Scanlon"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001205.jpg"
   },
   {
     "full_name": "Ed Case",
@@ -2571,7 +2834,8 @@
     "state": "HI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001055.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001055.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001055.jpg"
   },
   {
     "full_name": "Steven Horsford",
@@ -2580,7 +2844,8 @@
     "state": "NV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001066.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001066.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001066.jpg"
   },
   {
     "full_name": "Greg Stanton",
@@ -2589,7 +2854,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001211.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001211.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001211.jpg"
   },
   {
     "full_name": "Josh Harder",
@@ -2598,7 +2864,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001090.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001090.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001090.jpg"
   },
   {
     "full_name": "Mike Levin",
@@ -2607,7 +2874,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000593.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000593.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000593.jpg"
   },
   {
     "full_name": "Joe Neguse",
@@ -2616,7 +2884,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/N000191.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000191.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000191.jpg"
   },
   {
     "full_name": "Jason Crow",
@@ -2625,7 +2894,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001121.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001121.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001121.jpg"
   },
   {
     "full_name": "Jahana Hayes",
@@ -2634,7 +2904,8 @@
     "state": "CT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001081.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001081.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001081.jpg"
   },
   {
     "full_name": "W. Gregory Steube",
@@ -2645,7 +2916,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001214.jpg",
     "alt_names": [
       "Greg Steube"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001214.jpg"
   },
   {
     "full_name": "Lucy McBath",
@@ -2654,7 +2926,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001208.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001208.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001208.jpg"
   },
   {
     "full_name": "Russ Fulcher",
@@ -2663,7 +2936,8 @@
     "state": "ID",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000469.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000469.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000469.jpg"
   },
   {
     "full_name": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
@@ -2674,7 +2948,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000586.jpg",
     "alt_names": [
       "Chuy Garcia"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000586.jpg"
   },
   {
     "full_name": "Sean Casten",
@@ -2683,7 +2958,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001117.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001117.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001117.jpg"
   },
   {
     "full_name": "Lauren Underwood",
@@ -2692,7 +2968,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/U000040.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/U000040.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/u000040.jpg"
   },
   {
     "full_name": "James R. Baird",
@@ -2703,7 +2980,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001307.jpg",
     "alt_names": [
       "Jim Baird"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001307.jpg"
   },
   {
     "full_name": "Sharice Davids",
@@ -2712,7 +2990,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000629.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000629.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000629.jpg"
   },
   {
     "full_name": "Lori Trahan",
@@ -2721,7 +3000,8 @@
     "state": "MA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000482.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000482.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000482.jpg"
   },
   {
     "full_name": "Ayanna Pressley",
@@ -2730,7 +3010,8 @@
     "state": "MA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000617.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000617.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000617.jpg"
   },
   {
     "full_name": "Elissa Slotkin",
@@ -2739,7 +3020,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001208.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001208.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001208.jpg"
   },
   {
     "full_name": "Haley M. Stevens",
@@ -2750,7 +3032,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001215.jpg",
     "alt_names": [
       "Haley Stevens"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001215.jpg"
   },
   {
     "full_name": "Rashida Tlaib",
@@ -2759,7 +3042,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000481.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000481.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000481.jpg"
   },
   {
     "full_name": "Angie Craig",
@@ -2768,7 +3052,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001119.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001119.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001119.jpg"
   },
   {
     "full_name": "Ilhan Omar",
@@ -2777,7 +3062,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000173.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000173.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000173.jpg"
   },
   {
     "full_name": "Pete Stauber",
@@ -2788,7 +3074,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001212.jpg",
     "alt_names": [
       "Peter Stauber"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001212.jpg"
   },
   {
     "full_name": "Michael Guest",
@@ -2797,7 +3084,8 @@
     "state": "MS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000591.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000591.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000591.jpg"
   },
   {
     "full_name": "Chris Pappas",
@@ -2806,7 +3094,8 @@
     "state": "NH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000614.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000614.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000614.jpg"
   },
   {
     "full_name": "Jefferson Van Drew",
@@ -2815,7 +3104,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000133.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000133.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000133.jpg"
   },
   {
     "full_name": "Andy Kim",
@@ -2824,7 +3114,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000394.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000394.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000394.jpg"
   },
   {
     "full_name": "Susie Lee",
@@ -2833,7 +3124,8 @@
     "state": "NV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000590.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000590.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000590.jpg"
   },
   {
     "full_name": "Alexandria Ocasio-Cortez",
@@ -2842,7 +3134,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000172.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000172.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000172.jpg"
   },
   {
     "full_name": "Madeleine Dean",
@@ -2851,7 +3144,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000631.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000631.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000631.jpg"
   },
   {
     "full_name": "Chrissy Houlahan",
@@ -2860,7 +3154,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001085.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001085.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001085.jpg"
   },
   {
     "full_name": "Daniel Meuser",
@@ -2871,7 +3166,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001204.jpg",
     "alt_names": [
       "Dan Meuser"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001204.jpg"
   },
   {
     "full_name": "John Joyce",
@@ -2880,7 +3176,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000302.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000302.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000302.jpg"
   },
   {
     "full_name": "Guy Reschenthaler",
@@ -2889,7 +3186,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000610.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000610.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000610.jpg"
   },
   {
     "full_name": "William R. Timmons IV",
@@ -2900,7 +3198,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000480.jpg",
     "alt_names": [
       "William Timmons"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000480.jpg"
   },
   {
     "full_name": "Dusty Johnson",
@@ -2909,7 +3208,8 @@
     "state": "SD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000301.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000301.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000301.jpg"
   },
   {
     "full_name": "Tim Burchett",
@@ -2918,7 +3218,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001309.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001309.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001309.jpg"
   },
   {
     "full_name": "John W. Rose",
@@ -2929,7 +3230,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000612.jpg",
     "alt_names": [
       "John Rose"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000612.jpg"
   },
   {
     "full_name": "Dan Crenshaw",
@@ -2938,7 +3240,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001120.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001120.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001120.jpg"
   },
   {
     "full_name": "Lance Gooden",
@@ -2947,7 +3250,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000589.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000589.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000589.jpg"
   },
   {
     "full_name": "Lizzie Fletcher",
@@ -2956,7 +3260,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000468.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000468.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000468.jpg"
   },
   {
     "full_name": "Veronica Escobar",
@@ -2965,7 +3270,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000299.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000299.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000299.jpg"
   },
   {
     "full_name": "Chip Roy",
@@ -2974,7 +3280,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000614.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000614.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000614.jpg"
   },
   {
     "full_name": "Sylvia R. Garcia",
@@ -2985,7 +3292,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000587.jpg",
     "alt_names": [
       "Sylvia Garcia"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000587.jpg"
   },
   {
     "full_name": "Ben Cline",
@@ -2994,7 +3302,8 @@
     "state": "VA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001118.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001118.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001118.jpg"
   },
   {
     "full_name": "Kim Schrier",
@@ -3003,7 +3312,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001216.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001216.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001216.jpg"
   },
   {
     "full_name": "Bryan Steil",
@@ -3012,7 +3322,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001213.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001213.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001213.jpg"
   },
   {
     "full_name": "Carol D. Miller",
@@ -3021,7 +3332,8 @@
     "state": "WV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001205.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001205.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001205.jpg"
   },
   {
     "full_name": "Rick Scott",
@@ -3030,7 +3342,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001217.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001217.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001217.jpg"
   },
   {
     "full_name": "Josh Hawley",
@@ -3039,7 +3352,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001089.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001089.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001089.jpg"
   },
   {
     "full_name": "Jared F. Golden",
@@ -3050,7 +3364,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000592.jpg",
     "alt_names": [
       "Jared Golden"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000592.jpg"
   },
   {
     "full_name": "Gregory F. Murphy",
@@ -3061,7 +3376,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001210.jpg",
     "alt_names": [
       "Greg Murphy"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001210.jpg"
   },
   {
     "full_name": "Kweisi Mfume",
@@ -3070,7 +3386,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M000687.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M000687.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000687.jpg"
   },
   {
     "full_name": "Thomas P. Tiffany",
@@ -3081,7 +3398,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000165.jpg",
     "alt_names": [
       "Tom Tiffany"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000165.jpg"
   },
   {
     "full_name": "Mark Kelly",
@@ -3090,7 +3408,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000377.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/K000377.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000377.jpg"
   },
   {
     "full_name": "Cynthia M. Lummis",
@@ -3101,7 +3420,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/L000571.jpg",
     "alt_names": [
       "Cynthia Lummis"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000571.jpg"
   },
   {
     "full_name": "Darrell Issa",
@@ -3110,7 +3430,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/I000056.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/I000056.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/i000056.jpg"
   },
   {
     "full_name": "Pete Sessions",
@@ -3119,7 +3440,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S000250.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000250.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000250.jpg"
   },
   {
     "full_name": "David G. Valadao",
@@ -3130,7 +3452,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000129.jpg",
     "alt_names": [
       "David Valadao"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000129.jpg"
   },
   {
     "full_name": "Tommy Tuberville",
@@ -3139,7 +3462,8 @@
     "state": "AL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000278.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/T000278.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000278.jpg"
   },
   {
     "full_name": "John W. Hickenlooper",
@@ -3150,7 +3474,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H000273.jpg",
     "alt_names": [
       "John Hickenlooper"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h000273.jpg"
   },
   {
     "full_name": "Bill Hagerty",
@@ -3159,7 +3484,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H000601.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H000601.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h000601.jpg"
   },
   {
     "full_name": "Barry Moore",
@@ -3168,7 +3494,8 @@
     "state": "AL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001212.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001212.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001212.jpg"
   },
   {
     "full_name": "Jay Obernolte",
@@ -3177,7 +3504,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000019.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000019.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000019.jpg"
   },
   {
     "full_name": "Young Kim",
@@ -3186,7 +3514,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000397.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000397.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000397.jpg"
   },
   {
     "full_name": "Sara Jacobs",
@@ -3195,7 +3524,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000305.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000305.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000305.jpg"
   },
   {
     "full_name": "Lauren Boebert",
@@ -3204,7 +3534,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B000825.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B000825.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b000825.jpg"
   },
   {
     "full_name": "Kat Cammack",
@@ -3213,7 +3544,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001039.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001039.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001039.jpg"
   },
   {
     "full_name": "Scott Franklin",
@@ -3222,7 +3554,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000472.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000472.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000472.jpg"
   },
   {
     "full_name": "Byron Donalds",
@@ -3231,7 +3564,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000032.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000032.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000032.jpg"
   },
   {
     "full_name": "Carlos A. Gimenez",
@@ -3242,7 +3576,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000593.jpg",
     "alt_names": [
       "Carlos Gimenez"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000593.jpg"
   },
   {
     "full_name": "Maria Elvira Salazar",
@@ -3253,7 +3588,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000168.jpg",
     "alt_names": [
       "Maria Salazar"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000168.jpg"
   },
   {
     "full_name": "Nikema Williams",
@@ -3262,7 +3598,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000788.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000788.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000788.jpg"
   },
   {
     "full_name": "Andrew S. Clyde",
@@ -3273,7 +3610,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001116.jpg",
     "alt_names": [
       "Andrew Clyde"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001116.jpg"
   },
   {
     "full_name": "Ashley Hinson",
@@ -3282,7 +3620,8 @@
     "state": "IA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001091.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001091.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001091.jpg"
   },
   {
     "full_name": "Mariannette Miller-Meeks",
@@ -3291,7 +3630,8 @@
     "state": "IA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001215.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001215.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001215.jpg"
   },
   {
     "full_name": "Randy Feenstra",
@@ -3300,7 +3640,8 @@
     "state": "IA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000446.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000446.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000446.jpg"
   },
   {
     "full_name": "Mary E. Miller",
@@ -3311,7 +3652,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001211.jpg",
     "alt_names": [
       "Mary Miller"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001211.jpg"
   },
   {
     "full_name": "Frank J. Mrvan",
@@ -3322,7 +3664,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001214.jpg",
     "alt_names": [
       "Frank Mrvan"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001214.jpg"
   },
   {
     "full_name": "Victoria Spartz",
@@ -3331,7 +3674,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S000929.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S000929.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s000929.jpg"
   },
   {
     "full_name": "Tracey Mann",
@@ -3340,7 +3684,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M000871.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M000871.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000871.jpg"
   },
   {
     "full_name": "Jake Auchincloss",
@@ -3349,7 +3694,8 @@
     "state": "MA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/A000148.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000148.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000148.jpg"
   },
   {
     "full_name": "Lisa C. McClain",
@@ -3360,7 +3706,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001136.jpg",
     "alt_names": [
       "Lisa McClain"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001136.jpg"
   },
   {
     "full_name": "Michelle Fischbach",
@@ -3369,7 +3716,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000470.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000470.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000470.jpg"
   },
   {
     "full_name": "Deborah K. Ross",
@@ -3380,7 +3728,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000305.jpg",
     "alt_names": [
       "Deborah Ross"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000305.jpg"
   },
   {
     "full_name": "Teresa Leger Fernandez",
@@ -3389,7 +3738,8 @@
     "state": "NM",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000273.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000273.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000273.jpg"
   },
   {
     "full_name": "Andrew R. Garbarino",
@@ -3400,7 +3750,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000597.jpg",
     "alt_names": [
       "Andrew Garbarino"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000597.jpg"
   },
   {
     "full_name": "Nicole Malliotakis",
@@ -3409,7 +3760,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M000317.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M000317.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000317.jpg"
   },
   {
     "full_name": "Ritchie Torres",
@@ -3418,7 +3770,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000486.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000486.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000486.jpg"
   },
   {
     "full_name": "Stephanie I. Bice",
@@ -3429,7 +3782,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B000740.jpg",
     "alt_names": [
       "Stephanie Bice"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b000740.jpg"
   },
   {
     "full_name": "Cliff Bentz",
@@ -3438,7 +3792,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B000668.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B000668.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b000668.jpg"
   },
   {
     "full_name": "Nancy Mace",
@@ -3447,7 +3802,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M000194.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M000194.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m000194.jpg"
   },
   {
     "full_name": "Diana Harshbarger",
@@ -3456,7 +3812,8 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001086.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001086.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001086.jpg"
   },
   {
     "full_name": "Pat Fallon",
@@ -3465,7 +3822,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000246.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000246.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000246.jpg"
   },
   {
     "full_name": "August Pfluger",
@@ -3474,7 +3832,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000048.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000048.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000048.jpg"
   },
   {
     "full_name": "Ronny Jackson",
@@ -3483,7 +3842,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000304.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000304.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000304.jpg"
   },
   {
     "full_name": "Troy E. Nehls",
@@ -3494,7 +3854,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000026.jpg",
     "alt_names": [
       "Troy Nehls"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000026.jpg"
   },
   {
     "full_name": "Tony Gonzales",
@@ -3503,7 +3864,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000594.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000594.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000594.jpg"
   },
   {
     "full_name": "Beth Van Duyne",
@@ -3512,7 +3874,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000134.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000134.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000134.jpg"
   },
   {
     "full_name": "Blake D. Moore",
@@ -3523,7 +3886,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001213.jpg",
     "alt_names": [
       "Blake Moore"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001213.jpg"
   },
   {
     "full_name": "Burgess Owens",
@@ -3532,7 +3896,8 @@
     "state": "UT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000086.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000086.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000086.jpg"
   },
   {
     "full_name": "Marilyn Strickland",
@@ -3541,7 +3906,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001159.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001159.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001159.jpg"
   },
   {
     "full_name": "Scott Fitzgerald",
@@ -3550,7 +3916,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000471.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000471.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000471.jpg"
   },
   {
     "full_name": "Alex Padilla",
@@ -3559,7 +3926,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000145.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/P000145.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000145.jpg"
   },
   {
     "full_name": "Jon Ossoff",
@@ -3568,7 +3936,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000174.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/O000174.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000174.jpg"
   },
   {
     "full_name": "Raphael G. Warnock",
@@ -3579,7 +3948,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/W000790.jpg",
     "alt_names": [
       "Raphael Warnock"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000790.jpg"
   },
   {
     "full_name": "Claudia Tenney",
@@ -3588,7 +3958,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000478.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000478.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000478.jpg"
   },
   {
     "full_name": "Julia Letlow",
@@ -3597,7 +3968,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000595.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000595.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000595.jpg"
   },
   {
     "full_name": "Troy A. Carter",
@@ -3608,7 +3980,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001125.jpg",
     "alt_names": [
       "Troy Carter, Sr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001125.jpg"
   },
   {
     "full_name": "Melanie A. Stansbury",
@@ -3619,7 +3992,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001218.jpg",
     "alt_names": [
       "Melanie Stansbury"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001218.jpg"
   },
   {
     "full_name": "Jake Ellzey",
@@ -3628,7 +4002,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000071.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000071.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000071.jpg"
   },
   {
     "full_name": "Shontel M. Brown",
@@ -3639,7 +4014,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001313.jpg",
     "alt_names": [
       "Shontel Brown"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001313.jpg"
   },
   {
     "full_name": "Mike Carey",
@@ -3648,7 +4024,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001126.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001126.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001126.jpg"
   },
   {
     "full_name": "Sheila Cherfilus-McCormick",
@@ -3657,7 +4034,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001127.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001127.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001127.jpg"
   },
   {
     "full_name": "Mike Flood",
@@ -3666,7 +4044,8 @@
     "state": "NE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000474.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000474.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000474.jpg"
   },
   {
     "full_name": "Brad Finstad",
@@ -3675,7 +4054,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000475.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000475.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000475.jpg"
   },
   {
     "full_name": "Patrick Ryan",
@@ -3686,7 +4066,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000579.jpg",
     "alt_names": [
       "Pat Ryan"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000579.jpg"
   },
   {
     "full_name": "Rudy Yakym III",
@@ -3695,7 +4076,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/Y000067.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/Y000067.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/y000067.jpg"
   },
   {
     "full_name": "Ryan K. Zinke",
@@ -3706,7 +4088,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/Z000018.jpg",
     "alt_names": [
       "Ryan Zinke"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/z000018.jpg"
   },
   {
     "full_name": "Katie Boyd Britt",
@@ -3715,7 +4098,8 @@
     "state": "AL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001319.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/B001319.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001319.jpg"
   },
   {
     "full_name": "Eric Schmitt",
@@ -3724,7 +4108,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001227.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001227.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001227.jpg"
   },
   {
     "full_name": "John Fetterman",
@@ -3733,7 +4118,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000479.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/F000479.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000479.jpg"
   },
   {
     "full_name": "Dale W. Strong",
@@ -3744,7 +4130,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001220.jpg",
     "alt_names": [
       "Dale Strong"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001220.jpg"
   },
   {
     "full_name": "Elijah Crane",
@@ -3755,7 +4142,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001132.jpg",
     "alt_names": [
       "Eli Crane"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001132.jpg"
   },
   {
     "full_name": "Juan Ciscomani",
@@ -3764,7 +4152,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001133.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001133.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001133.jpg"
   },
   {
     "full_name": "Kevin Kiley",
@@ -3773,7 +4162,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000401.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000401.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000401.jpg"
   },
   {
     "full_name": "Kevin Mullin",
@@ -3782,7 +4172,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001225.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001225.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001225.jpg"
   },
   {
     "full_name": "Sydney Kamlager-Dove",
@@ -3791,7 +4182,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000400.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000400.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000400.jpg"
   },
   {
     "full_name": "Robert Garcia",
@@ -3800,7 +4192,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000598.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000598.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000598.jpg"
   },
   {
     "full_name": "Brittany Pettersen",
@@ -3809,7 +4202,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/P000620.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000620.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000620.jpg"
   },
   {
     "full_name": "Aaron Bean",
@@ -3818,7 +4212,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001314.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001314.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001314.jpg"
   },
   {
     "full_name": "Cory Mills",
@@ -3827,7 +4222,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001216.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001216.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001216.jpg"
   },
   {
     "full_name": "Maxwell Frost",
@@ -3836,7 +4232,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000476.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000476.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000476.jpg"
   },
   {
     "full_name": "Anna Paulina Luna",
@@ -3847,7 +4244,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000596.jpg",
     "alt_names": [
       "Anna Luna"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000596.jpg"
   },
   {
     "full_name": "Laurel M. Lee",
@@ -3858,7 +4256,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000597.jpg",
     "alt_names": [
       "Laurel Lee"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000597.jpg"
   },
   {
     "full_name": "Jared Moskowitz",
@@ -3867,7 +4266,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001217.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001217.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001217.jpg"
   },
   {
     "full_name": "Richard McCormick",
@@ -3876,7 +4276,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001218.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001218.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001218.jpg"
   },
   {
     "full_name": "Mike Collins",
@@ -3885,7 +4286,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001129.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001129.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001129.jpg"
   },
   {
     "full_name": "James C. Moylan",
@@ -3894,7 +4296,8 @@
     "state": "GU",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001219.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001219.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001219.jpg"
   },
   {
     "full_name": "Jill N. Tokuda",
@@ -3905,7 +4308,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000487.jpg",
     "alt_names": [
       "Jill Tokuda"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000487.jpg"
   },
   {
     "full_name": "Zachary Nunn",
@@ -3916,7 +4320,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/N000193.jpg",
     "alt_names": [
       "Zach Nunn"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/n000193.jpg"
   },
   {
     "full_name": "Jonathan L. Jackson",
@@ -3927,7 +4332,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000309.jpg",
     "alt_names": [
       "Jonathan Jackson"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000309.jpg"
   },
   {
     "full_name": "Delia C. Ramirez",
@@ -3938,7 +4344,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000617.jpg",
     "alt_names": [
       "Delia Ramirez"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000617.jpg"
   },
   {
     "full_name": "Nikki Budzinski",
@@ -3947,7 +4354,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001315.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001315.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001315.jpg"
   },
   {
     "full_name": "Eric Sorensen",
@@ -3956,7 +4364,8 @@
     "state": "IL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001225.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001225.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001225.jpg"
   },
   {
     "full_name": "Erin Houchin",
@@ -3965,7 +4374,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001093.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001093.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001093.jpg"
   },
   {
     "full_name": "Morgan McGarvey",
@@ -3974,7 +4384,8 @@
     "state": "KY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001220.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001220.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001220.jpg"
   },
   {
     "full_name": "Glenn Ivey",
@@ -3983,7 +4394,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/I000058.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/I000058.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/i000058.jpg"
   },
   {
     "full_name": "Hillary J. Scholten",
@@ -3994,7 +4406,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001221.jpg",
     "alt_names": [
       "Hillary Scholten"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001221.jpg"
   },
   {
     "full_name": "John James",
@@ -4003,7 +4416,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000307.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000307.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000307.jpg"
   },
   {
     "full_name": "Shri Thanedar",
@@ -4012,7 +4426,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000488.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000488.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000488.jpg"
   },
   {
     "full_name": "Mark Alford",
@@ -4021,7 +4436,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/A000379.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000379.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000379.jpg"
   },
   {
     "full_name": "Eric Burlison",
@@ -4030,7 +4446,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001316.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001316.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001316.jpg"
   },
   {
     "full_name": "Mike Ezell",
@@ -4039,7 +4456,8 @@
     "state": "MS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000235.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000235.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000235.jpg"
   },
   {
     "full_name": "Donald G. Davis",
@@ -4048,7 +4466,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000230.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000230.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000230.jpg"
   },
   {
     "full_name": "Valerie P. Foushee",
@@ -4059,7 +4478,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000477.jpg",
     "alt_names": [
       "Valerie Foushee"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000477.jpg"
   },
   {
     "full_name": "Chuck Edwards",
@@ -4068,7 +4488,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000246.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000246.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000246.jpg"
   },
   {
     "full_name": "Thomas H. Kean, Jr.",
@@ -4079,7 +4500,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000398.jpg",
     "alt_names": [
       "Tom Kean, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000398.jpg"
   },
   {
     "full_name": "Robert Menendez",
@@ -4090,7 +4512,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001226.jpg",
     "alt_names": [
       "Rob Menendez"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001226.jpg"
   },
   {
     "full_name": "Gabe Vasquez",
@@ -4099,7 +4522,8 @@
     "state": "NM",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000136.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000136.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000136.jpg"
   },
   {
     "full_name": "Nick LaLota",
@@ -4110,7 +4534,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000598.jpg",
     "alt_names": [
       "Nicholas LaLota"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000598.jpg"
   },
   {
     "full_name": "Daniel S. Goldman",
@@ -4119,7 +4544,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000599.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000599.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000599.jpg"
   },
   {
     "full_name": "Michael Lawler",
@@ -4130,7 +4556,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000599.jpg",
     "alt_names": [
       "Mike Lawler"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000599.jpg"
   },
   {
     "full_name": "Nicholas A. Langworthy",
@@ -4141,7 +4568,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000600.jpg",
     "alt_names": [
       "Nicholas Langworthy"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000600.jpg"
   },
   {
     "full_name": "Greg Landsman",
@@ -4150,7 +4578,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000601.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000601.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000601.jpg"
   },
   {
     "full_name": "Max L. Miller",
@@ -4161,7 +4590,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001222.jpg",
     "alt_names": [
       "Max Miller"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001222.jpg"
   },
   {
     "full_name": "Emilia Strong Sykes",
@@ -4172,7 +4602,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001223.jpg",
     "alt_names": [
       "Emilia Sykes"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001223.jpg"
   },
   {
     "full_name": "Josh Brecheen",
@@ -4181,7 +4612,8 @@
     "state": "OK",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001317.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001317.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001317.jpg"
   },
   {
     "full_name": "Val T. Hoyle",
@@ -4192,7 +4624,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001094.jpg",
     "alt_names": [
       "Val Hoyle"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001094.jpg"
   },
   {
     "full_name": "Andrea Salinas",
@@ -4201,7 +4634,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001226.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001226.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001226.jpg"
   },
   {
     "full_name": "Summer L. Lee",
@@ -4212,7 +4646,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000602.jpg",
     "alt_names": [
       "Summer Lee"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000602.jpg"
   },
   {
     "full_name": "Christopher R. Deluzio",
@@ -4223,7 +4658,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000530.jpg",
     "alt_names": [
       "Chris Deluzio"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000530.jpg"
   },
   {
     "full_name": "Seth Magaziner",
@@ -4232,7 +4668,8 @@
     "state": "RI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001223.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001223.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001223.jpg"
   },
   {
     "full_name": "Russell Fry",
@@ -4241,7 +4678,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000478.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000478.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000478.jpg"
   },
   {
     "full_name": "Andrew Ogles",
@@ -4252,7 +4690,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000175.jpg",
     "alt_names": [
       "Andy Ogles"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000175.jpg"
   },
   {
     "full_name": "Nathaniel Moran",
@@ -4261,7 +4700,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001224.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001224.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001224.jpg"
   },
   {
     "full_name": "Keith Self",
@@ -4270,7 +4710,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001224.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001224.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001224.jpg"
   },
   {
     "full_name": "Morgan Luttrell",
@@ -4279,7 +4720,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000603.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000603.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000603.jpg"
   },
   {
     "full_name": "Monica De La Cruz",
@@ -4288,7 +4730,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000594.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000594.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000594.jpg"
   },
   {
     "full_name": "Jasmine Crockett",
@@ -4297,7 +4740,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001130.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001130.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001130.jpg"
   },
   {
     "full_name": "Greg Casar",
@@ -4306,7 +4750,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001131.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001131.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001131.jpg"
   },
   {
     "full_name": "Wesley Hunt",
@@ -4315,7 +4760,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001095.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001095.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001095.jpg"
   },
   {
     "full_name": "Jennifer A. Kiggans",
@@ -4326,7 +4772,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000399.jpg",
     "alt_names": [
       "Jennifer Kiggans"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000399.jpg"
   },
   {
     "full_name": "Becca Balint",
@@ -4335,7 +4782,8 @@
     "state": "VT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001318.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001318.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001318.jpg"
   },
   {
     "full_name": "Marie Gluesenkamp Perez",
@@ -4344,7 +4792,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000600.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000600.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000600.jpg"
   },
   {
     "full_name": "Derrick Van Orden",
@@ -4353,7 +4802,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000135.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000135.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000135.jpg"
   },
   {
     "full_name": "Harriet M. Hageman",
@@ -4364,7 +4814,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001096.jpg",
     "alt_names": [
       "Harriet Hageman"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001096.jpg"
   },
   {
     "full_name": "Pete Ricketts",
@@ -4373,7 +4824,8 @@
     "state": "NE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000618.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/R000618.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000618.jpg"
   },
   {
     "full_name": "Jennifer L. McClellan",
@@ -4384,7 +4836,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001227.jpg",
     "alt_names": [
       "Jennifer McClellan"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001227.jpg"
   },
   {
     "full_name": "Gabe Amo",
@@ -4393,7 +4846,8 @@
     "state": "RI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/A000380.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000380.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000380.jpg"
   },
   {
     "full_name": "Celeste Maloy",
@@ -4402,7 +4856,8 @@
     "state": "UT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001228.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001228.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001228.jpg"
   },
   {
     "full_name": "Thomas R. Suozzi",
@@ -4413,7 +4868,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001201.jpg",
     "alt_names": [
       "Thomas Suozzi"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001201.jpg"
   },
   {
     "full_name": "Timothy M. Kennedy",
@@ -4422,7 +4878,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000402.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000402.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000402.jpg"
   },
   {
     "full_name": "Vince Fong",
@@ -4431,7 +4888,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000480.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000480.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000480.jpg"
   },
   {
     "full_name": "Michael A. Rulli",
@@ -4442,7 +4900,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000619.jpg",
     "alt_names": [
       "Michael Rulli"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000619.jpg"
   },
   {
     "full_name": "LaMonica McIver",
@@ -4451,7 +4910,8 @@
     "state": "NJ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001229.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001229.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001229.jpg"
   },
   {
     "full_name": "Tony Wied",
@@ -4460,7 +4920,8 @@
     "state": "WI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000829.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000829.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000829.jpg"
   },
   {
     "full_name": "Cleo Fields",
@@ -4469,7 +4930,8 @@
     "state": "LA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000110.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000110.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000110.jpg"
   },
   {
     "full_name": "Marlin A. Stutzman",
@@ -4480,7 +4942,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001188.jpg",
     "alt_names": [
       "Marlin Stutzman"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001188.jpg"
   },
   {
     "full_name": "Gilbert Ray Cisneros, Jr.",
@@ -4491,7 +4954,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001123.jpg",
     "alt_names": [
       "Gil Cisneros"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001123.jpg"
   },
   {
     "full_name": "Angela D. Alsobrooks",
@@ -4502,7 +4966,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/A000382.jpg",
     "alt_names": [
       "Angela Alsobrooks"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000382.jpg"
   },
   {
     "full_name": "Tim Sheehy",
@@ -4511,7 +4976,8 @@
     "state": "MT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001232.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/S001232.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001232.jpg"
   },
   {
     "full_name": "Bernie Moreno",
@@ -4520,7 +4986,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001242.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001242.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001242.jpg"
   },
   {
     "full_name": "David McCormick",
@@ -4529,7 +4996,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001243.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001243.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001243.jpg"
   },
   {
     "full_name": "Nicholas J. Begich III",
@@ -4540,7 +5008,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001323.jpg",
     "alt_names": [
       "Nick Begich III"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001323.jpg"
   },
   {
     "full_name": "Shomari Figures",
@@ -4549,7 +5018,8 @@
     "state": "AL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000481.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000481.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000481.jpg"
   },
   {
     "full_name": "Yassamin Ansari",
@@ -4558,7 +5028,8 @@
     "state": "AZ",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/A000381.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/A000381.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/a000381.jpg"
   },
   {
     "full_name": "Abraham J. Hamadeh",
@@ -4569,7 +5040,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001098.jpg",
     "alt_names": [
       "Abraham Hamadeh"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001098.jpg"
   },
   {
     "full_name": "Lateefah Simon",
@@ -4578,7 +5050,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001231.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001231.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001231.jpg"
   },
   {
     "full_name": "Adam Gray",
@@ -4587,7 +5060,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000605.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000605.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000605.jpg"
   },
   {
     "full_name": "Sam T. Liccardo",
@@ -4598,7 +5072,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000607.jpg",
     "alt_names": [
       "Sam Liccardo"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000607.jpg"
   },
   {
     "full_name": "George Whitesides",
@@ -4607,7 +5082,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/W000830.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000830.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000830.jpg"
   },
   {
     "full_name": "Luz M. Rivas",
@@ -4618,7 +5094,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000620.jpg",
     "alt_names": [
       "Luz Rivas"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000620.jpg"
   },
   {
     "full_name": "Laura Friedman",
@@ -4627,7 +5104,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000483.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000483.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000483.jpg"
   },
   {
     "full_name": "Derek Tran",
@@ -4636,7 +5114,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/T000491.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000491.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000491.jpg"
   },
   {
     "full_name": "Dave Min",
@@ -4645,7 +5124,8 @@
     "state": "CA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001241.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001241.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001241.jpg"
   },
   {
     "full_name": "Jeff Hurd",
@@ -4654,7 +5134,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001100.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001100.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001100.jpg"
   },
   {
     "full_name": "Jeff Crank",
@@ -4663,7 +5144,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001137.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001137.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001137.jpg"
   },
   {
     "full_name": "Gabe Evans",
@@ -4672,7 +5154,8 @@
     "state": "CO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000300.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000300.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000300.jpg"
   },
   {
     "full_name": "Sarah McBride",
@@ -4681,7 +5164,8 @@
     "state": "DE",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001238.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001238.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001238.jpg"
   },
   {
     "full_name": "Mike Haridopolos",
@@ -4690,7 +5174,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001099.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001099.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001099.jpg"
   },
   {
     "full_name": "Brian Jack",
@@ -4699,7 +5184,8 @@
     "state": "GA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000311.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000311.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000311.jpg"
   },
   {
     "full_name": "Jefferson Shreve",
@@ -4708,7 +5194,8 @@
     "state": "IN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001229.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001229.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001229.jpg"
   },
   {
     "full_name": "Mark B. Messmer",
@@ -4719,7 +5206,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001233.jpg",
     "alt_names": [
       "Mark Messmer"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001233.jpg"
   },
   {
     "full_name": "Derek Schmidt",
@@ -4728,7 +5216,8 @@
     "state": "KS",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001228.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001228.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001228.jpg"
   },
   {
     "full_name": "Johnny Olszewski, Jr.",
@@ -4739,7 +5228,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000176.jpg",
     "alt_names": [
       "John Olszewski, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000176.jpg"
   },
   {
     "full_name": "Sarah Elfreth",
@@ -4748,7 +5238,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/E000301.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/E000301.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/e000301.jpg"
   },
   {
     "full_name": "April McClain Delaney",
@@ -4757,7 +5248,8 @@
     "state": "MD",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001232.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001232.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001232.jpg"
   },
   {
     "full_name": "Tom Barrett",
@@ -4766,7 +5258,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001321.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001321.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001321.jpg"
   },
   {
     "full_name": "Kristen McDonald Rivet",
@@ -4775,7 +5268,8 @@
     "state": "MI",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001237.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001237.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001237.jpg"
   },
   {
     "full_name": "Kelly Morrison",
@@ -4784,7 +5278,8 @@
     "state": "MN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001234.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001234.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001234.jpg"
   },
   {
     "full_name": "Wesley Bell",
@@ -4793,7 +5288,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001324.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001324.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001324.jpg"
   },
   {
     "full_name": "Robert F. Onder, Jr.",
@@ -4802,7 +5298,8 @@
     "state": "MO",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/O000177.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/O000177.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/o000177.jpg"
   },
   {
     "full_name": "Kimberlyn King-Hinds",
@@ -4811,7 +5308,8 @@
     "state": "MP",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000404.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000404.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000404.jpg"
   },
   {
     "full_name": "Troy Downing",
@@ -4820,7 +5318,8 @@
     "state": "MT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000634.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000634.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000634.jpg"
   },
   {
     "full_name": "Addison P. McDowell",
@@ -4831,7 +5330,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001240.jpg",
     "alt_names": [
       "Addison McDowell"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001240.jpg"
   },
   {
     "full_name": "Mark Harris",
@@ -4840,7 +5340,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001102.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001102.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001102.jpg"
   },
   {
     "full_name": "Pat Harrigan",
@@ -4851,7 +5352,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001101.jpg",
     "alt_names": [
       "Patrick Harrigan"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001101.jpg"
   },
   {
     "full_name": "Brad Knott",
@@ -4860,7 +5362,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000405.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000405.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000405.jpg"
   },
   {
     "full_name": "Tim Moore",
@@ -4869,7 +5372,8 @@
     "state": "NC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001236.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001236.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001236.jpg"
   },
   {
     "full_name": "Julie Fedorchak",
@@ -4878,7 +5382,8 @@
     "state": "ND",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000482.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000482.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000482.jpg"
   },
   {
     "full_name": "Maggie Goodlander",
@@ -4887,7 +5392,8 @@
     "state": "NH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000604.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000604.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000604.jpg"
   },
   {
     "full_name": "Herbert C. Conaway, Jr.",
@@ -4898,7 +5404,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/C001136.jpg",
     "alt_names": [
       "Herb Conaway, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/c001136.jpg"
   },
   {
     "full_name": "Nellie Pou",
@@ -4909,7 +5416,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000621.jpg",
     "alt_names": [
       "Nelida Pou"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000621.jpg"
   },
   {
     "full_name": "Laura Gillen",
@@ -4918,7 +5426,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000602.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000602.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000602.jpg"
   },
   {
     "full_name": "George Latimer",
@@ -4927,7 +5436,8 @@
     "state": "NY",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/L000606.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/L000606.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/l000606.jpg"
   },
   {
     "full_name": "Josh Riley",
@@ -4938,7 +5448,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000622.jpg",
     "alt_names": [
       "Joshua Riley"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000622.jpg"
   },
   {
     "full_name": "John W. Mannion",
@@ -4949,7 +5460,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001231.jpg",
     "alt_names": [
       "John Mannion"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001231.jpg"
   },
   {
     "full_name": "David J. Taylor",
@@ -4960,7 +5472,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/T000490.jpg",
     "alt_names": [
       "David Taylor"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/t000490.jpg"
   },
   {
     "full_name": "Maxine Dexter",
@@ -4969,7 +5482,8 @@
     "state": "OR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/D000635.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/D000635.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/d000635.jpg"
   },
   {
     "full_name": "Janelle S. Bynum",
@@ -4980,7 +5494,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001326.jpg",
     "alt_names": [
       "Janelle Bynum"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001326.jpg"
   },
   {
     "full_name": "Ryan Mackenzie",
@@ -4989,7 +5504,8 @@
     "state": "PA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001230.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001230.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001230.jpg"
   },
   {
     "full_name": "Robert P. Bresnahan, Jr.",
@@ -5000,7 +5516,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001327.jpg",
     "alt_names": [
       "Robert Bresnahan, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001327.jpg"
   },
   {
     "full_name": "Pablo Jos\u00e9 Hern\u00e1ndez",
@@ -5009,7 +5526,8 @@
     "state": "PR",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001103.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/H001103.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001103.jpg"
   },
   {
     "full_name": "Sheri Biggs",
@@ -5018,7 +5536,8 @@
     "state": "SC",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001325.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001325.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001325.jpg"
   },
   {
     "full_name": "Craig A. Goldman",
@@ -5029,7 +5548,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000601.jpg",
     "alt_names": [
       "Craig Goldman"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000601.jpg"
   },
   {
     "full_name": "Brandon Gill",
@@ -5038,7 +5558,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000603.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000603.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000603.jpg"
   },
   {
     "full_name": "Julie Johnson",
@@ -5047,7 +5568,8 @@
     "state": "TX",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/J000310.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/J000310.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000310.jpg"
   },
   {
     "full_name": "Mike Kennedy",
@@ -5056,7 +5578,8 @@
     "state": "UT",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/K000403.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/K000403.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/k000403.jpg"
   },
   {
     "full_name": "John J. McGuire III",
@@ -5067,7 +5590,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001239.jpg",
     "alt_names": [
       "John McGuire III"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001239.jpg"
   },
   {
     "full_name": "Eugene Simon Vindman",
@@ -5078,7 +5602,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000138.jpg",
     "alt_names": [
       "Eugene Vindman"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000138.jpg"
   },
   {
     "full_name": "Suhas Subramanyam",
@@ -5087,7 +5612,8 @@
     "state": "VA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001230.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/S001230.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/s001230.jpg"
   },
   {
     "full_name": "Michael Baumgartner",
@@ -5096,7 +5622,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001322.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/B001322.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001322.jpg"
   },
   {
     "full_name": "Emily Randall",
@@ -5105,7 +5632,8 @@
     "state": "WA",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/R000621.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/R000621.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/r000621.jpg"
   },
   {
     "full_name": "Riley M. Moore",
@@ -5114,7 +5642,8 @@
     "state": "WV",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001235.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/M001235.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001235.jpg"
   },
   {
     "full_name": "James C. Justice",
@@ -5125,7 +5654,8 @@
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/J000312.jpg",
     "alt_names": [
       "Jim Justice, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/j000312.jpg"
   },
   {
     "full_name": "Jon Husted",
@@ -5134,7 +5664,8 @@
     "state": "OH",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/H001104.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/H001104.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/h001104.jpg"
   },
   {
     "full_name": "Ashley Moody",
@@ -5143,7 +5674,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001244.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/M001244.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001244.jpg"
   },
   {
     "full_name": "Jimmy Patronis",
@@ -5154,7 +5686,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/P000622.jpg",
     "alt_names": [
       "Jimmy Patronis, Jr."
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/p000622.jpg"
   },
   {
     "full_name": "Randy Fine",
@@ -5163,7 +5696,8 @@
     "state": "FL",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000484.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/F000484.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000484.jpg"
   },
   {
     "full_name": "James R. Walkinshaw",
@@ -5174,7 +5708,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/W000831.jpg",
     "alt_names": [
       "James Walkinshaw"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/w000831.jpg"
   },
   {
     "full_name": "Adelita S. Grijalva",
@@ -5185,7 +5720,8 @@
     "fallback_headshot_url": "https://clerk.house.gov/images/members/G000606.jpg",
     "alt_names": [
       "Adelita Grijalva"
-    ]
+    ],
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000606.jpg"
   },
   {
     "full_name": "Matt Van Epps",
@@ -5194,6 +5730,7 @@
     "state": "TN",
     "headshot_url": "https://unitedstates.github.io/images/congress/225x275/V000139.jpg",
     "fallback_headshot_url": "https://clerk.house.gov/images/members/V000139.jpg",
-    "alt_names": []
+    "alt_names": [],
+    "congress_headshot_url": "https://www.congress.gov/img/member/v000139.jpg"
   }
 ]

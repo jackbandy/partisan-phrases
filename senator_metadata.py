@@ -37,6 +37,7 @@ def main():
             'party': row.party,
             'state': row.state,
             'headshot_url': f'https://unitedstates.github.io/images/congress/225x275/{bid}.jpg',
+            'congress_headshot_url': f'https://www.congress.gov/img/member/{bid.lower()}.jpg',
             'fallback_headshot_url': fallback,
             'alt_names': [],
         }
