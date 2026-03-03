@@ -460,7 +460,7 @@
     card.className = `quote-card ${q.party === "Democrat" ? "dem" : "rep"}`;
 
     const senator = senators[q.senator];
-    const fallbacks = [senator.congress_headshot_url, senator.fallback_headshot_url].filter(Boolean);
+    const fallbacks = senator ? [senator.congress_headshot_url, senator.fallback_headshot_url].filter(Boolean) : [];
     const headshotHtml = senator
       ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" data-fallbacks="${fallbacks.join('|')}" onerror="handleHeadshotError(this)"></div>`
       : "";
