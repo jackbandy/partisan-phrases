@@ -26,7 +26,6 @@
       img.parentElement.style.display = "none";
     }
   }
-  window.handleHeadshotError = handleHeadshotError;
 
   // ── Color ────────────────────────────────────────────────────────────────────
   function phraseColor(position) {
@@ -462,7 +461,7 @@
     const senator = senators[q.senator];
     const fallbacks = senator ? [senator.congress_headshot_url, senator.fallback_headshot_url].filter(Boolean) : [];
     const headshotHtml = senator
-      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" data-fallbacks="${fallbacks.join('|')}" onerror="handleHeadshotError(this)"></div>`
+      ? `<div class="headshot-container"><img src="${senator.headshot_url}" alt="${q.senator}" class="headshot" data-fallbacks="${fallbacks.join('|')}"></div>`
       : "";
 
     const highlighted = currentPhrase
@@ -481,6 +480,8 @@
       <div class="quote-text">&ldquo;${highlighted}&rdquo;</div>
       ${dateHtml ? `<div class="quote-meta">${dateHtml}</div>` : ""}
     `;
+    const img = card.querySelector(".headshot");
+    if (img) img.addEventListener("error", () => handleHeadshotError(img));
     container.appendChild(card);
   }
 
