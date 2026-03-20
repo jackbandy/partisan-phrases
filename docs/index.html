@@ -50,7 +50,23 @@
       <button class="ngram-btn" data-ngram="2">2-word</button>
       <button class="ngram-btn" data-ngram="3">3-word</button>
     </div>
-    <button id="btn-show-more">🔀 Show more random phrases</button>
+    <div id="date-range-wrapper">
+      <button id="btn-date-range">Date Range</button>
+      <div id="date-range-popup" class="hidden">
+        <div id="date-range-display">
+          <span id="date-range-label-start"></span>
+          <span class="date-range-sep">–</span>
+          <span id="date-range-label-end"></span>
+        </div>
+        <div class="date-range-track">
+          <div id="date-range-fill"></div>
+          <input type="range" id="date-range-start-input" min="0" step="1" value="0">
+          <input type="range" id="date-range-end-input" min="0" step="1" value="0">
+        </div>
+        <button id="btn-date-range-reset">Reset to full range</button>
+      </div>
+    </div>
+    <button id="btn-show-more">🔀 Resample 150 phrases</button>
     <span id="phrase-count"></span>
   </div>
 
@@ -67,6 +83,7 @@
       <div id="panel-chart-note"></div>
     </div>
     <h3>Example Quotes</h3>
+    <p id="panel-quote-filter-note" class="hidden"></p>
     <button id="btn-more-quotes" class="hidden">🔀 Sample 10 More Random Quotes</button>
     <div id="panel-quotes"></div>
   </div>
@@ -74,7 +91,7 @@
   <div id="panel-overlay" class="hidden"></div>
 
   <footer>
-    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>'s public statements database. Auto-updated every Monday (in theory).</p>
+    <p>Data sourced from <a href="https://justfacts.votesmart.org/">VoteSmart</a>'s public statements database. Auto-updated every Monday (in theory). <span id="last-updated"></span></p>
     <p>Includes phrases used 20+ times across all legislators since January 2025.</p>
     <p>This is a hobby project — expect bugs. <a href="https://github.com/jackbandy/partisan-phrases">Contributions welcome.</a></p>
   </footer>

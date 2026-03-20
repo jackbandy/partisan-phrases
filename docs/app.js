@@ -10,6 +10,10 @@
   let currentQuotes = [];
   let currentPhrase = null;
   let ngramFilter = 0; // 0=all, 1=1-word, 2=2-word, 3=3-word
+  let availableMonths = [];
+  let dateRangeStart = 0;
+  let dateRangeEnd = 0;
+  let dateFilterActive = false;
 
   // ── Mobile detection ─────────────────────────────────────────────────────────
   function isMobile() {
@@ -124,6 +128,15 @@
       fetch("data/phrases.json"),
       fetch("data/senators.json"),
     ]);
+
+    fetch("data/last_updated.json")
+      .then((r) => r.ok ? r.json() : null)
+      .then((data) => {
+        if (!data) return;
+        const el = document.getElementById("last-updated");
+        if (el) el.textContent = "Last successful data update: " + new Date(data.updated).toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" }) + ".";
+      })
+      .catch(() => {});
     allPhrases = await phrasesRes.json();
     const senatorsList = await senatorsRes.json();
     senatorsList.forEach((s) => {
@@ -139,10 +152,8 @@
     showMore();
 
     const showMoreBtn = document.getElementById("btn-show-more");
-    showMoreBtn.textContent = isMobile()
-      ? "🔀 Show 60 more random phrases"
-      : "🔀 Show 150 more random phrases";
-    showMoreBtn.addEventListener("click", showMore);
+    showMoreBtn.textContent = isMobile() ? "🔀 Resample 60 phrases" : "🔀 Resample 150 phrases";
+    showMoreBtn.addEventListener("click", resetDisplay);
     document.getElementById("panel-close").addEventListener("click", closePanel);
     document.getElementById("panel-overlay").addEventListener("click", closePanel);
     document.getElementById("btn-more-quotes").addEventListener("click", sampleMoreQuotes);
@@ -164,14 +175,131 @@
         renderSearchResults(getFilteredPhrases());
       });
     });
+
+    // Extract available months from phrases data
+    const monthSet = new Set();
+    allPhrases.forEach((p) => { if (p.months) Object.keys(p.months).forEach((m) => monthSet.add(m)); });
+    availableMonths = Array.from(monthSet).sort();
+    dateRangeEnd = Math.max(0, availableMonths.length - 1);
+
+    initDateRange();
+  }
+
+  function initDateRange() {
+    const btn = document.getElementById("btn-date-range");
+    const popup = document.getElementById("date-range-popup");
+    const startInput = document.getElementById("date-range-start-input");
+    const endInput = document.getElementById("date-range-end-input");
+
+    if (availableMonths.length < 2) { btn.style.display = "none"; return; }
+
+    const max = availableMonths.length - 1;
+    startInput.max = max;
+    endInput.max = max;
+    startInput.value = 0;
+    endInput.value = max;
+    updateDateLabels();
+    updateDateFill();
+
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      popup.classList.toggle("hidden");
+    });
+
+    document.addEventListener("click", () => popup.classList.add("hidden"));
+    popup.addEventListener("click", (e) => e.stopPropagation());
+
+    startInput.addEventListener("input", () => {
+      let s = parseInt(startInput.value);
+      const e = parseInt(endInput.value);
+      if (s >= e) { s = e - 1; startInput.value = s; }
+      dateRangeStart = s;
+      startInput.classList.toggle("on-top", s >= max - 1);
+      onDateChange(false);
+    });
+    startInput.addEventListener("change", () => onDateChange(true));
+
+    endInput.addEventListener("input", () => {
+      const s = parseInt(startInput.value);
+      let e = parseInt(endInput.value);
+      if (e <= s) { e = s + 1; endInput.value = e; }
+      dateRangeEnd = e;
+      onDateChange(false);
+    });
+    endInput.addEventListener("change", () => onDateChange(true));
+
+    document.getElementById("btn-date-range-reset").addEventListener("click", (e) => {
+      e.stopPropagation();
+      dateRangeStart = 0;
+      dateRangeEnd = max;
+      dateFilterActive = false;
+      startInput.value = 0;
+      endInput.value = max;
+      startInput.classList.remove("on-top");
+      btn.textContent = "Date Range";
+      btn.classList.remove("active");
+      updateDateLabels();
+      updateDateFill();
+      resetDisplay();
+      popup.classList.add("hidden");
+    });
+  }
+
+  function updateDateLabels() {
+    document.getElementById("date-range-label-start").textContent = formatMonthLabel(dateRangeStart);
+    document.getElementById("date-range-label-end").textContent = formatMonthLabel(dateRangeEnd);
+  }
+
+  function onDateChange(andReset = true) {
+    dateFilterActive = true;
+    const btn = document.getElementById("btn-date-range");
+    btn.textContent = `${formatMonthLabel(dateRangeStart)} – ${formatMonthLabel(dateRangeEnd)}`;
+    btn.classList.add("active");
+    updateDateLabels();
+    updateDateFill();
+    if (andReset) resetDisplay();
+  }
+
+  // Returns the working phrase set — either all phrases or a date-filtered/rescored subset.
+  function activePhrases() {
+    if (!dateFilterActive || availableMonths.length === 0) return allPhrases;
+    const range = availableMonths.slice(dateRangeStart, dateRangeEnd + 1);
+    return allPhrases.map((p) => {
+      if (!p.months) return null;
+      let dem = 0, rep = 0;
+      range.forEach((m) => { if (p.months[m]) { dem += p.months[m][0]; rep += p.months[m][1]; } });
+      if (dem + rep < 3) return null;
+      return { ...p, total_occurrences: dem + rep, position_score: (rep - dem) / (rep + dem + 1e-10) };
+    }).filter(Boolean);
+  }
+
+  function formatMonthLabel(idx) {
+    const [y, m] = availableMonths[idx].split("-");
+    return new Date(+y, +m - 1).toLocaleDateString("en-US", { month: "short", year: "numeric" });
+  }
+
+  function updateDateFill() {
+    const max = availableMonths.length - 1;
+    if (max <= 0) return;
+    const fill = document.getElementById("date-range-fill");
+    fill.style.left = (dateRangeStart / max * 100) + "%";
+    fill.style.width = ((dateRangeEnd - dateRangeStart) / max * 100) + "%";
+  }
+
+  function resetDisplay() {
+    displayedPhrases = [];
+    shownSlugs = new Set();
+    document.getElementById("btn-show-more").style.display = "";
+    showMore();
+    renderSearchResults(getFilteredPhrases());
   }
 
   // Pick n random phrases from each of the three position buckets, excluding already-shown ones.
   // Respects the current ngramFilter so "1-word" only samples from 1-word phrases.
   function sampleBuckets(n) {
     const pool = ngramFilter > 0
-      ? allPhrases.filter((p) => p.ngram_size === ngramFilter)
-      : allPhrases;
+      ? activePhrases().filter((p) => p.ngram_size === ngramFilter)
+      : activePhrases();
     const left = pool.filter((p) => p.position_score <= -0.1 && !shownSlugs.has(p.slug));
     const right = pool.filter((p) => p.position_score >= 0.1 && !shownSlugs.has(p.slug));
     const neutral = pool.filter((p) => p.position_score > -0.1 && p.position_score < 0.1 && !shownSlugs.has(p.slug));
@@ -190,7 +318,7 @@
   // When search is active, filter across ALL phrases for the results list.
   function getFilteredPhrases() {
     const term = document.getElementById("search-input").value.toLowerCase().trim();
-    let result = allPhrases;
+    let result = activePhrases();
     if (ngramFilter > 0) result = result.filter((p) => p.ngram_size === ngramFilter);
     if (term) result = result.filter((p) => p.phrase.toLowerCase().includes(term));
     return result;
@@ -205,15 +333,12 @@
     newPhrases.forEach((p) => shownSlugs.add(p.slug));
     displayedPhrases = [...displayedPhrases, ...newPhrases];
 
+    const activePool = activePhrases();
     const poolTotal = ngramFilter > 0
-      ? allPhrases.filter((p) => p.ngram_size === ngramFilter).length
-      : allPhrases.length;
+      ? activePool.filter((p) => p.ngram_size === ngramFilter).length
+      : activePool.length;
     document.getElementById("phrase-count").textContent =
       `Showing ${displayedPhrases.length} of ${poolTotal} phrases`;
-
-    if (shownSlugs.size >= poolTotal) {
-      document.getElementById("btn-show-more").style.display = "none";
-    }
 
     renderBubbles(getBubblePhrases());
   }
@@ -430,27 +555,53 @@
   }
 
   // ── Quotes ────────────────────────────────────────────────────────────────────
+  function quotesInRange(quotes) {
+    if (!dateFilterActive || availableMonths.length === 0) return quotes;
+    const start = availableMonths[dateRangeStart];
+    const end = availableMonths[dateRangeEnd];
+    return quotes.filter((q) => {
+      if (!q.date) return false;
+      const m = q.date.slice(0, 7);
+      return m >= start && m <= end;
+    });
+  }
+
   async function loadQuotes(slug) {
     const container = document.getElementById("panel-quotes");
     const btn = document.getElementById("btn-more-quotes");
+    const note = document.getElementById("panel-quote-filter-note");
     container.innerHTML = "";
     currentQuotes = [];
 
     try {
       const res = await fetch(`data/quotes/${slug}.json`);
       currentQuotes = await res.json();
+      const visible = quotesInRange(currentQuotes);
+      if (dateFilterActive && availableMonths.length > 0) {
+        note.textContent = `Showing quotes from ${formatMonthLabel(dateRangeStart)} – ${formatMonthLabel(dateRangeEnd)} only (${visible.length} of ${currentQuotes.length} available).`;
+        note.classList.remove("hidden");
+      } else {
+        note.classList.add("hidden");
+      }
       renderRandomQuotes();
-      btn.classList.toggle("hidden", currentQuotes.length <= 10);
+      btn.classList.remove("hidden");
+      btn.disabled = visible.length <= 10;
     } catch {
       container.innerHTML = "<p>No quotes available.</p>";
       btn.classList.add("hidden");
+      note.classList.add("hidden");
     }
   }
 
   function renderRandomQuotes() {
     const container = document.getElementById("panel-quotes");
     container.innerHTML = "";
-    const shuffled = [...currentQuotes].sort(() => Math.random() - 0.5);
+    const pool = quotesInRange(currentQuotes);
+    if (pool.length === 0) {
+      container.innerHTML = "<p>No quotes in this date range.</p>";
+      return;
+    }
+    const shuffled = [...pool].sort(() => Math.random() - 0.5);
     shuffled.slice(0, 10).forEach((q) => renderQuoteCard(q, container));
   }
 

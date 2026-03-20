@@ -1,4 +1,4 @@
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, ENGLISH_STOP_WORDS
 from difflib import get_close_matches
 from progressbar import progressbar
 from datetime import datetime
@@ -192,6 +192,10 @@ def generate_website_json(phrases_df, texts_df, tf_vectorizer, feature_names, te
     phrases_out['rank_right'] = phrases_out['rank_right'].astype(int)
     phrases_out['rank_overall'] = phrases_out['rank_overall'].astype(int)
 
+    print("  Computing monthly counts for date range filter...")
+    monthly_data = compute_monthly_counts(combined, texts_df, feature_names, term_frequencies)
+    phrases_out['months'] = phrases_out['phrase'].map(lambda p: monthly_data.get(p, {}))
+
     with open('docs/data/phrases.json', 'w') as f:
         json.dump(phrases_out.to_dict(orient='records'), f)
     print(f"  Wrote {len(phrases_out)} phrases to docs/data/phrases.json")
@@ -251,6 +255,43 @@ def compute_weekly_history(target_df, texts_df, feature_names, term_frequencies)
             json.dump(history, f)
 
 
+def compute_monthly_counts(phrases_df, texts_df, feature_names, term_frequencies):
+    """Return {phrase: {"YYYY-MM": [dem, rep], ...}} for date range filtering."""
+    if 'month' not in texts_df.columns:
+        return {}
+    months = sorted(texts_df['month'].dropna().unique())
+    if not months:
+        return {}
+
+    feature_to_idx = {name: i for i, name in enumerate(feature_names)}
+
+    print("  Pre-computing monthly term counts...")
+    month_dem_sums = {}
+    month_rep_sums = {}
+    for month in months:
+        dem_mask = (texts_df['month'] == month) & (texts_df['party'] == 'Democrat')
+        rep_mask = (texts_df['month'] == month) & (texts_df['party'] == 'Republican')
+        if dem_mask.any():
+            month_dem_sums[month] = term_frequencies[dem_mask.values].sum(axis=0).A1
+        if rep_mask.any():
+            month_rep_sums[month] = term_frequencies[rep_mask.values].sum(axis=0).A1
+
+    result = {}
+    for phrase in phrases_df['phrase']:
+        idx = feature_to_idx.get(phrase)
+        if idx is None:
+            continue
+        m_data = {}
+        for month in months:
+            dem = int(month_dem_sums[month][idx]) if month in month_dem_sums else 0
+            rep = int(month_rep_sums[month][idx]) if month in month_rep_sums else 0
+            if dem > 0 or rep > 0:
+                m_data[month] = [dem, rep]
+        if m_data:
+            result[phrase] = m_data
+    return result
+
+
 def _extract_window(text, match_start, match_end, max_len=350):
     """Return a ~max_len excerpt centered on the match, trimmed to word boundaries."""
     center = (match_start + match_end) // 2
@@ -293,7 +334,7 @@ def _find_phrase_pos(text, phrase_words, stop_words):
 
 def extract_quotes(target_df, texts_df, feature_names, term_frequencies, tf_vectorizer):
     feature_to_idx = {name: i for i, name in enumerate(feature_names)}
-    stop_words = tf_vectorizer.stop_words_
+    stop_words = getattr(tf_vectorizer, 'stop_words_', frozenset(ENGLISH_STOP_WORDS))
 
     for _, row in progressbar(list(target_df.iterrows())):
         slug = row['slug']
@@ -424,6 +465,7 @@ def get_all_texts(party_lookup):
                 'source_url': source_url,
                 'date': date_str,
                 'week': week,
+                'month': date_str[:7] if date_str else None,
             }
             texts_list.append(text)
         if n_tweets:

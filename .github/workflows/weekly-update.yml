@@ -12,10 +12,10 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: '3.11'
 
@@ -33,6 +33,14 @@ jobs:
 
       - name: Generate senator metadata
         run: python senator_metadata.py
+
+      - name: Validate output
+        run: |
+          test -s docs/data/phrases.json || (echo "phrases.json missing or empty" && exit 1)
+          test -s docs/data/senators.json || (echo "senators.json missing or empty" && exit 1)
+
+      - name: Write timestamp
+        run: echo "{\"updated\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"}" > docs/data/last_updated.json
 
       - name: Commit and push
         run: |
