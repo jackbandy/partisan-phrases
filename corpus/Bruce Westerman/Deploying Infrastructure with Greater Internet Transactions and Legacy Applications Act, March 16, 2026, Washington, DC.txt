@@ -1,0 +1,107 @@
+Deploying Infrastructure with Greater Internet Transactions and Legacy Applications Act
+
+
+https://justfacts.votesmart.org/public-statement/1700709/deploying-infrastructure-with-greater-internet-transactions-and-legacy-applications-act
+
+
+Mr. WESTERMAN. Mr. Speaker, I move to suspend the rules and pass the  bill (H.R. 1665) to require the Department of the Interior and the  Department of Agriculture to establish online portals to accept,  process, and dispose of certain Form 299s, and for other purposes.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 1665
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Deploying Infrastructure       with Greater Internet Transactions And Legacy Applications       Act'' or the ``DIGITAL Applications Act''.       SEC. 2. ESTABLISHMENT OF ONLINE PORTALS TO ACCEPT, PROCESS,                     AND DISPOSE OF CERTAIN FORM 299S.
+
+(a) Establishment of Online Portals.--
+
+(1) Establishment.--Not later than 1 year after the date of       the enactment of this Act, the Secretaries concerned shall       each establish, with respect to the relevant covered       department, an online portal for the acceptance, processing,       and disposal of a Form 299 for communications use       authorizations.
+
+(2) Notification.--Not later than 3 business days after the       date on which an online portal has been established by a       Secretary pursuant to paragraph (1), that Secretary shall       notify the Assistant Secretary of the establishment of such       portal.
+
+(b) Availability of Online Portals.--The Assistant       Secretary shall publish on the website of the National       Telecommunications       and Information Administration a link to each online portal       established pursuant to subsection (a)(1).
+
+(c) Definitions.--In this section:
+
+(1) Assistant secretary.--The term ``Assistant Secretary''       means the Assistant Secretary of Commerce for Communications       and Information.
+
+(2) Communications facility.--The term ``communications       facility'' has the meaning given the term ``communications       facility installation'' in section 6409(d) of the Middle       Class Tax Relief and Job Creation Act of 2012 (47 U.S.C.       1455(d)).
+
+(3) Communications use.--The term ``communications use''       means the placement and operation of a communications       facility.
+
+(4) Communications use authorization.--The term       ``communications use authorization'' means an easement,       right-of-way, lease, license, or other authorization--
+
+(A) provided by the Secretary of the Interior or the       Secretary of Agriculture;
+
+(B) to locate or modify a communications facility on       covered land; and
+
+(C) for the primary purpose of authorizing the occupancy       and use of such covered land for communications use.
+
+(5) Covered land.--The term ``covered land'' means--
+
+(A) public lands; and
+
+(B) National Forest System land.
+
+(6) Form 299.--The term ``Form 299'' means the form       established under section 6409(b)(2)(A) of the Middle Class       Tax Relief and Job Creation Act of 2012 (47 U.S.C.       1455(b)(2)(A)), or any successor form.
+
+(7) National forest system.--The term ``National Forest       System'' has the meaning given that term in section 11(a) of       the Forest and Rangeland Renewable Resources Planning Act of       1974 (16 U.S.C. 1609(a)).
+
+(8) Public lands.--The term ``public lands'' has the       meaning given that term in section 103 of the Federal Land       Policy and Management Act of 1976 (43 U.S.C. 1702).
+
+(9) Relevant covered department.--The term ``relevant       covered department'' means--
+
+(A) with respect to the Secretary of the Interior, the       Department of the Interior; and
+
+(B) with respect to the Secretary of Agriculture, the       Department of Agriculture.
+
+(10) Secretaries concerned.--The term ``Secretaries       concerned'' means--
+
+(A) the Secretary of the Interior; and
+
+(B) the Secretary of Agriculture, acting through the Chief       of the Forest Service.
+
+Mr. WESTERMAN.  1665, the bill now under  consideration.
+
+Mr. Speaker, I rise today in strong support of the DIGITAL  Applications Act, a bipartisan bill introduced by Representative  Cammack.
+
+This important legislation directs the Department of the Interior and  Department of Agriculture to establish online portals to accept,  process, and track applications to deploy broadband infrastructure on  Federal lands.
+
+The United States faces a persistent digital divide, with tens of  millions of Americans still lacking access to basic broadband services.  Many of these Americans live in rural areas or on Tribal lands near  federally managed land.
+
+For these communities, broadband isn't a luxury. It is essential  infrastructure. It means students can do their homework at home; small  businesses can reach customers and compete in the modern economy;  farmers and ranchers can use precision tools; and families can access  telehealth, emergency services, and basic information. Without reliable  internet, entire communities are left at a disadvantage.
+
+In too many cases, the problem isn't a lack of interest from  providers but, rather, the Federal permitting process.
+
+Today, broadband providers face a system that is slow, opaque, and  unpredictable. Applications can sit for months with little to no  communication. Providers have no idea where their applications stand,  whether more information is needed, or when a decision might come.
+
+That uncertainty makes it harder to plan projects and invest  resources, ultimately delaying the delivery of internet access to the  communities that need it most.
+
+This permitting morass is exactly how the Biden-Harris administration  wasted $42 billion in taxpayer funds to deploy broadband infrastructure  across the country and failed to connect a single household.
+
+Throwing money at this problem is not the answer. We need commonsense  permitting reform. Representative Cammack's legislation offers a real,  straightforward solution to a discrete problem.
+
+By creating online portals for broadband application, agencies can  bring transparency and accountability to the permitting process.  Applicants will be able to track their submissions, see where they are  in the review process, and understand exactly what is needed to move  forward.
+
+This kind of transparency is a simple fix that can bring more  predictability to developers and help speed deployment. H.R. 1665 will  help build essential infrastructure faster, smarter, and with more  transparency.
+
+Mr. Speaker, I urge my colleagues to join me in supporting this  bipartisan legislation, and I commend Representative Cammack for her  leadership on this effort.
+
+House of Representatives,                     Committee on Science, Space, and Technology,                                   Washington, DC, January 30, 2026.      Hon. Bruce Westerman,      Chairman, Committee on Natural Resources,      Washington, DC.
+
+Dear Chairman Westerman: I write concerning H.R. 2294, To       reauthorize the Integrated Coastal and Ocean Observation       System Act of 2009, which the Committee on Natural Resources       ordered reported on July 23, 2025.
+
+H.R. 2294 contains provisions within the Committee on       Science, Space, and Technology's Rule X jurisdiction. As a       result of your having consulted with the Committee and to       expedite this bill for floor consideration, the Committee on       Science, Space, and Technology will forego action on the       bill. This is being done based on our mutual understanding       that doing so will not diminish or alter the jurisdiction of       the Committee on Science, Space, and Technology with respect       to the appointment of conferees, or to any future       jurisdictional claim of the subject matters contained in the       bill or similar legislation.
+
+I would appreciate your response to this letter confirming       this understanding and would request that you include a copy       of this letter and your response in the Committee Report and       in the Congressional Record during floor consideration of       this bill. Thank you in advance for your cooperation.            Sincerely,                                               Brian Babin, D.D.S.,      Chairman, Committee on Science, Space, and Technology.                                   ____                                           House of Representatives,                                  Committee on Natural Resources,                                   Washington, DC, January 30, 2026.      Hon. Brian Babin,      Chairman, Committee on Science, Space, and Technology,      Washington, DC.
+
+Dear Chairman Babin: I write regarding H.R. 2294, To       reauthorize the Integrated Coastal and Ocean Observation       System Act of 2009, which was ordered reported by the       Committee on Natural Resources on July 23, 2025.
+
+I recognize that the bill contains provisions that fall       within the jurisdiction of the Committee on Science, Space,       and Technology and appreciate your willingness to forgo       further consideration of the bill. I acknowledge that the       Committee on Science, Space, and Technology will not formally       consider H.R. 2294 and agree that the inaction of your       Committee with respect to the bill does not waive any       jurisdiction over the subject matter contained therein.
+
+I will ensure that our exchange of letters is included in       the Congressional Record during floor consideration of the       bill and will include such letters in the committee report on       H.R. 2294. I appreciate your cooperation regarding this       legislation.            Sincerely,                                                   Bruce Westerman,                          Chairman, Committee on Natural Resources.
+
+Mr. Speaker, I once again thank Representative Cammack for her  leadership on the DIGITAL Applications Act. This legislation will help  get rural America online to support students, small businesses,  farmers, ranchers, and families. It will help constituents in my home  State of Arkansas, as well as Americans across the country, who live in  remote areas near Federal lands.
+
+Mr. Speaker, I urge my colleagues to join me in supporting H.R. 1665,  and I yield back the balance of my time.
