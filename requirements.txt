@@ -6,3 +6,4 @@ scikit-learn
 progressbar2
 python-dateutil
 tqdm
+urllib3<2

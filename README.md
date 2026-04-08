@@ -7,6 +7,12 @@ Which words and phrases are used most by Democrats vs. Republicans in the U.S. S
 ![the original vision for this analysis, circa 2020](cover.png)
 *the original vision for this analysis, circa 2020*
 
+## License
+
+This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/250px-Cc-by-nc-sa_icon.svg.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ## Setup
 
 ```bash
