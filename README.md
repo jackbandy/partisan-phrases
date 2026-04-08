@@ -5,7 +5,7 @@ Which words and phrases are used most by Democrats vs. Republicans in the U.S. S
 ![screenshot of the interactive bubble chart](screenshot.png)
 
 ![the original vision for this analysis, circa 2020](cover.png)
-*the original vision for this analysis, circa 2020*
+*(the original vision for this analysis, circa 2020)*
 
 ## License
 
