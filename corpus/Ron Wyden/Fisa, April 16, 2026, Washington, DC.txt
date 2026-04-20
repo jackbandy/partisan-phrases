@@ -1,0 +1,63 @@
+Fisa
+
+
+https://justfacts.votesmart.org/public-statement/1701875/fisa
+
+
+Mr. WYDEN. Mr. President, soon, we will cast important votes here in  the Senate on surveillance law. I rise today to share some important  new developments about the surveillance practices of this  administration, which are vital to this debate.
+
+Today, I want to start by warning my colleagues: Any Senator who  votes to reauthorize this law without real reform will be directly  responsible when the Trump team abuses their spying powers to go after  Americans. I want the Senate to know the alarm bells are loud and  getting louder.
+
+Senators know the surveillance law known as section 702 of FISA  expires on Monday. I have been on the Intelligence Committee since the  law was written. It is undeniably a useful tool that American  intelligence agencies rely on to collect information about foreigners  outside the country. The problem is that 702 lacks adequate safeguards  to protect Americans whose emails and texts or other communications can  get swept up in this surveillance. So you could have Americans doing  legitimate, often sensitive, important work--journalists, foreign aid  workers, people with family overseas, even women seeking abortion  medication from a provider overseas.
+
+Reformers argue that 702 should only be reauthorized with stronger  protections--protections for constitutional  rights--and that is particularly true when there are blaring alarms  warning of abuses, some of which Congress has yet to be told about. I  am going to highlight now some of those alarm bells.
+
+For years, there have been jaw-dropping abuses of section 702.  Government officials have searched through 702 data to find Black Lives  Matter protestors, political campaign donors, elected officials, even a  State judge who complained about police abuses.
+
+Opponents of reform say that the problems with the law have been  fixed. The facts show otherwise.
+
+One of the biggest flaws in section 702 is what is called the  ``backdoor search loophole.'' Mr. President, 702 is supposed to be an  authority aimed at foreigners outside the United States, but the  government is currently allowed to trawl their way through the vast  collection of 702 data to conduct warrantless searches for Americans'  communications. Last year, the FBI increased the number of warrantless  searches it conducted for Americans' communications by more than a  third. That is concerning enough right there. Yet it gets worse.
+
+The number of so-called ``sensitive'' warrantless searches--which can  target elected officials, journalists, or the leaders of political  organizations--more than tripled during the first year of the Trump  administration. The FBI has refused to say why. Given Trump's  enthusiasm for investigating journalists and political opponents, this,  too, is a blaring alarm warning of abuses that Congress has not been  told about.
+
+The government is also circumventing warrant requirements by using a  credit card. A few weeks ago, FBI Director Kash Patel confirmed that  the FBI is actually buying up Americans' location data. If the  government wanted to compel companies to hand over this information, it  would need a warrant, but through a loophole in the law, government  Agencies--we are talking about the FBI, ICE, CBP, and the Pentagon--can  buy this sensitive information from sleazy, shady data brokers with  essentially no oversight.
+
+The fact is, if you are going to close the data broker loophole, the  time to act is now. You are not going to get another chance this year.
+
+Yet another blaring alarm went off a few weeks ago. On March 17, the  FISA Court--the Foreign Intelligence Surveillance Court--found major  compliance problems with section 702. These problems are directly  related to Americans' constitutional rights.
+
+In the past, the government would work with that court to fix these  kinds of problems. Today, the press reports that the Trump  administration is appealing the court ruling so that they never--never,  Mr. President--have to fix the problems.
+
+This raises a serious question: How can Congress reauthorize the  authority while the appeal is pending and nobody knows what reforms are  actually needed? I am going to have a lot more to say about this part.
+
+The court ruling needs to be declassified. Americans ought to have  the ability to understand what their government is up to.
+
+I will remind my colleagues there is another separate, secret law  problem with section 702. Multiple administrations have relied on a  secret interpretation of 702 that directly impacts the privacy rights  of Americans. The Director of National Intelligence, unfortunately, has  turned down my request to make this information public, so I have  written a classified document that explains the problem in more detail.  I have made it available in a secure room at Senate Security. I urge  this afternoon in the strongest possible way--I encourage my colleagues  to read it so Senators can hear the alarm bells loudly warning us of  abuses that Congress hasn't been told about.
+
+We are also being warned about the impact of new technology on  Americans' constitutional rights. I want to talk, for example, about  the implications of artificial intelligence on this debate, and these  are fairly new developments that I think most Senators have not heard.
+
+The CEO of one of America's largest AI companies sounded this warning  several weeks ago. He did it in a message about his firm's  multimillion-dollar contract with the Department of Defense.
+
+Here is what this AI CEO said:
+
+AI-driven mass surveillance presents serious, novel risks       to our fundamental liberties. To the extent that such       surveillance is currently legal, this is only because the law       has not yet caught up with the rapidly growing capabilities       of AI. For example, under current law, the government can       purchase detailed records of Americans' movements, web       browsing, and associations from public sources. . . .       Powerful AI makes it possible to assemble this scattered,       individually innocuous data into a comprehensive picture of       any person's life--automatically and at massive scale.
+
+This is one of the most powerful voices in the field of AI. I am  citing somebody who really understands the underpinnings of what AI is  all about, and he is warning Congress about the impact of AI-powered  surveillance.
+
+Let me repeat that. One of the most powerful voices in the field of  AI is warning Congress at this time about the impact of AI-powered  surveillance. I hope my colleagues will listen to him.
+
+I recently wrote to several leading AI companies to ask them about  whether government agencies could use their products to analyze  information on Americans collected through this kind of bulk  surveillance. None of them denied that their products could be used  this way.
+
+I want America's intelligence and law enforcement agencies to take  advantage of new technologies that can help them protect public safety  and national security, but new tools require new rules. Without new  rules, you can count on the executive branch to run roughshod over  Americans' privacy rights and constitutional freedoms. It is not hard  to see how these capabilities could be abused--especially to target  immigrants, people attending protest rallies, women seeking abortions,  and Donald Trump's other perceived enemies.
+
+The fact is, there is a bipartisan, bicameral group of Members that I  am part of that has worked together to come up with a solution to these  kinds of challenges.
+
+Among other important reforms, our bill would require the government  to get a warrant if it wants to deliberately read an American's emails  or texts. That would be whether the information is collected under FISA  or outside of FISA. And it would finally close the data broker  loophole.
+
+The fact is, what we are hearing about now, these new developments  which are breaking weekly about government surveillance, ought to give  the U.S. Senate--every Senator--Democratic, Republican, Independent-- ought to take some pause here. My last floor statement on surveillance  was only a month old, and I have read through a whole laundry list of  stunning new developments that have emerged since then.
+
+I am truly amazed that some of my colleagues seem ready to give the  executive branch a blank check to keep trampling on Americans'  constitutional rights. Congress can and must protect Americans'  security and Americans' rights at the same time.
+
+Ben Franklin said anybody who gives up their liberty to have security  really doesn't deserve either. We ought to be thinking about that at  this crucial time.
+
+I urge my colleagues to insist that the renewal of section 702  include real reforms--actual black-letter text--to protect Americans'  privacy rights. Senators ought to oppose any extension--any extension-- that does not include the kinds of reforms I have been talking about  this afternoon.

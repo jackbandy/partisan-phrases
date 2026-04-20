@@ -1,0 +1,1775 @@
+Airspace Location and Enhanced Risk Transparency Act of 2026
+
+
+https://justfacts.votesmart.org/public-statement/1701682/airspace-location-and-enhanced-risk-transparency-act-of-2026
+
+
+Mr. GRAVES. Madam Speaker, I move to suspend the rules and pass the  bill (H.R. 7613) to require certain aircraft to be equipped with  collision mitigation technology, to improve helicopter route safety and  separation around airports, to update air traffic control processes and  procedures, to address national airspace system safety in Department of  Defense activities, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 7613
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+(a) Short Title.--This Act may be cited as the ``Airspace       Location and Enhanced Risk Transparency Act of 2026'' or the       ``ALERT Act''.
+
+(b) Table of Contents.--The table of contents for this Act       is as follows:  Sec. 1. Short title; table of contents. Sec. 2. Definitions. Sec. 3. Findings; sense of Congress.                      TITLE I--CIVIL AVIATION MATTERS  Sec. 101. Airborne Collision Avoidance System Xa inhibit altitude. Sec. 102. Airborne Collision Avoidance System upgrades. Sec. 103. Airborne collision avoidance systems for rotorcraft. Sec. 104. Collision prevention systems. Sec. 105. Prohibition on certain use of ADS-B data. Sec. 106. Rulemaking accountability. Sec. 107. Time-on-position limits. Sec. 108. Controller threat and error management training. Sec. 109. Controller visual separation training. Sec. 110. Safety risk assessment tool. Sec. 111. Operational rates at Ronald Reagan Washington National                Airport. Sec. 112. Time-based flow management. Sec. 113. Air traffic control facility levels. Sec. 114. Working group to evaluate shared frequency around Ronald                Reagan Washington National Airport. Sec. 115. Anti-blocking technology. Sec. 116. Task force to identify improvements to air traffic controller                conflict alert system. Sec. 117. Postaccident and postincident drug and alcohol testing. Sec. 118. Further modifications to Ronald Reagan Washington National                Airport area helicopter routes. Sec. 119. Requiring vertical separation near airports during critical                phases of flight. Sec. 120. Helicopter Route Chart annual review. Sec. 121. Visual charts. Sec. 122. Close proximity encounters. Sec. 123. Notification of close proximity encounters and analysis of                data. Sec. 124. Safety culture and safety management review. Sec. 125. Documentation of control position combinations. Sec. 126. Review of miles-in-trail procedures or agreements. Sec. 127. Closure of Helicopter Route 4.                  TITLE II--DEPARTMENT OF DEFENSE MATTERS  Sec. 201. Department of Defense matters relating to aviation safety. Sec. 202. Repeal of prior provision of law on manned rotary wing                aircraft safety. Sec. 203. Treatment of superseded memorandum of agreement and provision                of law. Sec. 204. Report on communications degradation. Sec. 205. Annual report on proficiency flights in National Capitol                Region. Sec. 206. Briefing on virtual constructive training. Sec. 207. Transparency regarding midair collision near Ronald Reagan                Washington National Airport on January 29, 2025.       SEC. 2. DEFINITIONS.
+
+In this Act:
+
+(1) ADS-B in.--The term ``ADS-B In'' means technology that       receives and processes Automatic Dependent Surveillance-      Broadcast transmissions that are broadcast in accordance with       part 91.225 and 91.227 of title 14, Code of Federal       Regulations, and other aviation advisory information from       ground stations, including traffic information service-      broadcast (TIS-B) and Automatic Dependent Surveillance-      Rebroadcast (ADS-R).
+
+(2) Administrator.--The term ``Administrator'' means the       Administrator of the Federal Aviation Administration.
+
+(3) Appropriate committees of congress.--The term       ``appropriate committees of Congress'' means the Committee on       Transportation and Infrastructure of the House of       Representatives and the Committee on Commerce, Science, and       Transportation of the Senate.
+
+(4) Collision prevention technology.--The term ``collision       prevention technology'' means equipment, or a combination of       equipment, that--
+
+(A) has ADS-B In;
+
+(B) uses ADS-B data to provide the pilot and flight crew       with situational awareness of surrounding traffic and traffic       advisories; and
+
+(C) provides, and is configured to provide, alerting that       is audible to the pilot and flight crew.
+
+(5) FAA.--The term ``FAA'' means the Federal Aviation       Administration.
+
+(6) Secretary.--The term ``Secretary'' means the Secretary       of Transportation.       SEC. 3. FINDINGS; SENSE OF CONGRESS.
+
+(a) Findings.--Congress finds the following:
+
+(1) On January 29, 2025, about 8:48 p.m. Eastern Standard       Time, a Sikorsky UH-60L operated by the United States Army       under the callsign PAT25 (Priority Air Transport 25) and an       MHI RJ Aviation (formerly Bombardier) CRJ700 operated by PSA       Airlines as American Airlines flight 5342, collided in flight       about 0.5 miles southeast of Ronald Reagan Washington       National Airport (DCA), Arlington, Virginia, and impacted the       Potomac River in southwest Washington, D.C.
+
+(2) The 2 pilots, 2 flight attendants, and 60 passengers       onboard the airplane and 3 crewmembers onboard the helicopter       died.
+
+(3) This tragedy represents the deadliest aviation disaster       in the United States since the crash of American Airlines       Flight 587 in 2001 and the first fatal major commercial       passenger flight accident in the United States since Colgan       Air Flight 3407 in 2009.
+
+(4) Passengers aboard Flight 5342 included American       citizens from across the country and international travelers,       among them championship figure skaters and coaches returning       from competition, military servicemembers, and families       traveling for personal and professional reasons, each of whom       is mourned by loved ones.
+
+(5) Crewmembers aboard Flight 5342 served their passengers       with professionalism and dedication and the three United       States Army soldiers aboard Priority Air Transport 25 gave       their lives in service to this Nation.
+
+(6) Emergency responders from Alexandria City Fire       Department, Alexandria Police Department, Ann Arundel Fire       Department, Arlington County Fire & Rescue, Arlington County       Office of Emergency Management, Arlington Police Department,       Baltimore City Fire Department, Baltimore Police, Charles       County Fire and Rescue, DC Fire Department & EMS, DC       Metropolitan Police Department, Fairfax City Fire & Rescue,       Fairfax County Fire & Rescue Department, Federal Aviation       Administration, Federal Bureau of Investigation, Maryland       Natural Resources Police, Maryland State Police, Metropolitan       Police Department, Montgomery County Fire and Rescue,       Metropolitan Washington Airports Authority (MWAA) Fire &       Rescue, MWAA Police, NCR-Incident Management Team, Office of       Chief Medical Examiner of the District of Columbia, Prince       George's County Fire & Rescue, Prince William Fire & Rescue,       U.S. Air Force, U.S. Army, U.S. Army Corps of Engineers, U.S.       Coast Guard, U.S. Navy Supervisor of Salvage and Diving,       Virginia Department of Emergency Management, Virginia State       Police, and other local, state, and Federal agencies       conducted heroic rescue and recovery operations in frigid,       dangerous conditions--including near-freezing water       temperatures and strong winds--working tirelessly to recover       all 67 victims and reunite them with their loved ones.
+
+(7) The National Transportation Safety Board (NTSB)       immediately launched a full investigation and, on March 7,       2025, issued urgent safety recommendations to prohibit       operations on Helicopter Route 4 during simultaneous runway       operations, which the Department of Transportation and       Federal Aviation Administration promptly implemented.
+
+(8) The NTSB held a public meeting on January 27, 2026,       where the NTSB determined that the probable cause of the       accident was the FAA's placement of a helicopter route in       close proximity to a runway approach path; their failure to       regularly review and evaluate helicopter routes and available       data, and their failure to act on recommendations to mitigate       the risk of a midair collision near DCA; as well as the air       traffic system's overreliance on visual separation in order       to promote efficient traffic flow without consideration for       the limitations of the see-and-avoid concept.
+
+(9) The NTSB determined that the lack of effective pilot-      applied visual separation by the helicopter crew, the tower       team's loss of situation awareness and degraded performance       due to the high workload of the combined helicopter and local       control positions and the absence of a risk assessment       process to identify and mitigate real-time operational risk       factors, and the Army's failure to ensure pilots were aware       of the effects of error tolerances on barometric altimeters       in their helicopters, were also causal to the collision.
+
+(10) The NTSB further determined that contributing factors       included the limitations of the traffic awareness and       collision alerting systems on both aircraft, which precluded       effective alerting of the impending collision to the flight       crews; an unsustainable airport arrival rate, increasing       traffic volume with a changing fleet mix, and airline       scheduling practices at DCA, which regularly strained the DCA       air traffic control tower workforce and degraded safety over       time; the Army's lack of a fully implemented safety       management system, which should have identified and addressed       hazards associated with altitude exceedances on the       Washington, DC, helicopter routes; the FAA's failure across       multiple organizations to implement previous NTSB       recommendations, including Automatic Dependent Surveillance-      Broadcast In, and to follow and fully integrate its       established safety management system, which should have led       to several organizational and operational changes based on       previously identified risks that were known to management;       and the absence of effective data sharing and analysis among       the FAA, aircraft operators, and other relevant       organizations.
+
+(11) The NTSB on January 27, 2026, adopted 74 findings and       issued 50 safety recommendations to the Department of       Transportation, the FAA, the United States Army, the       Department of Defense Policy Board on Federal Aviation, the       inspector general of the Department of Transportation, and       RTCA Program Management Committee to prevent similar       accidents in the future.
+
+(12) The families of the victims have demonstrated       extraordinary courage and dignity in their grief, and have       called for accountability and systemic reform so that no       other family will endure such loss.
+
+(13) Congress remains committed to ensuring that the       aviation system of the United States achieves the highest       possible standard of safety, and that the lessons of this       tragedy are fully learned and acted upon.
+
+(b) Sense of Congress.--It is the sense of Congress that--
+
+(1) Congress mourns the loss of all 67 lives taken in the       midair collision near Ronald Reagan Washington National       Airport on January 29, 2025, and extends its deepest       condolences to the families, friends, and communities of all       those who perished;
+
+(2) Congress honors the four crew members of American       Airlines Flight 5342 who served their passengers with       professionalism and dedication;
+
+(3) Congress honors the three United States Army soldiers       aboard Priority Air Transport 25, who gave their lives in       service to this nation;
+
+(4) Congress honors the passengers of Flight 5342,       including the figure skaters and coaches of the United States       figure skating community and all other individuals whose       lives, achievements, and contributions to their families and       communities are irreplaceable;
+
+(5) Congress commends the first responders who worked with       valor and dedication under dangerous conditions to conduct       rescue and recovery operations in the Potomac River;
+
+(6) Congress affirms its full support for the National       Transportation Safety Board, its mission of independent       accident investigation, and the integrity of its       investigative process, and herein the ALERT Act responds to       all of the 50 recommendations to prevent a similar tragedy       from reoccurring;
+
+(7) Congress further commits to conducting rigorous       oversight to ensure accountability for implementing these       safety recommendations and ensuring the systemic failures       that contributed to this disaster are fully addressed; and
+
+(8) Congress pledges, on behalf of the American people,       that the 67 lives lost on January 29, 2025, will not be       forgotten, and that their memory will be honored by this       Nation's commitment to an aviation system that is worthy of       the trust placed in it by every passenger who boards an       aircraft in the United States.                      TITLE I--CIVIL AVIATION MATTERS       SEC. 101. AIRBORNE COLLISION AVOIDANCE SYSTEM XA INHIBIT                     ALTITUDE.
+
+(a) In General.--Not later than 180 days after the date of       enactment of this Act, the Administrator shall complete an       evaluation of the hazards and safety benefits of decreasing       the traffic advisory and resolution advisory inhibit       altitudes in Airborne Collision Avoidance System Xa       (hereinafter referred to as ``ACAS Xa'') to enable improved       alerting throughout more of the flight maneuvering envelope       of an aircraft than is required under the RTCA minimum       operational performance standards for the Airborne Collision       Avoidance System (DO-385A, issued June 22, 2023).
+
+(b) Consultation.--In conducting the evaluation under       subsection (a), the Administrator shall consult with       representatives of the following:
+
+(1) Air carriers operating under part 121 of title 14, Code       of Federal Regulations, including regional air carriers and       air carriers with a low-cost or ultra-low-cost business       model.
+
+(2) Air carriers operating under part 135 of title 14, Code       of Federal Regulations.
+
+(3) Air carriers operating under part 91 of title 14, Code       of Federal Regulations.
+
+(4) Cargo air carriers.
+
+(5) Transport category aircraft manufacturers.
+
+(6) General aviation aircraft manufactures.
+
+(7) Avionics manufacturers.
+
+(8) Exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code.
+
+(9) Organizations representing certified collective       bargaining representatives of airline pilots.
+
+(10) The certified bargaining representative of aviation       safety inspectors and engineers for the Federal Aviation       Administration.
+
+(11) Aviation safety experts with specific knowledge of       human factors or human factors experts with specific       knowledge of aviation safety.
+
+(12) Research institutions with relevant aviation safety or       human factors subject matter expertise.
+
+(13) The National Transportation Safety Board.
+
+(14) Any other stakeholders the Administrator determines       appropriate.
+
+(c) Considerations.--In conducting the evaluation under       subsection (a), the Administrator shall consider, at a       minimum--
+
+(1) safety benefits to the public, including reductions in       the probability of midair and near-midair collisions;
+
+(2) the benefits and risks to the ability of pilots and air       traffic controllers to ensure operational safety;
+
+(3) false, misleading, or potentially overlapping alerts or       resolution advisories;
+
+(4) technological advances in software logic to limit       nuisance or false alerts;
+
+(5) air traffic control procedures and the impact of such       procedures on pilots and air traffic controllers during       critical phases of flight;
+
+(6) training requirements for pilots and air traffic       controllers;
+
+(7) to the greatest extent practicable, human factors,       including products by working groups related to human factors       in aviation safety;
+
+(8) research and simulations of reduced resolution advisory       inhibit altitudes conducted by the National Transportation       Safety Board pursuant to Aviation Investigation Report AIR-      26-02 adopted on January 27, 2026; and
+
+(9) any other considerations the Administrator determines       appropriate.       SEC. 102. AIRBORNE COLLISION AVOIDANCE SYSTEM UPGRADES.
+
+(a) In General.--Not later than 45 days after the date of       enactment of this Act, the Administrator shall establish an       aviation rulemaking committee (in this section referred to as       the ``Committee'') to review and develop findings and       recommendations to require selected aircraft to be equipped       and operating with ACAS Xa that is--
+
+(1) integrated and uses both ADS-B In and transponder       interrogations, as required under the RTCA minimum       operational performance standards for the Airborne Collision       Avoidance System (DO-385A, issued June 22, 2023); and
+
+(2) is configured to provide visual and audible alerting to       the pilot and flight crew.
+
+(b) Composition.--The Committee shall consist of members       appointed by the Administrator, including representatives       of--
+
+(1) air carriers operating under part 121 of title 14, Code       of Federal Regulations, including regional air carriers and       air carriers with a low-cost or ultra-low-cost business       model;
+
+(2) air carriers operating under part 135 of title 14, Code       of Federal Regulations;
+
+(3) air carriers operating under subpart K of part 91 of       title 14, Code of Federal Regulations;
+
+(4) business aviation operators;
+
+(5) cargo air carriers;
+
+(6) air ambulance operators;
+
+(7) transport category aircraft manufacturers;
+
+(8) general aviation aircraft manufactures;
+
+(9) avionics manufacturers;
+
+(10) supplemental type certificate holders;
+
+(11) modification service providers;
+
+(12) exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(13) the certified bargaining representative of aviation       safety inspectors and engineers for the Federal Aviation       Administration;
+
+(14) organizations representing certified collective       bargaining representatives of airline pilots;
+
+(15) aviation safety experts with specific knowledge of       human factors or human factors experts with specific       knowledge of aviation safety;
+
+(16) research institutions with relevant aviation safety or       human factors subject matter expertise;
+
+(17) a representative from the National Transportation       Safety Board with subject matter expertise as an observer;       and
+
+(18) any other stakeholders the Administrator determines       appropriate.
+
+(c) Considerations.--In developing the findings and       recommendations under subsection (a), the Committee shall       consider--
+
+(1) the anticipated certification timeline for ACAS Xa       equipment given the technical complexity and requisite       procedures for approval;
+
+(2) the feasibility of using the Line Replaceable Units of       existing collision avoidance systems in such aircraft;
+
+(3) the feasibility of using existing antennas of existing       collisions avoidance systems in such aircraft;
+
+(4) the commercial availability of all necessary components       associated with integrated ACAS Xa;
+
+(5) actions the Administrator can take to prioritize the       certification and installation of integrated ACAS Xa;
+
+(6) related changes that may be required for the operating       rules and training necessary for air traffic controllers,       pilots, and others;
+
+(7) harmonization of global standards associated with       collision avoidance systems; and
+
+(8) any other considerations the Committee or the       Administrator determines appropriate.
+
+(d) Report.--Not later than 1 year after the date of       establishment of the Committee, the Committee shall submit to       the Administrator and the appropriate committees of Congress       a report containing the findings and recommendations of the       Committee.
+
+(e) Rulemaking.--
+
+(1) In general.--Not later than 18 months after the       submission of the report under subsection (d) or 32 months       after the date of enactment of this Act (whichever is       earlier), the Administrator shall issue a notice of proposed       rulemaking to prohibit persons from operating selected       aircraft unless such aircraft are equipped and operating with       ACAS Xa that--
+
+(A) is integrated and uses both ADS-B In and transponder       interrogations, as required under the RTCA minimum       operational performance standards for the Airborne Collision       Avoidance System (DO-385A, issued June 22, 2023); and
+
+(B) provides visual and audible alerting to the pilot and       flight crew.
+
+(2) Contents.--The notice of proposed rulemaking described       in paragraph (1) shall include, at a minimum--
+
+(A) appropriate guidance for certification of ACAS Xa;
+
+(B) a deadline, not to exceed December 31, 2031, for any       newly manufactured selected aircraft to be equipped with ACAS       Xa that reflects various aircraft types, appropriate       maintenance cycles, and required updates to appropriate       guidance after certification of ACAS Xa;
+
+(C) a deadline, not to exceed December 31, 2031, for       existing selected aircraft to be retrofit with ACAS Xa that       reflects various aircraft types, appropriate maintenance       cycles, and required updates to appropriate guidance after       certification of ACAS Xa;
+
+(D) if the new minimal operating performance standards       promulgated under subsection (f) require an upgrade of       software, an upgrade of hardware, or additional training, a       deadline for selected aircraft to be upgraded, not to exceed       December 31, 2033; and
+
+(E) a process by which the Administrator may extend the       deadlines specified in subparagraphs (B) and (C), not to       exceed a period of 2 years, provided that the Administrator       provides a report to the appropriate committees of Congress       within 14 days of taking such action, with the reasons       justifying such action and an assurance that safety will not       be compromised by the delay.
+
+(3) Final rule.--Not later than 1 year after the issuance       of the notice of proposed rulemaking required under paragraph       (1)(A), the Administrator shall issue a final rule to carry       out the requirements of this section.
+
+(f) Modification of Minimal Operating Performance       Standards.--Not later than 30 days after the issuance of a       final rule under subsection (e), the Administrator shall work       with the appropriate standards-setting organization to update       the minimal operation standards for ACAS Xa to--
+
+(1) if the evaluation conducted pursuant to section 101       determines that inhibit altitudes can be safely decreased,       safely decrease the inhibit altitude in accordance with the       results of such evaluation;
+
+(2) update traffic advisory aural alert standards to       include clock position, relative altitude, range, and       vertical tendency; and
+
+(3) integrate directional traffic symbols into visual       displays.
+
+(g) Technical Assistance.--The Administrator shall provide       technical assistance for facilitating equipage across the       entire fleet of affected aircraft, including, as appropriate,       guidance under part 26 of title 14, Code of Federal       Regulations, to provide support for affected aircraft       operators in complying with the requirements of this section.
+
+(h) Selected Aircraft Defined.--In this section, the term       ``selected aircraft'' means aircraft that are required to be       equipped with traffic alert and collision avoidance systems       as required in sections 121.356, 135.180, and 91.1045 of       title 14, Code of Federal Regulations.       SEC. 103. AIRBORNE COLLISION AVOIDANCE SYSTEMS FOR                     ROTORCRAFT.
+
+(a) In General.--Not later than December 31, 2026, the       Administrator shall take necessary action with the       appropriate standards-setting organization to finalize and       publish minimum operational performance standards for the       collision avoidance system known as ``Airborne Collision       Avoidance System Xr'' (in this section referred to as ``ACAS       Xr'') that uses both ADS-B In and a second independent source       of target aircraft data, such as transponder interrogations.
+
+(b) ACAS Xr Aviation Rulemaking Committee.--
+
+(1) Establishment.--Not later than 30 days after the date       on which the appropriate standards-setting organization       publishes minimal operational performance standards for ACAS       Xr under subsection (a), or January 31, 2027, (whichever is       earlier), the Administrator shall establish an aviation       rulemaking committee (in this section referred to as the       ``Committee'') to review and develop findings and       recommendations to require selected rotorcraft and selected       powered-lift aircraft be equipped and operating with ACAS Xr       that has ADS-B In and is configured to provide visual and       audible alerting to the pilot and flight crew.
+
+(2) Composition.--The Committee shall consist of members       appointed by the Administrator, including representatives       of--
+
+(A) rotorcraft operating under part 135 of title 14, Code       of Federal Regulations;
+
+(B) rotorcraft operating under part 91 of title 14, Code of       Federal Regulations;
+
+(C) rotorcraft manufacturers;
+
+(D) an organization representing rotorcraft operators and       pilots;
+
+(E) an organization representing rotorcraft air medical       services;
+
+(F) general aviation aircraft manufacturers;
+
+(G) powered-lift aircraft operators and manufacturers;
+
+(H) avionics manufacturers;
+
+(I) supplemental type certificate holders;
+
+(J) modification service providers;
+
+(K) exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(L) the certified bargaining representative of aviation       safety inspectors and engineers for the FAA;
+
+(M) aviation safety experts with specific knowledge of       human factors or human factors experts with specific       knowledge of aviation safety;
+
+(N) a career representative from the National       Transportation Safety Board with subject matter expertise as       an observer; and
+
+(O) any other stakeholders the Administrator determines       appropriate.
+
+(3) Considerations.--In developing the findings and       recommendations required under paragraph (1), the Committee       shall consider--
+
+(A) any anticipated modifications to the minimum       operational performance standards of ACAS Xr that are       required by subsection (c)(1)(B);
+
+(B) the anticipated certification timeline for ACAS Xr       equipment given the technical complexity and requisite       procedures for approval;
+
+(C) a projected deadline for equipping newly manufactured       selected rotorcraft and selected powered-lift aircraft with       ACAS Xr that considers--
+
+(i) the safety benefits of ACAS Xr;
+
+(ii) the anticipated timeline needed for the FAA to approve       the installation of ACAS Xr on various rotorcraft and       powered-lift aircraft or for various operations;
+
+(iii) the commercial availability of the necessary       components associated with ACAS Xr; and
+
+(iv) the operational and technical considerations       associated with installing ACAS Xr on newly manufactured       selected rotorcraft and selected powered-lift aircraft;
+
+(D) a projected deadline to retrofit selected rotorcraft       and selected powered-lifted aircraft with ACAS Xr that       considers--
+
+(i) the safety benefits of ACAS Xr;
+
+(ii) the feasibility of using existing antennas of existing       collision prevention systems equipped in selected rotorcraft       and selected powered-lift aircraft;
+
+(iii) the feasibility and cost associated with retrofitting       selected rotorcraft and selected powered-lift aircraft not       equipped with existing collision avoidance systems;
+
+(iv) the commercial availability of the necessary       components associated with ACAS Xr; and
+
+(v) the operational and technical considerations associated       with retrofitting selected rotorcraft and selected powered-      lift aircraft;
+
+(E) actions that the Administrator can take to prioritize       the certification and installation of ACAS Xr;
+
+(F) the interaction of ACAS Xr with existing collision       prevention technologies;
+
+(G) the efficacy of ACAS Xr in low-altitude and high-      density airspace environments;
+
+(H) any available safety data assessing the effectiveness       of ACAS Xr in reducing midair collision risk;
+
+(I) related training for air traffic controllers, pilots,       and others;
+
+(J) National Transportation Safety Board Aviation       Investigation Report AIR-26-02 adopted on January 27, 2026;       and
+
+(K) any other considerations the Committee determines       appropriate.
+
+(4) Report.--Not later than 1 year after the establishment       of the Committee, the Committee shall submit to the       Administrator and the appropriate committees of Congress a       report on the findings and the recommendations developed by       the Committee under this subsection.
+
+(c) Rulemaking and Modification of Minimal Operating       Performance Standards.--
+
+(1) In general.--Not later than 18 months after the       submission of the report required under subsection (b)(4), or       24 months after the date of enactment of this Act (whichever       is earlier), the Administrator shall--
+
+(A) issue a notice of proposed rulemaking to prohibit       persons from operating selected rotorcraft and selected       powered-lift aircraft unless such rotorcraft or powered-lift       aircraft are equipped and operating with ACAS Xr that uses       both ADS-B In and transponder interrogations, as required       under the minimum operational performance standards as       required under subsection (a); and
+
+(B) take necessary actions with the appropriate standards-      setting organization to modify the minimal operational       performance standards for ACAS Xr to--
+
+(i) update traffic advisory aural alert standards to       include clock position, relative altitude, range and vertical       tendency; and
+
+(ii) integrate directional traffic symbols into visual       displays.
+
+(2) Contents.--The notice of proposed rulemaking required       under paragraph (1)(A) shall include, at a minimum--
+
+(A) appropriate guidance for the certification of ACAS Xr       systems;
+
+(B) defined standards for the modifications to such systems       described in paragraph (1)(B);
+
+(C) a deadline for any newly manufactured selected       rotorcraft and selected powered-lift aircraft to be equipped       with ACAS Xr, considering the findings and recommendations       developed pursuant to subsection (b);
+
+(D) a deadline for selected rotorcraft and selected       powered-lift aircraft to be retrofit with ACAS Xr,       considering the findings and recommendations developed       pursuant to subsection (b); and
+
+(E) a deadline for selected rotorcraft and selected       powered-lift aircraft to be equipped with collision       prevention technology pursuant to section 104, not to exceed       December 31, 2031.
+
+(3) Final rule.--Not later than 18 months after the       issuance of a notice of proposed rulemaking under paragraph       (1)(A), the Administrator shall issue a final rule associated       with such proposed rulemaking.
+
+(d) Technical Assistance.--The Administrator shall provide       technical assistance to facilitating equipage across the       entire fleet of affected aircraft to provide support for       selected rotorcraft operators and selected powered-lift       aircraft operators in complying with the requirements of this       section.
+
+(e) Definitions.--In this section:
+
+(1) Selected rotorcraft.--The term ``selected rotorcraft''       means a non-military rotorcraft operating in Class B       airspace.
+
+(2) Powered-lift aircraft.--The term ``powered-lift       aircraft'' has the meaning given the term ``powered-lift'' in       section 1.1 of title 14, Code of Federal Regulations.
+
+(3) Selected powered-lift aircraft.--The term ``selected       powered-lift aircraft'' means a non-military powered-lift       aircraft operating in Class B airspace.       SEC. 104. COLLISION PREVENTION SYSTEMS.
+
+(a) Final Rule.--Not later than 2 years after the date of       enactment of this Act, the Administrator shall issue a final       rule with an effective date not later than December 31, 2031,       to require covered aircraft to be equipped and operating with       collision prevention technology.
+
+(b) Consultation.--In developing the final rule under       subsection (a), the Administrator shall consult with the       following:
+
+(1) Air carriers operating under part 135 of title 14, Code       of Federal Regulations.
+
+(2) Air carriers operating under part 121 of title 14, Code       of Federal Regulations.
+
+(3) Air carriers operating under part 91 of title 14, Code       of Federal Regulations.
+
+(4) Organizations representing helicopter aviation       operators and pilots.
+
+(5) Organizations representing the general aviation       community.
+
+(6) Organizations representing business aviation operators.
+
+(7) Organizations representing experimental aircraft       operators.
+
+(8) Transport category aircraft manufacturers.
+
+(9) General aviation aircraft manufactures.
+
+(10) Rotorcraft manufacturers.
+
+(11) Avionics manufacturers.
+
+(12) Powered-lifted aircraft manufacturers.
+
+(13) Supplemental type certificate holders.
+
+(14) Aircraft modification service providers.
+
+(15) Exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code.
+
+(16) Certified bargaining representative of aviation safety       inspectors and engineers for the FAA.
+
+(17) Not fewer than 3 organizations representing certified       collective bargaining representatives of airline pilots       operating under part 121 of title 14, Code of Federal       Regulations.
+
+(18) Aviation safety experts with specific knowledge of       human factors or human factors experts with specific       knowledge of aviation safety.
+
+(19) The National Transportation Safety Board.
+
+(20) Any other representative the Administrator determines       appropriate.
+
+(c) Considerations.--In developing the final rule under       subsection (a), the Administrator shall consider--
+
+(1) the safety benefits of collision prevention       technologies;
+
+(2) relevant regulations, guidance, and policies for       traffic awareness and traffic advisory technology that uses       ADS-B In;
+
+(3) ways in which ADS-B In software applications can be       used as of the date of enactment of this Act;
+
+(4) software in existence on the date of enactment of this       Act, and reasonably projected thereafter, that can predict       aircraft movements, display surrounding traffic, and provide       visual and audible traffic advisories;
+
+(5) the margin of error and accuracy of software described       in paragraph (4);
+
+(6) the safety benefits of software described in paragraph       (4) in preventing conflicts with both aircraft and ground       vehicles on airport surfaces;
+
+(7) the safety benefits of software described in paragraph       (4) in informing pilots or flight crews of operational risks,       including encounters with forecasted severe weather using       flight information services broadcast (FIS-B);
+
+(8) the effort of the Administrator to modernize the air       traffic control system, including timelines, technologies       being incorporated, changes to operational rules, and       training requirements;
+
+(9) the role of air traffic controllers in ensuring       aircraft separation, including the need for additional       training to air traffic controllers given the requirements of       this section;
+
+(10) the necessity of certification for implementing       collision prevention technology based on type of aircraft and       operation;
+
+(11) the capacity of the aerospace supply chain to       manufacture necessary equipment;
+
+(12) the use of existing air traffic control deviation       authorization tools to implement the requirement in       subsection (g)(2);
+
+(13) the requirements for the final rule as specified in       subsection (d);
+
+(14) if available at the time of consideration, the results       of the studies on ADS-B Out equipage and development of low-      cost voluntary ADS-B as required by sections 808 and 810 of       FAA Reauthorization Act of 2024 (Public Law 118-63); and
+
+(15) any other considerations the Administrator determines       appropriate.
+
+(d) Requirements for Final Rule.--In issuing the final rule       required under subsection (a), the Administrator shall--
+
+(1) establish performance requirements for equipping       collision prevention technology that, as determined by the       Administrator, are appropriate for the covered aircraft and       the operations, including the operating environment;
+
+(2) in establishing the performance requirements described       in paragraph (1)--
+
+(A) require such technology be configured to provide visual       and audible alerting to the pilot and flight crew;
+
+(B) consider the field of view of the pilots, human       factors, and, if applicable, mounting method of such       technology, to ensure that such technology can be readily       utilized and has minimal risk of unexpected detachment;
+
+(C) consider the reliability and resiliency of alerts in       environments where inputs or signals, including GPS, can be       jammed or spoofed; and
+
+(D) consider the utilization of existing antenna locations       or the placement of new antenna used to receive and, if       applicable, transmit, data used in collision prevention       technology;
+
+(3) identify existing or issue additional relevant guidance       or technical standard orders to carry out the requirements of       this section; and
+
+(4) establish an effective date not later than December 31,       2031, for equipping the covered aircraft with technology       described in subsection (a) that reflects various aircraft       types, appropriate maintenance cycles, and required updates       to appropriate guidance for such technology after       certification of such technologies.
+
+(e) Equivalent Level of Safety.--In issuing the final rule       required under this section, the Administrator shall allow       for the use of any collision prevention technology (including       technology that uses portable ADS-B In receivers or other       equipment that displays on an existing or future portable       device, electronic flight bag, or panel mounted display)       available for use at the time of the effective date       established in subsection (d)(4), if the Administrator       determines it provides an equivalent level of safety as the       requirements of the final rule issued pursuant to subsection       (a).
+
+(f) Technical Assistance.--The Administrator shall provide       technical assistance to facilitating equipage across the       entire fleet of affected aircraft to provide support for       affected aircraft operators in complying with the       requirements of this section.
+
+(g) Covered Aircraft Defined.--In this section, the term       ``covered aircraft''--
+
+(1) means any non-military aircraft, except a selected       aircraft as defined in section 102, that is required to be       equipped with ADS-B Out under section 91.225 of title 14,       Code of Federal Regulations; and
+
+(2) excludes aircraft that have a limited category special       airworthiness certificate or an experimental airworthiness       certificate, provided the pilot of such aircraft is       authorized to deviate from the requirements of this section       by air traffic control in the same manner ADS-B Out       deviations are approved under section 91.225(g) of title 14,       Code of Federal Regulations.       SEC. 105. PROHIBITION ON CERTAIN USE OF ADS-B DATA.
+
+(a) In General.--
+
+(1) Limitation on use of data.--Data from Automatic       Dependent Surveillance-Broadcast may not be used by any       person, governmental agency, or other entity to identify       aircraft for the purpose of obtaining revenue from the owner       or operator of such aircraft, without the consent of such       owner or operator.
+
+(2) Use of data by air traffic controller.--Automatic       Dependent Surveillance-Broadcast data may be used to assist       air traffic controllers in tracking aircraft and improving       air traffic safety and efficiency.
+
+(b) Limit on Use of ADS-B Data.--Section 46101(c)(1) of       title 49, United States Code, is amended by striking ``the       Administrator of the Federal Aviation Administration may       not'' and inserting ``neither the Administrator of the       Federal Aviation Administration nor any other Federal, State,       local, territorial, or Tribal official may''.       SEC. 106. RULEMAKING ACCOUNTABILITY.
+
+(a) Public Dashboard.--The Secretary shall establish,       maintain, and make available, on a publicly available website       of the Department of Transportation, a dashboard that       displays, for the rulemakings required in sections 102, 103,       and 104--
+
+(1) dates of publication and links to the minimum operating       performance standards referenced by and developed pursuant to       such sections;
+
+(2) the date of establishment, membership roster, and       tasking memoranda (or similar document) for rulemaking       committees established pursuant to such sections;
+
+(3) deadlines and actual dates for the submission for all       required rulemaking committee reports to the Administrator or       Congress;
+
+(4) publication dates of and a link to any--
+
+(A) advanced notice of proposed rulemakings published       pursuant to such sections;
+
+(B) notice of proposed rulemakings published pursuant to       such sections; and
+
+(C) revised notice of proposed rulemakings published       pursuant to rulemakings described in subparagraphs (A) and       (B);
+
+(5) the opening and closing of public comment periods and a       link to public comments;
+
+(6) the publication of and a link to any final rule issued       pursuant to such sections;
+
+(7) all associated official correspondence with the       National Transportation Safety Board regarding related safety       recommendations; and
+
+(8) any additional information the Secretary determines       will increase transparency without delaying the publication       of a final rule.
+
+(b) Congressional and Family Briefing.--Not later than 180       days after the date of enactment of this Act, and every 180       days thereafter until the final rules required pursuant to       sections 102, 103, and 104 are issued, the Administrator       shall brief the appropriate committees of Congress and the       families of the victims of the midair collision referenced in       National Transportation Safety Board Aviation Investigation       Report AIR-26-02 adopted on January 27, 2026 on the progress       in issuing such final rules.
+
+(c) Congressional Oversight in Case of Failure to Meet       Deadlines.--
+
+(1) In general.--If the Administrator fails to meet any       rulemaking deadline established in sections 102, 103, and       104, the Administrator shall brief the appropriate committees       of Congress in person not later than 4 weeks after the date       on which such deadline is not met.
+
+(2) Deadline for initial outreach and coordination.--Not       later than 4 days after the date described in paragraph (1),       the Administrator shall begin initial outreach to and       coordination with the appropriate committees of Congress to       arrange and organize logistics of the briefing required under       paragraph (1).
+
+(3) Format and time of briefing.--The briefing required       under paragraph (1) shall be in a format and at a time to be       determined by the appropriate committees of Congress.       SEC. 107. TIME-ON-POSITION LIMITS.
+
+(a) Time-on-position Limits.--
+
+(1) In general.--Not later than 1 year after the date of       enactment of this Act, the Administrator, in coordination       with organizations representing air traffic controller       managers and supervisors, shall establish time-on-position       limits for operations supervisory personnel.
+
+(2) Considerations.--In developing the limits described in       paragraph (1), the Administrator shall--
+
+(A) evaluate appropriate time-on-position limits for       operations supervisory personnel, prioritizing the evaluation       of such limits at Ronald Reagan Washington National Airport       and other air traffic facilities with high volumes of mixed       rotorcraft and airplane traffic;
+
+(B) establish such limits for Air Traffic Organization       operations supervisory personnel at Ronald Reagan Washington       National Airport and other air traffic facilities with high       volumes of mixed helicopter and airplane traffic;
+
+(C) develop guidance for district and facility-level       management to adapt such limits to account for their own       staffing and local standard operating procedures;
+
+(D) consider the operational needs and staffing levels of       the air traffic facilities described in the previous       subparagraphs to ensure effective oversight and monitoring of       safety critical operations;
+
+(E) consider air traffic control specialists performing       watch supervision in the controller-in-charge position;
+
+(F) consider requirements of FAA Order JO 7210.3EE, titled       ``Facility Operation and Administration'', issued on February       20, 2025, or any successor document, and FAA Order JO       7110.65BB, titled ``Air Traffic Control'', issued on February       20, 2025, or any successor document;
+
+(G) consider data, reports, and best practices pertaining       to human factors; and
+
+(H) consider any other items determined appropriate by the       Administrator.
+
+(3) Consultation.--The Administrator may consult with the       exclusive bargaining representative of air traffic       controllers certified under section 7111 of title 5, United       States Code.
+
+(b) Rule of Construction.--Nothing in this section shall be       construed to interfere with any agreement between a       governmental agency and the exclusive bargaining       representative of air traffic controllers certified under       section 7111 of title 5, United States Code, section 7106(a)       of title 5, United States Code, or section 40122 of title 49,       United States Code.
+
+(c) Definitions.--In this section:
+
+(1) Controller-in-charge.--The term ``controller-in-      charge'' means the bargaining unit air traffic control       specialist responsible for providing watch supervision for       the continuous operation of an air traffic control facility       or area in any case in which operations supervisory personnel       are not available.
+
+(2) Operational oversight.--The term ``operational       oversight'' means the duty of the individual in charge of the       operation to effectively lead and manage the delivery of air       traffic services by maintaining intentional engagement,       situational awareness, and accountability within the area of       supervision.
+
+(3) Operations supervisory personnel.--The term       ``operations supervisory personnel'' means managerial       personnel responsible for the direct supervision of air       traffic control operational personnel.       SEC. 108. CONTROLLER THREAT AND ERROR MANAGEMENT TRAINING.
+
+(a) In General.--Not later than 9 months after the date of       enactment of this Act, the Administrator shall, in       coordination with the exclusive bargaining representative of       air traffic controllers certified under section 7111 of title       5, United States Code, develop and implement initial,       recurrent, and refresher training for air traffic controllers       on threat and error management that is instructor-led and       scenario-based.
+
+(b) Consultation.--In developing the training under       subsection (a), the Administrator shall consult with       representatives of--
+
+(1) organizations representing air traffic control managers       and operations supervisors;
+
+(2) aviation safety experts with specific knowledge of--
+
+(A) human factors and human decision making in realistic       operational settings; and
+
+(B) threat and error management best practices and       policies; and
+
+(3) a career representative from the National       Transportation Safety Board with subject matter expertise as       an observer.
+
+(c) Considerations.--In developing the training described       in subsection (a), the Administrator shall consider, at a       minimum--
+
+(1) the findings and recommendations of the National       Transportation Safety Board, including as contained in the       final aviation investigation report, AIR-26-02, adopted on       January 27, 2026, such as--
+
+(A) training controllers to continuously monitor their       environment to more quickly and accurately identify threats;
+
+(B) promoting team communication to ensure that       communications are clear, timely, and assertive;
+
+(C) emphasizing effective scanning habits;
+
+(D) recognizing patterns in the development of adverse       events; and
+
+(E) enhanced decision making under stress by developing       habits that balance procedural compliance with problem-      solving;
+
+(2) the requirements of--
+
+(A) FAA Order JO 3120.4S, titled ``Air Traffic Technical       Training'', issued on August 28, 2024;
+
+(B) FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'', issued on February 20, 2025;
+
+(C) FAA Order JO 7110.65BB, titled ``Air Traffic Control'',       issued on February 20, 2025; and
+
+(D) other relevant air traffic control standards, guidance,       and policies;
+
+(3) the frequency of the recurrent and refresher training       described in subsection (a) and whether frequency should be       increased for air traffic controllers in facilities managing       high-complexity or high-volume airspace;
+
+(4) data, reports, and peer-reviewed studies on human       factors and threat and error management best practices;
+
+(5) the appropriate use of tower simulator systems and       other advanced training technologies to supplement the       recurrent training described in subsection (a), including the       use of data analytics from such systems and technologies to       individualize instruction;
+
+(6) the use of data analytics to identify systemic gaps in       the recurrent and refresher training described in subsection       (a) and to dynamically enhance training curriculum and       techniques;
+
+(7) data gathered from aviation safety reporting programs;       and
+
+(8) any other item determined appropriate by the       Administrator.
+
+(d) Implementation.--Not later than 90 days after the       development of the training under subsection (a), the       Administrator shall revise the orders of the FAA described in       subsection (c)(2), or any successor documents, and any       corresponding policy or guidance materials, to reflect the       requirements of this section.
+
+(e) Briefing to Congress.--Not later than 1 year after the       training requirements under this section and section 109 are       established, the Administrator shall brief the appropriate       committees of Congress on the implementation of such training       and any potential recommendations for improvements.
+
+(f) Threat and Error Management Defined.--In this section,       the term ``threat and error management'' has the meaning       described in chapter 6 of the Risk Management Handbook (FAA       H-8083-2A) or any successor document.       SEC. 109. CONTROLLER VISUAL SEPARATION TRAINING.
+
+(a) In General.--Not later than 270 days after the date of       enactment of this Act, the Administrator shall, in       coordination with the exclusive bargaining representative of       air traffic controllers certified under section 7111 of title       5, United States Code, develop and implement initial,       recurrent, and refresher training for air traffic controllers       on tower-applied and pilot-applied visual separation       procedures that is instructor-led and scenario-based.
+
+(b) Consultation.--In developing and implementing the       training required under subsection (a), the Administrator       shall consult with representatives of--
+
+(1) the certified bargaining representative of aviation       safety inspectors and engineers for the FAA;
+
+(2) organizations representing certified collective       bargaining representatives of airline pilots;
+
+(3) organizations representing air traffic control managers       and supervisors;
+
+(4) organizations representing general aviation pilots; and
+
+(5) aviation safety experts with specific knowledge of--
+
+(A) human factors and human decision making in realistic       operational settings; and
+
+(B) tower-applied and pilot-applied visual separation       procedures and regulations.
+
+(c) Considerations.--In developing the training under       subsection (a), the Administrator shall consider, at a       minimum--
+
+(1) the findings and recommendations made by the National       Transportation Safety Board, including as contained in the       final aviation investigation report, AIR-26-02, adopted on       January 27, 2026;
+
+(2) the requirements of--
+
+(A) FAA Order JO 3120.4S, titled ``Air Traffic Technical       Training'', issued on August 28, 2024;
+
+(B) FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'', issued on February 20, 2025;
+
+(C) FAA Order JO 7110.65BB, titled ``Air Traffic Control'',       issued on February 20, 2025; and
+
+(D) other relevant air traffic control standards, guidance,       and policies;
+
+(3) the frequency of the recurrent and refresher training       described in subsection (a), including--
+
+(A) whether such frequency should be increased for air       traffic controllers in facilities managing high-complexity or       high-volume airspace; and
+
+(B) the need for advance training and guidance ahead of any       changes to FAA visual separation policies;
+
+(4) the appropriate use of tower simulator systems and       other advanced training technologies to supplement the       recurrent and refresher training described in subsection (a),       including the use of data analytics from such systems and       technologies to individualize instruction;
+
+(5) the use of data analytics to identify systemic gaps in       the recurrent and refresher training described in subsection       (a) and to dynamically enhance training curriculum and       techniques;
+
+(6) data gathered from aviation safety reporting programs;       and
+
+(7) any other item determined appropriate by the       Administrator.
+
+(d) Implementation.--Not later than 90 days after the       development of the training under subsection (a), the       Administrator shall revise the orders of the FAA described in       subparagraph (c)(2), or any successor documents, and any       corresponding policy or guidance materials, to reflect the       requirements of this section.       SEC. 110. SAFETY RISK ASSESSMENT TOOL.
+
+(a) In General.--Not later than 180 days after the date of       enactment of this Act, the Administrator shall develop a       safety risk assessment tool for use by air traffic       controllers, including by supervisory air traffic control       personnel, to assist in airspace risk identification,       mitigation, and operational decision making.
+
+(b) Considerations.--In carrying out subsection (a), the       Administrator shall consider, at a minimum--
+
+(1) the development of a safety risk assessment tool       capable of supporting air traffic controllers in--
+
+(A) identifying safety risks;
+
+(B) analyzing the impact of and prioritizing such risks;       and
+
+(C) developing strategies to reduce or eliminate such risks       in real time;
+
+(2) data, reports, studies, and best practices on threat       and error management;
+
+(3) findings and recommendations of the--
+
+(A) National Transportation Safety Board, including as       contained in the final aviation investigation report, AIR-26-      02, adopted on January 27, 2026;
+
+(B) National Airspace System Safety Review Team as       contained in the final report titled ``Discussion and       Recommendations to Address Risk in the National Airspace       System'', issued on November 15, 2023; and
+
+(C) frontline manager workload study authorized under       section 412 of the FAA Reauthorization Act of 2024 (Public       Law 118-63);
+
+(4) air traffic facility type and staffing level;
+
+(5) risk assessment guidance, policies, and regulations of       the Administration in place prior to the date of enactment of       this Act;
+
+(6) data gathered from aviation safety reporting programs;
+
+(7) best practices or similar relevant risk assessment       tools and methods used by foreign civil aviation authorities;
+
+(8) the feasibility of leveraging commercially available       products or technologies that may be utilized to develop such       tool;
+
+(9) benefits of incorporating such tool into a Common       Automation Platform; and
+
+(10) any other factors determined relevant by the       Administrator.
+
+(c) Coordination.--In developing the safety risk assessment       tool under subsection (a), the Administrator shall coordinate       with--
+
+(1) organizations representing air traffic control       supervisors and managers;
+
+(2) the exclusive bargaining representative of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(3) aviation safety experts with specific knowledge of       threat and error management;
+
+(4) aviation safety experts with specific knowledge of       human factors and human decision making in realistic       operational settings;
+
+(5) organizations representing operators of Federal       contract towers pursuant to section 47124 of title 49, United       States Code; and
+
+(6) any other stakeholders determined relevant by the       Administrator.
+
+(d) Briefing to Congress.--Not later than 18 months after       the date of enactment of this Act, the Administrator shall       brief the appropriate committees of Congress on--
+
+(1) the development of the safety risk assessment tool       required under this section and recommendations for       implementation;
+
+(2) the progress of implementation described in subsection       (e); and
+
+(3) any recommendations to improve the deployment of the       safety risk assessment tool.
+
+(e) Implementation.--The Administrator shall deploy the       safety risk assessment tool developed under this section at--
+
+(1) the Ronald Reagan Washington National Airport air       traffic control tower, not later than 1 year after the       development of the safety risk assessment tool;
+
+(2) air traffic control facilities with high volumes of       mixed rotorcraft and airplane traffic not later than 18       months after the development of the safety risk assessment       tool; and
+
+(3) any remaining air traffic control facilities not later       than 2 years after the development of the safety risk       assessment tool.
+
+(f) Threat and Error Management Defined.--In this section,       the term ``threat and error management'' has the meaning       described in chapter 6 of the Risk Management Handbook (FAA       H-8083-2A) or any successor document.       SEC. 111. OPERATIONAL RATES AT RONALD REAGAN WASHINGTON                     NATIONAL AIRPORT.
+
+(a) In General.--Not later than 30 days after the date of       enactment of this Act, the Administrator shall initiate an       assessment of the aircraft arrival rate at Ronald Reagan       Washington National Airport.
+
+(b) Considerations.--In conducting the assessment described       in subsection (a), the Administrator shall consider--
+
+(1) airspace complexity;
+
+(2) airfield limitations;
+
+(3) mixed-fleet operations;
+
+(4) traffic volume;
+
+(5) air carrier scheduling practices;
+
+(6) the operational capacity of such airport;
+
+(7) the current hourly instrument flight rules allocation       practice at such airport;
+
+(8) expertise provided by the Air Traffic Organization; and
+
+(9) any other considerations the Administrator determines       appropriate.
+
+(c) Completion of Assessment.--Not later than 180 days       after the Administrator initiates the assessment under       subsection (a), the Administrator shall complete and submit       to the appropriate committees of Congress such assessment,       including any related findings and recommendations.
+
+(d) Rulemaking.--Not later than 30 days after completing       the assessment pursuant to subsection (c), and taking such       assessment into account, the Administrator shall initiate a       rulemaking proceeding to update subpart K of part 93 of title       14, Code of Federal Regulations, to require allocated       instrument flight rules operations at Ronald Reagan       Washington National Airport to be prescribed in periods not       greater than 30 minutes to ensure such airport does not       exceed safe capacity.
+
+(e) Consultation.--In conducting the rulemaking required       under subsection (d), the Administrator shall consult with       the following:
+
+(1) Any air carrier operating under part 121 of title 14,       Code of Federal Regulations, with scheduled operations at       Ronald Reagan Washington National Airport, including regional       air carriers and low-cost and ultra-low-cost air carriers.
+
+(2) Air carriers operating under parts 91, including       subpart K, and 135 of title 14, Code of Federal Regulations,       authorized to conduct non-scheduled operations at Ronald       Reagan Washington National Airport.
+
+(3) The exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       Sates Code.
+
+(4) The Metropolitan Washington Airports Authority.
+
+(5) Any other stakeholders the Administrator determines       appropriate.       SEC. 112. TIME-BASED FLOW MANAGEMENT.
+
+Not later than 180 days after the date of enactment of this       Act, the Administrator shall implement operational use of the       time-based flow management system at Potomac Consolidated       Terminal Radar Approach Control and associated air traffic       control towers.       SEC. 113. AIR TRAFFIC CONTROL FACILITY LEVELS.
+
+(a) Review of Air Traffic Control Facility Level       Criteria.--
+
+(1) In general.--The Administrator and the exclusive       bargaining representative of air traffic controllers       certified under section 7111 of title 5, United States Code,       (in this section referred to as the ``Parties'') may, at       their joint election, review and advise, as agreed to, the       criteria and procedures used to assess, determine, and       validate the facility pay levels of air traffic control       facilities.
+
+(2) Considerations.--In conducting a review under paragraph       (1), the Parties may consider--
+
+(A) the many variables that may affect the difficulty and       complexity of air traffic control work, including       technological advancements, aviation industry trends, and the       modification or extension of air traffic control services;
+
+(B) weights and add-ons used to calculate the traffic count       index and other related formulas for air traffic control       facilities; and
+
+(C) whether new weights and add-ons should be incorporated       into such formulas to more accurately reflect the air traffic       density and complexity of the facility operations.
+
+(b) Reassessment of Air Traffic Control Facility Levels.--
+
+(1) Limitation.--No changes to facility pay levels due to       data source changes may be implemented until negotiations       pursuant to the collective bargaining agreement of the       Parties and title 49, United States Code, have been       completed.
+
+(2) Application of standard.--Upon completion of a review       conducted under subsection (a) and related negotiations       pursuant to the collective bargaining agreement of the       Parties and title 49, United States Code, the Parties shall       apply the standard in accordance with any agreements made       pursuant to this section at--
+
+(A) the Ronald Reagan Washington National Airport; and
+
+(B) all other air traffic control facilities, prioritizing       facilities with high volumes of mixed rotorcraft and airplane       traffic.
+
+(c) Rule of Construction.--Nothing in this section may be       construed to interfere with any agreement between a       governmental agency and the exclusive bargaining       representative of air traffic controllers certified under       section 7111 of title 5, United States Code, or section 40122       of title 49, United States Code.       SEC. 114. WORKING GROUP TO EVALUATE SHARED FREQUENCY AROUND                     RONALD REAGAN WASHINGTON NATIONAL AIRPORT.
+
+(a) In General.--Not later than 3 months after the date of       enactment of this Act, the Administrator shall convene a       working group (in this section referred to as the ``Working       Group'') to conduct a comprehensive evaluation of the safety       benefits and risks of requiring all aircraft to use the same       communications frequency during any period in which       helicopter and local air traffic control positions are       combined in the Ronald Reagan Washington National Airport air       traffic control tower.
+
+(b) Members.--The Working Group convened under subsection       (a) shall be comprised of representatives of--
+
+(1) the exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(2) the organization representing air traffic control       operational supervisors and managers;
+
+(3) not fewer than 3 separate organizations representing       the certified collective bargaining representatives of pilots       operating under part 121 of title 14, Code of Federal       Regulations;
+
+(4) air medical services;
+
+(5) an organization representing helicopter aviation       operators and pilots;
+
+(6) an organization representing business aviation       operators and pilots;
+
+(7) air carriers operating under part 121 of title 14,       United States Code;
+
+(8) an individual that has expertise in an operational or       academic discipline that is relevant to the analysis of human       factors in aviation, which may include air carrier       operations, line pilot expertise, air traffic control,       linguistics, human-machine integration, general aviation       operations, and organizational behavior and culture;
+
+(9) the FAA, provided the representative has expertise on       flight operations in the area described in subsection (a);
+
+(10) the Department of Defense, provided the representative       has expertise on Department of Defense flight operations in       the area described in subsection (a);
+
+(11) the Coast Guard, provided the representative has       expertise on Coast Guard flight operations in the area       described in subsection (a);
+
+(12) the National Transportation Safety Board; and
+
+(13) other organizations or agencies as determined       necessary by the Administrator.
+
+(c) Local Operator Preference.--The members described in       paragraphs (3), (4), (5), (6), and (7) of subsection (b)       shall be, or represent, individuals who operate in the       Washington, DC Metropolitan Area Special Flight Rules Area,       as defined in subpart V of part 93 of title 14, Code of       Federal Regulations.
+
+(d) Government Representatives.--The members described in       paragraphs (11), (12), (13), (14), and, in the case of a       representative chosen by the Administrator that is from a       governmental agency, (15) of subsection (b)--
+
+(1) may not be political appointees; and
+
+(2) shall be nonvoting members of the Working Group.
+
+(e) Duration.--
+
+(1) In general.--Members of the Working Group shall be       appointed for the duration of the Working Group.
+
+(2) Length of existence.--
+
+(A) In general.--The Working Group shall have an initial       duration of 1 year.
+
+(B) Optional extension.--The Administrator may extend the       duration of the Working Group for an additional period of up       to 1 year.
+
+(f) Considerations.--In conducting the comprehensive       evaluation under subsection (a), the Working Group shall, at       minimum, consider--
+
+(1) the benefits or detriments to pilot and air traffic       controller situation awareness;
+
+(2) to the greatest extent possible, the human factors that       would impact pilot and air traffic controller situation       awareness;
+
+(3) to the greatest extent possible, the human factors that       would impact pilot and air traffic controllers during       critical phases of flight;
+
+(4) existing products by other working groups related to       human factors in aviation safety;
+
+(5) pilot training requirements;
+
+(6) air traffic controller training requirements;
+
+(7) if any, technological limitations or challenges that       would impede aircraft from using the same communications       frequency;
+
+(8) the potential for overlapping, conflicting, and       simultaneous communication transmissions, prior to and after       any improvements made as a result of the assessment conducted       pursuant to section 115;
+
+(9) the potential for misdirected, missed, or stepped on       communications if requiring all aircraft to use the same       communication frequency;
+
+(10) National Transportation Safety Board recommendations       pertaining to miscommunications on crowded frequencies,       including relevant recommendations included in the National       Transportation Safety Board Aviation Investigation Report       AIR-26-02 adopted on January 27, 2026; and
+
+(11) solicited feedback from air carriers operating under       part 121 and part 135 of title 14, Code of Federal       Regulations, and general aviation operators under part 91 of       title 14, Code of Federal Regulations.
+
+(g) Report.--Not later than 6 months after the conclusion       of the Working Group, the Working Group shall submit to the       Administrator and the appropriate committees of Congress a       report on the findings and recommendations resulting from the       activities carried out under this section.
+
+(h) Implementation.--Not later than 6 months after       receiving recommendations outlined in the report under       subsection (g), the Administrator shall operationally       validate such recommendations and may take such action, as       appropriate, to implement such recommendations.       SEC. 115. ANTI-BLOCKING TECHNOLOGY.
+
+(a) Assessment.--Not later than 30 days after the date of       enactment of this Act, the       Administrator shall initiate an assessment on the       feasibility, maturity, hazards, and safety benefits of       technology that serves to alert air traffic controllers or       flight crews to instances of potentially blocked       transmissions when simultaneous broadcasting occurs.
+
+(b) Considerations.--In conducting the assessment under       subsection (a), the Administrator shall, at minimum,       consider--
+
+(1) technologies currently in use domestically and       internationally that alert an air traffic controller or       flight crew to instances in which radio transmissions may       have been blocked;
+
+(2) the technical standards written for, and associated       with, the use of such technologies identified under paragraph       (1);
+
+(3) existing and proposed technologies not in use that       could alert an air traffic controller or flight crew to       instances in which radio transmissions may have been blocked;
+
+(4) the technical standards that would be needed to       implement the technologies identified under paragraph (3);
+
+(5) the potential benefits and enhanced awareness that the       adoption of such technologies would provide;
+
+(6) the technological limitations associated with such       technologies;
+
+(7) air traffic controller training requirements;
+
+(8) the effort of the FAA to modernize the air traffic       control system, including timelines, the incorporation of new       technologies, and planned training; and
+
+(9) any benefits and detriments to air traffic controller       situational awareness, including availability of information,       nuisance alerts, and human factors.
+
+(c) Consultation.--In conducting the assessment under       subsection (a), the Administrator shall consult with       stakeholders or standards organizations, including--
+
+(1) the exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(2) the organization representing air traffic control       operational supervisors and managers;
+
+(3) the certified bargaining representative of aviation       safety inspectors and engineers for the FAA;
+
+(4) an organization representing manufacturers of air       traffic management systems, equipment and technologies;
+
+(5) an organization representing helicopter aviation       operators and pilots;
+
+(6) an organization representing general aviation operators       and pilots; and
+
+(7) any other organization or agency the Administrator       determines appropriate.
+
+(d) Report.--Not later than 1 year after the date of       enactment of this Act, the Administrator shall submit to the       appropriate committees of Congress a report on the results of       the assessment under subsection (a) that includes--
+
+(1) a list of technologies identified by the Administrator       serving the purpose described in subsection (a);
+
+(2) a list of technologies the Administrator proposes that       could serve the purpose described in subsection (a);
+
+(3) results of simulations and testing; and
+
+(4) a plan to implement the technologies listed under       paragraphs (1) and (2) if the assessment under subsection (a)       finds such technology can be safely implemented, including--
+
+(A) the scope of potential upgrades;
+
+(B) predicted costs;
+
+(C) a projected timeline; and
+
+(D) how the potential upgrades to facilities and equipment       within the scope of subparagraph (A) would be prioritized.       SEC. 116. TASK FORCE TO IDENTIFY IMPROVEMENTS TO AIR TRAFFIC                     CONTROLLER CONFLICT ALERT SYSTEM.
+
+(a) In General.--Not later than 3 months after the date of       enactment of this Act, the Administrator shall convene a task       force (in this section referred to as the ``Task Force'') to       develop a framework detailing the priorities, goals,       timeline, and recommendations to implement improvements to       the conflict alert system to provide more salient and       meaningful alerts to air traffic controllers based on the       severity of the conflict triggering the alert.
+
+(b) Members.--The Task Force convened under subsection (a)       shall be comprised of representatives of--
+
+(1) the exclusive bargaining representatives of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(2) the organization representing air traffic control       operational supervisors and managers;
+
+(3) the organization representing operators under the       Contract Tower Program established under section 47124 of       title 49, United States Code;
+
+(4) the certified bargaining representative of aviation       safety inspectors and engineers for the FAA;
+
+(5) individuals with expertise in the human factors of       alert design and related impacts on human performance;
+
+(6) individuals with expertise in an operational or       academic discipline that is relevant to the analysis of human       factors in aviation, which may include air carrier       operations, line pilot expertise, air traffic control,       linguistics, human-machine integration, general aviation       operations, and organizational behavior and culture;
+
+(7) the FAA, including the Air Traffic Organization and the       Office of Finance and Management, provided such       representative has expertise on equipment procurement; and
+
+(8) other organizations or agencies as determined necessary       by the Administrator.
+
+(c) Voting.--The members described in paragraphs (3), (6),       and, in the case of a representative chosen by the       Administrator that is from a governmental agency, (7) of       subsection (b) shall be nonvoting members of the Task Force.
+
+(d) Duration.--
+
+(1) In general.--Members of the Task Force shall be       appointed for the duration of the Task Force.
+
+(2) Length of existence.--
+
+(A) In general.--The Task Force shall have an initial       duration of 1 year.
+
+(B) Optional extension.--The Administrator may extend the       duration of the Task Force for an additional period of up to       6 months.
+
+(e) Considerations.--In developing the framework under       subsection (a), the Task Force shall, at minimum, consider--
+
+(1) the benefits and detriments to air traffic controller       situational awareness, including availability of information,       nuisance and false alerts, and human factors;
+
+(2) opportunities and challenges of consolidating numerous       systems and underlying data sources into a single display,       including through the deployment of the Enterprise-      Information Display System;
+
+(3) existing products by other working groups related to       human factors in aviation safety;
+
+(4) air traffic controller training requirements;
+
+(5) advances in available technology not being utilized as       of the date on which the Task Force is convened;
+
+(6) technological limitations;
+
+(7) National Transportation Safety Board recommendations       pertaining to air traffic controller alerts, distractions,       and loss of focus;
+
+(8) the effort of the FAA to modernize the air traffic       control system, including timelines, new technologies being       incorporated, and planned training; and
+
+(9) solicited feedback from equipment manufacturers and       entities involved with the air traffic control modernization       effort of the Administrator.
+
+(f) Report.--Not later than 4 months after the conclusion       of the Task Force, the Task Force shall submit to the       Administrator and the appropriate committees of Congress a       report that includes the framework developed as a result of       the activities carried out under subsection (a).
+
+(g) Implementation Plan.--
+
+(1) In general.--Not later than 8 months after receiving       the framework outlined in the report under subsection (f),       the Administrator shall finalize and submit to the       appropriate committees of Congress a plan (in this section       referred to as the ``Plan'') to implement such framework.
+
+(2) Contents.--Such Plan shall include, as appropriate--
+
+(A) specific training requirements for air traffic       controllers, as detailed in--
+
+(i) FAA Order JO 3120.4S, titled ``Air Traffic Technical       Training'', issued on August 28, 2024;
+
+(ii) FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'', issued on February 20, 2025; and
+
+(iii) any successor or other relevant documents or       guidance; and
+
+(B) a publicly available prioritized list of airports       enumerating the order in which they will receive such       upgrades.
+
+(3) Time limit.--The Plan may not contain a timeline of       implementation that exceeds 2 years.
+
+(h) Implementation.--The Administrator shall immediately       begin implementing the Plan upon the submission of such Plan       under subsection (g)(1) to the appropriate committees of       Congress.
+
+(i) Briefings to Congress.--Not later than 6 months after       the submission of the Plan to the appropriate committees of       Congress under subsection (g)(1), and every 6 months       thereafter until the full implementation of the Plan, the       Administrator shall brief the appropriate committees of       Congress on the progress of implementation.       SEC. 117. POSTACCIDENT AND POSTINCIDENT DRUG AND ALCOHOL                     TESTING.
+
+(a) Sense of Congress.--The Administrator shall abide by       DOT Order 3910.1D, titled ``Drug and Alcohol-Free       Departmental Workplace Program'' (or any successor document)       to ensure appropriate postaccident and postincident drug and       alcohol testing.
+
+(b) Revision of Procedures.--Not later than 180 days after       the date of enactment of this Act, the Administrator shall       revise procedures of the Air Traffic Organization to ensure       an appropriate on-site supervisor makes each postaccident and       postincident drug and alcohol testing determination in a       timely manner based on an assessment of such supervisor of       whether the event meets testing criteria and which       controllers had duties pertaining to the involved aircraft       without need to wait for investigation or approval.
+
+(c) Training.--
+
+(1) In general.--Not later than 1 year after the date of       enactment of this Act, the Administrator shall incorporate       training on the revised postaccident and postincident drug       and alcohol testing determination procedure described in       subsection (b) for all staff of the Air Traffic Organization       who have responsibilities under such procedure.
+
+(2) Requirements.--The training described under this       subsection shall, at a minimum--
+
+(A) be administered during initial training, and annually       thereafter; and
+
+(B) include a postlearning knowledge assessment.
+
+(d) Review.--
+
+(1) In general.--Not later than 1 year after the date of       enactment of this Act, and annually thereafter, the Secretary       shall conduct a review of the ability of each FAA-operated       air traffic control facility to routinely accomplish the       required postaccident and postincident drug and alcohol       testing within the Secretary's specified timeframes of within       2 hours for alcohol testing and within 4 hours for drug       testing.
+
+(2) Requirements.--The review described under this       subsection shall, at a minimum, require each FAA-operated air       traffic control facility to conduct a demonstration to       establish the time that would be required for urine and       breath evidence collection to begin if testing were       unexpectedly needed during a time with the lowest routinely       anticipated level of resource availability for testing.
+
+(3) Remediation.--After each review under paragraph (1),       the Administrator shall work with the Secretary to mitigate       identified barriers to timely postaccident and postincident       drug and alcohol testing, and to remediate the performance of       each facility for which the demonstration under paragraph (2)       indicated inability to meet required timeframes for       postaccident drug or alcohol testing.
+
+(4) Report.--Not later than 3 months after each review       under paragraph (1), the Secretary shall submit to the       appropriate committees of Congress a report detailing the       results of the review, including facilities in need of       remediation, progress at facilities previously identified for       remediation, and planned approaches to remediation.       SEC. 118. FURTHER MODIFICATIONS TO RONALD REAGAN WASHINGTON                     NATIONAL AIRPORT AREA HELICOPTER ROUTES.
+
+(a) In General.--Not later than 90 days after the date of       enactment of this Act, the Administrator shall evaluate, via       the safety risk management process in accordance with FAA       Order JO 8040.4C, titled ``Safety Risk Management Policy''       (or any successor document), charted helicopter routes in the       vicinity of Ronald Reagan Washington National Airport.
+
+(b) Revisions to Deconflict Traffic.--Upon the completion       of each route evaluation under subsection (a), the       Administrator shall immediately, as necessary, revise such       route to ensure that the route and routes utilized by fixed-      wing aircraft--
+
+(1) are safely deconflicted physically at all times; or
+
+(2) have operating procedures that require positive control       from the controller to ensure safe deconfliction during       operations.
+
+(c) Safety Review Requirements.--In carrying out the route       revisions required under subsection (b), the Administrator       shall conduct a safety risk management review, as necessary,       for any helicopter route changes, in accordance with FAA       Order 8040.4C, titled ``Safety Risk Management Policy'' (or       any successor document).
+
+(d) Report.--Not later than 120 days after the       Administrator completes all the evaluations and subsequent       route revisions required under this section, the       Administrator shall submit to the appropriate committees of       Congress a report containing--
+
+(1) the results of the evaluations required under       subsection (a);
+
+(2) the route revisions required under subsection (b),       including an explanation for such revisions; and
+
+(3) the safety risk management review documentation       developed as a result of the review conducted under       subsection (c).       SEC. 119. REQUIRING VERTICAL SEPARATION NEAR AIRPORTS DURING                     CRITICAL PHASES OF FLIGHT.
+
+(a) In General.--Except as provided in subsection (b), the       Administrator shall ensure that each segment of a helicopter       route contains, in the appropriate helicopter route chart,       recommended flight altitudes, including altitude ceilings and       floors, in a manner consistent with FAA Order JO 7210.3EE,       titled ``Facility Operation and Administration'' (or any       successor document).
+
+(b) Consideration of Vertical Separation in Route       Criteria.--Not later than 60 days after the date of enactment       of this Act, the Administrator shall amend FAA Order JO       7210.3EE, titled ``Facility Operation and Administration''       (or any successor document), to add minimum vertical       separation requirements to the criteria for the helicopter       route chart program.
+
+(c) Charting Minimum Separation Near Airports.--
+
+(1) In general.--The Administrator shall ensure that any       helicopter chart that represents an area near an airport       clearly conveys to an operator the segments of such       helicopter routes in the vicinity of such airport.
+
+(2) Content requirements.--At minimum, each such chart       shall clearly convey for each of the segments, the       recommended flight altitudes, including altitude ceilings and       floors, and any necessary instructions, to convey minimum       separation, in accordance with FAA Order JO 7110.65BB, titled       ``Air Traffic Control'' (or any successor document),       between--
+
+(A) a helicopter or powered-lift aircraft utilizing such       segment; and
+
+(B) a fixed-wing aircraft operating at or near such airport       during critical phases of flight.
+
+(d) Update Policy.--Not later than 90 days after the date       of enactment of this Act, the Administrator shall update FAA       Order JO 7210.3EE, titled ``Facility Operation and       Administration'' (or any successor document), to account for       any additional changes made by this section.
+
+(e) Annual Review.--The Administrator shall ensure that any       changes made to Helicopter Route Charts as a result of this       section are assessed on an annual basis as part of the annual       review described in section 120.       SEC. 120. HELICOPTER ROUTE CHART ANNUAL REVIEW.
+
+(a) Criteria Review.--
+
+(1) In general.--Not later than 180 days after the date of       enactment of this Act, and annually thereafter, the       Administrator shall initiate a review of the criteria for       annual reviews of helicopter routes as required pursuant to       FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'' (or any successor document).
+
+(2) Update of criteria.--After each annual criteria review       under paragraph (1), the Administrator shall update the       criteria based on such review and publish the updated       criteria on a publicly available website of the FAA.
+
+(3) Changes to route reviews.--After any change is made to       FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'' (or any successor document) pursuant to       section 119(d), the Administrator shall update the criteria       for annual reviews of helicopter routes to reflect such       change.
+
+(b) Publication.--The Administrator shall publish, on a       publicly available website of the FAA, the date on which the       annual review for each Helicopter Route Chart has been most       recently completed, as required pursuant to FAA Order JO       7210.3EE, titled ``Facility Operation and Administration''       (or any successor document).
+
+(c) Report.--Not later than December 31, 2026, and December       31 of each year thereafter, the Administrator shall submit to       the appropriate committees of Congress a report containing,       at a minimum, the following information:
+
+(1) A summary of changes, if applicable, made to each       Helicopter Route Chart, including--
+
+(A) changes, additions, or deletions to designated       helicopter routes;
+
+(B) changes in instrument flight rules routes;
+
+(C) additions or deletions of visual checkpoints; and
+
+(D) rationale or safety data to justify any changes       described in subparagraphs (A) through (C).
+
+(2) The safety risk management documentation completed in       accordance with FAA Order JO 8040.4C, titled ``Safety Risk       Management Policy'' (or any successor document).
+
+(3) A summary of any advanced consultation between the       Administrator and impacted helicopter and fixed-wing       operators in planning the safety risk management process.
+
+(4) A certification that the designated recommended route       altitudes and flight ceilings and floors ensure helicopters       maintain minimum separation, in accordance with FAA Order       7110.65BB, titled ``Air Traffic Control'' (or any successor       document), with fixed-wing aircraft operating along airport       approach and departure paths.
+
+(d) Failure To Submit.--
+
+(1) In general.--If the Administrator fails to submit an       annual report required under subsection (b) on or before the       date on which such report is required to be submitted, the       Chief Operating Officer of the Air Traffic Organization shall       brief the appropriate committees of Congress in person not       later than 4 weeks after such date.
+
+(2) Deadline for initial outreach and coordination.--Not       later than 4 days after such date, the FAA shall begin       initial outreach to and coordination with the appropriate       committees of Congress to arrange and organize logistics of       the briefing required under paragraph (1).
+
+(3) Format and time of briefing.--The briefing required       under paragraph (1) shall be in a format and at a time to be       determined by such committees.       SEC. 121. VISUAL CHARTS.
+
+(a) Study.--Not later than 30 days after the date of       enactment of this Act, the Administrator shall initiate a       study on incorporating the lateral location and published       altitudes of helicopter routes into all instrument and visual       approach and departure procedures for airports to provide       situation awareness to fixed-wing operators of the risk of       helicopter traffic operating in the vicinity of such       operators.
+
+(b) Consultation.--In carrying out subsection (a), the       Administrator shall consult with relevant stakeholders,       including--
+
+(1) air carriers;
+
+(2) an organization representing helicopter operators and       pilots;
+
+(3) an organization representing general aviation operators       and pilots;
+
+(4) an organization representing business aviation       operators and pilots;
+
+(5) an organization representing emergency air medical       services;
+
+(6) representatives of the Department of Defense and United       States Coast Guard who are not political appointees;
+
+(7) not fewer than 3 separate organizations representing       certified collective bargaining representatives of airline       pilots operating under part 121 of title 14, Code of Federal       Regulations;
+
+(8) the certified exclusive bargaining representatives of       air traffic controllers certified under section 7111 of title       5, United States Code; and
+
+(9) an individual that has expertise in an operational or       academic discipline that is relevant to the analysis of human       factors in aviation, including air carrier operations, line       pilot expertise, air traffic control, linguistics, human-      machine integration, general aviation operations, and       organizational behavior and culture.
+
+(c) Considerations.--In carrying out subsection (a), the       Administrator shall consider the--
+
+(1) spacing and legibility of information on charts;
+
+(2) workload of flight crews at lower altitudes and during       critical phases of flight;
+
+(3) feasibility and decipherability of layered information       on digital charts;
+
+(4) current best practices for pilots when landing at or       departing from airports with high volume helicopter traffic       but that do not have charted helicopter routes; and
+
+(5) human factors involved with approach and departure       procedures.
+
+(d) Implementation.--Not later than 1 year after initiating       the study under subsection (a), the Administrator shall make       any revisions necessary to--
+
+(1) Terminal Procedures Publications to include charted       helicopter routes to provide appropriate situational       awareness to fixed-wing operators; and
+
+(2) Helicopter Route Charts to include airport approach and       departure paths to provide appropriate situational awareness       to helicopter operators.
+
+(e) Congressional Briefing.--If the Administrator makes       revisions under subsection (d), the Administrator shall brief       the appropriate committees of Congress on such revisions not       later than 60 days after making such revisions.       SEC. 122. CLOSE PROXIMITY ENCOUNTERS.
+
+(a) In General.--Not later than 60 days after the date of       enactment of this Act, the Administrator shall establish a       working group to make recommendations on--
+
+(1) an objective definition of close proximity encounters;
+
+(2) associated parameters that can be used to monitor the       prevalence of such encounters and identify areas of potential       traffic conflict for safety assurance and safety risk       management for such encounters; and
+
+(3) making publicly available aggregated information about       all such encounters, including date and location.
+
+(b) Considerations.--In carrying out subsection (a), the       working group shall consider--
+
+(1) existing airborne separation rules and required loss of       airborne separation reporting requirements;
+
+(2) the development of a definition of, and associated       parameters for, close proximity encounter events;
+
+(3) data gathered from aviation safety reporting systems       and reports, including the Aviation Safety Information       Analysis and Sharing Program, the Aviation Safety Action       Program, the Performance Data Analysis and Reporting System,       the Aviation Risk Identification and Assessment (``ARIA'')       system, preliminary ARIA reports, the Air Traffic Safety       Action Program, the Aviation Safety Reporting System, the       Near Midair Collision System, mandatory occurrence reports,       and other relevant systems and reports;
+
+(4) National Transportation Safety Board aviation       investigation report AIR-26-02, adopted on January 27, 2026;
+
+(5) FAA risk assessment guidance, policies, and regulations       in place prior to the date of enactment of this Act;
+
+(6) best practices or similar relevant risk assessment       tools and methods used by foreign civil aviation authorities;       and
+
+(7) any other factors determined relevant by the working       group.
+
+(c) Membership.--The working group shall consist of the       following:
+
+(1) Appointed members.--The following members appointed by       the Administrator:
+
+(A) 2 representatives of the National Aeronautics and Space       Administration with expertise in safety data.
+
+(B) 5 appropriately qualified representatives of aviation       labor organizations (designated by the applicable represented       organization), including--
+
+(i) organizations representing certified collective       bargaining representatives of airline pilots;
+
+(ii) the exclusive bargaining representatives of FAA air       traffic controllers certified under section 7111 of title 5,       United States Code;
+
+(iii) organizations representing helicopter operators and       pilots, including law enforcement and air ambulance       operators; and
+
+(iv) organizations representing general aviation operators       and pilots.
+
+(C) Not fewer than 5 independent subject matter experts in       safety management systems and safety data who--
+
+(i) have not served as a political appointee in the       Administration; and
+
+(ii) have a minimum of 10 years of relevant applied       experience.
+
+(D) 2 air carrier employees whose job responsibilities       include administration of a safety management system.
+
+(E) 2 individuals representing holders of a certificate       issued under part 21 of title 14, Code of Federal       Regulations, whose job responsibilities include       administration of a safety management system.
+
+(F) 2 other representatives from the aerospace industry       that do not meet the criteria described in subparagraph (D)       or (E) and who have expertise in safety assurance or safety       risk or whose job responsibilities include administration of       a safety management system.
+
+(G) A career representative from the National       Transportation Safety Board with subject matter expertise, as       a nonvoting member.
+
+(2) Advisory members.--In addition to the appointed members       described in paragraph (1), the working group shall be       advised by up to 5 employees of the Administration, at least       3 of whom shall be subject matter experts in implementing       safety assurance and safety risk management.
+
+(d) Implementation.--Not later than 30 days after the       working group develops recommendations under subsection (a),       the Administrator shall make publicly available a report       containing the recommendations and describing how the       Administrator will implement such recommendations.       SEC. 123. NOTIFICATION OF CLOSE PROXIMITY ENCOUNTERS AND                     ANALYSIS OF DATA.
+
+(a) In General.--Not later than 180 days after the date of       enactment of this Act, the Administrator, in accordance with       the mandatory occurrence reporting requirements in FAA Order       JO 7210.632A, titled ``Air Traffic Organization Occurrence       Reporting'' (or any successor document), FAA Order 8020.11D,       titled ``Aircraft Accident and Incident Notification,       Investigation, and Reporting'' (or any successor document),       and FAA Advisory Circular AC 90-120, titled ``Operational Use       of Airborne Collision Avoidance Systems'' (or any successor       document), shall establish a process to--
+
+(1) notify, with respect to each event, parties involved       with--
+
+(A) a near midair collision event;
+
+(B) a traffic collision avoidance system resolution       advisory event;
+
+(C) a close proximity encounter, as defined pursuant to       section 122; and
+
+(D) any other events, as determined by the Administrator;       and
+
+(2) provide deidentified event data to the Aviation Safety       Information Analysis and Sharing program.
+
+(b) Requirements.--In establishing the process under       subsection (a), the Administrator shall--
+
+(1) establish a database that tracks the details of events       described in subsection (a)(1);
+
+(2) continuously monitor and review such database to       identify areas of potential traffic conflict for safety       assurance and safety risk management;
+
+(3) ensure timeliness of notifications to the parties       described in subsection (a)(1) so that relevant data remains       available before meaningful safety analysis, reporting, or       corrective action is no longer practicable;
+
+(4) consider informing, with deidentified or aggregated       data, other frequent operators of events described in       subsection (a)(1); and
+
+(5) consider the practicality and usefulness of       notification requirements for--
+
+(A) airport surface loss of separation;
+
+(B) loss of separation with terrain or obstacles;
+
+(C) airborne loss of separation; and
+
+(D) any other close proximity encounters as determined by       the Administrator.
+
+(c) Consultation.--In establishing the process under       subsection (a), the Administrator shall consult with--
+
+(1) air carriers operating under part 121 of title 14, Code       of Federal Regulations;
+
+(2) air carriers operating under part 135 of title 14, Code       of Federal Regulations;
+
+(3) air carriers operating under part 91 of title 14, Code       of Federal Regulations;
+
+(4) organizations representing helicopter aviation       operators and pilots;
+
+(5) organizations representing the general aviation       community;
+
+(6) organizations representing business aviation operators;
+
+(7) organizations representing experimental aircraft       operators;
+
+(8) organizations representing powered-lift operators;
+
+(9) organizations representing certified collective       bargaining representatives of airline pilots;
+
+(10) the certified exclusive bargaining representatives of       air traffic controllers of the Administration certified under       section 7111 of title 5, United States Code;
+
+(11) FAA subject matter experts, including aviation safety       inspectors; and
+
+(12) other aviation safety experts determined appropriate       by the Administrator.
+
+(d) Briefing.--Not later than 30 days after establishing       the process required under subsection (a), the Administrator       shall brief the appropriate committees of Congress on the       implementation of this section.
+
+(e) Report.--Not later than 1 year after establishing the       process required under subsection (a), and annually       thereafter, the Administrator shall submit to the appropriate       committees of Congress a report containing--
+
+(1) data on number and location of--
+
+(A) near midair collision events;
+
+(B) traffic collision avoidance system resolution advisory       events; and
+
+(C) close proximity encounters, as defined pursuant to       section 122;
+
+(2) the average time of notification to parties involved in       such events;
+
+(3) identified locations of concern or other trends; and
+
+(4) actions taken to mitigate identified risks and reduce       such events.
+
+(f) Protection of Data.--
+
+(1) In general.--Data collected in response to subsection       (a) shall be used solely for safety assurance and safety risk       management.
+
+(2) Consistency with existing safety programs.--The       Administrator shall ensure consistency with existing       voluntary safety programs, including the Aviation Safety       Action Program, the Aviation Safety Reporting System, the Air       Traffic Safety Action Plan, and flight operational quality       assurance programs.       SEC. 124. SAFETY CULTURE AND SAFETY MANAGEMENT REVIEW.
+
+(a) In General.--Not later than 30 days after the date of       enactment of this Act, the inspector general of the       Department of Transportation shall initiate an audit of the       safety culture and the safety management system of the Air       Traffic Organization and the Aviation Safety Management       Organization.
+
+(b) Considerations.--In conducting the audit under       subsection (a), the inspector general shall, at a minimum,       evaluate--
+
+(1) the safety management system of the Air Traffic       Organization and the Aviation Safety Management Organization,       including the functions and data sharing activities of such       system at all air traffic control facilities;
+
+(2) whether such system effectively coordinates safety       assurance and safety risk management activities with external       stakeholders consistent with FAA requirements for operators       under section 5.57 of title 14, Code of Federal Regulations;
+
+(3) which data analysis, safety assurance, and risk       assessment processes failed to identify and mitigate the risk       of potential midair collisions near Ronald Reagan Washington       National Airport before January 29, 2025;
+
+(4) the failure of the Air Traffic Organization and the       Aviation Safety Management Organization to recognize external       compliance verification results as indicators of systemic       traffic management, volume, and flow issues at Ronald Reagan       Washington National Airport for which air traffic controllers       were required to compensate to mitigate such issues;
+
+(5) the failure of the Air Traffic Organization and the       Aviation Safety Management Organization to conduct annual       reviews of helicopter route charts as required by FAA Order       JO 7210.3EE, titled ``Facility Operation and       Administration'';
+
+(6) the failure of the Air Traffic Organization and the       Aviation Safety Management Organization to understand and       implement post-accident and post-incident drug and alcohol       testing as required by Department of Transportation Order       3910.1D, titled ``Drug and Alcohol-Free Departmental       Workplace Program'';
+
+(7) whether there are fears of retaliation against persons       identifying or reporting risks in accordance with the safety       management system; and
+
+(8) how the Air Traffic Organization and the Aviation       Safety Management Organization have addressed the findings       and utilized the Safety Risk Management process in accordance       with FAA Order 8040.4C, titled ``Safety Risk Management       Policy'' (or any successor document) in the National Airspace       System Helicopter Operations Helicopter Route Analysis of the       FAA issued in April 2025.
+
+(c) Report of the Inspector General.--
+
+(1) In general.--Not later than 1 year after the date of       enactment of this Act, the inspector general shall submit to       the appropriate committees of Congress a report on the audit       conducted under subsection (a).
+
+(2) Recommendations.--The inspector general shall include       in the report submitted under paragraph (1)--
+
+(A) recommendations for actions the Secretary should take       with respect to the Air Traffic Organization and the Aviation       Safety Management Organization to--
+
+(i) strengthen and adhere to the tenets of the safety       management system;
+
+(ii) increase transparency in the safety management system       process, including by adopting policies that provide       assurances to FAA employees that the Air Traffic Organization       is addressing any identified safety issues;
+
+(iii) increase data sharing and collaboration with external       stakeholders;
+
+(iv) protect against retaliation;
+
+(v) encourage open, nonpunitive communication; and
+
+(vi) foster a just culture across the Air Traffic       Organization and the Aviation Safety Management Organization;
+
+(B) recommendations for actions the Secretary may take to       ensure adequate oversight over the safety management system       of the Air Traffic Organization; and
+
+(C) any other recommendations the inspector general       determines appropriate.
+
+(d) Response to Recommendations.--Not later than 120 days       after submission of the report required under subsection       (c)--
+
+(1) the Secretary shall respond to any recommendations in       such report that are directed at the Department of       Transportation or FAA, respectively; and
+
+(2) the Secretary shall submit to the appropriate       committees of Congress a report describing how the Secretary       intends to implement such recommendations.       SEC. 125. DOCUMENTATION OF CONTROL POSITION COMBINATIONS.
+
+(a) In General.--Not later than 1 year after the date of       enactment of this Act, the Administrator shall review and       revise, as appropriate, procedures regarding the       documentation of the combination of air traffic control       position responsibilities, including each occurrence in which       any air traffic control position is combined with any other       position, including a local control position, operations       supervisor, or controller-in-charge.
+
+(b) Requirements.--In reviewing and revising the procedures       described in subsection (a), the Administrator shall--
+
+(1) evaluate procedures and guidance regarding the       combination of controller position responsibilities described       in subsection (a) that are in effect prior to the date of       enactment of this Act;
+
+(2) examine the feasibility of digitizing, or providing an       electronic means of, the documentation described in       subsection (a);
+
+(3) require the operations supervisor to periodically       review documentation of occurrences of combined control       position responsibilities described in subsection (a) and       report on deviations from the standard operating procedures       to the facility air traffic manager;
+
+(4) consider air traffic facility type and staffing level;       and
+
+(5) consult with representatives of--
+
+(A) the exclusive bargaining representative of air traffic       controllers certified under section 7111 of title 5, United       States Code;
+
+(B) organizations representing air traffic control managers       and operational supervisors; and
+
+(C) aviation safety experts with specific knowledge in       information technology.
+
+(c) Briefing to Congress.--Not later than 1 year after the       completion of the review required under subsection (a), the       Administrator shall brief the appropriate committees of       Congress on implementation of this section.
+
+(d) Rule of Construction.--Nothing in this section may be       construed to interfere with any agreement between a       governmental agency and the exclusive bargaining       representative of air traffic controllers certified under       section 7111 of title 5, United States Code or section       7106(a) of title 5, United States Code.
+
+(e) Definitions.--In this section:
+
+(1) Controller-in-charge.--The term ``controller-in-      charge'' means an air traffic control specialist performing       duties of a shift supervisor in accordance with--
+
+(A) FAA Order JO 7210.3EE, titled ``Facility Operation and       Administration'', issued on February 20, 2025; and
+
+(B) FAA Order JO 7110.65BB, titled ``Air Traffic Control'',       issued on February 20, 2025.
+
+(2) Operations supervisor.--The term ``operations       supervisor'' means managerial personnel responsible for the       direct supervision of air traffic control operational       personnel.       SEC. 126. REVIEW OF MILES-IN-TRAIL PROCEDURES OR AGREEMENTS.
+
+(a) In General.--Not later than 60 days after the date of       enactment of this Act, the Administrator shall complete a       review of the miles-in-trail standards and procedures to       determine if such standards provide for a separation of       traffic that is appropriate for operational safety.
+
+(b) Considerations.--In conducting the review under       subsection (a), the Administrator may consider--
+
+(1) the accuracy of the criteria used to determine the       miles-in-trail procedures for air traffic control facilities;
+
+(2) whether additional criteria should be incorporated to       more appropriately reflect the traffic volume and operational       complexity of air traffic control facilities; and
+
+(3) the findings and recommendations of the National       Transportation Safety Board.
+
+(c) Standards Update.--Upon completion of the review       conducted under subsection (a), the Administrator shall       update the miles-in-trail standards and procedures to ensure       such standards and procedures are appropriate for operational       safety.
+
+(d) Review of Certain Facilities.--Not later than 90 days       after the completion of the review under subsection (a), the       Administrator shall initiate a review of the miles-in-trail       procedures or agreements at all air traffic control       facilities located within Class B or Class C airspace to       ensure such procedures or agreements provide for a separation       of traffic that is appropriate for operational safety.
+
+(e) Consultation.--In carrying out the review under       subsection (d), the Administrator shall consult with, at       minimum--
+
+(1) the exclusive bargaining representatives of the air       traffic controllers certified under section 7111 of title 5,       United States Code;
+
+(2) organizations representing air traffic control managers       and operations supervisors;
+
+(3) sponsors and operators of airports with air traffic       control facilities described in subsection (d);
+
+(4) organizations representing the certified collective       bargaining representatives of pilots operating under part 121       of title 14, Code of Federal Regulations; and
+
+(5) air carriers, business aviation, and general aviation       operators with operations at airports with air traffic       control facilities described in subsection (d).
+
+(f) Report.--Not later than 18 months after the date of       enactment of this Act, the Administrator shall submit to the       appropriate committees of Congress a report that includes--
+
+(1) a list of air traffic control facilities identified       under subsection (d) as having miles-in-trail procedures or       agreements that did not provide for a separation of aircraft       traffic appropriate for operational safety; and
+
+(2) steps that the Administrator has taken, or plans to       take, to modify the miles-in-trail procedures or agreements       at each facility listed under paragraph (1) to ensure such       procedures or agreements provide for a separation of traffic       that is appropriate for operational safety.       SEC. 127. CLOSURE OF HELICOPTER ROUTE 4.
+
+(a) In General.--Operations on Helicopter Route 4, as such       Route existed on January 29, 2025, on the segment located       between Hains Point and the Woodrow Wilson Memorial Bridge in       the District of Columbia shall be prohibited.
+
+(b) Segment Elimination.--The segment of Helicopter Route 4       described in subsection (a) shall remain eliminated from       helicopter charts.                  TITLE II--DEPARTMENT OF DEFENSE MATTERS       SEC. 201. DEPARTMENT OF DEFENSE MATTERS RELATING TO AVIATION                     SAFETY.
+
+Title 10, United States Code, is amended by inserting after       chapter 157 the following new chapter:                       ``CHAPTER 158--AVIATION SAFETY  ``Sec. ``2655. Definitions. ``2656. Memorandum of agreement. ``2657. Required risk assessment and mitigation for special missions. ``2658. Manned rotary wing aviation safety management system. ``2659. Initial and recurring training on highly congested airspace. ``2660. Flight data monitoring improvements. ``2660a. Barometric altimeters. ``2660b. Transponder maintenance. ``2660c. Notifications and reports on certain near-miss events in                National Capital Region. ``2660d. Reports on individuals designated for purposes of special                mission exclusion. ``2660e. Rule of construction.       ``Sec. 2655. Definitions
+
+``In this chapter:
+
+``(1) The term `ADS-B In' means technology that receives       and processes Automatic Dependent Surveillance-Broadcast       (ADS-B) transmissions that are broadcast in accordance with       parts 91.225 and 91.227 of title 14, Code of Federal       Regulations, and other aviation advisory information from       ground stations, including Traffic Information Service-      Broadcast (TIS-B) and Automatic Dependent Surveillance-      Rebroadcast (ADS-R).
+
+``(2) The term `ADS-B Out' has the meaning given such term       in part 91.227 of title 14, Code of Federal Regulations.
+
+``(3) The term `air traffic control services' means       services used for the monitoring, directing, control, and       guidance of aircraft or flows of aircraft and for the safe       conduct of flight, including communications, navigation, and       surveillance services and the provision of aeronautical       information.
+
+``(4) The term `appropriate congressional committees' means       the congressional defense committees, the Committee on       Transportation and Infrastructure of the House of       Representatives, and the Committee on Commerce, Science, and       Transportation of the Senate.
+
+``(5) The term `Class B Mode C veil' means any location       described in part 91.225(d)(2) of title 14, Code of Federal       Regulations.
+
+``(6) The term `collision prevention technology' means       technology that--
+
+``(A) has ADS-B In;
+
+``(B) uses ADS-B data; and
+
+``(C) provides, and is configured to provide, alerting that       is audible to the pilot and flight crew.
+
+``(7) The term `Department of Defense aircraft' means any       aircraft, either manned or unmanned, that is owned, operated,       or controlled by the Department of Defense or operated       pursuant to a contract entered into by the Department of       Defense.
+
+``(8) The term `historical flight data'--
+
+``(A) means data derived from Department of Defense or       external sources regarding the actual flights taken by       relevant Department of Defense aircraft, such as flight       paths, altitudes, and other flight characteristics, that       would provide a point of comparison to evaluate planned       flights or review prior flights for adherence to published       flight routes or flight plans; and
+
+``(B) does not include notional data generated for planning       or training purposes.
+
+``(9) The term `manned rotary wing aviation safety       management system'--
+
+``(A) means training, policies and practices related to       rotary wing aviation safety; and
+
+``(B) does not refer to equipment installed or carried on       aircraft for flight operations.
+
+``(10) The term `National Capital Region' means--
+
+``(A) the geographic area located within the boundaries       of--
+
+``(i) the District of Columbia;
+
+``(ii) Montgomery and Prince Georges Counties in the State       of Maryland;
+
+``(iii) Arlington, Fairfax, Loudoun, and Prince William       Counties and the City of Alexandria in the Commonwealth of       Virginia; and
+
+``(iv) all cities and other units of government within the       geographic areas described in clauses (i) through (iii); or
+
+``(B) the geographic area prescribed for such region in the       memorandum of agreement required by section 2656 of this       title, except that such geographic area may not exceed the       boundaries described in clauses (i) through (iv) of       subparagraph (A).
+
+``(11) The term `sensitive aircraft data' means--
+
+``(A) Department of Defense aircraft information relating       to classified aircraft, aircraft involved in continuity of       government operations or nuclear command and control, fighter       aircraft, bomber aircraft, special mission aircraft, or       unmanned aircraft systems; and
+
+``(B) other information which, if publicly disclosed or       aggregated, would reveal the capabilities of Department of       Defense aircraft and could reasonably be expected to cause       serious damage to national security.
+
+``(12) The term `special mission'--
+
+``(A) means any mission of the Department of Defense       relating to activities which, if publicly disclosed, could       reasonably be expected to cause serious damage to national       security; and
+
+``(B) does not include--
+
+``(i) unclassified flights;
+
+``(ii) flight crew proficiency flights; or
+
+``(iii) the transportation of any Government official other       than a head of an executive department (as such term is       defined in section 101 of title 5), a member of the Joint       Chiefs of Staff, a commander of a combatant command, or any       other individual designated by the President for purposes of       this paragraph.
+
+``(13) The term `special mission aircraft' means a       Department of Defense aircraft performing a special mission,       either permanently or temporarily.
+
+``(14) The term `unmanned aircraft system' has the meaning       given such term in section 44801 of title 49.       ``Sec. 2656. Memorandum of agreement
+
+``(a) Memorandum Required.--(1) Not later than September       30, 2026, the Secretary of Transportation and the Secretary       of Defense shall enter into, and jointly submit to the       appropriate congressional committees a copy of, a memorandum       of agreement that--
+
+``(A) provides that fighter aircraft, bomber aircraft,       unmanned aircraft systems, and other special mission aircraft       that are not equipped or not yet equipped with collision       prevention technologies or ADS-B Out, or successor       technologies, will be reasonably accommodated for safe       operations in the national airspace system and provided with       necessary air traffic control services; and
+
+``(B) establishes policies governing the operation of       collision prevention technologies and ADS-B Out, or successor       technologies, including proper maintenance and routine       verification practices for such systems, on Department of       Defense aircraft, consistent with this chapter.
+
+``(2) The Secretary of Transportation and the Secretary of       Defense, or the designees thereof, shall consult not less       frequently than semiannually on any appropriate updates to       the memorandum required by this subsection to reflect safe,       effective, and modern air traffic identification, air space       management, and related equipment.
+
+``(b) Collision Avoidance Matters.--(1) The Secretary of       Defense shall ensure that the memorandum of agreement       required by subsection (a) includes, at a minimum--
+
+``(A) a requirement that, beginning on a date agreed to and       set forth in such memorandum or the date that is one year       after the date of the enactment of this section, whichever       occurs first, the Secretary of a military department may not       authorize any Department of Defense manned rotary wing       aircraft to operate a mission in the National Capital Region       unless such aircraft is actively transmitting an ADS-B Out       broadcast, or successor technology, unless--
+
+``(i) the Secretary of the military department, in       coordination with the Secretary of Transportation, has       conducted a safety risk assessment and implemented       mitigations, as appropriate, to ensure safety in the National       Capital Region; and
+
+``(ii) such aircraft is carrying out a special mission;
+
+``(B) procedures requiring the use of ADS-B Out as the       default practice by Department of Defense manned rotary wing       aircraft when operating in the national airspace system,       unless such use would affect the operational security of       Department of Defense aircraft or special missions;
+
+``(C) consistent with section 2660b of this title,       procedures for ensuring the correct configuration of ADS-B       Out and other transponders, including routine intervals for       verifying transponder settings and proper operation;
+
+``(D) operational procedures to allow flight crews to       enable ADS-B Out transmission while in flight in the national       airspace system, including in response to air traffic or       weather conditions; and
+
+``(E) provisions to protect sensitive aircraft data from       unnecessary disclosure, including by mitigating risks       regarding the inadvertent disclosure of such data or       information regarding special missions.
+
+``(2)(A) The Secretary of Defense shall ensure that--
+
+``(i) by not later than 180 days after the date on which       the Secretary of Defense and the Secretary of Transportation       submit to the appropriate congressional committees a copy of       the memorandum of agreement required by subsection (a),       Department of Defense aircraft that are not fighter aircraft,       bomber aircraft, unmanned aircraft systems, or other special       mission aircraft, are equipped and operating with an       integrated system, federated system, or standalone device       that displays traffic information to the pilot and flight       crew; and
+
+``(ii) by not later than December 31, 2031, such Department       of Defense aircraft are equipped and operating with an       integrated collision prevention technology system.
+
+``(B) In carrying out subparagraph (A), the Secretary of       Defense shall take into consideration--
+
+``(i) any need to protect the technology or systems       described in such subparagraph against man-made electronic       interference;
+
+``(ii) appropriate mitigations to known security       vulnerabilities associated with such technology or systems;
+
+``(iii) appropriate safeguards for sensitive aircraft data,       classified material, equipment, or special missions when       aircraft described in such subparagraph are equipped and       operating with collision prevention technology;
+
+``(iv) updated guidance, tactics, techniques, procedures,       or training with respect to electromagnetic emissions related       to such technology and systems; and
+
+``(v) placement in flight deck, field of view of pilots,       and human factors, to ensure such technology is effective,       may be readily used, and has minimal risk of unexpected       detachment.
+
+``(3) The Secretary of Defense shall ensure that the       Secretary of Transportation receives accurate information       regarding the configurations recommended by each military       department for each relevant aircraft type while such       aircraft operate in the national airspace system.
+
+``(4) In implementing the memorandum of agreement required       by subsection (a), the Secretary of Defense, or the Secretary       of a military department, may exempt from relevant portions       of such memorandum an individual aircraft on a case-by-case       basis if such Secretary determines that the aircraft--
+
+``(A) is not airworthy, is otherwise unrepairable, or is       not reasonably expected to return to service;
+
+``(B) is an aircraft for which depot-level maintenance or a       substantial overhaul of avionics-related equipment, including       the installation of collision prevention technology, is       scheduled to occur prior to December 31, 2030;
+
+``(C) is scheduled to be retired from service prior to       September 30, 2028; or
+
+``(D) is an unpowered aircraft not suitable for collision       prevention technology due to airframe limitations, including       gliders used for pilot instruction.
+
+``(c) Notification Requirement.--The Secretary of Defense       shall provide to the Secretary of Transportation notification       of any aircraft the Secretary of Defense designates as a       special mission aircraft operating within the United States       (as such term is defined in section 1.1 of title 14, Code of       Federal Regulations), for purposes of this chapter. Such       notification may identify such aircraft by type, model,       series, or another means agreed to in the memorandum of       agreement required by subsection (a).
+
+``(d) Collision Prevention Technology Equipage.--In       implementing a memorandum of agreement pursuant to this       section or any other provision of law, to protect the       operational security of Department of Defense aircraft, the       Secretary of Defense shall retain the sole control over the       determination of which specific collision prevention       technology is appropriate for installation and operation in       any such aircraft.       ``Sec. 2657. Required risk assessment and mitigation for
+
+special missions
+
+``(a) Risk Assessment.--The Secretary of each military       department, in coordination with the Secretary of       Transportation, shall conduct a risk assessment, and       recommend and implement, as appropriate, mitigations as a       result of such assessment, to ensure safety in the national       airspace system for each type of planned or anticipated       special mission of a manned rotary wing aircraft of such       military department that would involve operations occurring       in whole or in part within a Class B Mode C veil airspace.
+
+``(b) Implementation.--The requirement under subsection (a)       shall be carried out in a manner mutually agreed to by the       Secretary of Defense and the Secretary of Transportation in       the memorandum of agreement required by section 2656 of this       title.
+
+``(c) Initial Report.--(1) Not later than one year after       the date on which the Secretary of Defense and the Secretary       of Transportation submit to the appropriate congressional       committees a copy of the memorandum of agreement required by       section 2656 of this title, the Secretary of Defense shall       submit to the congressional defense committees a report on       the types of special mission activities assessed, and any       mitigation recommended or implemented, pursuant to subsection       (a). Such report shall include, for each month during the 12-      month period preceding the date of the submission of the       report, the actual number of special mission flights flown       with ADS-B Out turned off, in whole or in part, within a       Class B Mode C veil airspace, disaggregated by special       mission activity.
+
+``(2) The report under paragraph (1) shall be submitted in       unclassified form, but may include a classified annex.
+
+``(d) Subsequent Report.--(1) Not later than one year after       the date of the submission of the report under subsection       (c), the Secretary of Defense shall submit to the       congressional defense committees a report that includes, for       each month during the 12-month period preceding the date of       the submission of the report, the actual number of special       mission flights that the Secretary of Defense has flown with       ADS-B Out turned off, in whole or in part, within a Class B       Mode C veil airspace, disaggregated by special mission       activity.
+
+``(2) The report under paragraph (1) shall be submitted in       unclassified form, but may include a classified annex.       ``Sec. 2658. Manned rotary wing aviation safety management
+
+system
+
+``(a) Requirement.--The Secretary of Defense shall ensure       that, by not later than March 1, 2027, the Secretary of each       military department has established a robust manned rotary       wing aviation safety management system, or updated an       existing such system, to provide for--
+
+``(1) responsibilities with respect to such system that are       clearly delineated from other occupational safety       responsibilities;
+
+``(2) staffing and other resources required for the       operation of such system; and
+
+``(3) the implementation of such system in a manner that is       functionally integrated with relevant units.
+
+``(b) Qualification Protections.--The Secretary shall       ensure that the implementation of a manned rotary wing       aviation safety management system required under subsection       (a) does not preclude an individual assigned manned rotary       wing aviation safety management system duties from       maintaining appropriate qualifications, flying hours,       professional military education, or other activities required       for career advancement on the basis of being assigned such       duties.
+
+``(c) Aviator Survey.--Not later than one year after the       date of the enactment of this section, the Secretary shall       carry out a survey of rotary aircraft flight crews across the       Department of Defense to identify operationally relevant and       responsive flight safety reporting systems. Such survey shall       include the collection of information regarding--
+
+``(1) barriers to the use of such systems perceived by       pilots;
+
+``(2) responsive reporting methods for identifying and       collecting important safety reporting;
+
+``(3) systems for collecting relevant safety reporting that       may be used in conjunction with historical flight data to       provide insights that may be used in carrying out section       2660 of this title;
+
+``(4) options for reporting safety incidents, including       encounters with civil air traffic operating in the national       airspace system, without retaliation, judgment, or undue       consequence;
+
+``(5) preserving reports of persistent issues with       communications, either incoming or outgoing, with air traffic       controllers or other aircraft in controlled airspace; and
+
+``(6) integrating improved flight safety reporting into       current operations.
+
+``(d) Reports.--Not later than 90 days after the date on       which the survey under subsection (c) is completed, and on a       semiannual basis thereafter until December 31, 2031, the       Secretary shall submit to the congressional defense       committees a report containing--
+
+``(1) an outline of the funding and personnel resources       necessary to implement the requirements under subsection (a),       and appropriate findings from the survey under subsection       (c), with respect to each military department;
+
+``(2) an outline of the safety functions, practices,       training, and reporting required under each manned rotary       wing aviation safety management system established or updated       under subsection (a);
+
+``(3) an assessment of which military department practices       most closely align to the best practicable solutions       identified pursuant to the findings from the survey under       subsection (c);
+
+``(4) a plan to implement the requirements under subsection       (a) and appropriate findings from the survey under subsection       (c); and
+
+``(5) a plan to ensure active duty units and National Guard       units receive the same benefits from an improved manned       rotary wing aviation safety management system.
+
+``(e) Comptroller General Review.--(1) The Comptroller       General of the United States shall conduct a review of the       efficacy of the manned rotary wing aviation safety management       systems established or updated pursuant to subsection (a).       Such review shall include--
+
+``(A) an assessment of the extent to which the Secretary       has implemented the requirements under subsection (a);
+
+``(B) an assessment of the extent to which the Secretary       has developed an approach to identify and mitigate any risks       in implementing subsection (a); and
+
+``(C) any other matters the Comptroller General determines       are relevant.
+
+``(2) Not later than September 1, 2027, the Comptroller       General shall provide to the congressional defense committees       a briefing on the preliminary findings of the review required       under paragraph (1). The Comptroller General shall provide to       such committees the final results of such review in a       mutually agreed upon format and timeframe.       ``Sec. 2659. Initial and recurring training on highly
+
+congested airspace
+
+``(a) Required Training.--The Secretary of Defense shall       ensure that, by not later than March 1, 2027, flight crews       for Department of Defense manned rotary wing aircraft       operating in the national airspace system receive appropriate       initial and recurring training regarding fixed-wing       operations within Class B Mode C veil airspace routinely       encountered in the course of operations from the assigned       duty station of the flight crew. Such training shall include       training on approach and departure paths, runway       configurations, and       the interaction of those traffic flows with published       helicopter routes.
+
+``(b) Use of Historical Flight Data.--In developing the       training described in subsection (a), the Secretary shall       consider historical flight data from Department of Defense       manned rotary wing aircraft operating in the associated       airspace.
+
+``(c) Report.--Not later than March 1, 2027, the Secretary       shall submit to the congressional defense committees a report       containing a description of how each military department has       implemented the training requirements under subsection (a)       and how the Secretary has ensured consistency with respect to       such implementation across the military departments.       ``Sec. 2660. Flight data monitoring improvements
+
+``(a) In General.--Not later than one year after the date       of enactment of this section, the Secretary of Defense shall       develop and implement standards across the military       departments to ensure that Department of Defense manned       rotary wing aircraft operations in the national airspace       system, and associated training, routes, and activities, are       informed by accurate recorded flight data to--
+
+``(1) monitor operational patterns;
+
+``(2) identify operational safety risks; and
+
+``(3) support the development and implementation of       effective risk controls for missions in the national airspace       system.
+
+``(b) Data Use.--In carrying out subsection (a), the       Secretary shall--
+
+``(1) seek to use--
+
+``(A) existing data sets and tools to allow for convenient       and expeditious use of such data at the lowest possible       level; and
+
+``(B) systems that allow for flight data to be evaluated       for accuracy on a recurrent basis; and
+
+``(2) conduct a review, and establish procedures based on       the results of such review, to ensure flight data is       evaluated for accuracy at an appropriate organizational level       and on a recurrent basis.
+
+``(c) Implementation Updates.--The Secretary shall provide       to the congressional defense committees updates on--
+
+``(1) the implementation of this section; and
+
+``(2) the incorporation of the standards developed and data       collected pursuant to this section into the manned rotary       wing aviation safety management systems required under       section 2658 of this title.
+
+``(d) Data Sharing.--(1) The Secretary of Defense shall--
+
+``(A) conduct a review across the military departments to       identify flight data that may be readily shared with the       Secretary of Transportation; and
+
+``(B) implement a process to share safety data with the       Secretary of Transportation.
+
+``(2) To the extent the Secretary of Defense determines       necessary, data shared pursuant to paragraph (1) may be de-      identified.       ``Sec. 2660a. Barometric altimeters
+
+``(a) Manuals.--The Secretary of Defense shall promptly       update, and maintain, appropriate manuals of the Department       of Defense for manned rotary wing aircraft, to provide clear       guidance regarding--
+
+``(1) the expected standard margin of error for barometric       altimeters for each class of such aircraft; and
+
+``(2) the total potential error resulting from additional       aircraft equipment with respect to an otherwise airworthy       barometric altimeter, including increased position error       associated with external stores support system       configurations.
+
+``(b) Incorporation of Data.--In updating the manuals under       subsection (a), the Secretary shall incorporate observations       derived from external data sources, including historical       flight data monitoring from external sources, to better       understand the total potential error of barometric altimeters       in various aircraft configurations.
+
+``(c) Training.--Not later than 30 days after the date on       which the Secretary updates the manuals under subsection (a),       the Secretary shall require appropriate refresher training       for the crew of any aircraft subject to such an updated       manual.       ``Sec. 2660b. Transponder maintenance
+
+``(a) Required Intervals.--The Secretary of each military       department shall establish routine intervals for verifying       the correct configuration and function of ADS-B Out       transponders, and related equipment, for aircraft of such       military department required to use such transponders. Such       intervals may not be less frequent than once every 90 days.
+
+``(b) Reports.--Not later than 30 days after the date of       the submission of the budget of the President under section       1105(a) of title 31 for fiscal years 2028 through 2033, the       Secretary of each military department shall submit to the       congressional defense committees a report that details the       following:
+
+``(1) Compliance across such military department with       respect to the required maintenance intervals established       under subsection (a).
+
+``(2) The total number of instances, disaggregated by       military installation, in which an ADS-B Out transponder was       not serviced in accordance with the applicable maintenance       interval established under subsection (a).
+
+``(3) Any additional personnel, resources, or equipment       required to simplify or otherwise improve maintenance       requirements associated with carrying out this section.       ``Sec. 2660c. Notifications and reports on certain near-miss
+
+events in National Capital Region
+
+``(a) Notifications.--Not later than one week after the       date on which a covered near-miss event occurs, the Secretary       of Defense shall submit to the Committees on Armed Services       of the House of Representatives and the Senate a notification       of such event.
+
+``(b) Establishment of Associated Definition.--Not later       than 60 days after the date of the enactment of this section,       the Secretary, in coordination with a working group       determined appropriate by the Secretary, shall establish a       definition of the term `close proximity encounter' for       purposes of this section.
+
+``(c) Reports.--Not later than 180 days after the date on       which the definition under subsection (b) is established, on       a biannual basis thereafter for the following two-year       period, and not less frequently than annually thereafter, the       Secretary of Defense shall submit to the Committees on Armed       Services of the House of Representatives and the Senate a       report containing, with respect to the period covered by the       report--
+
+``(1) an identification of the number of covered near-miss       events that occurred during such period;
+
+``(2) for each such event, an identification of any cause       of such event;
+
+``(3) a description any modification to relevant standard       operating procedures or other policies of the Department of       Defense issued, or planned to be issued, to address such       events; and
+
+``(4) a description of the status of implementation of any       such modification.
+
+``(d) Covered Near-miss Event Defined.--In this section,       the term `covered near-miss event' means a close proximity       encounter (as such term is defined pursuant to subsection       (b)) that--
+
+``(1) involves at least one Department of Defense aircraft;       and
+
+``(2) occurs in the National Capital Region.       ``Sec. 2660d. Reports on individuals designated for purposes
+
+of special mission exclusion
+
+``(a) Reports.--Not later than one year after the date of       the enactment of this section, and on an annual basis       thereafter, the President shall submit to the Committees on       Armed Services of the House of Representatives and the Senate       a report containing, with respect to the preceding year--
+
+``(1) an identification of any individual designated by the       President for purposes of section 2655(12)(B)(iii) of this       title; and
+
+``(2) a description of how often individuals so designated       were transported in connection with a mission that, but for       such designation, would be considered a special mission.
+
+``(b) Form.--Each report under subsection (a) shall be       submitted in unclassified form, but may contain a classified       annex.       ``Sec. 2660e. Rule of construction
+
+``Nothing in this chapter shall be construed to--
+
+``(1) vest in the Secretary of Defense any authority of the       Secretary of Transportation or the Administrator of the       Federal Aviation Administration under title 49 or any other       provision of law;
+
+``(2) vest in the Secretary of Transportation or the       Administrator of the Federal Aviation Administration any       authority of the Secretary of Defense under this title or any       other provision of law;
+
+``(3) limit the authority or discretion of the Secretary of       Transportation or the Administrator of the Federal Aviation       Administration to operate air traffic control services to       ensure the safe minimum separation of aircraft in flight and       the efficient use of airspace;
+
+``(4) apply a rule, guidance, plan, carriage requirement,       or memorandum established, modified, or reissued pursuant to       any other provision of law to any Department of Defense       aircraft except through a process established in the       memorandum of agreement required by section 2656 of this       title; or
+
+``(5) require a Department of Defense aircraft to       compromise operational security during a combat operation.''.       SEC. 202. REPEAL OF PRIOR PROVISION OF LAW ON MANNED ROTARY                     WING AIRCRAFT SAFETY.
+
+Section 2654 of title 10, United States Code, is repealed.       SEC. 203. TREATMENT OF SUPERSEDED MEMORANDUM OF AGREEMENT AND                     PROVISION OF LAW.
+
+Effective on the date on which the memorandum of agreement       required by section 2656 of title 10, United States Code, as       added by section 201 of this title, is submitted to the       congressional defense committees, the Committee on       Transportation and Infrastructure of the House of       Representatives, and the Committee on Commerce, Science, and       Transportation of the Senate, the following shall have no       further force or effect:
+
+(1) Section 1046 of the John S. McCain National Defense       Authorization Act for Fiscal Year 2019 (Public Law 115-232;       49 U.S.C. 40101 note).
+
+(2) The memorandum of agreement between the Department of       Defense and the Federal Aviation Administration entered into       on May 10, 2024.       SEC. 204. REPORT ON COMMUNICATIONS DEGRADATION.
+
+(a) Report.--Not later than one year after the date of the       enactment of this Act, the Secretary of Defense shall submit       to the congressional defense committees a report containing--
+
+(1) an assessment on the degradation of radio transmission       or reception between Department of Defense aircraft and air       traffic controllers or other aircraft operating in the       national airspace system;
+
+(2) an identification of factors that may contribute to       such degradation; and
+
+(3) an assessment of potential actions to remediate such       degradation.
+
+(b) Plan.--Not later than 90 days after the date on which       the Secretary submits to the congressional defense committees       a copy of the memorandum under section 2656 of title 10,       United States Code, as added by section 201 of this title,       the Secretary shall submit to the congressional defense       committees a plan to leverage major avionics upgrades or       depot-level maintenance associated with the installation or       provision of collision prevention technology to upgrade       communications systems in Department of Defense aircraft       (particularly with respect to manned rotary wing aircraft),       for the purpose of improving the clarity and reliability of       transmissions to and from such aircraft.
+
+(c) Definitions.--In this section, the terms ``collision       prevention technology'' and ``Department of Defense       aircraft'' have the meanings given such terms in section 2655       of title 10, United States Code, as added by section 201 of       this title.       SEC. 205. ANNUAL REPORT ON PROFICIENCY FLIGHTS IN NATIONAL                     CAPITOL REGION.
+
+(a) Annual Report.--Not later than one year after the date       of the enactment of this Act, and annually thereafter for       each of the two subsequent years, the Secretary of Defense       shall submit to Congress a report on the number of Department       of Defense proficiency flights that occurred in the National       Capitol Region during the 12-month period preceding the date       of the submission of the report.
+
+(b) National Capitol Region.--In this section, the term       ``National Capitol Region'' has the meaning given such term       in section 2655(10) of title 10, United States Code, as added       by section 201.       SEC. 206. BRIEFING ON VIRTUAL CONSTRUCTIVE TRAINING.
+
+Not later than 180 days after the date of the enactment of       this Act, the Secretary of Defense shall provide to the       congressional defense committees (as such term is defined in       section 101(a)(16) of title 10, United States Code) a       briefing on the feasibility of using virtual constructive       training to optimize the amount of in-air training used by       the Armed Forces.       SEC. 207. TRANSPARENCY REGARDING MIDAIR COLLISION NEAR RONALD                     REAGAN WASHINGTON NATIONAL AIRPORT ON JANUARY                     29, 2025.
+
+(a) Submissions to Congress.--Not later than 60 days after       the date of the enactment of this Act, the Secretary of the       Army shall submit to the Committees on Armed Services of the       House of Representatives and the Senate--
+
+(1) a copy of the command investigation of the midair       collision that occurred near Ronald Reagan Washington       National Airport on January 29, 2025, with redactions limited       to those necessary to protect the privacy of the flight crew       involved; and
+
+(2) an implementation plan for the recommendations       contained therein.
+
+(b) Inspector General of the Army Assessment.--
+
+(1) Assessment.--Not later than 120 days after the date of       the enactment of this Act, the Inspector General of the Army       shall commence an assessment of the sufficiency of the       recommendations and implementation plan specified in       subsection (a)(2).
+
+(2) Report.--Not later than 6 months after the date of the       enactment of this Act, the Inspector General of the Army       shall submit to the Committees on Armed Services of the House       of Representatives and the Senate a report containing--
+
+(A) the results of the assessment under paragraph (1); and
+
+(B) any additional recommendations by the Inspector General       relating to the matters so assessed, as applicable.
+
+Mr. GRAVES.  7613.
+
+Mr. GRAVES. Madam Speaker, I yield myself such time as I may consume.
+
+Madam Speaker, on January 29, 2025, tragedy struck just a few miles  from where we stand today, when an Army Black Hawk helicopter collided  with American Airlines Flight 5342 as it approached Ronald Reagan  Washington National Airport. Sixty-seven people lost their lives that  night, all of the passengers and all of the crew on both aircraft.
+
+Accidents of this magnitude demand careful, deliberate, and  thoughtful consideration. Aviation incidents are rarely the result of a  single failure. They are usually complex, with multiple contributing  factors. Therefore, it is essential that we understand all the facts  before legislating.
+
+That is why we have the National Transportation Safety Board. Their  job is to conduct an independent investigation, leaving no stone  unturned, establish findings, determine the probable cause and  contributing factors, and issue evidence-based safety recommendations.
+
+If we act without that complete picture, we risk misdiagnosis and  Congress missing the mark. After the NTSB issued its final report on  February 17, I joined Transportation and Infrastructure Committee  Ranking Member Rick Larsen, Armed Services Committee Chairman   Mike  Rogers, and Ranking Member Adam Smith to introduce the ALERT Act.
+
+This is a bipartisan and comprehensive aviation safety reform bill.  It addresses the probable cause, the contributing factors, and the  NTSB's safety recommendations. In fact, the NTSB has stated that the  bill that we are considering today addresses all 50 of the board's  recommendations.
+
+At its core, this legislation is about making our aviation system  safer in a practical, straightforward, and meaningful way. It requires  airliners to upgrade their collision avoidance technology by 2031 to a  more advanced system, a system that is integrated, using ADS-B In, and  that provides aural alerts with nearby traffic's clock position,  relative altitude, range, and vertical tendency, and incorporates  directional traffic symbols on visual displays.
+
+For other aircraft required to have ADS-B Out, the bill requires ADS- B In-based collision prevention technology by 2031.
+
+Further, the bill permanently closes the route being flown by the  helicopter in this accident, helicopter route 4 along on the Potomac  River, and updates helicopter route design requirements. This was what  the NTSB identified as the root cause of this tragedy.
+
+It also takes a hard look at the FAA's safety culture by requiring an  independent audit by the Inspector General.
+
+In addition, the legislation improves how data is collected and  shared within and between the FAA and the Pentagon, so we can identify  risks earlier and act on them.
+
+We did not put this bill together in a vacuum. We worked closely with  the NTSB, with stakeholders, and with the victims' families to make  sure we got this right.
+
+To those families, especially those who are here with us today: I  know this has not been an easy process by any stretch of the  imagination, but your strong advocacy for safety is why we continue to  push for America to still remain the gold standard in aviation.
+
+This bill now has 87 cosponsors. Both the T&I and Armed Services  Committees marked up their respective titles, and each passed those  titles unanimously, a strong, bipartisan signal that Congress is united  and serious about strengthening aviation safety. H.R. 7613, as amended,  that we are considering on the floor today combines the work of both  committees.
+
+At its core, this is about doing our job: ensuring our aviation  system is as safe as it can possibly be and taking meaningful steps to  help prevent a tragedy like this from ever happening again.
+
+Madam Speaker, I urge support for the ALERT Act, and I reserve the  balance of my time.
+
+Mr. GRAVES. Madam Speaker, I yield 5 minutes to the gentleman from  Alabama (Mr. Rogers), the chairman of the House Armed Services  Committee.
+
+Mr. GRAVES. Madam Speaker, I yield 1 minute to the gentleman from  Michigan (Mr. Barrett).
+
+Mr. GRAVES. Madam Speaker, I yield an additional 10 seconds to the  gentleman from Michigan.
+
+Mr. GRAVES. Madam Speaker, I yield 2 minutes to the gentleman from  California (Mr. Obernolte).
+
+Mr. GRAVES. Madam Speaker, I yield 1 minute to the gentleman from  Pennsylvania (Mr. Bresnahan).
+
+Mr. GRAVES. Madam Speaker, I yield 2 minutes to the gentleman from  Kansas (Mr. Mann).
+
+Mr. GRAVES. Madam Speaker, I yield myself the balance of my time.
+
+Madam Speaker, in closing, I thank Ranking Member Larsen, Chairman  Rogers, and Ranking Member Smith for their work on this critical piece  of aviation safety legislation.
+
+I also thank the staff on both the T&I and Armed Services Committees  that worked tirelessly on this bill to make sure that we got it right.  Specifically, I thank my front office staff, T&I Majority Staff  Director Nick Christensen; Deputy Staff Director Abby Wenk; General  Counsel Meghan Holland, as well as my subcommittee staff, former  Aviation Subcommittee Staff Director Julie Devine, who has departed  Congress after a decade of service; and Joseph Schmoll, Will Moore, and  Archie Miller.
+
+We needed to get this right. The American people and the flying  public count on us to ensure that the National Airspace System, or the  NAS, is the safest system in the world. I am proud to say that NTSB has  confirmed that the ALERT Act, as amended, addresses all 50  recommendations issued by the National Transportation Safety Board.
+
+On the Transportation and Infrastructure Committee, aviation safety  remains our highest priority, and this bill upholds that commitment. We  will continue to work with our colleagues in the Senate and ensure that  we are sending a comprehensive safety bill to the President, and  anything short of that would be a disservice to the flying public. I  ask my colleagues on both sides of the aisle to come together and  support this critical piece of safety legislation.
+
+Madam Speaker, I urge support of the bill, and I yield back the  balance of my time.
+
+Mr. GRAVES. Madam Speaker, on that I demand the yeas and nays.
+
+The yeas and nays were ordered.

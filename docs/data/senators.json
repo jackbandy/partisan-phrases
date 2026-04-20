@@ -1612,16 +1612,6 @@
     "alt_names": []
   },
   {
-    "full_name": "Eric Swalwell",
-    "bioguide_id": "S001193",
-    "party": "Democrat",
-    "state": "CA",
-    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001193.jpg",
-    "congress_headshot_url": "https://www.congress.gov/img/member/s001193.jpg",
-    "fallback_headshot_url": "https://clerk.house.gov/images/members/S001193.jpg",
-    "alt_names": []
-  },
-  {
     "full_name": "Julia Brownley",
     "bioguide_id": "B001285",
     "party": "Democrat",
@@ -3844,16 +3834,6 @@
     "alt_names": [
       "Troy Nehls"
     ]
-  },
-  {
-    "full_name": "Tony Gonzales",
-    "bioguide_id": "G000594",
-    "party": "Republican",
-    "state": "TX",
-    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000594.jpg",
-    "congress_headshot_url": "https://www.congress.gov/img/member/g000594.jpg",
-    "fallback_headshot_url": "https://clerk.house.gov/images/members/G000594.jpg",
-    "alt_names": []
   },
   {
     "full_name": "Beth Van Duyne",
