@@ -1198,16 +1198,6 @@
     "alt_names": []
   },
   {
-    "full_name": "David Scott",
-    "bioguide_id": "S001157",
-    "party": "Democrat",
-    "state": "GA",
-    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/S001157.jpg",
-    "congress_headshot_url": "https://www.congress.gov/img/member/s001157.jpg",
-    "fallback_headshot_url": "https://clerk.house.gov/images/members/S001157.jpg",
-    "alt_names": []
-  },
-  {
     "full_name": "Robert C. \"Bobby\" Scott",
     "bioguide_id": "S000185",
     "party": "Democrat",
@@ -3996,16 +3986,6 @@
     "alt_names": []
   },
   {
-    "full_name": "Sheila Cherfilus-McCormick",
-    "bioguide_id": "C001127",
-    "party": "Democrat",
-    "state": "FL",
-    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/C001127.jpg",
-    "congress_headshot_url": "https://www.congress.gov/img/member/c001127.jpg",
-    "fallback_headshot_url": "https://clerk.house.gov/images/members/C001127.jpg",
-    "alt_names": []
-  },
-  {
     "full_name": "Mike Flood",
     "bioguide_id": "F000474",
     "party": "Republican",
@@ -5723,5 +5703,17 @@
     "congress_headshot_url": "https://www.congress.gov/img/member/a000383.jpg",
     "fallback_headshot_url": "https://www.senate.gov/senators/photos/A000383.jpg",
     "alt_names": []
+  },
+  {
+    "full_name": "Clay Fuller",
+    "bioguide_id": "F000485",
+    "party": "Republican",
+    "state": "GA",
+    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/F000485.jpg",
+    "congress_headshot_url": "https://www.congress.gov/img/member/f000485.jpg",
+    "fallback_headshot_url": "https://clerk.house.gov/images/members/F000485.jpg",
+    "alt_names": [
+      "Clayton Fuller"
+    ]
   }
 ]

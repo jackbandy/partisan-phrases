@@ -1,0 +1,87 @@
+Mystic Alerts Act
+
+
+https://justfacts.votesmart.org/public-statement/1701929/mystic-alerts-act
+
+
+Mr. ALLEN. Mr. Speaker, I move to suspend the rules and pass the bill  (H.R. 7022) to provide for the transmission of emergency alerts by  satellite, and for other purposes, as amended.
+
+The Clerk read the title of the bill.
+
+The text of the bill is as follows:                                 H.R. 7022
+
+Be it enacted by the Senate and House of Representatives of       the United States of America in Congress assembled,       SECTION 1. SHORT TITLE.
+
+This Act may be cited as the ``Mystic Alerts Act''.       SEC. 2. TRANSMISSION OF EMERGENCY ALERTS BY SATELLITE.
+
+(a) Service Provider Election.--
+
+(1) Required filing.--Not later than 60 days after the       effective date of the final rule required to be issued under       subsection (b), each covered service provider shall file an       election with the Federal Communications Commission with       respect to whether the provider intends to transmit emergency       alerts by satellite to the subscribers of the commercial       mobile service of the provider who receive such service on       devices capable of receiving such alerts, in addition to the       transmission of emergency alerts under the Warning Alert, and       Response Network Act.
+
+(2) Notification; agreement.--If a provider elects to       transmit emergency alerts to subscribers by satellite under       paragraph (1), the provider shall--
+
+(A) notify the Commission of that election; and
+
+(B) agree to transmit such alerts in a manner consistent       with the technical standards, protocols, procedures, and       other technical requirements implemented by the Commission.
+
+(3) Election not to transmit.--If a provider elects not to       transmit emergency alerts by satellite under paragraph (1),       the provider shall provide notice to new and existing       subscribers described in such paragraph of that election in       the same manner that is required under subparagraphs (B) and       (C) of section 602(b)(1) of the Warning, Alert, and Response       Network Act.
+
+(4) Consumer choice to opt out.--If a provider elects to       transmit emergency alerts to subscribers of such service by       satellite under paragraph (1), the provider shall prevent the       device of any such subscriber that opts out of receiving       emergency alerts pursuant to section 602(b)(2)(E) of the       Warning, Alert, and Response Network Act, or classes of such       alerts, from receiving such alerts by satellite.
+
+(5) No fee for service.--If a provider elects to transmit       emergency alerts to subscribers by satellite under paragraph       (1), the provider may not impose a separate or additional       charge for such transmission or capability.
+
+(b) Satellite Alert Regulations.--
+
+(1) Notice of proposed rulemaking.--Not later than 6 months       after the date of the enactment of this Act, the Commission       shall publish a Notice of Proposed Rulemaking to establish       any requirements necessary to facilitate the satellite       alerting capability of covered service providers.
+
+(2) Requirements.--The requirements required by paragraph       (1) shall--
+
+(A) take into account the capability of--
+
+(i) satellites to transmit emergency alerts; and
+
+(ii) mobile devices to receive and display such alerts; and
+
+(B) minimize the impact of emergency alerting on other       voice and data communications, including 9-1-1       communications.
+
+(3) Final rule.--Not later than 18 months after the date of       the enactment of this Act, the Commission shall, in       consultation with the Secretary of Homeland Security and the       Administrator of the Federal Emergency Management Agency,       issue a final rule establishing the requirements described       under paragraph (1).
+
+(4) Effective date of rule.--
+
+(A) Date.--The effective date of the final rule described       under paragraph (3) shall be the later of--
+
+(i) 36 months after publication of the final rule in the       Federal Register; or
+
+(ii) 12 months after the Secretary of Homeland Security and       the Administrator of the Federal Emergency Management Agency       implement any standards, protocols, or procedures necessary       to support the transmission of emergency alerts from alert       originators to covered service providers, the Secretary and       the Administrator shall notify the Commission of such       implementation.
+
+(B) Notification.--The Secretary of Homeland Security and       the Administrator of the Federal Emergency Management Agency       shall notify the Commission of the implementation of any       standards, protocols, or procedures described under       subparagraph (A)(ii) for the purpose of determining the       effective date of the final rule described under paragraph       (3).
+
+(c) Limitation of Liability.--
+
+(1) In general.--Any covered service provider (including       its officers, directors, employees, vendors, and agents) that       transmits emergency alerts by satellite and meets its       obligations under this Act shall not be liable to any       subscriber to, or user of, such person's service or equipment       for--
+
+(A) any act or omission related to or any harm resulting       from the transmission of, or failure to transmit, an       emergency alert by satellite; or
+
+(B) the release to a government agency or entity, public       safety, fire service, law enforcement official, emergency       medical service, or emergency facility of subscriber       information used in connection with delivering such an alert.
+
+(2) Election not to transmit alerts by satellite.--The       election by a covered service provider under subsection       (a)(3) not to transmit emergency alerts by satellite shall       not, by itself, provide a basis for liability against the       provider (including its officers, directors, employees,       vendors, and agents).
+
+(d) Covered Service Provider.--In this Act, ``covered       service provider'' means a provider of commercial mobile       service that--
+
+(1) voluntarily elects to transmit emergency alerts under       section 602(b) of the Warning, Alert, and Response Network       Act (Public Law 109-347; 42 U.S.C. 1201); and
+
+(2) makes satellite voice and data communications service       available to subscribers of the commercial mobile service of       the provider.
+
+Mr. Speaker, I rise in support of this bill, H.R. 7022, the Mystic  Alerts Act, led by Representative Pfluger.
+
+While we work to increase cell phone connectivity across the country,  there are and may always be certain areas of this country that do not  have access to that connectivity.
+
+That can be a problem in times of natural disasters or other  emergencies. If you don't have a connection, you may not be able to  receive a wireless emergency alert or other emergency notifications.  Satellite technology is beginning to bridge that gap with our  cell phones, and it could bring a huge benefit for public safety.
+
+This legislation would kick-start the process for mobile service  providers to utilize satellite connectivity to send alert messages in  areas that may not have access to terrestrial cell network coverage.
+
+This legislation has strong bipartisan support.
+
+Mr. ALLEN. Madam Speaker, I yield 3 minutes to the gentleman from  Georgia (Mr. Carter), my good friend.
+
+Mr. ALLEN. Madam Speaker, I thank the gentlewoman from Virginia for  her support of this bill. I, too, encourage all Members to vote for  H.R. 7022 for immediate passage, and I yield back the balance of my  time.
