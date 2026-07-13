@@ -98,16 +98,6 @@
     ]
   },
   {
-    "full_name": "Lindsey Graham",
-    "bioguide_id": "G000359",
-    "party": "Republican",
-    "state": "SC",
-    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000359.jpg",
-    "congress_headshot_url": "https://www.congress.gov/img/member/g000359.jpg",
-    "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000359.jpg",
-    "alt_names": []
-  },
-  {
     "full_name": "Mitch McConnell",
     "bioguide_id": "M000355",
     "party": "Republican",
