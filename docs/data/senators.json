@@ -5705,5 +5705,37 @@
     "alt_names": [
       "Clayton Fuller"
     ]
+  },
+  {
+    "full_name": "Analilia Mejia",
+    "bioguide_id": "M001246",
+    "party": "Democrat",
+    "state": "NJ",
+    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/M001246.jpg",
+    "congress_headshot_url": "https://www.congress.gov/img/member/m001246.jpg",
+    "fallback_headshot_url": "https://clerk.house.gov/images/members/M001246.jpg",
+    "alt_names": []
+  },
+  {
+    "full_name": "James Gallagher",
+    "bioguide_id": "G000607",
+    "party": "Republican",
+    "state": "CA",
+    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000607.jpg",
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000607.jpg",
+    "fallback_headshot_url": "https://clerk.house.gov/images/members/G000607.jpg",
+    "alt_names": []
+  },
+  {
+    "full_name": "Darline Graham",
+    "bioguide_id": "G000608",
+    "party": "Republican",
+    "state": "SC",
+    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/G000608.jpg",
+    "congress_headshot_url": "https://www.congress.gov/img/member/g000608.jpg",
+    "fallback_headshot_url": "https://www.senate.gov/senators/photos/G000608.jpg",
+    "alt_names": [
+      "Lindsey Graham"
+    ]
   }
 ]
