@@ -5737,5 +5737,15 @@
     "alt_names": [
       "Lindsey Graham"
     ]
+  },
+  {
+    "full_name": "Everton Blair Jr.",
+    "bioguide_id": "B001328",
+    "party": "Democrat",
+    "state": "GA",
+    "headshot_url": "https://unitedstates.github.io/images/congress/225x275/B001328.jpg",
+    "congress_headshot_url": "https://www.congress.gov/img/member/b001328.jpg",
+    "fallback_headshot_url": "https://clerk.house.gov/images/members/B001328.jpg",
+    "alt_names": []
   }
 ]
